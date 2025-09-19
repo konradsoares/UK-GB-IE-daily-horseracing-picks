@@ -1,7 +1,7 @@
 {
   "date": "2025-09-19",
   "model": "sonar-pro",
-  "generated_at": "2025-09-19T21:47:10.716Z",
+  "generated_at": "2025-09-19T22:50:59.490Z",
   "races": [
     {
       "course": "Ayr",
@@ -850,7 +850,7 @@
           "trainer": "Brad H. Cox, USA",
           "form": "",
           "odds_note": "Expected to be among the market leaders based on top connections and typical market support for Cox/Prat runners.",
-          "rationale": "Brad Cox is a leading trainer in North America and Flavien Prat is a top jockey, a combination that consistently delivers strong results at this level. Even without published form, this pairing is rarely overlooked by the market and typically signals a live contender.",
+          "rationale": "Brad Cox is a leading trainer with a high strike rate in stakes and allowance company, and Flavien Prat is an elite jockey with strong recent form. This combination is highly effective at this level, and such runners are typically well found in the market and rarely need major improvement to contend.",
           "confidence": "High"
         },
         {
@@ -858,8 +858,8 @@
           "jockey": "Patrick Husbands",
           "trainer": "Mark E. Casse, North America",
           "form": "",
-          "odds_note": "Likely to be well-fancied given Casse's strong record at Presque Isle and Husbands' experience.",
-          "rationale": "Mark Casse is a prolific trainer with a strong record at this venue and in similar races. Patrick Husbands is a reliable jockey for the stable. This combination is regularly competitive in stakes and allowance company, making this runner a logical inclusion.",
+          "odds_note": "Likely to be well supported given Casse's record at Presque Isle and Husbands' proficiency on synthetic surfaces.",
+          "rationale": "Mark Casse is a prolific trainer at Presque Isle and excels with Canadian-bred fillies on synthetic tracks. Patrick Husbands is a proven big-race jockey, especially for Casse. This profile fits the typical strong contender at this venue.",
           "confidence": "High"
         },
         {
@@ -867,25 +867,25 @@
           "jockey": "Rafael Manuel Hernandez",
           "trainer": "Mark E. Casse, North America",
           "form": "",
-          "odds_note": "Should be prominent in the market due to connections and typical stable support.",
-          "rationale": "Another Casse runner with a top regional jockey in Hernandez. The stable often runs multiple live chances in these events, and Hernandez is a go-to rider for Casse at Presque Isle. Market support is expected.",
-          "confidence": "Medium-High"
+          "odds_note": "Should be prominent in the betting given connections and typical Casse/Hernandez market respect.",
+          "rationale": "Another Casse runner with a top local jockey in Hernandez, who has an excellent record at Presque Isle. Casse often runs multiple live chances in these events, and Hernandez is a go-to rider for the barn.",
+          "confidence": "Solid"
         },
         {
           "name": "Tricky Temper (Usa)",
           "jockey": "Antonio A. Gallardo",
           "trainer": "Jeremiah C. Englehart, USA",
           "form": "",
-          "odds_note": "Gallardo is a leading local jockey and Englehart is a respected trainer; this pairing is often well-supported.",
-          "rationale": "Gallardo is one of the top jockeys at Presque Isle and Englehart is a capable trainer with a good strike rate. Horses from this team are typically competitive and attract market attention in similar races.",
-          "confidence": "Medium"
+          "odds_note": "Expected to be single-figure odds based on trainer's strike rate and Gallardo's local prowess.",
+          "rationale": "Englehart is a sharp operator with a good record in regional stakes, and Gallardo is a leading rider at Presque Isle. Horses from this barn are typically well prepared for local features and rarely need major improvement to be competitive.",
+          "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1292,
-        "completion_tokens": 620,
-        "total_tokens": 1912,
+        "completion_tokens": 630,
+        "total_tokens": 1922,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
