@@ -36,10 +36,10 @@ jobs:
       - name: Scrape racecards
         run: npm run scrape
 
-      - name: Analyze with Perplexity
-        env:
-          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
-        run: npm run analyze
+      # - name: Analyze with Perplexity
+      #   env:
+      #     PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+      #   run: npm run analyze
 
       - name: Postbuild (copy latest to docs/latest.json)
         run: npm run postbuild
@@ -47,11 +47,13 @@ jobs:
       - name: Archive daily + rebuild index
         run: npm run archive
 
-      - name: Commit updated docs
+      - name: Commit updated docs (archive + latest + index)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/latest.json
+          # add EVERYTHING under docs, including new folders/files
+          git add -A docs
+          # if you also want to keep the dated JSON at repo root, add them too:
           git add betfair-racecards-picks-*.json || true
-          git commit -m "Update picks" || echo "No changes"
+          git commit -m "Archive picks & update index" || echo "No changes"
           git push
