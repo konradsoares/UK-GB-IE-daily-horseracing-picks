@@ -15,6 +15,9 @@ jobs:
       - name: Install deps
         run: npm ci
 
+      - name: Install Playwright browsers (Chromium)
+        run: npx playwright install --with-deps chromium
+        
       - name: Scrape racecards
         run: node scrape-betfair-racecards.js
 
