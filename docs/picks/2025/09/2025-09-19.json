@@ -1,0 +1,1051 @@
+{
+  "date": "2025-09-19",
+  "model": "sonar-pro",
+  "generated_at": "2025-09-19T22:50:59.490Z",
+  "races": [
+    {
+      "course": "Ayr",
+      "time": "13:28",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/ayr/2/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Ayr",
+      "time": "13:58",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/ayr/2/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Ayr",
+      "time": "14:33",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/ayr/2/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Ayr",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/ayr/2/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Ayr",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/ayr/2/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Ayr",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/ayr/2/6/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Ayr",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/ayr/2/7/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Ayr",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/ayr/2/8/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newbury",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newbury/34/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newbury",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newbury/34/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newbury",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newbury/34/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newbury",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newbury/34/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newbury",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newbury/34/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newbury",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newbury/34/6/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newbury",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newbury/34/7/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:33",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newcastle/35/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:08",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newcastle/35/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:44",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newcastle/35/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newcastle/35/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newcastle/35/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newcastle/35/6/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newcastle/35/7/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newcastle/35/8/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "14:03",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newton-abbot/37/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "14:38",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newton-abbot/37/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "15:13",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newton-abbot/37/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "15:48",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newton-abbot/37/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newton-abbot/37/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/newton-abbot/37/6/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "14:11",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/downpatrick/205/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "14:46",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/downpatrick/205/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "15:21",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/downpatrick/205/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "15:56",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/downpatrick/205/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "16:26",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/downpatrick/205/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "17:01",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/downpatrick/205/6/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "17:35",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/downpatrick/205/7/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/dundalk/207/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/dundalk/207/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/dundalk/207/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/dundalk/207/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/dundalk/207/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/dundalk/207/6/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/dundalk/207/7/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/dundalk/207/8/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Presque Isle Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/presque-isle-downs/386/1/",
+      "shortlist": [
+        {
+          "name": "Ellen Jay (Usa)",
+          "jockey": "Flavien Prat",
+          "trainer": "Brad H. Cox, USA",
+          "form": "",
+          "odds_note": "Expected to be among the market leaders based on top connections and typical market support for Cox/Prat runners.",
+          "rationale": "Brad Cox is a leading trainer with a high strike rate in stakes and allowance company, and Flavien Prat is an elite jockey with strong recent form. This combination is highly effective at this level, and such runners are typically well found in the market and rarely need major improvement to contend.",
+          "confidence": "High"
+        },
+        {
+          "name": "Ticker Tape Home (Can)",
+          "jockey": "Patrick Husbands",
+          "trainer": "Mark E. Casse, North America",
+          "form": "",
+          "odds_note": "Likely to be well supported given Casse's record at Presque Isle and Husbands' proficiency on synthetic surfaces.",
+          "rationale": "Mark Casse is a prolific trainer at Presque Isle and excels with Canadian-bred fillies on synthetic tracks. Patrick Husbands is a proven big-race jockey, especially for Casse. This profile fits the typical strong contender at this venue.",
+          "confidence": "High"
+        },
+        {
+          "name": "Stormcast (Can)",
+          "jockey": "Rafael Manuel Hernandez",
+          "trainer": "Mark E. Casse, North America",
+          "form": "",
+          "odds_note": "Should be prominent in the betting given connections and typical Casse/Hernandez market respect.",
+          "rationale": "Another Casse runner with a top local jockey in Hernandez, who has an excellent record at Presque Isle. Casse often runs multiple live chances in these events, and Hernandez is a go-to rider for the barn.",
+          "confidence": "Solid"
+        },
+        {
+          "name": "Tricky Temper (Usa)",
+          "jockey": "Antonio A. Gallardo",
+          "trainer": "Jeremiah C. Englehart, USA",
+          "form": "",
+          "odds_note": "Expected to be single-figure odds based on trainer's strike rate and Gallardo's local prowess.",
+          "rationale": "Englehart is a sharp operator with a good record in regional stakes, and Gallardo is a leading rider at Presque Isle. Horses from this barn are typically well prepared for local features and rarely need major improvement to be competitive.",
+          "confidence": "Solid"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1292,
+        "completion_tokens": 630,
+        "total_tokens": 1922,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.009,
+          "request_cost": 0.006,
+          "total_cost": 0.019
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/fairview-south-africa/417/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/fairview-south-africa/417/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/fairview-south-africa/417/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/fairview-south-africa/417/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/fairview-south-africa/417/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/fairview-south-africa/417/6/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/fairview-south-africa/417/7/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/19-september-2025/fairview-south-africa/417/8/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    }
+  ]
+}
