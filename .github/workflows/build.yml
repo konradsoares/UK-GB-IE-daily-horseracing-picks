@@ -36,10 +36,10 @@ jobs:
       - name: Scrape racecards
         run: npm run scrape
 
-      # - name: Analyze with Perplexity
-      #   env:
-      #     PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
-      #   run: npm run analyze
+      - name: Analyze with Perplexity
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: npm run analyze
 
       - name: Postbuild (copy latest to docs/latest.json)
         run: npm run postbuild
