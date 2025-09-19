@@ -80,10 +80,93 @@ async function getRaceLinks(page) {
   return links.map(r => ({ course: clean(r.course), time: clean(r.time), url: r.url }));
 }
 
+// async function getRunnersForRace(context, race, attempt = 0) {
+//   const page = await context.newPage();
+
+//   // Block heavy stuff but allow **stylesheets** and **xhr**.
+//   await page.route('**/*', route => {
+//     const t = route.request().resourceType();
+//     if (t === 'image' || t === 'font' || t === 'media') return route.abort();
+//     return route.continue();
+//   });
+
+//   try {
+//     await page.goto(race.url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+
+//     // Accept cookie if it reappears
+//     try { const btn = await page.$('button:has-text("Accept")'); if (btn) await btn.click({ timeout: 1000 }); } catch {}
+
+//     // Wait for runner cards to exist
+//     await page.waitForSelector('.featured_runner', { timeout: 60000 });
+//     await page.waitForTimeout(500)
+//     // Extract full runner objects
+//     const runners = await page.$$eval('.featured_runner', blocks => {
+//       const clean = s => (s || '').replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim();
+
+//       const pickTeamField = (ul, titleFragment) => {
+//         if (!ul) return null;
+//         const li = Array.from(ul.querySelectorAll('li')).find(li => {
+//           const ab = li.querySelector('abbr');
+//           const t = ab?.getAttribute('title')?.toLowerCase() || '';
+//           return t.includes(titleFragment);
+//         });
+//         if (!li) return null;
+//         const copy = li.cloneNode(true);
+//         const ab2 = copy.querySelector('abbr');
+//         if (ab2) ab2.remove(); // drop the "J:", "T:", "F:" label
+//         return clean(copy.textContent);
+//       };
+
+//       const parseOdds = root => {
+//         const sbkBtn = root.querySelector('.market_odds__sbk .price_button');
+//         const excBtn = root.querySelector('.market_odds__exc .price_button--exc');
+//         const textTail = el => {
+//           if (!el) return null;
+//           // The price text is in text nodes after the label span
+//           const txt = Array.from(el.childNodes)
+//             .filter(n => n.nodeType === Node.TEXT_NODE)
+//             .map(n => n.textContent)
+//             .join(' ');
+//           const val = clean(txt);
+//           return val || null;
+//         };
+//         const sbk = textTail(sbkBtn);       // e.g. "5/2"
+//         const excStr = textTail(excBtn);    // e.g. "3.7"
+//         const exc = excStr && !Number.isNaN(parseFloat(excStr)) ? parseFloat(excStr) : null;
+//         return { sbk, exc };
+//       };
+
+//       return Array.from(blocks).map(block => {
+//         const nameEl = block.querySelector('.featured_runner__details h4.name a, h4.name a');
+//         const team = block.querySelector('.featured_runner__details ul.team, ul.team');
+//         const odds = parseOdds(block);
+
+//         const name = clean(nameEl ? nameEl.textContent : '');
+//         const jockey = pickTeamField(team, 'jock');     // matches their "Jocky" too
+//         const trainer = pickTeamField(team, 'trainer');
+//         const form = pickTeamField(team, 'form');       // F: recent form string
+
+//         return { name, jockey, trainer, form, odds };
+//       }).filter(r => r.name);
+//     });
+
+//     if (runners.length === 0 && attempt < RETRY_ON_EMPTY) {
+//       // soft retry after a short wait (some races lazy-populate)
+//       await new Promise(r => setTimeout(r, 1200));
+//       return await getRunnersForRace(context, race, attempt + 1);
+//     }
+
+//     return { ...race, runners };
+//   } catch (e) {
+//     console.error(`Race failed [${race.course} ${race.time}] ${race.url}: ${e.message}`);
+//     return { ...race, runners: [] };
+//   } finally {
+//     await page.close().catch(() => {});
+//   }
+// }
 async function getRunnersForRace(context, race, attempt = 0) {
   const page = await context.newPage();
 
-  // Block heavy stuff but allow **stylesheets** and **xhr**.
   await page.route('**/*', route => {
     const t = route.request().resourceType();
     if (t === 'image' || t === 'font' || t === 'media') return route.abort();
@@ -93,65 +176,36 @@ async function getRunnersForRace(context, race, attempt = 0) {
   try {
     await page.goto(race.url, { waitUntil: 'domcontentloaded', timeout: 30000 });
 
-    // Accept cookie if it reappears
+    // If Betfair redirected us to /results/, this race is already off/finished.
+    const landed = page.url();
+    if (landed.includes('/results/')) {
+      console.warn(`Redirected to results → skipping finished race: ${race.course} ${race.time}`);
+      return { ...race, runners: [], _note: 'skipped_finished' };
+    }
+
+    // Cookie click (best effort)
     try { const btn = await page.$('button:has-text("Accept")'); if (btn) await btn.click({ timeout: 1000 }); } catch {}
 
-    // Wait for runner cards to exist
-    await page.waitForSelector('.featured_runner', { timeout: 60000 });
-    await page.waitForTimeout(500)
-    // Extract full runner objects
-    const runners = await page.$$eval('.featured_runner', blocks => {
-      const clean = s => (s || '').replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim();
+    await page.waitForSelector('.featured_runner', { timeout: 15000 });
 
-      const pickTeamField = (ul, titleFragment) => {
-        if (!ul) return null;
-        const li = Array.from(ul.querySelectorAll('li')).find(li => {
-          const ab = li.querySelector('abbr');
-          const t = ab?.getAttribute('title')?.toLowerCase() || '';
-          return t.includes(titleFragment);
-        });
-        if (!li) return null;
-        const copy = li.cloneNode(true);
-        const ab2 = copy.querySelector('abbr');
-        if (ab2) ab2.remove(); // drop the "J:", "T:", "F:" label
-        return clean(copy.textContent);
-      };
+    const runners = await page.$$eval(
+      '.featured_runner',
+      cards => cards.map(card => {
+        const getText = (sel) => (card.querySelector(sel)?.textContent || '').replace(/\u00a0/g,' ').replace(/\s+/g,' ').trim();
+        const name = getText('h4.name a, h4.name');
+        const jockey = getText('ul.team li:nth-child(1)');
+        const trainer = getText('ul.team li:nth-child(2)');
+        const form = getText('ul.team li:nth-child(3)');
+        // odds
+        const sbkEl = card.querySelector('.market_odds__sbk .price_button');
+        const excEl = card.querySelector('.market_odds__exc .price_button--exc');
+        const sbk = sbkEl ? sbkEl.textContent.replace(/SBK/i,'').trim() : '';
+        const exc = excEl ? excEl.textContent.replace(/EXC/i,'').trim() : '';
+        return { name, jockey: jockey.replace(/^J:\s*/,'').trim(), trainer: trainer.replace(/^T:\s*/,'').trim(), form: (form.replace(/^F:\s*/,'') || '').trim(), odds: { sbk, exchange: exc } };
+      })
+    );
 
-      const parseOdds = root => {
-        const sbkBtn = root.querySelector('.market_odds__sbk .price_button');
-        const excBtn = root.querySelector('.market_odds__exc .price_button--exc');
-        const textTail = el => {
-          if (!el) return null;
-          // The price text is in text nodes after the label span
-          const txt = Array.from(el.childNodes)
-            .filter(n => n.nodeType === Node.TEXT_NODE)
-            .map(n => n.textContent)
-            .join(' ');
-          const val = clean(txt);
-          return val || null;
-        };
-        const sbk = textTail(sbkBtn);       // e.g. "5/2"
-        const excStr = textTail(excBtn);    // e.g. "3.7"
-        const exc = excStr && !Number.isNaN(parseFloat(excStr)) ? parseFloat(excStr) : null;
-        return { sbk, exc };
-      };
-
-      return Array.from(blocks).map(block => {
-        const nameEl = block.querySelector('.featured_runner__details h4.name a, h4.name a');
-        const team = block.querySelector('.featured_runner__details ul.team, ul.team');
-        const odds = parseOdds(block);
-
-        const name = clean(nameEl ? nameEl.textContent : '');
-        const jockey = pickTeamField(team, 'jock');     // matches their "Jocky" too
-        const trainer = pickTeamField(team, 'trainer');
-        const form = pickTeamField(team, 'form');       // F: recent form string
-
-        return { name, jockey, trainer, form, odds };
-      }).filter(r => r.name);
-    });
-
-    if (runners.length === 0 && attempt < RETRY_ON_EMPTY) {
-      // soft retry after a short wait (some races lazy-populate)
+    if ((!runners || runners.length === 0) && attempt < RETRY_ON_EMPTY) {
       await new Promise(r => setTimeout(r, 1200));
       return await getRunnersForRace(context, race, attempt + 1);
     }
@@ -159,12 +213,11 @@ async function getRunnersForRace(context, race, attempt = 0) {
     return { ...race, runners };
   } catch (e) {
     console.error(`Race failed [${race.course} ${race.time}] ${race.url}: ${e.message}`);
-    return { ...race, runners: [] };
+    return { ...race, runners: [], _error: e.message };
   } finally {
     await page.close().catch(() => {});
   }
 }
-
 async function main() {
   const date = todayISO();
   const device = devices['Desktop Chrome'];
