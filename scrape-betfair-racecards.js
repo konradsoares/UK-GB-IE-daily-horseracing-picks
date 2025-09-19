@@ -91,13 +91,13 @@ async function getRunnersForRace(context, race, attempt = 0) {
   });
 
   try {
-    await page.goto(race.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    await page.goto(race.url, { waitUntil: 'domcontentloaded', timeout: 30000 });
 
     // Accept cookie if it reappears
     try { const btn = await page.$('button:has-text("Accept")'); if (btn) await btn.click({ timeout: 1000 }); } catch {}
 
     // Wait for runner cards to exist
-    await page.waitForSelector('.featured_runner', { timeout: 25000 });
+    await page.waitForSelector('.featured_runner', { timeout: 60000 });
     await page.waitForTimeout(500)
     // Extract full runner objects
     const runners = await page.$$eval('.featured_runner', blocks => {
