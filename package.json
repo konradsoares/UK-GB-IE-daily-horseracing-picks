@@ -6,7 +6,7 @@
     "scrape": "node scrape-betfair-racecards.js",
     "analyze": "node analyze-betfair-racecards.js",
     "archive": "node archive-picks.js",
-    "postbuild": "node -e \"const fs=require('fs');const d=new Date();const p=n=>String(n).padStart(2,'0');const file=`betfair-racecards-picks-${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}.json`;if(!fs.existsSync('docs'))fs.mkdirSync('docs');if(fs.existsSync(file))fs.copyFileSync(file,'docs/latest.json');console.log('Copied',file,'→ docs/latest.json');\""
+    "postbuild": "node postbuild.js"
   },
   "dependencies": {
     "axios": "^1.12.2",
