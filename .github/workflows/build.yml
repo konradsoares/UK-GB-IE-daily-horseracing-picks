@@ -1,33 +1,51 @@
 name: Build & Publish Picks
-on:
-  schedule:
-    - cron: '0 9 * * *'   # 09:00 UTC ~ 10:00 Dublin; adjust as you like
-  workflow_dispatch:
+
 permissions:
   contents: write
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # change as needed (UTC)
+  workflow_dispatch: {}
+
+concurrency:
+  group: daily-picks
+  cancel-in-progress: true
+
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Dublin
     steps:
       - uses: actions/checkout@v4
+        with: { persist-credentials: true }
+
       - uses: actions/setup-node@v4
-        with: { node-version: '22' }
+        with:
+          node-version: '22'
+          cache: 'npm'
 
       - name: Install deps
-        run: npm ci
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm i --no-audit --no-fund; fi
 
       - name: Install Playwright browsers (Chromium)
         run: npx playwright install --with-deps chromium
-        
+
       - name: Scrape racecards
-        run: node scrape-betfair-racecards.js
+        run: npm run scrape
 
       - name: Analyze with Perplexity
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
-        run: |
-          node analyze-betfair-racecards.js
-          node -e "const fs=require('fs');const f=fs.readdirSync('.').find(x=>x.startsWith('betfair-racecards-picks-')&&x.endsWith('.json'));fs.copyFileSync(f,'docs/latest.json')"
+        run: npm run analyze
+
+      - name: Postbuild (copy latest to docs/latest.json)
+        run: npm run postbuild
+
+      - name: Archive daily + rebuild index
+        run: npm run archive
 
       - name: Commit updated docs
         run: |

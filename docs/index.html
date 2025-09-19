@@ -2,28 +2,51 @@
 <html lang="en">
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Today’s Horse Racing Picks</title>
+<title>Daily Horse Racing Picks</title>
 <style>
-  body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:24px;max-width:900px}
+  body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:24px;max-width:980px}
+  header{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
+  select,input,button{font:inherit;padding:6px 8px}
   .race{border:1px solid #ddd;border-radius:8px;padding:12px;margin:12px 0}
   .race h2{margin:0 0 8px 0}
   .pick{padding:6px 8px;border-left:4px solid #ccc;margin:6px 0}
   .high{border-color:#4caf50}.medium{border-color:#ffa000}
   .meta{color:#666;font-size:12px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  @media(max-width:720px){.grid{grid-template-columns:1fr}}
 </style>
-<h1>Today’s Horse Racing Picks</h1>
+
+<header>
+  <h1 style="margin-right:auto;">Daily Horse Racing Picks</h1>
+  <label>Month:
+    <select id="month"></select>
+  </label>
+  <label>Day:
+    <select id="day"></select>
+  </label>
+  <button id="load">Load</button>
+  <button id="latest">Latest</button>
+</header>
+
 <p class="meta" id="stamp"></p>
 <div id="root">Loading…</div>
-<script>
-(async () => {
-  const res = await fetch('./latest.json', {cache:'no-store'});
-  if (!res.ok) { document.getElementById('root').textContent = 'No data.'; return; }
-  const data = await res.json();
-  document.getElementById('stamp').textContent =
-    `Model: ${data.model} • Generated: ${new Date(data.generated_at).toLocaleString()}`;
 
-  const root = document.getElementById('root'); root.innerHTML = '';
-  for (const r of data.races) {
+<script>
+const monthSel = document.getElementById('month');
+const daySel = document.getElementById('day');
+const stamp = document.getElementById('stamp');
+const root = document.getElementById('root');
+
+async function fetchJSON(url){
+  const res = await fetch(url, {cache:'no-store'});
+  if(!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
+  return res.json();
+}
+
+function render(data){
+  stamp.textContent = `Model: ${data.model || 'n/a'} • Generated: ${new Date(data.generated_at || Date.now()).toLocaleString()}`;
+  root.innerHTML = '';
+  for (const r of (data.races || [])) {
     const div = document.createElement('div'); div.className = 'race';
     div.innerHTML = `<h2>${r.course} — ${r.time}</h2>
       <div class="meta"><a href="${r.url}" target="_blank" rel="noopener">Racecard</a></div>`;
@@ -41,6 +64,52 @@
       }
     }
     root.appendChild(div);
+  }
+}
+
+async function loadLatest(){
+  const data = await fetchJSON('./latest.json');
+  render(data);
+}
+
+async function loadDay(path){
+  const data = await fetchJSON('./' + path);
+  render(data);
+}
+
+function populate(index){
+  // months sorted descending
+  const months = Object.keys(index.months || {}).sort().reverse();
+  monthSel.innerHTML = months.map(m => `<option value="${m}">${m}</option>`).join('');
+  if (months.length) {
+    const first = months[0];
+    daySel.innerHTML = index.months[first].slice().reverse()
+      .map(d => `<option value="${d.path}">${d.date}</option>`).join('');
+  }
+}
+
+monthSel.addEventListener('change', async () => {
+  const idx = await fetchJSON('./picks/index.json');
+  const key = monthSel.value;
+  const days = (idx.months && idx.months[key]) ? idx.months[key].slice().reverse() : [];
+  daySel.innerHTML = days.map(d => `<option value="${d.path}">${d.date}</option>`).join('');
+});
+
+document.getElementById('load').addEventListener('click', async () => {
+  const p = daySel.value;
+  if (p) loadDay(p);
+});
+
+document.getElementById('latest').addEventListener('click', loadLatest);
+
+(async () => {
+  try {
+    const idx = await fetchJSON('./picks/index.json');
+    populate(idx);
+    await loadLatest();
+  } catch (e) {
+    console.error(e);
+    root.textContent = 'No data yet.';
   }
 })();
 </script>
