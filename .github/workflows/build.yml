@@ -1,0 +1,34 @@
+name: Build & Publish Picks
+on:
+  schedule:
+    - cron: '0 9 * * *'   # 09:00 UTC ~ 10:00 Dublin; adjust as you like
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Scrape racecards
+        run: node scrape-betfair-racecards.js
+
+      - name: Analyze with Perplexity
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: |
+          node analyze-betfair-racecards.js
+          node -e "const fs=require('fs');const f=fs.readdirSync('.').find(x=>x.startsWith('betfair-racecards-picks-')&&x.endsWith('.json'));fs.copyFileSync(f,'docs/latest.json')"
+
+      - name: Commit docs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/*.json
+          git commit -m "Update picks" || echo "No changes"
+          git push
