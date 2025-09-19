@@ -91,7 +91,7 @@ async function getRunnersForRace(context, race, attempt = 0) {
   });
 
   try {
-    await page.goto(race.url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+    await page.goto(race.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
     // Accept cookie if it reappears
     try { const btn = await page.$('button:has-text("Accept")'); if (btn) await btn.click({ timeout: 1000 }); } catch {}
