@@ -8,8 +8,17 @@
     "postbuild": "node -e \"const fs=require('fs');const d=new Date();const p=n=>String(n).padStart(2,'0');const file=`betfair-racecards-picks-${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}.json`;if(!fs.existsSync('docs'))fs.mkdirSync('docs');if(fs.existsSync(file))fs.copyFileSync(file,'docs/latest.json');console.log('Copied',file,'→ docs/latest.json');\""
   },
   "dependencies": {
-    "axios": "^1.7.0",
-    "dotenv": "^16.4.5",
-    "playwright": "^1.47.0"
-  }
+    "axios": "^1.12.2",
+    "dotenv": "^16.6.1",
+    "playwright": "^1.55.0"
+  },
+  "description": "��#\u0000 \u0000U\u0000K\u0000-\u0000G\u0000B\u0000-\u0000I\u0000E\u0000-\u0000d\u0000a\u0000i\u0000l\u0000y\u0000-\u0000h\u0000o\u0000r\u0000s\u0000e\u0000r\u0000a\u0000c\u0000i\u0000n\u0000g\u0000-\u0000p\u0000i\u0000c\u0000k\u0000s\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "analyze-betfair-racecards.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
