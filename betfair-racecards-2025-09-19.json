@@ -1,0 +1,5816 @@
+{
+  "date": "2025-09-19",
+  "races": [
+    {
+      "course": "Ayr",
+      "time": "13:28",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/ayr/2/1/",
+      "runners": [
+        {
+          "name": "Radiance",
+          "jockey": "Billy Loughnane",
+          "trainer": "George Boughey",
+          "form": "13",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 3.3
+          }
+        },
+        {
+          "name": "Magic Box (Ire)",
+          "jockey": "Cieren Fallon",
+          "trainer": "William Haggas",
+          "form": "673121",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 3.6
+          }
+        },
+        {
+          "name": "Aspiral",
+          "jockey": "Clifford Lee",
+          "trainer": "K. R. Burke",
+          "form": "213",
+          "odds": {
+            "sbk": "10/3",
+            "exc": 5.2
+          }
+        },
+        {
+          "name": "Pretty Danielle (Ire)",
+          "jockey": "David Egan",
+          "trainer": "Richard Hughes",
+          "form": "7343",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 7.8
+          }
+        },
+        {
+          "name": "Magistery (Ire)",
+          "jockey": "Connor Beasley",
+          "trainer": "Michael Dods",
+          "form": "85261",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 21
+          }
+        },
+        {
+          "name": "Bearin Up (Ire)",
+          "jockey": "Duran Fentiman",
+          "trainer": "Tim Easterby",
+          "form": "4339",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 21
+          }
+        },
+        {
+          "name": "Paroda Diva (Ire)",
+          "jockey": "Jason Hart",
+          "trainer": "J. S. Moore",
+          "form": "37152570",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 50
+          }
+        }
+      ]
+    },
+    {
+      "course": "Ayr",
+      "time": "13:58",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/ayr/2/2/",
+      "runners": [
+        {
+          "name": "Reciprocated",
+          "jockey": "Clifford Lee",
+          "trainer": "K. R. Burke",
+          "form": "1166",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 3.85
+          }
+        },
+        {
+          "name": "Amorim",
+          "jockey": "Billy Loughnane",
+          "trainer": "George Boughey",
+          "form": "2134",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 4.2
+          }
+        },
+        {
+          "name": "Ardisia (Ire)",
+          "jockey": "Jason Hart",
+          "trainer": "Hugo Palmer",
+          "form": "13410013",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Go Vince Go (Ire)",
+          "jockey": "David Allan",
+          "trainer": "Tim Easterby",
+          "form": "854101",
+          "odds": {
+            "sbk": "8/1",
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Utmost Respect (Ire)",
+          "jockey": "Warren Fentiman",
+          "trainer": "Richard Fahey",
+          "form": "2710",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 11.5
+          }
+        },
+        {
+          "name": "Born Slippy",
+          "jockey": "William Pyle",
+          "trainer": "Richard Spencer",
+          "form": "4256210",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 14.5
+          }
+        },
+        {
+          "name": "Bye Law (Ire)",
+          "jockey": "Duran Fentiman",
+          "trainer": "Tim Easterby",
+          "form": "411",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 17.5
+          }
+        },
+        {
+          "name": "Star Material (Ire)",
+          "jockey": "Oisin McSweeney",
+          "trainer": "Adrian Keatley",
+          "form": "6210",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 27
+          }
+        },
+        {
+          "name": "Ubetterseethis",
+          "jockey": "Andrew Mullen",
+          "trainer": "Craig Lidster",
+          "form": "23628103",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 34
+          }
+        }
+      ]
+    },
+    {
+      "course": "Ayr",
+      "time": "14:33",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/ayr/2/3/",
+      "runners": [
+        {
+          "name": "Ipanema Queen (Ire)",
+          "jockey": "David Egan",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "10215",
+          "odds": {
+            "sbk": "11/4",
+            "exc": 3.85
+          }
+        },
+        {
+          "name": "Shine On Me",
+          "jockey": "James Doyle",
+          "trainer": "Archie Watson",
+          "form": "36423",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.6
+          }
+        },
+        {
+          "name": "Boston Dan (Ire)",
+          "jockey": "Oisin James Orr",
+          "trainer": "Richard Fahey",
+          "form": "432321",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 9
+          }
+        },
+        {
+          "name": "Chairmanfourtimes (Ire)",
+          "jockey": "Oisin McSweeney",
+          "trainer": "Adrian Keatley",
+          "form": "223132",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 11.5
+          }
+        },
+        {
+          "name": "Pearl Fortune (Ire)",
+          "jockey": "Clifford Lee",
+          "trainer": "K. R. Burke",
+          "form": "127",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 12
+          }
+        },
+        {
+          "name": "Temple Of Athena",
+          "jockey": "Jason Hart",
+          "trainer": "Brian Ellison",
+          "form": "13051",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Daneh Of Dandy (Ire)",
+          "jockey": "Billy Loughnane",
+          "trainer": "James Tate",
+          "form": "1915",
+          "odds": {
+            "sbk": "8/1",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Rikki Tiki Tavi (Ire)",
+          "jockey": "Kevin Stott",
+          "trainer": "Kevin Ryan",
+          "form": "2410",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 15.5
+          }
+        },
+        {
+          "name": "Hanney Girl",
+          "jockey": "David Allan",
+          "trainer": "Tim Easterby",
+          "form": "0336112",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 25
+          }
+        },
+        {
+          "name": "Our Cody (Ire)",
+          "jockey": "Paul Mulrennan",
+          "trainer": "Richard Hughes",
+          "form": "421P45",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 29
+          }
+        },
+        {
+          "name": "Lebron Power",
+          "jockey": "Cieren Fallon",
+          "trainer": "Richard Hannon",
+          "form": "1401",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 29
+          }
+        },
+        {
+          "name": "Arduis Invicta (Ire)",
+          "jockey": "William Pyle",
+          "trainer": "Craig Lidster",
+          "form": "55245181",
+          "odds": {
+            "sbk": "40/1",
+            "exc": 60
+          }
+        }
+      ]
+    },
+    {
+      "course": "Ayr",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/ayr/2/4/",
+      "runners": [
+        {
+          "name": "Beautiful Diamond",
+          "jockey": "Clifford Lee",
+          "trainer": "K. R. Burke",
+          "form": "1/351282-8",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 3.8
+          }
+        },
+        {
+          "name": "Star Of Mehmas (Ire)",
+          "jockey": "Billy Loughnane",
+          "trainer": "Richard Hughes",
+          "form": "111-32381",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 4.6
+          }
+        },
+        {
+          "name": "Star Of Lady M",
+          "jockey": "Daniel Tudhope",
+          "trainer": "David O'Meara",
+          "form": "3211816-3",
+          "odds": {
+            "sbk": "10/3",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Stormy Impact",
+          "jockey": "Oisin James Orr",
+          "trainer": "Richard Fahey",
+          "form": "51-610915",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Luna A Inbhir Nis",
+          "jockey": "Jason Hart",
+          "trainer": "Katie Scott",
+          "form": "11151132",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 16
+          }
+        },
+        {
+          "name": "Nad Alshiba Green (Ire)",
+          "jockey": "Kevin Stott",
+          "trainer": "Michael Appleby",
+          "form": "34-231206",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Sophia's Starlight (Fr)",
+          "jockey": "Oliver Stammers",
+          "trainer": "Grant Tuer",
+          "form": "07114-800",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 19
+          }
+        },
+        {
+          "name": "Billie Be Quick (Ire)",
+          "jockey": "David Egan",
+          "trainer": "Mrs J. Harrington, Ireland",
+          "form": "59212010",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 24
+          }
+        },
+        {
+          "name": "Magic Basma (Ire)",
+          "jockey": "Tom Eaves",
+          "trainer": "Kevin Ryan",
+          "form": "127-0452",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 24
+          }
+        },
+        {
+          "name": "Tiva (Ire)",
+          "jockey": "Mark Winn",
+          "trainer": "David O'Meara",
+          "form": "34332911",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 29
+          }
+        },
+        {
+          "name": "Stella Alpina (Ire)",
+          "jockey": "David Allan",
+          "trainer": "W. McCreery, Ireland",
+          "form": "42286216",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 34
+          }
+        },
+        {
+          "name": "Rhyme Dust",
+          "jockey": "Connor Beasley",
+          "trainer": "Mark Usher",
+          "form": "33-5146",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 38
+          }
+        }
+      ]
+    },
+    {
+      "course": "Ayr",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/ayr/2/5/",
+      "runners": [
+        {
+          "name": "Eternal Sunshine",
+          "jockey": "Lauren Young",
+          "trainer": "Jim Goldie",
+          "form": "29220111",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 4.3
+          }
+        },
+        {
+          "name": "Mostar Dreams (Ire)",
+          "jockey": "Paul Mulrennan",
+          "trainer": "Jim Goldie",
+          "form": "14840183",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 8.8
+          }
+        },
+        {
+          "name": "Wobwobwob (Ire)",
+          "jockey": "Oisin McSweeney",
+          "trainer": "Adrian Keatley",
+          "form": "790-00522",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Winged Messenger",
+          "jockey": "Daniel Tudhope",
+          "trainer": "Julie Camacho",
+          "form": "6-3221213",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 14.5
+          }
+        },
+        {
+          "name": "Territorial Knight",
+          "jockey": "Tom Eaves",
+          "trainer": "Kevin Ryan",
+          "form": "00-366312",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 14.5
+          }
+        },
+        {
+          "name": "Musical Touch (Ire)",
+          "jockey": "Warren Fentiman",
+          "trainer": "Richard Fahey",
+          "form": "15263460",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 18.5
+          }
+        },
+        {
+          "name": "Kelpie Grey",
+          "jockey": "Mark Winn",
+          "trainer": "Jim Goldie",
+          "form": "2644-2332",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 22
+          }
+        },
+        {
+          "name": "Yaaser (Ire)",
+          "jockey": "Kaiya Fraser",
+          "trainer": "Jim Goldie",
+          "form": "13044447",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 25
+          }
+        },
+        {
+          "name": "Mister Sox",
+          "jockey": "Duran Fentiman",
+          "trainer": "Tim Easterby",
+          "form": "80707154",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 25
+          }
+        },
+        {
+          "name": "Jonny Concrete (Ire)",
+          "jockey": "Andrew Mullen",
+          "trainer": "Iain Jardine",
+          "form": "291-12279",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 29
+          }
+        },
+        {
+          "name": "Kats Bob",
+          "jockey": "William Pyle",
+          "trainer": "Ruth Carr",
+          "form": "36186533",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 32
+          }
+        },
+        {
+          "name": "Irish Nectar",
+          "jockey": "Kevin Stott",
+          "trainer": "Kevin Ryan",
+          "form": "18-290504",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 32
+          }
+        },
+        {
+          "name": "Bright (Ire)",
+          "jockey": "Billy Loughnane",
+          "trainer": "Mark Loughnane",
+          "form": "10-388525",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 32
+          }
+        },
+        {
+          "name": "Woven",
+          "jockey": "Cieren Fallon",
+          "trainer": "Michael Dods",
+          "form": "1040-9060",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 38
+          }
+        },
+        {
+          "name": "Manila Scouse",
+          "jockey": "David Allan",
+          "trainer": "Tim Easterby",
+          "form": "0-0776167",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 38
+          }
+        },
+        {
+          "name": "Oriental Prince",
+          "jockey": "Amie Waugh",
+          "trainer": "Jim Goldie",
+          "form": "61300948",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 50
+          }
+        },
+        {
+          "name": "Moonstone Boy (Ire)",
+          "jockey": "Mohammed Lyes Tabti",
+          "trainer": "Iain Jardine",
+          "form": "4-2150009",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 50
+          }
+        },
+        {
+          "name": "Brooklyn Nine Nine (Ire)",
+          "jockey": "Oisin James Orr",
+          "trainer": "Richard Fahey",
+          "form": "69762100",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 50
+          }
+        },
+        {
+          "name": "Bosh (Ire)",
+          "jockey": "Connor Beasley",
+          "trainer": "Michael Dods",
+          "form": "6-0700488",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 50
+          }
+        },
+        {
+          "name": "Arabian Cobra (Ire)",
+          "jockey": "Jason Hart",
+          "trainer": "Hugo Palmer",
+          "form": "30211336",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 55
+          }
+        },
+        {
+          "name": "Top Juggler (Ire)",
+          "jockey": "Dale Swift",
+          "trainer": "Seb Spencer",
+          "form": "158-43201",
+          "odds": {
+            "sbk": "30/1",
+            "exc": 55
+          }
+        },
+        {
+          "name": "Fortamour (Ire)",
+          "jockey": "Clifford Lee",
+          "trainer": "Ben Haslam",
+          "form": "39-323049",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 80
+          }
+        },
+        {
+          "name": "Powdering (Ire)",
+          "jockey": "Joanna Mason",
+          "trainer": "Michael Herrington",
+          "form": "24309451",
+          "odds": {
+            "sbk": "40/1",
+            "exc": 90
+          }
+        },
+        {
+          "name": "Azure Zain (Fr)",
+          "jockey": "David Egan",
+          "trainer": "Richard Fahey",
+          "form": "341040",
+          "odds": {
+            "sbk": "40/1",
+            "exc": 95
+          }
+        },
+        {
+          "name": "Beyond Borders (Ire)",
+          "jockey": "Oliver Stammers",
+          "trainer": "Kevin Frost",
+          "form": "5-0801780",
+          "odds": {
+            "sbk": "80/1",
+            "exc": 200
+          }
+        }
+      ]
+    },
+    {
+      "course": "Ayr",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/ayr/2/6/",
+      "runners": [
+        {
+          "name": "Penelope's Sister (Ire)",
+          "jockey": "Paul Mulrennan",
+          "trainer": "Jim Goldie",
+          "form": "15331263",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Atmosphere",
+          "jockey": "George Wood",
+          "trainer": "Richard Spencer",
+          "form": "75413143",
+          "odds": {
+            "sbk": "10/3",
+            "exc": 4.9
+          }
+        },
+        {
+          "name": "Keats House (Ire)",
+          "jockey": "Joanna Mason",
+          "trainer": "Michael & David Easterby",
+          "form": "U6312341",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.8
+          }
+        },
+        {
+          "name": "Little Ted",
+          "jockey": "David Allan",
+          "trainer": "Tim Easterby",
+          "form": "53416232",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Golden Valour",
+          "jockey": "Kaiya Fraser",
+          "trainer": "R. Mike Smith",
+          "form": "60344481",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.8
+          }
+        },
+        {
+          "name": "Lovette",
+          "jockey": "Mohammed Lyes Tabti",
+          "trainer": "Iain Jardine",
+          "form": "551673",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Uncle Liam (Ire)",
+          "jockey": "Lauren Young",
+          "trainer": "Jim Goldie",
+          "form": "06-60032",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 15.5
+          }
+        },
+        {
+          "name": "Lovely Spirit (Ire)",
+          "jockey": "Warren Fentiman",
+          "trainer": "Richard Fahey",
+          "form": "2122-0976",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 20
+          }
+        },
+        {
+          "name": "Precious Spartan (Ire)",
+          "jockey": "Archie Young",
+          "trainer": "Patrick Neville",
+          "form": "81161497",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 23
+          }
+        }
+      ]
+    },
+    {
+      "course": "Ayr",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/ayr/2/7/",
+      "runners": [
+        {
+          "name": "Dwindling Funds",
+          "jockey": "Billy Loughnane",
+          "trainer": "Jim Goldie",
+          "form": "84711311",
+          "odds": {
+            "sbk": "10/11",
+            "exc": 2.2
+          }
+        },
+        {
+          "name": "Native Honey (Ire)",
+          "jockey": "Paul Mulrennan",
+          "trainer": "Jim Goldie",
+          "form": "2-6259671",
+          "odds": {
+            "sbk": "16/5",
+            "exc": 4.4
+          }
+        },
+        {
+          "name": "Cisco Disco (Ire)",
+          "jockey": "Clifford Lee",
+          "trainer": "R. Mike Smith",
+          "form": "69254515",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 13.5
+          }
+        },
+        {
+          "name": "We've Got This (Ire)",
+          "jockey": "Tom Eaves",
+          "trainer": "Ivan Furtado",
+          "form": "344-43124",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 13.5
+          }
+        },
+        {
+          "name": "Thats My Boy Luke",
+          "jockey": "David Allan",
+          "trainer": "Tim Easterby",
+          "form": "33318571",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Mister Invincible (Ire)",
+          "jockey": "Daniel Tudhope",
+          "trainer": "David O'Meara",
+          "form": "5355073",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Desert Dream",
+          "jockey": "Jack Nicholls",
+          "trainer": "Seb Spencer",
+          "form": "08775282",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 24
+          }
+        },
+        {
+          "name": "Perfidia (Ire)",
+          "jockey": "Duran Fentiman",
+          "trainer": "Tim Easterby",
+          "form": "12542369",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 25
+          }
+        },
+        {
+          "name": "Bint Al Karama",
+          "jockey": "Andrew Mullen",
+          "trainer": "Iain Jardine",
+          "form": "9316-8900",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 46
+          }
+        },
+        {
+          "name": "Liberty Flame (Ire)",
+          "jockey": "Mark Winn",
+          "trainer": "Stuart Coltherd",
+          "form": "0640",
+          "odds": {
+            "sbk": "80/1",
+            "exc": 100
+          }
+        }
+      ]
+    },
+    {
+      "course": "Ayr",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/ayr/2/8/",
+      "runners": [
+        {
+          "name": "Perseus Way (Ire)",
+          "jockey": "Daniel Tudhope",
+          "trainer": "Stuart Coltherd",
+          "form": "23/999415",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 5.9
+          }
+        },
+        {
+          "name": "Trojan Sun",
+          "jockey": "Kaiya Fraser",
+          "trainer": "Jim Goldie",
+          "form": "36714553",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 6.4
+          }
+        },
+        {
+          "name": "Alnayef (Ire)",
+          "jockey": "Paul Mulrennan",
+          "trainer": "Jim Goldie",
+          "form": "46803272",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 6.6
+          }
+        },
+        {
+          "name": "Sophiesticate (Ire)",
+          "jockey": "Billy Loughnane",
+          "trainer": "Jim Goldie",
+          "form": "52532215",
+          "odds": {
+            "sbk": "8/1",
+            "exc": 9
+          }
+        },
+        {
+          "name": "Valley Of Flowers (Ire)",
+          "jockey": "Joanna Mason",
+          "trainer": "Samantha & Jacqueline Coward",
+          "form": "224-08244",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 11
+          }
+        },
+        {
+          "name": "Ebony Maw",
+          "jockey": "Jason Hart",
+          "trainer": "Ewan Whillans",
+          "form": "7-4353383",
+          "odds": {
+            "sbk": "8/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Fleur De Mer (Ire)",
+          "jockey": "Mark Winn",
+          "trainer": "Martin Todhunter",
+          "form": "30-574542",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 15
+          }
+        },
+        {
+          "name": "Billy No Mates (Ire)",
+          "jockey": "Connor Beasley",
+          "trainer": "Michael Dods",
+          "form": "46-422834",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Two Auld Pals (Ire)",
+          "jockey": "Oisin James Orr",
+          "trainer": "Lucinda Russell & Michael Scudamore",
+          "form": "2-8831469",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 19.5
+          }
+        },
+        {
+          "name": "Annandale (Ire)",
+          "jockey": "Lauren Young",
+          "trainer": "Jim Goldie",
+          "form": "71536471",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 21
+          }
+        },
+        {
+          "name": "Just Dottie",
+          "jockey": "Clifford Lee",
+          "trainer": "R. Mike Smith",
+          "form": "4",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 28
+          }
+        },
+        {
+          "name": "Elemental Eye",
+          "jockey": "Andrew Mullen",
+          "trainer": "Iain Jardine",
+          "form": "86322136",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 29
+          }
+        },
+        {
+          "name": "Glasses Up (Usa)",
+          "jockey": "David Egan",
+          "trainer": "R. Mike Smith",
+          "form": "11867945",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 32
+          }
+        },
+        {
+          "name": "Flickering Halo (Ire)",
+          "jockey": "David Allan",
+          "trainer": "Tim Easterby",
+          "form": "14672036",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 34
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newbury",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newbury/34/1/",
+      "runners": [
+        {
+          "name": "One And Gone (Ire)",
+          "jockey": "Silvestre De Sousa",
+          "trainer": "B. F. Brookhouse",
+          "form": "2",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 3.75
+          }
+        },
+        {
+          "name": "Black Star Boy (Ire)",
+          "jockey": "Tom Marquand",
+          "trainer": "Ed Walker",
+          "form": "6",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Noble Vow (Ire)",
+          "jockey": "John Fahy",
+          "trainer": "Richard Hannon",
+          "form": "34",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 6.6
+          }
+        },
+        {
+          "name": "Guilty Verdict",
+          "jockey": "Pat Cosgrave",
+          "trainer": "Jim Boyle",
+          "form": "43",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 9.6
+          }
+        },
+        {
+          "name": "Credit Forgedd It (Ire)",
+          "jockey": "Sean Levey",
+          "trainer": "Richard Hannon",
+          "form": "04",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 13.5
+          }
+        },
+        {
+          "name": "Torbados",
+          "jockey": "Jason Watson",
+          "trainer": "Charles Hills",
+          "form": "U2",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Paean Of Appin",
+          "jockey": "Joe Leavy",
+          "trainer": "Brian Meehan",
+          "form": "",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 18.5
+          }
+        },
+        {
+          "name": "My Old Mate (Ire)",
+          "jockey": "Tom Queally",
+          "trainer": "Gary & Josh Moore",
+          "form": "05",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 29
+          }
+        },
+        {
+          "name": "Thisonesforyou",
+          "jockey": "Rossa Ryan",
+          "trainer": "Clive Cox",
+          "form": "86",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 38
+          }
+        },
+        {
+          "name": "Twilight Glow",
+          "jockey": "Rob Hornby",
+          "trainer": "Jonathan Portman",
+          "form": "58",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 46
+          }
+        },
+        {
+          "name": "Fullstop (Ire)",
+          "jockey": "Stevie Donohoe",
+          "trainer": "Grace Harris",
+          "form": "93",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 60
+          }
+        },
+        {
+          "name": "Clipper (Ire)",
+          "jockey": "Charles Bishop",
+          "trainer": "George Baker",
+          "form": "0",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 95
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newbury",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newbury/34/2/",
+      "runners": [
+        {
+          "name": "Ghaadah (Fr)",
+          "jockey": "Harry Davies",
+          "trainer": "Simon & Ed Crisford",
+          "form": "1",
+          "odds": {
+            "sbk": "15/8",
+            "exc": 3.45
+          }
+        },
+        {
+          "name": "True Test",
+          "jockey": "Marco Ghiani",
+          "trainer": "William Knight",
+          "form": "115",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 4.2
+          }
+        },
+        {
+          "name": "Tavana",
+          "jockey": "Georgia Dobie",
+          "trainer": "Edward Smyth-Osbourne",
+          "form": "14",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5.9
+          }
+        },
+        {
+          "name": "Florida Suite (Ire)",
+          "jockey": "Tom Marquand",
+          "trainer": "William Haggas",
+          "form": "",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 6
+          }
+        },
+        {
+          "name": "Aura Champagne (Ire)",
+          "jockey": "Sean Levey",
+          "trainer": "Richard Hannon",
+          "form": "",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Violet Goldsmith",
+          "jockey": "Charles Bishop",
+          "trainer": "Eve Johnson Houghton",
+          "form": "",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 23
+          }
+        },
+        {
+          "name": "Neat And Tidy",
+          "jockey": "Lewis Edmunds",
+          "trainer": "William Muir & Chris Grassick",
+          "form": "",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 29
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newbury",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newbury/34/3/",
+      "runners": [
+        {
+          "name": "French Affair (Ire)",
+          "jockey": "Sean Levey",
+          "trainer": "Richard Hannon",
+          "form": "496132",
+          "odds": {
+            "sbk": "10/3",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Shaman Champion (Ire)",
+          "jockey": "William Buick",
+          "trainer": "Richard Hughes",
+          "form": "19528",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 4.9
+          }
+        },
+        {
+          "name": "Victorious One",
+          "jockey": "Rossa Ryan",
+          "trainer": "Ralph Beckett",
+          "form": "2226",
+          "odds": {
+            "sbk": "10/3",
+            "exc": 6.2
+          }
+        },
+        {
+          "name": "Senorita Vega (Ire)",
+          "jockey": "Ashley Lewis",
+          "trainer": "Tom Dascombe",
+          "form": "431042",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Hardy's Hero",
+          "jockey": "Tom Marquand",
+          "trainer": "William Haggas",
+          "form": "711",
+          "odds": {
+            "sbk": "15/2",
+            "exc": 9.2
+          }
+        },
+        {
+          "name": "Sovereign View",
+          "jockey": "Neil Callan",
+          "trainer": "James Tate",
+          "form": "442",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 13
+          }
+        },
+        {
+          "name": "Gorey Gold (Ire)",
+          "jockey": "Rob Hornby",
+          "trainer": "Jonathan Portman",
+          "form": "510",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 19
+          }
+        },
+        {
+          "name": "Eyes Front (Ire)",
+          "jockey": "Georgia Dobie",
+          "trainer": "Edward Smyth-Osbourne",
+          "form": "0223",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 21
+          }
+        },
+        {
+          "name": "John Barleycorn (Ire)",
+          "jockey": "Callum Hutchinson",
+          "trainer": "Eve Johnson Houghton",
+          "form": "04727",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 28
+          }
+        },
+        {
+          "name": "Robert Anstruther",
+          "jockey": "Nicola Currie",
+          "trainer": "Henry Candy",
+          "form": "454",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 28
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newbury",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newbury/34/4/",
+      "runners": [
+        {
+          "name": "Look To The Stars (Ire)",
+          "jockey": "William Buick",
+          "trainer": "Charlie Appleby",
+          "form": "221",
+          "odds": {
+            "sbk": "2/1",
+            "exc": 3.35
+          }
+        },
+        {
+          "name": "Tierra Del Toro",
+          "jockey": "Hector Crouch",
+          "trainer": "Ralph Beckett",
+          "form": "21",
+          "odds": {
+            "sbk": "16/5",
+            "exc": 4.6
+          }
+        },
+        {
+          "name": "Goodwood Galaxy",
+          "jockey": "Rossa Ryan",
+          "trainer": "David Menuisier",
+          "form": "147",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5.8
+          }
+        },
+        {
+          "name": "Kokbastau",
+          "jockey": "Silvestre De Sousa",
+          "trainer": "Roger Varian",
+          "form": "",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5.9
+          }
+        },
+        {
+          "name": "Bourbon Blues",
+          "jockey": "Joe Leavy",
+          "trainer": "Brian Meehan",
+          "form": "018645",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Uniter",
+          "jockey": "Jason Watson",
+          "trainer": "Andrew Balding",
+          "form": "3",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 16
+          }
+        },
+        {
+          "name": "Loz Vegas (Ire)",
+          "jockey": "Harry Davies",
+          "trainer": "Peter Chapple-Hyam",
+          "form": "02",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 28
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newbury",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newbury/34/5/",
+      "runners": [
+        {
+          "name": "Remmooz",
+          "jockey": "Callum Rodriguez",
+          "trainer": "Owen Burrows",
+          "form": "11413",
+          "odds": {
+            "sbk": "13/8",
+            "exc": 2.72
+          }
+        },
+        {
+          "name": "Volterra (Ire)",
+          "jockey": "Shane Gray",
+          "trainer": "Kevin Ryan",
+          "form": "1/10021-38",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 3.75
+          }
+        },
+        {
+          "name": "Spy Chief",
+          "jockey": "William Buick",
+          "trainer": "John & Thady Gosden",
+          "form": "621276",
+          "odds": {
+            "sbk": "10/3",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Rebel's Gamble (Ire)",
+          "jockey": "Rossa Ryan",
+          "trainer": "K. R. Burke",
+          "form": "1121955",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 12
+          }
+        },
+        {
+          "name": "Ferrous (Ire)",
+          "jockey": "Tom Marquand",
+          "trainer": "Jack Channon",
+          "form": "53-111393",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 16.5
+          }
+        },
+        {
+          "name": "Bellaphina (Ire)",
+          "jockey": "Sean Levey",
+          "trainer": "John Andrew Kinsella, Ireland",
+          "form": "84-341538",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 32
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newbury",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newbury/34/6/",
+      "runners": [
+        {
+          "name": "Orionis",
+          "jockey": "Tom Marquand",
+          "trainer": "William Haggas",
+          "form": "6-321142",
+          "odds": {
+            "sbk": "15/8",
+            "exc": 3.05
+          }
+        },
+        {
+          "name": "El Megeeth (Ire)",
+          "jockey": "William Buick",
+          "trainer": "Owen Burrows",
+          "form": "422",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 4.7
+          }
+        },
+        {
+          "name": "Quebella",
+          "jockey": "Finley Marsh",
+          "trainer": "Richard Hughes",
+          "form": "12536",
+          "odds": {
+            "sbk": "15/4",
+            "exc": 5.7
+          }
+        },
+        {
+          "name": "Greyval (Fr)",
+          "jockey": "Hollie Doyle",
+          "trainer": "Fergal O'Brien",
+          "form": "",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 11.5
+          }
+        },
+        {
+          "name": "Flash Bardot",
+          "jockey": "George Bass",
+          "trainer": "Jack Channon",
+          "form": "99320-006",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 13
+          }
+        },
+        {
+          "name": "Harpsichord",
+          "jockey": "Harry Davies",
+          "trainer": "Simon & Ed Crisford",
+          "form": "4-122726",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Autumn's Breeze (Ire)",
+          "jockey": "Ashley Lewis",
+          "trainer": "Gary & Josh Moore",
+          "form": "792-74117",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 18.5
+          }
+        },
+        {
+          "name": "Lalique",
+          "jockey": "Marco Ghiani",
+          "trainer": "Marco Botti",
+          "form": "1226",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 20
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newbury",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newbury/34/7/",
+      "runners": [
+        {
+          "name": "Vincent Rocks (Ire)",
+          "jockey": "Tom Marquand",
+          "trainer": "Hugo Palmer",
+          "form": "11",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 4
+          }
+        },
+        {
+          "name": "Approval",
+          "jockey": "William Buick",
+          "trainer": "Owen Burrows",
+          "form": "2171-0976",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 7.4
+          }
+        },
+        {
+          "name": "Shady Bay (Ire)",
+          "jockey": "Sean Levey",
+          "trainer": "Tom Ward",
+          "form": "42551135",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 7.4
+          }
+        },
+        {
+          "name": "Janey Mackers (Ire)",
+          "jockey": "Rossa Ryan",
+          "trainer": "David Menuisier",
+          "form": "31-660",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.6
+          }
+        },
+        {
+          "name": "Star Of Dubai (Ire)",
+          "jockey": "Hollie Doyle",
+          "trainer": "Denis Coakley",
+          "form": "4-412633",
+          "odds": {
+            "sbk": "15/2",
+            "exc": 10
+          }
+        },
+        {
+          "name": "Sweet Reward (Ire)",
+          "jockey": "Olivia Tubb",
+          "trainer": "Jonathan Portman",
+          "form": "35744-193",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Just An Hour (Ire)",
+          "jockey": "Lewis Edmunds",
+          "trainer": "Rod Millman",
+          "form": "13141244",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 16.5
+          }
+        },
+        {
+          "name": "Final Secret",
+          "jockey": "Harry Davies",
+          "trainer": "James Tate",
+          "form": "77-21",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 16.5
+          }
+        },
+        {
+          "name": "Gloryous (Ire)",
+          "jockey": "William Carson",
+          "trainer": "Jamie Osborne",
+          "form": "50-732118",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 24
+          }
+        },
+        {
+          "name": "San Juanito",
+          "jockey": "Robert Havlin",
+          "trainer": "Simon & Ed Crisford",
+          "form": "53-331186",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 25
+          }
+        },
+        {
+          "name": "Alcaraz (Fr)",
+          "jockey": "Tyrese Cameron",
+          "trainer": "Tom Dascombe",
+          "form": "34-867172",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 32
+          }
+        },
+        {
+          "name": "Zoffandia (Ire)",
+          "jockey": "Josephine Gordon",
+          "trainer": "Keiran Burke",
+          "form": "3-4107056",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 32
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:33",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newcastle/35/1/",
+      "runners": [
+        {
+          "name": "Duffus Castle",
+          "jockey": "P. J. McDonald",
+          "trainer": "Philip McBride",
+          "form": "0-7088451",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 3.65
+          }
+        },
+        {
+          "name": "That Lucas Fella (Ire)",
+          "jockey": "Rowan Scott",
+          "trainer": "Iain Jardine",
+          "form": "7-4822493",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5.8
+          }
+        },
+        {
+          "name": "Grizzieblanca (Ire)",
+          "jockey": "Ben Robinson",
+          "trainer": "Brian Ellison",
+          "form": "867841",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 6
+          }
+        },
+        {
+          "name": "Muhib",
+          "jockey": "Jack Mitchell",
+          "trainer": "Olly Williams",
+          "form": "0-5486778",
+          "odds": {
+            "sbk": "15/2",
+            "exc": 7.4
+          }
+        },
+        {
+          "name": "Russian Virtue",
+          "jockey": "S. B. Kirrane",
+          "trainer": "David Thompson",
+          "form": "474-94903",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 7.8
+          }
+        },
+        {
+          "name": "Heartened (Ire)",
+          "jockey": "Cam Hardie",
+          "trainer": "Ollie Pears",
+          "form": "6-8573743",
+          "odds": {
+            "sbk": "15/2",
+            "exc": 13
+          }
+        },
+        {
+          "name": "Toronto Raptor (Fr)",
+          "jockey": "Billy Garritty",
+          "trainer": "Liam Bailey",
+          "form": "47-053066",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Cloud Free (Ire)",
+          "jockey": "T. Kiely-Marshall",
+          "trainer": "Barry Murtagh",
+          "form": "39600043",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 20
+          }
+        },
+        {
+          "name": "Miss Raincloud (Ire)",
+          "jockey": "Kieran O'Neill",
+          "trainer": "Tracy Waggott",
+          "form": "58-8090",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 38
+          }
+        },
+        {
+          "name": "Bovey Belle",
+          "jockey": "Rhys Elliott",
+          "trainer": "Olly Williams",
+          "form": "0735597",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 42
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:08",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newcastle/35/2/",
+      "runners": [
+        {
+          "name": "Quercus Robur",
+          "jockey": "Cam Hardie",
+          "trainer": "Adam Nicol",
+          "form": "76351591",
+          "odds": {
+            "sbk": "6/5",
+            "exc": 2.54
+          }
+        },
+        {
+          "name": "Queen Roslyn",
+          "jockey": "Ben Robinson",
+          "trainer": "Brian Ellison",
+          "form": "099/6-6817",
+          "odds": {
+            "sbk": "13/8",
+            "exc": 2.92
+          }
+        },
+        {
+          "name": "Parish Record (Ire)",
+          "jockey": "P. J. McDonald",
+          "trainer": "Donald Whillans",
+          "form": "06-559665",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.6
+          }
+        },
+        {
+          "name": "Lillistar",
+          "jockey": "Aiden Brookes",
+          "trainer": "Micky Hammond",
+          "form": "77/890-652",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 10
+          }
+        },
+        {
+          "name": "Team Endeavour",
+          "jockey": "T. Kiely-Marshall",
+          "trainer": "Barry Murtagh",
+          "form": "22/884266",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 17
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:44",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newcastle/35/3/",
+      "runners": [
+        {
+          "name": "Clementines Star",
+          "jockey": "Jack Mitchell",
+          "trainer": "Daniel & Claire Kubler",
+          "form": "",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 4.7
+          }
+        },
+        {
+          "name": "Startled Lady",
+          "jockey": "Jefferson Smith",
+          "trainer": "William Knight",
+          "form": "9230",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5.1
+          }
+        },
+        {
+          "name": "Gwen's Girl",
+          "jockey": "Ben Robinson",
+          "trainer": "Mark Walford",
+          "form": "2",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.4
+          }
+        },
+        {
+          "name": "Sweet Echo",
+          "jockey": "Paddy Bradley",
+          "trainer": "Philip McBride",
+          "form": "4",
+          "odds": {
+            "sbk": "8/1",
+            "exc": 9.6
+          }
+        },
+        {
+          "name": "Cotai Starlight (Ire)",
+          "jockey": "George Downing",
+          "trainer": "Ed Walker",
+          "form": "",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 9.8
+          }
+        },
+        {
+          "name": "Aly A'ali",
+          "jockey": "Jonny Peate",
+          "trainer": "James Ferguson",
+          "form": "74",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 10
+          }
+        },
+        {
+          "name": "Storm Esme",
+          "jockey": "S. B. Kirrane",
+          "trainer": "Tim Easterby",
+          "form": "",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Thornaby Annie (Ire)",
+          "jockey": "Harrison Shaw",
+          "trainer": "Adrian Nicholls",
+          "form": "03",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 11.5
+          }
+        },
+        {
+          "name": "Zarinca",
+          "jockey": "P. J. McDonald",
+          "trainer": "Edward Bethell",
+          "form": "",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 14.5
+          }
+        },
+        {
+          "name": "Control Room",
+          "jockey": "Cam Hardie",
+          "trainer": "Robert Cowell",
+          "form": "6",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 16.5
+          }
+        },
+        {
+          "name": "All Good",
+          "jockey": "Ryan Sexton",
+          "trainer": "Julie Camacho",
+          "form": "",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 24
+          }
+        },
+        {
+          "name": "Mereside Princess (Ire)",
+          "jockey": "Billy Garritty",
+          "trainer": "David & Nicola Barron",
+          "form": "",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 29
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newcastle/35/4/",
+      "runners": [
+        {
+          "name": "Great Dream",
+          "jockey": "Jack Mitchell",
+          "trainer": "Simon & Ed Crisford",
+          "form": "8-344",
+          "odds": {
+            "sbk": "9/10",
+            "exc": 1.91
+          }
+        },
+        {
+          "name": "Thaisa",
+          "jockey": "P. J. McDonald",
+          "trainer": "Andrew Balding",
+          "form": "38-3",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 4.1
+          }
+        },
+        {
+          "name": "Fierce Fortitude",
+          "jockey": "Rowan Scott",
+          "trainer": "Kevin Philippart de Foy",
+          "form": "43",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 6.2
+          }
+        },
+        {
+          "name": "Potomac River",
+          "jockey": "Ray Dawson",
+          "trainer": "T. J. Kent",
+          "form": "52",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 8.6
+          }
+        },
+        {
+          "name": "Nanyuki (Ire)",
+          "jockey": "David Nolan",
+          "trainer": "Ann Duffield",
+          "form": "",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 44
+          }
+        },
+        {
+          "name": "The Grand (Ire)",
+          "jockey": "Grace McEntee",
+          "trainer": "John Butler",
+          "form": "0",
+          "odds": {
+            "sbk": "200/1",
+            "exc": 120
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newcastle/35/5/",
+      "runners": [
+        {
+          "name": "Sassy Glory (Ire)",
+          "jockey": "Rhys Elliott",
+          "trainer": "Mark Walford",
+          "form": "98322241",
+          "odds": {
+            "sbk": "15/8",
+            "exc": 3.25
+          }
+        },
+        {
+          "name": "Desert Raider",
+          "jockey": "Shay Farmer",
+          "trainer": "Ian McInnes",
+          "form": "500-20823",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.6
+          }
+        },
+        {
+          "name": "Yafaarr (Ire)",
+          "jockey": "P. J. McDonald",
+          "trainer": "Sam England",
+          "form": "0-5854",
+          "odds": {
+            "sbk": "15/4",
+            "exc": 5.6
+          }
+        },
+        {
+          "name": "Spirit Of Bowland",
+          "jockey": "Zak Wheatley",
+          "trainer": "Stella Barclay",
+          "form": "7/6-814579",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Water Tiger",
+          "jockey": "Ryan Sexton",
+          "trainer": "Julie Camacho",
+          "form": "877",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 11.5
+          }
+        },
+        {
+          "name": "Tees George",
+          "jockey": "Harrison Shaw",
+          "trainer": "Adrian Nicholls",
+          "form": "310-60925",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Jachin (Ire)",
+          "jockey": "David Nolan",
+          "trainer": "Ivan Furtado",
+          "form": "315-70650",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 15.5
+          }
+        },
+        {
+          "name": "Kaaress (Ire)",
+          "jockey": "Harry Russell",
+          "trainer": "Ollie Pears",
+          "form": "9-4467627",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 23
+          }
+        },
+        {
+          "name": "Oh So Cool (Ire)",
+          "jockey": "Paddy Bradley",
+          "trainer": "Rebecca Menzies",
+          "form": "6076",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 24
+          }
+        },
+        {
+          "name": "Rose Of New Jersey",
+          "jockey": "Rowan Scott",
+          "trainer": "Gemma Tutty",
+          "form": "03-581857",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 26
+          }
+        },
+        {
+          "name": "Dutch Duke",
+          "jockey": "Grace McEntee",
+          "trainer": "John Butler",
+          "form": "0-908",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 48
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newcastle/35/6/",
+      "runners": [
+        {
+          "name": "Invitorio (Ire)",
+          "jockey": "James Sullivan",
+          "trainer": "Ruth Carr",
+          "form": "88060692",
+          "odds": {
+            "sbk": "11/4",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Asadjumeirah",
+          "jockey": "Cam Hardie",
+          "trainer": "Antony Brittain",
+          "form": "82748351",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "She'sashambles (Ire)",
+          "jockey": "Andrew Breslin",
+          "trainer": "Phillip Makin",
+          "form": "25-386304",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Respectful (Ire)",
+          "jockey": "David Nolan",
+          "trainer": "Paul Midgley",
+          "form": "700-50677",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 7.6
+          }
+        },
+        {
+          "name": "Bazball (Ire)",
+          "jockey": "Barry McHugh",
+          "trainer": "Joel Parkinson & Sue Smith",
+          "form": "46607932",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 8
+          }
+        },
+        {
+          "name": "Captain Pickles (Ire)",
+          "jockey": "Zak Wheatley",
+          "trainer": "Stella Barclay",
+          "form": "8-8455054",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 9.6
+          }
+        },
+        {
+          "name": "Golden Duke (Ire)",
+          "jockey": "Faye McManoman",
+          "trainer": "Nigel Tinkler",
+          "form": "500-25865",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 11.5
+          }
+        },
+        {
+          "name": "Little Mi Mi (Ire)",
+          "jockey": "Greg Fairley",
+          "trainer": "Iain Jardine",
+          "form": "0/6920-600",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "South Road (Ire)",
+          "jockey": "Joe Fanning",
+          "trainer": "Lucinda Russell & Michael Scudamore",
+          "form": "45-596156",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 19.5
+          }
+        },
+        {
+          "name": "Pancake",
+          "jockey": "S. B. Kirrane",
+          "trainer": "Michael Dods",
+          "form": "448-039",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 19.5
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newcastle/35/7/",
+      "runners": [
+        {
+          "name": "Mister Mojito (Ire)",
+          "jockey": "Ray Dawson",
+          "trainer": "T. J. Kent",
+          "form": "11917553",
+          "odds": {
+            "sbk": "11/8",
+            "exc": 2.48
+          }
+        },
+        {
+          "name": "Flying Fletcher",
+          "jockey": "Harry Russell",
+          "trainer": "Richard Fahey",
+          "form": "39500559",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 4.6
+          }
+        },
+        {
+          "name": "Yaajooz (Ire)",
+          "jockey": "Billy Garritty",
+          "trainer": "Michael & David Easterby",
+          "form": "16-320273",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 6
+          }
+        },
+        {
+          "name": "Riot (Ire)",
+          "jockey": "David Nolan",
+          "trainer": "David O'Meara",
+          "form": "26258004",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.4
+          }
+        },
+        {
+          "name": "Blazing Son",
+          "jockey": "Andrew Breslin",
+          "trainer": "Bryan Smart",
+          "form": "0123-0933",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Saisons D'or (Ire)",
+          "jockey": "Jack Garritty",
+          "trainer": "Jedd O'Keeffe",
+          "form": "01352315",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 22
+          }
+        },
+        {
+          "name": "Sovereign Knight",
+          "jockey": "Paddy Bradley",
+          "trainer": "Rebecca Menzies",
+          "form": "157-60820",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 28
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newcastle/35/8/",
+      "runners": [
+        {
+          "name": "Sanbona (Ire)",
+          "jockey": "Rhys Elliott",
+          "trainer": "Michael Dods",
+          "form": "35392121",
+          "odds": {
+            "sbk": "3/1",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Bibendum",
+          "jockey": "Ryan Sexton",
+          "trainer": "Julie Camacho",
+          "form": "54037813",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 6.4
+          }
+        },
+        {
+          "name": "Dandy Fitz (Ire)",
+          "jockey": "S. B. Kirrane",
+          "trainer": "Tim Easterby",
+          "form": "2-6244939",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 8
+          }
+        },
+        {
+          "name": "Lady Of The Garr (Ire)",
+          "jockey": "Kieran O'Neill",
+          "trainer": "Tracy Waggott",
+          "form": "27102552",
+          "odds": {
+            "sbk": "15/2",
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Rogue De Vega",
+          "jockey": "Cam Hardie",
+          "trainer": "Antony Brittain",
+          "form": "154-37674",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Newyorkstateofmind",
+          "jockey": "James Sullivan",
+          "trainer": "Ruth Carr",
+          "form": "73433265",
+          "odds": {
+            "sbk": "15/2",
+            "exc": 11
+          }
+        },
+        {
+          "name": "Let's Go Hugo (Ire)",
+          "jockey": "T. Kiely-Marshall",
+          "trainer": "Ollie Pears",
+          "form": "47286486",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Arlington",
+          "jockey": "Harrison Shaw",
+          "trainer": "Bryan Smart",
+          "form": "01729423",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 17
+          }
+        },
+        {
+          "name": "Northerner (Ire)",
+          "jockey": "Ben Robinson",
+          "trainer": "Brian Ellison",
+          "form": "4420-5953",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 19
+          }
+        },
+        {
+          "name": "Latin Five (Ire)",
+          "jockey": "David Nolan",
+          "trainer": "Paul Midgley",
+          "form": "39463563",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 20
+          }
+        },
+        {
+          "name": "Golden Rainbow",
+          "jockey": "Paddy Bradley",
+          "trainer": "Rebecca Menzies",
+          "form": "60233868",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 23
+          }
+        },
+        {
+          "name": "Desert Master",
+          "jockey": "Alex Jary",
+          "trainer": "Antony Brittain",
+          "form": "64090927",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 24
+          }
+        },
+        {
+          "name": "Bust A Moon",
+          "jockey": "Shay Farmer",
+          "trainer": "Ian McInnes",
+          "form": "35909930",
+          "odds": {
+            "sbk": "40/1",
+            "exc": 36
+          }
+        },
+        {
+          "name": "Doralee",
+          "jockey": "Billy Garritty",
+          "trainer": "David & Nicola Barron",
+          "form": "58084160",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 44
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "14:03",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newton-abbot/37/1/",
+      "runners": [
+        {
+          "name": "Catch Him Derry (Ire)",
+          "jockey": "Harry Skelton",
+          "trainer": "Dan Skelton",
+          "form": "21/1P6135-",
+          "odds": {
+            "sbk": "4/5",
+            "exc": 1.89
+          }
+        },
+        {
+          "name": "Art Of Diplomacy",
+          "jockey": "James Bowen",
+          "trainer": "Mickey Bowen",
+          "form": "334-21111",
+          "odds": {
+            "sbk": "5/4",
+            "exc": 2.62
+          }
+        },
+        {
+          "name": "In The Air (Fr)",
+          "jockey": "Ciaran Gethings",
+          "trainer": "Alastair Ralph",
+          "form": "266-54121",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 9.8
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "14:38",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newton-abbot/37/2/",
+      "runners": [
+        {
+          "name": "A Pai De Nom",
+          "jockey": "Harry Skelton",
+          "trainer": "Dan Skelton",
+          "form": "25-",
+          "odds": {
+            "sbk": "9/10",
+            "exc": 2.08
+          }
+        },
+        {
+          "name": "Maldini Milano (Ire)",
+          "jockey": "Harry Cobden",
+          "trainer": "Paul Nicholls",
+          "form": "102-",
+          "odds": {
+            "sbk": "15/4",
+            "exc": 4.9
+          }
+        },
+        {
+          "name": "General Briar (Ire)",
+          "jockey": "Freddie Gordon",
+          "trainer": "Chris Gordon",
+          "form": "26-",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 6
+          }
+        },
+        {
+          "name": "Roe And Co (Ire)",
+          "jockey": "Joe Anderson",
+          "trainer": "Jamie Snowden",
+          "form": "P8-",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 7.4
+          }
+        },
+        {
+          "name": "Cinnodin",
+          "jockey": "Gavin Sheehan",
+          "trainer": "Jamie Snowden",
+          "form": "6",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 23
+          }
+        },
+        {
+          "name": "Tara Time (Ire)",
+          "jockey": "Ben Jones",
+          "trainer": "David Rees",
+          "form": "P",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 130
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "15:13",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newton-abbot/37/3/",
+      "runners": [
+        {
+          "name": "Highland Haven",
+          "jockey": "Jonathan Burke",
+          "trainer": "Fergal O'Brien",
+          "form": "1620-",
+          "odds": {
+            "sbk": "7/5",
+            "exc": 2.58
+          }
+        },
+        {
+          "name": "Joueuse Royale (Fr)",
+          "jockey": "Mr Ben Sutton",
+          "trainer": "Olly Murphy",
+          "form": "34223-421",
+          "odds": {
+            "sbk": "3/1",
+            "exc": 4.2
+          }
+        },
+        {
+          "name": "La Belle Argentee (Fr)",
+          "jockey": "Harry Skelton",
+          "trainer": "Dan Skelton",
+          "form": "4-",
+          "odds": {
+            "sbk": "3/1",
+            "exc": 5.3
+          }
+        },
+        {
+          "name": "Hill In Brazil",
+          "jockey": "Luke Scott",
+          "trainer": "Dr Richard Newland & Jamie Insole",
+          "form": "260-1",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 5.3
+          }
+        },
+        {
+          "name": "Best Night (Fr)",
+          "jockey": "Jack Tudor",
+          "trainer": "David Pipe",
+          "form": "",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 28
+          }
+        },
+        {
+          "name": "Lynsey Larue (Ire)",
+          "jockey": "Isabel Williams",
+          "trainer": "Evan Williams",
+          "form": "4",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 90
+          }
+        },
+        {
+          "name": "Lizzielooe",
+          "jockey": "Rex Dingle",
+          "trainer": "Michael Blake",
+          "form": "0",
+          "odds": {
+            "sbk": "200/1",
+            "exc": 1000
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "15:48",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newton-abbot/37/4/",
+      "runners": [
+        {
+          "name": "Dickens (Ire)",
+          "jockey": "Luke Scott",
+          "trainer": "Jennie Candlish",
+          "form": "5F15-3113",
+          "odds": {
+            "sbk": "13/8",
+            "exc": 2.78
+          }
+        },
+        {
+          "name": "Book Of Secrets (Ire)",
+          "jockey": "Leah Noreci",
+          "trainer": "James Moffatt",
+          "form": "42/53-3237",
+          "odds": {
+            "sbk": "2/1",
+            "exc": 3.45
+          }
+        },
+        {
+          "name": "Top Guy (Ire)",
+          "jockey": "Harry Skelton",
+          "trainer": "Dan Skelton",
+          "form": "554-",
+          "odds": {
+            "sbk": "3/1",
+            "exc": 4.2
+          }
+        },
+        {
+          "name": "Saccary (Ger)",
+          "jockey": "Jack Tudor",
+          "trainer": "David Pipe",
+          "form": "058-",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 12
+          }
+        },
+        {
+          "name": "Chelsea Annie (Ire)",
+          "jockey": "Harriet Tucker",
+          "trainer": "Neil Mulholland",
+          "form": "88/1F",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 23
+          }
+        },
+        {
+          "name": "Jackson's Bay (Ire)",
+          "jockey": "Adam Wedge",
+          "trainer": "Evan Williams",
+          "form": "7545-P",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 30
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newton-abbot/37/5/",
+      "runners": [
+        {
+          "name": "Prince Zaltar (Fr)",
+          "jockey": "Harry Skelton",
+          "trainer": "Dan Skelton",
+          "form": "2/247-41P4",
+          "odds": {
+            "sbk": "11/4",
+            "exc": 3.8
+          }
+        },
+        {
+          "name": "Mohawk Chief (Usa)",
+          "jockey": "James Bowen",
+          "trainer": "Mickey Bowen",
+          "form": "33-432131",
+          "odds": {
+            "sbk": "11/4",
+            "exc": 4.2
+          }
+        },
+        {
+          "name": "Onemorefortheroad",
+          "jockey": "Ben Jones",
+          "trainer": "Ben Pauling",
+          "form": "9323524P-",
+          "odds": {
+            "sbk": "16/5",
+            "exc": 4.6
+          }
+        },
+        {
+          "name": "Chillhi (Ire)",
+          "jockey": "Nathan Howie",
+          "trainer": "James Owen",
+          "form": "088-2P141",
+          "odds": {
+            "sbk": "16/5",
+            "exc": 5.4
+          }
+        },
+        {
+          "name": "D'jo Dela Barriere (Fr)",
+          "jockey": "Miss Eleanor Williams",
+          "trainer": "Evan Williams",
+          "form": "886-13555",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.4
+          }
+        }
+      ]
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/newton-abbot/37/6/",
+      "runners": [
+        {
+          "name": "Shantou Lucky (Ire)",
+          "jockey": "Nathan Howie",
+          "trainer": "James Owen",
+          "form": "640-5P111",
+          "odds": {
+            "sbk": "1/2",
+            "exc": 1.63
+          }
+        },
+        {
+          "name": "Mcgregors Charge",
+          "jockey": "Ben Godfrey",
+          "trainer": "Ella Pickard",
+          "form": "2-8232413",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Pooroldmackley (Ire)",
+          "jockey": "Miss Eleanor Williams",
+          "trainer": "Evan Williams",
+          "form": "7311-3451",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 7.6
+          }
+        },
+        {
+          "name": "Blackacre",
+          "jockey": "Adam Wedge",
+          "trainer": "Evan Williams",
+          "form": "3523-6115",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Benny Baloo",
+          "jockey": "Isabel Williams",
+          "trainer": "Evan Williams",
+          "form": "5153/32-",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 20
+          }
+        },
+        {
+          "name": "Sheeka Supreme (Ire)",
+          "jockey": "Conor Ring",
+          "trainer": "Grace Harris",
+          "form": "086775P-",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 20
+          }
+        },
+        {
+          "name": "Kate Madrik (Fr)",
+          "jockey": "Callum Pritchard",
+          "trainer": "Debra Hamer",
+          "form": "1140P-289",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 44
+          }
+        }
+      ]
+    },
+    {
+      "course": "Downpatrick",
+      "time": "14:11",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/downpatrick/205/1/",
+      "runners": [
+        {
+          "name": "High Court Cave (Ire)",
+          "jockey": "Mr O. McGill",
+          "trainer": "Noel C. Kelly, Ireland",
+          "form": "41070-2",
+          "odds": {
+            "sbk": "6/5",
+            "exc": 2.14
+          }
+        },
+        {
+          "name": "Sea Eagle",
+          "jockey": "Mr T. E. O'Connor",
+          "trainer": "G. O'Leary, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "15/4",
+            "exc": 6
+          }
+        },
+        {
+          "name": "October Hill (Ire)",
+          "jockey": "Sean Flanagan",
+          "trainer": "Colin Bowe, Ireland",
+          "form": "9332",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "North Winterfell",
+          "jockey": "P. Byrnes",
+          "trainer": "Charles Byrnes, Ireland",
+          "form": "64",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Scary Askari",
+          "jockey": "Mr N. McParlan",
+          "trainer": "Sean McParlan, Ireland",
+          "form": "62",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Imperial Miss (Ire)",
+          "jockey": "J. J. Slevin",
+          "trainer": "T. Gibney, Ireland",
+          "form": "U50",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 17
+          }
+        },
+        {
+          "name": "Notmiwadi (Ire)",
+          "jockey": "Alex Harvey",
+          "trainer": "John McConnell, Ireland",
+          "form": "0-97",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 17
+          }
+        },
+        {
+          "name": "Tudorista (Ire)",
+          "jockey": "C. Stone-Walsh",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "form": "448",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 17
+          }
+        },
+        {
+          "name": "Trixaboutmaisie (Ire)",
+          "jockey": "E. Staples",
+          "trainer": "Colin Bowe, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 17
+          }
+        },
+        {
+          "name": "Boston Queen (Ire)",
+          "jockey": "Jordan Colin Gainford",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "99",
+          "odds": {
+            "sbk": "40/1",
+            "exc": 23
+          }
+        },
+        {
+          "name": "Hello Yes (Ire)",
+          "jockey": "Richard Deegan",
+          "trainer": "Sean McParlan, Ireland",
+          "form": "0-05",
+          "odds": {
+            "sbk": "80/1",
+            "exc": 29
+          }
+        },
+        {
+          "name": "Owl's Delight (Ire)",
+          "jockey": "D. E. Mullins",
+          "trainer": "A. McIntyre, Ireland",
+          "form": "9",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 70
+          }
+        },
+        {
+          "name": "Annie Grey (Ire)",
+          "jockey": "Simon Torrens",
+          "trainer": "Noel C. Kelly, Ireland",
+          "form": "P3",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 75
+          }
+        },
+        {
+          "name": "Mount Hotham (Ire)",
+          "jockey": "P. Hanlon",
+          "trainer": "John Joseph Hanlon, Ireland",
+          "form": "7",
+          "odds": {
+            "sbk": "40/1",
+            "exc": 90
+          }
+        },
+        {
+          "name": "Wings Of Eve (Ire)",
+          "jockey": "A. Balfe",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "form": "00",
+          "odds": {
+            "sbk": "100/1",
+            "exc": 200
+          }
+        }
+      ]
+    },
+    {
+      "course": "Downpatrick",
+      "time": "14:46",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/downpatrick/205/2/",
+      "runners": [
+        {
+          "name": "Arcland (Ire)",
+          "jockey": "E. Staples",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "form": "F/8344-24",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 3.35
+          }
+        },
+        {
+          "name": "Mic Drop (Ire)",
+          "jockey": "Sean Flanagan",
+          "trainer": "David M. O'Brien, Ireland",
+          "form": "94302-445",
+          "odds": {
+            "sbk": "16/5",
+            "exc": 4.6
+          }
+        },
+        {
+          "name": "Must Meet Cecil (Ire)",
+          "jockey": "Tiernan Power Roche",
+          "trainer": "Cian Michael Collins, Ireland",
+          "form": "82270363",
+          "odds": {
+            "sbk": "15/4",
+            "exc": 5.2
+          }
+        },
+        {
+          "name": "Half A Chance (Ire)",
+          "jockey": "P. Hanlon",
+          "trainer": "John Joseph Hanlon, Ireland",
+          "form": "81496-770",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 7.4
+          }
+        },
+        {
+          "name": "Purse Price",
+          "jockey": "Danny Gilligan",
+          "trainer": "Ross O'Sullivan, Ireland",
+          "form": "5/918467-5",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 11
+          }
+        },
+        {
+          "name": "No More Silver (Fr)",
+          "jockey": "J. W. Kennedy",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "5840",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 11
+          }
+        },
+        {
+          "name": "Wajaaha (Ire)",
+          "jockey": "A. McGuinness",
+          "trainer": "P. J. McKenna, Ireland",
+          "form": "P0-P72P44",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 16.5
+          }
+        },
+        {
+          "name": "Monty's Way (Ire)",
+          "jockey": "D. J. O'Keeffe",
+          "trainer": "George Stanley, Ireland",
+          "form": "90PPU/1P0-",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 27
+          }
+        }
+      ]
+    },
+    {
+      "course": "Downpatrick",
+      "time": "15:21",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/downpatrick/205/3/",
+      "runners": [
+        {
+          "name": "Silent Dawn (Ire)",
+          "jockey": "Sean Flanagan",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "08F35-P62",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 4.3
+          }
+        },
+        {
+          "name": "Tir Og (Ire)",
+          "jockey": "C. M. Hogan",
+          "trainer": "E. Seymour, Ireland",
+          "form": "093F-2851",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.6
+          }
+        },
+        {
+          "name": "Centaq (Ire)",
+          "jockey": "Patrick O'Hanlon",
+          "trainer": "Dermot Anthony McLoughlin, Ireland",
+          "form": "8-90674",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 6
+          }
+        },
+        {
+          "name": "Syosset (Ire)",
+          "jockey": "Alex Harvey",
+          "trainer": "John McConnell, Ireland",
+          "form": "700-0",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 7
+          }
+        },
+        {
+          "name": "You Make Me Smile (Ire)",
+          "jockey": "D. E. Mullins",
+          "trainer": "P. A. Fahy, Ireland",
+          "form": "0F0P/951-8",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 8.8
+          }
+        },
+        {
+          "name": "Rodney Bay (Ire)",
+          "jockey": "Mr N. McParlan",
+          "trainer": "R. J. Tumilty, Ireland",
+          "form": "440/0788-",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Blackberry Jack (Ire)",
+          "jockey": "Jordan Colin Gainford",
+          "trainer": "Denis Leahy, Ireland",
+          "form": "029/",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Only One Plan (Ire)",
+          "jockey": "Philip Donovan",
+          "trainer": "Michael Flannery, Ireland",
+          "form": "9-9702198",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Morell River (Ire)",
+          "jockey": "S. F. O'Keeffe",
+          "trainer": "Colin Bowe, Ireland",
+          "form": "0760-",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 9.6
+          }
+        },
+        {
+          "name": "Lily's Choice (Ire)",
+          "jockey": "C. M. Quirke",
+          "trainer": "David Harry Kelly, Ireland",
+          "form": "008636/06",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 10
+          }
+        },
+        {
+          "name": "King Bob (Ire)",
+          "jockey": "Simon Torrens",
+          "trainer": "P. J. Rothwell, Ireland",
+          "form": "0080",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 11
+          }
+        },
+        {
+          "name": "Marvellous Margo (Ire)",
+          "jockey": "I. Ryan",
+          "trainer": "Conor David Maxwell, Ireland",
+          "form": "7-76",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 13.5
+          }
+        },
+        {
+          "name": "Eastern Blue Bird (Ire)",
+          "jockey": "H. E. Sexton",
+          "trainer": "P. A. Fahy, Ireland",
+          "form": "6786-04",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 17
+          }
+        },
+        {
+          "name": "Chasing Crowns (Ire)",
+          "jockey": "P. J. Cody",
+          "trainer": "E. Sheehy, Ireland",
+          "form": "8588",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 17
+          }
+        },
+        {
+          "name": "Boston Bongo (Ire)",
+          "jockey": "P. Hanlon",
+          "trainer": "E. Sheehy, Ireland",
+          "form": "2/P0F4-079",
+          "odds": {
+            "sbk": "40/1",
+            "exc": 19.5
+          }
+        }
+      ]
+    },
+    {
+      "course": "Downpatrick",
+      "time": "15:56",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/downpatrick/205/4/",
+      "runners": [
+        {
+          "name": "Sporting Glance (Fr)",
+          "jockey": "E. Staples",
+          "trainer": "Cian Michael Collins, Ireland",
+          "form": "24P-4551",
+          "odds": {
+            "sbk": "2/1",
+            "exc": 3.15
+          }
+        },
+        {
+          "name": "Penny Perfect (Ire)",
+          "jockey": "J. W. Kennedy",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "41",
+          "odds": {
+            "sbk": "15/4",
+            "exc": 4.9
+          }
+        },
+        {
+          "name": "Our Zebo (Ire)",
+          "jockey": "Alex Harvey",
+          "trainer": "Noel C. Kelly, Ireland",
+          "form": "P21-10231",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.6
+          }
+        },
+        {
+          "name": "Boston Rajj (Ire)",
+          "jockey": "Danny Gilligan",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "30-212435",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.6
+          }
+        },
+        {
+          "name": "Faceman (Ire)",
+          "jockey": "C. M. Quirke",
+          "trainer": "David Harry Kelly, Ireland",
+          "form": "4390-0121",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.6
+          }
+        },
+        {
+          "name": "Following Orders (Ire)",
+          "jockey": "Tiernan Power Roche",
+          "trainer": "P. J. Rothwell, Ireland",
+          "form": "236-422",
+          "odds": {
+            "sbk": "15/2",
+            "exc": 9.6
+          }
+        }
+      ]
+    },
+    {
+      "course": "Downpatrick",
+      "time": "16:26",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/downpatrick/205/5/",
+      "runners": [
+        {
+          "name": "Mickey Cohen (Ire)",
+          "jockey": "Donagh Meyler",
+          "trainer": "Noel Meade, Ireland",
+          "form": "9073-6343",
+          "odds": {
+            "sbk": "15/4",
+            "exc": 4
+          }
+        },
+        {
+          "name": "Stretchemout (Ire)",
+          "jockey": "J. W. Kennedy",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "456269-P",
+          "odds": {
+            "sbk": "17/2",
+            "exc": 4.1
+          }
+        },
+        {
+          "name": "Navy Guitar (Ire)",
+          "jockey": "Sean Flanagan",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "4598-5105",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 4.2
+          }
+        },
+        {
+          "name": "Driscolls Hill (Ire)",
+          "jockey": "J. J. Slevin",
+          "trainer": "T. Gibney, Ireland",
+          "form": "622/907-9",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 4.7
+          }
+        },
+        {
+          "name": "Parkgarve (Ire)",
+          "jockey": "Patrick O'Hanlon",
+          "trainer": "Ian Patrick Donoghue, Ireland",
+          "form": "8-3458U2",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5.5
+          }
+        },
+        {
+          "name": "Quarry Tiepy (Ire)",
+          "jockey": "P. Townend",
+          "trainer": "W. P. Mullins, Ireland",
+          "form": "5757",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Lightning Legs (Ire)",
+          "jockey": "Sam Ewing",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "552",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 7.6
+          }
+        },
+        {
+          "name": "Sea Of Doubt (Ire)",
+          "jockey": "C. Stone-Walsh",
+          "trainer": "Ian Patrick Donoghue, Ireland",
+          "form": "92-24003U",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 8
+          }
+        },
+        {
+          "name": "Gina Moon (Ire)",
+          "jockey": "Danny Gilligan",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "U457-44PU",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 8.8
+          }
+        },
+        {
+          "name": "Ar Nos Na Gaoithe (Ire)",
+          "jockey": "Tiernan Power Roche",
+          "trainer": "P. J. Rothwell, Ireland",
+          "form": "46136-247",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Figurehead (Ire)",
+          "jockey": "Simon Torrens",
+          "trainer": "Michael G. Cleary, Ireland",
+          "form": "55045/P4-4",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 17
+          }
+        }
+      ]
+    },
+    {
+      "course": "Downpatrick",
+      "time": "17:01",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/downpatrick/205/6/",
+      "runners": [
+        {
+          "name": "Tango Theatre (Ire)",
+          "jockey": "D. A. Kidd",
+          "trainer": "John McConnell, Ireland",
+          "form": "260/70-221",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 3.7
+          }
+        },
+        {
+          "name": "Jumping Susie (Ire)",
+          "jockey": "Alex Harvey",
+          "trainer": "John McConnell, Ireland",
+          "form": "3158-4453",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Betty Dutton (Ire)",
+          "jockey": "Phillip Enright",
+          "trainer": "A. Slattery, Ireland",
+          "form": "2253-4422",
+          "odds": {
+            "sbk": "10/3",
+            "exc": 5
+          }
+        },
+        {
+          "name": "Tell Nobody Nothin (Ire)",
+          "jockey": "Donagh Meyler",
+          "trainer": "Noel Meade, Ireland",
+          "form": "65U2-4904",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 6.8
+          }
+        },
+        {
+          "name": "Solly Attwell (Ire)",
+          "jockey": "Jordan Colin Gainford",
+          "trainer": "Cian Michael Collins, Ireland",
+          "form": "13U30-8P1",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Hardy Diamond (Ire)",
+          "jockey": "J. W. Kennedy",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "730-29217",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Le Grand Vert (Fr)",
+          "jockey": "Simon Torrens",
+          "trainer": "Noel C. Kelly, Ireland",
+          "form": "3U331-683",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Midnight Moonshine (Ire)",
+          "jockey": "C. Stone-Walsh",
+          "trainer": "William Harvey, Ireland",
+          "form": "9-52521P",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 8
+          }
+        },
+        {
+          "name": "Ossifer Hops (Ire)",
+          "jockey": "Sam Ewing",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "93526P-P6",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 9.2
+          }
+        },
+        {
+          "name": "Eagle Terrace",
+          "jockey": "C. Stone-Walsh",
+          "trainer": "Noel C. Kelly, Ireland",
+          "form": "1P/657-808",
+          "odds": {
+            "sbk": "28/1",
+            "exc": 11.5
+          }
+        },
+        {
+          "name": "Portarlington (Ire)",
+          "jockey": "Mr J. P. Sutton",
+          "trainer": "Ian Patrick Donoghue, Ireland",
+          "form": "118-65105",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 11.5
+          }
+        }
+      ]
+    },
+    {
+      "course": "Downpatrick",
+      "time": "17:35",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/downpatrick/205/7/",
+      "runners": [
+        {
+          "name": "Minella Jury (Ire)",
+          "jockey": "Mr A. P. Ryan",
+          "trainer": "John Nallen, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "11/5",
+            "exc": 3.45
+          }
+        },
+        {
+          "name": "Tropical Twist (Ire)",
+          "jockey": "Mr J. H. Williamson",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "5/2",
+            "exc": 3.65
+          }
+        },
+        {
+          "name": "Moja Dama (Fr)",
+          "jockey": "Mr P. W. Mullins",
+          "trainer": "W. P. Mullins, Ireland",
+          "form": "3",
+          "odds": {
+            "sbk": "11/4",
+            "exc": 3.85
+          }
+        },
+        {
+          "name": "Bells Grove (Ire)",
+          "jockey": "Mr F. R. Buckley",
+          "trainer": "John McConnell, Ireland",
+          "form": "3",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 5
+          }
+        },
+        {
+          "name": "Katie's Casper (Ire)",
+          "jockey": "Mr D. McGill",
+          "trainer": "Dermot Anthony McLoughlin, Ireland",
+          "form": "366P-",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 18.5
+          }
+        },
+        {
+          "name": "Barrys Spirit (Ire)",
+          "jockey": "Mr B. M. Coonan",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "form": "9",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 32
+          }
+        },
+        {
+          "name": "Desertmore Charm (Ire)",
+          "jockey": "Mr J. C. Barry",
+          "trainer": "Denis Leahy, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "35/1",
+            "exc": 42
+          }
+        }
+      ]
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/dundalk/207/1/",
+      "runners": [
+        {
+          "name": "By The Lake (Ire)",
+          "jockey": "C. T. Keane",
+          "trainer": "G. M. Lyons, Ireland",
+          "form": "16",
+          "odds": {
+            "sbk": "11/5",
+            "exc": 3.2
+          }
+        },
+        {
+          "name": "First Approach (Ire)",
+          "jockey": "W. M. Lordan",
+          "trainer": "Aidan O'Brien, Ireland",
+          "form": "2140294",
+          "odds": {
+            "sbk": "9/4",
+            "exc": 3.5
+          }
+        },
+        {
+          "name": "Killourney Reigns (Ire)",
+          "jockey": "Ben Martin Coen",
+          "trainer": "John Patrick Murtagh, Ireland",
+          "form": "67551",
+          "odds": {
+            "sbk": "85/40",
+            "exc": 3.5
+          }
+        },
+        {
+          "name": "Soulful Diva (Ire)",
+          "jockey": "N. M. Crosse",
+          "trainer": "David Marnane, Ireland",
+          "form": "5818",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 4
+          }
+        },
+        {
+          "name": "Rosie Frith (Ire)",
+          "jockey": "P. McGettigan",
+          "trainer": "Patrick Magee, Ireland",
+          "form": "069172",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 8.4
+          }
+        },
+        {
+          "name": "Plushy (Ire)",
+          "jockey": "G. F. Carroll",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "form": "328",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Unauthorized (Ire)",
+          "jockey": "R. P. Cleary",
+          "trainer": "Aidan Melia, Ireland",
+          "form": "7",
+          "odds": {
+            "sbk": "35/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Prospect Thunder (Ire)",
+          "jockey": "Nicola Burns",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "398",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Practical Move (Ire)",
+          "jockey": "J. Pietropaolo",
+          "trainer": "Michael Butler, Ireland",
+          "form": "396",
+          "odds": {
+            "sbk": "35/1",
+            "exc": 19
+          }
+        },
+        {
+          "name": "Methodtomy Madness (Ire)",
+          "jockey": "R. M. Mulligan",
+          "trainer": "Daniel James Murphy, Ireland",
+          "form": "8816",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 19
+          }
+        }
+      ]
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/dundalk/207/2/",
+      "runners": [
+        {
+          "name": "Nazario (Ire)",
+          "jockey": "Seamie Heffernan",
+          "trainer": "Miss Natalia Lupini, Ireland",
+          "form": "2337",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 3.9
+          }
+        },
+        {
+          "name": "Dancing Saxon (Ire)",
+          "jockey": "J. M. Sheridan",
+          "trainer": "Joseph Patrick O'Brien, Ireland",
+          "form": "030",
+          "odds": {
+            "sbk": "11/4",
+            "exc": 4
+          }
+        },
+        {
+          "name": "Strait And Narrow (Ire)",
+          "jockey": "C. T. Keane",
+          "trainer": "M. D. O'Callaghan, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.1
+          }
+        },
+        {
+          "name": "Coincidental Glory (Ire)",
+          "jockey": "Adam Caffrey",
+          "trainer": "Adrian McGuinness, Ireland",
+          "form": "9330",
+          "odds": {
+            "sbk": "15/4",
+            "exc": 5.5
+          }
+        },
+        {
+          "name": "Stella Amorosa (Ire)",
+          "jockey": "C. D. Hayes",
+          "trainer": "Noel Meade, Ireland",
+          "form": "84",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 5.9
+          }
+        },
+        {
+          "name": "Vidmiyr (Ire)",
+          "jockey": "Ben Martin Coen",
+          "trainer": "John Patrick Murtagh, Ireland",
+          "form": "0",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 6.8
+          }
+        },
+        {
+          "name": "Cotai Island (Ire)",
+          "jockey": "Nicola Burns",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "03",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 8.8
+          }
+        },
+        {
+          "name": "Lamar Canyon (Ire)",
+          "jockey": "A. Browne-Souza",
+          "trainer": "W. P. Browne, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 9.8
+          }
+        },
+        {
+          "name": "Dawn Flame",
+          "jockey": "Shane Foley",
+          "trainer": "Paul W. Flynn, Ireland",
+          "form": "07",
+          "odds": {
+            "sbk": "200/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Tenarosa (Ire)",
+          "jockey": "Andrew Joseph Slattery",
+          "trainer": "G. T. Hourigan, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 18.5
+          }
+        },
+        {
+          "name": "That's No Joke (Ire)",
+          "jockey": "H. J. Horgan",
+          "trainer": "Joseph Patrick O'Brien, Ireland",
+          "form": "76",
+          "odds": {
+            "sbk": "30/1",
+            "exc": 19.5
+          }
+        },
+        {
+          "name": "Thistle Cross (Ire)",
+          "jockey": "G. F. Carroll",
+          "trainer": "M. M. Rice, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "100/1",
+            "exc": 24
+          }
+        },
+        {
+          "name": "California Baby (Ire)",
+          "jockey": "J. A. Powell",
+          "trainer": "Daniel James Murphy, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 30
+          }
+        },
+        {
+          "name": "All The Girls (Ire)",
+          "jockey": "R. Whearty",
+          "trainer": "T. G. McCourt, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "40/1",
+            "exc": 30
+          }
+        }
+      ]
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/dundalk/207/3/",
+      "runners": [
+        {
+          "name": "Imperial Dream (Ire)",
+          "jockey": "William James Lee",
+          "trainer": "Patrick J. Flynn, Ireland",
+          "form": "12049-756",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5.2
+          }
+        },
+        {
+          "name": "Send Harry (Ire)",
+          "jockey": "P. McGettigan",
+          "trainer": "Miss Evanna McCutcheon, Ireland",
+          "form": "04339333",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 6
+          }
+        },
+        {
+          "name": "Land Of The Giants (Ire)",
+          "jockey": "W. M. Lordan",
+          "trainer": "Miss Natalia Lupini, Ireland",
+          "form": "40-8",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Cali Case",
+          "jockey": "J. A. Powell",
+          "trainer": "M. D. O'Callaghan, Ireland",
+          "form": "07-5",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Spanish Temptress (Ire)",
+          "jockey": "C. D. Hayes",
+          "trainer": "Richard John O'Brien, Ireland",
+          "form": "0-682109",
+          "odds": {
+            "sbk": "15/2",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Bint Elnadim Star (Ire)",
+          "jockey": "J. Kearney",
+          "trainer": "Stephen Thorne, Ireland",
+          "form": "552",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Tofino (Ire)",
+          "jockey": "G. F. Carroll",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "form": "004-36613",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.6
+          }
+        },
+        {
+          "name": "Smoke Them Out (Ire)",
+          "jockey": "R. Whearty",
+          "trainer": "T. G. McCourt, Ireland",
+          "form": "12-456930",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 9.6
+          }
+        },
+        {
+          "name": "Oiche Rua (Ire)",
+          "jockey": "R. P. Whelan",
+          "trainer": "Adrian McGuinness, Ireland",
+          "form": "80011307",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 9.6
+          }
+        },
+        {
+          "name": "Late Night Talking (Ire)",
+          "jockey": "C. T. Keane",
+          "trainer": "Kieran Patrick Cotter, Ireland",
+          "form": "340000-20",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Green Icon (Fr)",
+          "jockey": "J. M. Sheridan",
+          "trainer": "Denis Hogan, Ireland",
+          "form": "07040030",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Best Suggestion (Ire)",
+          "jockey": "Ben Martin Coen",
+          "trainer": "Andrew Oliver, Ireland",
+          "form": "368208",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 12
+          }
+        },
+        {
+          "name": "Hugo's Girl (Ire)",
+          "jockey": "Gavin Ryan",
+          "trainer": "Thomas Dowling, Ireland",
+          "form": "3659-4933",
+          "odds": {
+            "sbk": "14/1",
+            "exc": 17
+          }
+        },
+        {
+          "name": "Flynn Ryder",
+          "jockey": "Shane Foley",
+          "trainer": "E. J. O'Neill, Ireland",
+          "form": "5-960306",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 18
+          }
+        }
+      ]
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/dundalk/207/4/",
+      "runners": [
+        {
+          "name": "Sayfa Fad (Ire)",
+          "jockey": "C. T. Keane",
+          "trainer": "Paul W. Flynn, Ireland",
+          "form": "800-02081",
+          "odds": {
+            "sbk": "8/1",
+            "exc": 3.15
+          }
+        },
+        {
+          "name": "Punk Poet (Ire)",
+          "jockey": "Ben Martin Coen",
+          "trainer": "Edward Lynam, Ireland",
+          "form": "07300062",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 3.85
+          }
+        },
+        {
+          "name": "Drafted (Ire)",
+          "jockey": "William James Lee",
+          "trainer": "Charles Byrnes, Ireland",
+          "form": "37023407",
+          "odds": {
+            "sbk": "7/1",
+            "exc": 4.7
+          }
+        },
+        {
+          "name": "Akashaa (Ire)",
+          "jockey": "R. Kinkaid",
+          "trainer": "Miss Natalia Lupini, Ireland",
+          "form": "00-852",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 4.7
+          }
+        },
+        {
+          "name": "Nammos",
+          "jockey": "Adam Caffrey",
+          "trainer": "Adrian McGuinness, Ireland",
+          "form": "124-47645",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Master Garvey (Ire)",
+          "jockey": "Wesley Joyce",
+          "trainer": "Joseph Anthony Murray, Ireland",
+          "form": "74806336",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 7
+          }
+        },
+        {
+          "name": "Rising Sky (Ire)",
+          "jockey": "L. T. McAteer",
+          "trainer": "Anthony McCann, Ireland",
+          "form": "06844863",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Sierra De Gredos",
+          "jockey": "G. F. Carroll",
+          "trainer": "Andrew Oliver, Ireland",
+          "form": "7-3418210",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 8.4
+          }
+        },
+        {
+          "name": "Yes Oui Si (Ire)",
+          "jockey": "Shane Foley",
+          "trainer": "Mrs J. Harrington, Ireland",
+          "form": "87-4U06d2",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 9.6
+          }
+        },
+        {
+          "name": "Carvalhal (Ire)",
+          "jockey": "Nicola Burns",
+          "trainer": "R. P. Burns, Ireland",
+          "form": "6-6733359",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 10
+          }
+        },
+        {
+          "name": "Circles (Ire)",
+          "jockey": "Seamie Heffernan",
+          "trainer": "Anthony McCann, Ireland",
+          "form": "78160600",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Pause For Peace (Ire)",
+          "jockey": "N. M. Crosse",
+          "trainer": "W. McCreery, Ireland",
+          "form": "7053",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 16
+          }
+        },
+        {
+          "name": "Parnu (Ire)",
+          "jockey": "C. D. Hayes",
+          "trainer": "P. J. F. Murphy, Ireland",
+          "form": "008-",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 18
+          }
+        },
+        {
+          "name": "Boutella",
+          "jockey": "Andrew Joseph Slattery",
+          "trainer": "David Marnane, Ireland",
+          "form": "98840-000",
+          "odds": {
+            "sbk": "66/1",
+            "exc": 19.5
+          }
+        }
+      ]
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/dundalk/207/5/",
+      "runners": [
+        {
+          "name": "Frank Pickle (Ire)",
+          "jockey": "S. Coen",
+          "trainer": "Mrs Denise Foster, Ireland",
+          "form": "45572",
+          "odds": {
+            "sbk": "11/4",
+            "exc": 3.45
+          }
+        },
+        {
+          "name": "Gallo Dell Cielo (Ire)",
+          "jockey": "S. A. Wallace",
+          "trainer": "Patrick J. Flynn, Ireland",
+          "form": "38066620",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 4.2
+          }
+        },
+        {
+          "name": "Ozark Daze",
+          "jockey": "R. M. Mulligan",
+          "trainer": "Jack W. Davison, Ireland",
+          "form": "2-0340593",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 6
+          }
+        },
+        {
+          "name": "Gracesolution (Ire)",
+          "jockey": "H. J. Horgan",
+          "trainer": "Ross O'Sullivan, Ireland",
+          "form": "40-313526",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Satono Chevalier (Ire)",
+          "jockey": "S. R. Markey",
+          "trainer": "Richard John O'Brien, Ireland",
+          "form": "533/41-590",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 7.6
+          }
+        },
+        {
+          "name": "El Bello",
+          "jockey": "Nicola Burns",
+          "trainer": "R Hurley, Ireland",
+          "form": "78343881",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 8.6
+          }
+        },
+        {
+          "name": "Church Mountain (Ire)",
+          "jockey": "D. J. O'Connor",
+          "trainer": "Denis Hogan, Ireland",
+          "form": "90988018",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 9.8
+          }
+        },
+        {
+          "name": "Pearl Jewel (Ire)",
+          "jockey": "Jack Cleary",
+          "trainer": "Christopher David Timmons, Ireland",
+          "form": "551-32060",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 9.8
+          }
+        },
+        {
+          "name": "Benavente",
+          "jockey": "J. Pietropaolo",
+          "trainer": "Kevin Thomas Coleman, Ireland",
+          "form": "67-687009",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Autocrat (Ire)",
+          "jockey": "P. McGettigan",
+          "trainer": "R. Donohoe, Ireland",
+          "form": "13562690",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 14
+          }
+        },
+        {
+          "name": "Beauty Generation (Ire)",
+          "jockey": "Keithen Kennedy",
+          "trainer": "Mrs J. Harrington, Ireland",
+          "form": "5-2100000",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 14.5
+          }
+        },
+        {
+          "name": "Voice Of Reason (Ire)",
+          "jockey": "Conor Cusack",
+          "trainer": "William Delahunty, Ireland",
+          "form": "3100/9966",
+          "odds": {
+            "sbk": "35/1",
+            "exc": 17.5
+          }
+        }
+      ]
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/dundalk/207/6/",
+      "runners": [
+        {
+          "name": "Explorers Way (Ire)",
+          "jockey": "Ben Martin Coen",
+          "trainer": "Andrew Kinirons, Ireland",
+          "form": "12355-706",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 4
+          }
+        },
+        {
+          "name": "Faro Island",
+          "jockey": "William James Lee",
+          "trainer": "Andrew Oliver, Ireland",
+          "form": "77-0",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 5
+          }
+        },
+        {
+          "name": "Hasten Slowly (Ire)",
+          "jockey": "Jessica O'Gorman",
+          "trainer": "John McConnell, Ireland",
+          "form": "980120-06",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5.8
+          }
+        },
+        {
+          "name": "Harseva (Ire)",
+          "jockey": "J. M. Sheridan",
+          "trainer": "Patrick Magee, Ireland",
+          "form": "9-6907601",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 7.8
+          }
+        },
+        {
+          "name": "Cala Bonita (Ire)",
+          "jockey": "R. C. Colgan",
+          "trainer": "Matthew J. Smith, Ireland",
+          "form": "00-210072",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 8.2
+          }
+        },
+        {
+          "name": "Thegooseiscooked (Ire)",
+          "jockey": "C. T. Keane",
+          "trainer": "Gerard Keane, Ireland",
+          "form": "8-0322137",
+          "odds": {
+            "sbk": "6/1",
+            "exc": 8.4
+          }
+        },
+        {
+          "name": "Venetian (Ire)",
+          "jockey": "S. P. Davis",
+          "trainer": "Sean Davis, Ireland",
+          "form": "90-618309",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Anjah (Ire)",
+          "jockey": "Nicola Burns",
+          "trainer": "H. D. McGuigan, Ireland",
+          "form": "42601-850",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 11
+          }
+        },
+        {
+          "name": "Glyde Ranger (Ire)",
+          "jockey": "R. Whearty",
+          "trainer": "T. G. McCourt, Ireland",
+          "form": "25-890040",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 11
+          }
+        },
+        {
+          "name": "Cherry Pink (Ire)",
+          "jockey": "J. A. Orr",
+          "trainer": "William Durkan, Ireland",
+          "form": "13267047",
+          "odds": {
+            "sbk": "25/1",
+            "exc": 11
+          }
+        },
+        {
+          "name": "Cowzer Soze (Ire)",
+          "jockey": "Andrew Joseph Slattery",
+          "trainer": "A. Slattery, Ireland",
+          "form": "0790",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 12
+          }
+        },
+        {
+          "name": "Gotta Catch'em All (Ire)",
+          "jockey": "Adam Caffrey",
+          "trainer": "Harry Rogers, Ireland",
+          "form": "0-6756236",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Alumni Lia (Ire)",
+          "jockey": "Jack Cleary",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "690-06350",
+          "odds": {
+            "sbk": "20/1",
+            "exc": 13
+          }
+        },
+        {
+          "name": "Share The Treasure (Ire)",
+          "jockey": "Wesley Joyce",
+          "trainer": "T. Hogan, Ireland",
+          "form": "07566015",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 15.5
+          }
+        }
+      ]
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/dundalk/207/7/",
+      "runners": [
+        {
+          "name": "Galician Girl (Ire)",
+          "jockey": "D. J. O'Connor",
+          "trainer": "John McConnell, Ireland",
+          "form": "09794-691",
+          "odds": {
+            "sbk": "5/1",
+            "exc": 3.15
+          }
+        },
+        {
+          "name": "Famous Enough (Ire)",
+          "jockey": "N. G. McCullagh",
+          "trainer": "Patrick T. Foley, Ireland",
+          "form": "53745104",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 3.75
+          }
+        },
+        {
+          "name": "Barretstown (Ire)",
+          "jockey": "William James Lee",
+          "trainer": "Conor O'Dwyer, Ireland",
+          "form": "214-70007",
+          "odds": {
+            "sbk": "8/1",
+            "exc": 4.1
+          }
+        },
+        {
+          "name": "Limestone Red (Ire)",
+          "jockey": "R. P. Whelan",
+          "trainer": "Tracey Collins, Ireland",
+          "form": "672-09050",
+          "odds": {
+            "sbk": "4/1",
+            "exc": 5
+          }
+        },
+        {
+          "name": "Cordouan (Fr)",
+          "jockey": "P. McGettigan",
+          "trainer": "P. Sweeney, Ireland",
+          "form": "00-655390",
+          "odds": {
+            "sbk": "11/2",
+            "exc": 5.2
+          }
+        },
+        {
+          "name": "Tartaraghan (Ire)",
+          "jockey": "C. T. Keane",
+          "trainer": "John McConnell, Ireland",
+          "form": "05132879",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 5.7
+          }
+        },
+        {
+          "name": "Elegant Grand (Usa)",
+          "jockey": "W. M. Lordan",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "950",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Tara Power (Ire)",
+          "jockey": "Adam Caffrey",
+          "trainer": "Keith Henry Clarke, Ireland",
+          "form": "41780604",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 8.8
+          }
+        },
+        {
+          "name": "Marians Gal (Ire)",
+          "jockey": "Wesley Joyce",
+          "trainer": "Kevin Michael Smith, Ireland",
+          "form": "9065356-0",
+          "odds": {
+            "sbk": "10/1",
+            "exc": 9.8
+          }
+        },
+        {
+          "name": "Timana (Ire)",
+          "jockey": "A. S. Grant",
+          "trainer": "Ms Joanna Morgan, Ireland",
+          "form": "2389-0",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 9.8
+          }
+        },
+        {
+          "name": "No More Kisses (Ire)",
+          "jockey": "Ben Martin Coen",
+          "trainer": "Andrew Oliver, Ireland",
+          "form": "00-00",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 9.8
+          }
+        },
+        {
+          "name": "Noble Hilltop (Ire)",
+          "jockey": "C. D. Hayes",
+          "trainer": "Edward Buckley, Ireland",
+          "form": "000-0",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Arrumba (Ire)",
+          "jockey": "R. P. Cleary",
+          "trainer": "Mrs Denise Foster, Ireland",
+          "form": "0649",
+          "odds": {
+            "sbk": "12/1",
+            "exc": 11
+          }
+        },
+        {
+          "name": "Shining Aitch",
+          "jockey": "Sadhbh Tormey",
+          "trainer": "T. G. McCourt, Ireland",
+          "form": "0-0960905",
+          "odds": {
+            "sbk": "22/1",
+            "exc": 15
+          }
+        }
+      ]
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/dundalk/207/8/",
+      "runners": [
+        {
+          "name": "Edward Hamilton (Ire)",
+          "jockey": "W. M. Lordan",
+          "trainer": "Aidan O'Brien, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "5/4",
+            "exc": 2.3
+          }
+        },
+        {
+          "name": "Ben Lawers",
+          "jockey": "Shane Foley",
+          "trainer": "Mrs J. Harrington, Ireland",
+          "form": "4339",
+          "odds": {
+            "sbk": "7/2",
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Marmeladova (Ire)",
+          "jockey": "William James Lee",
+          "trainer": "K. J. Condon, Ireland",
+          "form": "502",
+          "odds": {
+            "sbk": "9/2",
+            "exc": 7.4
+          }
+        },
+        {
+          "name": "Lady Mcc (Ire)",
+          "jockey": "Seamie Heffernan",
+          "trainer": "Miss Natalia Lupini, Ireland",
+          "form": "255",
+          "odds": {
+            "sbk": "9/1",
+            "exc": 7.8
+          }
+        },
+        {
+          "name": "Hamadhan (Ire)",
+          "jockey": "Ben Martin Coen",
+          "trainer": "John Patrick Murtagh, Ireland",
+          "form": "9-66",
+          "odds": {
+            "sbk": "13/2",
+            "exc": 8.4
+          }
+        },
+        {
+          "name": "Kasgani (Ire)",
+          "jockey": "C. D. Hayes",
+          "trainer": "D. K. Weld, Ireland",
+          "form": "6557",
+          "odds": {
+            "sbk": "11/1",
+            "exc": 13
+          }
+        },
+        {
+          "name": "Bartholomew",
+          "jockey": "N. M. Crosse",
+          "trainer": "N. Stokes, Ireland",
+          "form": "5",
+          "odds": {
+            "sbk": "16/1",
+            "exc": 20
+          }
+        },
+        {
+          "name": "El Galvino",
+          "jockey": "R. C. Colgan",
+          "trainer": "Andrew Lee, Ireland",
+          "form": "6",
+          "odds": {
+            "sbk": "100/1",
+            "exc": 23
+          }
+        },
+        {
+          "name": "Demidoff (Ire)",
+          "jockey": "A. Browne-Souza",
+          "trainer": "W. P. Browne, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "18/1",
+            "exc": 25
+          }
+        },
+        {
+          "name": "Hexagonal (Ire)",
+          "jockey": "D. J. O'Connor",
+          "trainer": "Denis Hogan, Ireland",
+          "form": "",
+          "odds": {
+            "sbk": "50/1",
+            "exc": 26
+          }
+        },
+        {
+          "name": "Morethan Ambitions (Usa)",
+          "jockey": "Andrew Joseph Slattery",
+          "trainer": "A. Slattery, Ireland",
+          "form": "60",
+          "odds": {
+            "sbk": "33/1",
+            "exc": 28
+          }
+        },
+        {
+          "name": "Bright Night (Ire)",
+          "jockey": "J. M. Sheridan",
+          "trainer": "Denis Hogan, Ireland",
+          "form": "90",
+          "odds": {
+            "sbk": "90/1",
+            "exc": 30
+          }
+        },
+        {
+          "name": "Yup Bro (Ire)",
+          "jockey": "R. P. Cleary",
+          "trainer": "John McConnell, Ireland",
+          "form": "0",
+          "odds": {
+            "sbk": "70/1",
+            "exc": 30
+          }
+        },
+        {
+          "name": "Diva Time (Ire)",
+          "jockey": "Wesley Joyce",
+          "trainer": "Kevin Michael Smith, Ireland",
+          "form": "90-",
+          "odds": {
+            "sbk": "80/1",
+            "exc": 40
+          }
+        }
+      ]
+    },
+    {
+      "course": "Presque Isle Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/presque-isle-downs/386/1/",
+      "runners": [
+        {
+          "name": "Gal In A Rush (Usa)",
+          "jockey": "Joel Rosario",
+          "trainer": "",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Freedom Speaks (Usa)",
+          "jockey": "Emmanuel Esquivel",
+          "trainer": "",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Ticker Tape Home (Can)",
+          "jockey": "Patrick Husbands",
+          "trainer": "Mark E. Casse, North America",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Elysian Field (Can)",
+          "jockey": "",
+          "trainer": "Mark E. Casse, North America",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Milliat (Ire)",
+          "jockey": "Vincent Cheminaud",
+          "trainer": "Brendan P. Walsh, USA",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Ms. Tart (Usa)",
+          "jockey": "Israel Rodriguez",
+          "trainer": "Kevin Rice, USA",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Tricky Temper (Usa)",
+          "jockey": "Antonio A. Gallardo",
+          "trainer": "Jeremiah C. Englehart, USA",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Pandora's Gift (Ire)",
+          "jockey": "Manuel Franco",
+          "trainer": "",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Stormcast (Can)",
+          "jockey": "Rafael Manuel Hernandez",
+          "trainer": "Mark E. Casse, North America",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Mitole Magic (Usa)",
+          "jockey": "",
+          "trainer": "",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Candy Reward (Usa)",
+          "jockey": "Pablo Morales",
+          "trainer": "Brandon L. Kulp, USA",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Ellen Jay (Usa)",
+          "jockey": "Flavien Prat",
+          "trainer": "Brad H. Cox, USA",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        },
+        {
+          "name": "Naughty Favors (Usa)",
+          "jockey": "Willie Martinez",
+          "trainer": "",
+          "form": "",
+          "odds": {
+            "sbk": null,
+            "exc": null
+          }
+        }
+      ]
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/fairview-south-africa/417/1/",
+      "runners": [
+        {
+          "name": "Away With Red (Saf)",
+          "jockey": "Avuyile Mbumbulu",
+          "trainer": "S. B. Kotzen, South Africa",
+          "form": "07456232",
+          "odds": {
+            "sbk": null,
+            "exc": 3.05
+          }
+        },
+        {
+          "name": "Money Galore (Saf)",
+          "jockey": "Xola Jacobs",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "3435",
+          "odds": {
+            "sbk": null,
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "American Matador (Saf)",
+          "jockey": "Sibongile Liyaba",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "9-2252353",
+          "odds": {
+            "sbk": null,
+            "exc": 6.2
+          }
+        },
+        {
+          "name": "American Eagle (Saf)",
+          "jockey": "Asitandile Gwadiso",
+          "trainer": "D. A. McKenzie, South Africa",
+          "form": "040-02306",
+          "odds": {
+            "sbk": null,
+            "exc": 9.8
+          }
+        },
+        {
+          "name": "Bomber Stream (Saf)",
+          "jockey": "Mzawuphile Naki",
+          "trainer": "L. Gila, South Africa",
+          "form": "5957-7430",
+          "odds": {
+            "sbk": null,
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Sweet Cake (Saf)",
+          "jockey": "Musa Ntunja",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "723246-68",
+          "odds": {
+            "sbk": null,
+            "exc": 14.5
+          }
+        },
+        {
+          "name": "Star Trooper (Saf)",
+          "jockey": "Jannerman Van Niekerk",
+          "trainer": "E. Kaknis, South Africa",
+          "form": "93686056",
+          "odds": {
+            "sbk": null,
+            "exc": 34
+          }
+        },
+        {
+          "name": "Global Chief (Saf)",
+          "jockey": "Sakhepi Ngqabuko",
+          "trainer": "T. J. Laing, South Africa",
+          "form": "405-40088",
+          "odds": {
+            "sbk": null,
+            "exc": 40
+          }
+        },
+        {
+          "name": "Nordic Spy (Saf)",
+          "jockey": "Lwandile Kolanisi",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "00",
+          "odds": {
+            "sbk": null,
+            "exc": 60
+          }
+        },
+        {
+          "name": "Move To The Groove (Saf)",
+          "jockey": "Anele Sojece",
+          "trainer": "E. Kaknis, South Africa",
+          "form": "60",
+          "odds": {
+            "sbk": null,
+            "exc": 100
+          }
+        },
+        {
+          "name": "Mafiabagsthemoney (Saf)",
+          "jockey": "Sinalo Tutu",
+          "trainer": "E. Kaknis, South Africa",
+          "form": "00007967",
+          "odds": {
+            "sbk": null,
+            "exc": 210
+          }
+        }
+      ]
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/fairview-south-africa/417/2/",
+      "runners": [
+        {
+          "name": "Direct Hit (Saf)",
+          "jockey": "Richard Fourie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "1111",
+          "odds": {
+            "sbk": null,
+            "exc": 1.27
+          }
+        },
+        {
+          "name": "Montelena (Saf)",
+          "jockey": "Craig Zackey",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "41270233",
+          "odds": {
+            "sbk": null,
+            "exc": 11
+          }
+        },
+        {
+          "name": "Ellorix (Saf)",
+          "jockey": "S'manga Khumalo",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "57138241",
+          "odds": {
+            "sbk": null,
+            "exc": 12.5
+          }
+        },
+        {
+          "name": "Sweetie Darling (Saf)",
+          "jockey": "Chad Little",
+          "trainer": "J. P. Nel, South Africa",
+          "form": "91001117",
+          "odds": {
+            "sbk": null,
+            "exc": 16.5
+          }
+        },
+        {
+          "name": "Alesia's Love (Saf)",
+          "jockey": "Kendall Minnie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "6279-3686",
+          "odds": {
+            "sbk": null,
+            "exc": 24
+          }
+        },
+        {
+          "name": "Hoerikwaggo (Saf)",
+          "jockey": "Gareth Wright",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "3-6105",
+          "odds": {
+            "sbk": null,
+            "exc": 27
+          }
+        }
+      ]
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/fairview-south-africa/417/3/",
+      "runners": [
+        {
+          "name": "Japanese Garden (Saf)",
+          "jockey": "Marco V'rensburg",
+          "trainer": "WGC Miller, South Africa",
+          "form": "423541",
+          "odds": {
+            "sbk": null,
+            "exc": 2.66
+          }
+        },
+        {
+          "name": "Ice Cap (Saf)",
+          "jockey": "Craig Zackey",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "162-25234",
+          "odds": {
+            "sbk": null,
+            "exc": 4.1
+          }
+        },
+        {
+          "name": "Full Of Magic (Saf)",
+          "jockey": "Muzi Yeni",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "5-2806333",
+          "odds": {
+            "sbk": null,
+            "exc": 5.4
+          }
+        },
+        {
+          "name": "Faraway Girl (Saf)",
+          "jockey": "Luyolo Mxothwa",
+          "trainer": "S. B. Kotzen, South Africa",
+          "form": "66731",
+          "odds": {
+            "sbk": null,
+            "exc": 7.2
+          }
+        },
+        {
+          "name": "Just One Kiss (Saf)",
+          "jockey": "Richard Fourie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "716",
+          "odds": {
+            "sbk": null,
+            "exc": 7.8
+          }
+        },
+        {
+          "name": "Gaelic Dancer (Saf)",
+          "jockey": "Chad Little",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "89735259",
+          "odds": {
+            "sbk": null,
+            "exc": 8
+          }
+        },
+        {
+          "name": "Beneath The Moon (Saf)",
+          "jockey": "Malesela Katjedi",
+          "trainer": "T. J. Laing, South Africa",
+          "form": "089-06448",
+          "odds": {
+            "sbk": null,
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Kilmonivaig (Saf)",
+          "jockey": "Chase Maujean",
+          "trainer": "T. J. Laing, South Africa",
+          "form": "73593693",
+          "odds": {
+            "sbk": null,
+            "exc": 10.5
+          }
+        },
+        {
+          "name": "Cape Capri (Saf)",
+          "jockey": "Wayne Agrella",
+          "trainer": "D. A. McKenzie, South Africa",
+          "form": "99-074540",
+          "odds": {
+            "sbk": null,
+            "exc": 13.5
+          }
+        },
+        {
+          "name": "Canford Queen (Saf)",
+          "jockey": "Bavish Soodoo",
+          "trainer": "Z. Oosthuizen, South Africa",
+          "form": "44660730",
+          "odds": {
+            "sbk": null,
+            "exc": 23
+          }
+        },
+        {
+          "name": "Penny's World (Saf)",
+          "jockey": "S'manga Khumalo",
+          "trainer": "L. Gila, South Africa",
+          "form": "87790418",
+          "odds": {
+            "sbk": null,
+            "exc": 24
+          }
+        },
+        {
+          "name": "Queen Of Jazz (Saf)",
+          "jockey": "Stallone Naidoo",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "1839-6790",
+          "odds": {
+            "sbk": null,
+            "exc": 34
+          }
+        },
+        {
+          "name": "Dancing In Winter (Saf)",
+          "jockey": "Gareth Wright",
+          "trainer": "J. L. Van Heerden, South Africa",
+          "form": "3-0332410",
+          "odds": {
+            "sbk": null,
+            "exc": 36
+          }
+        },
+        {
+          "name": "Free World (Saf)",
+          "jockey": "Nirvan Nastili",
+          "trainer": "D. A. McKenzie, South Africa",
+          "form": "24-437400",
+          "odds": {
+            "sbk": null,
+            "exc": 42
+          }
+        },
+        {
+          "name": "Stroopsoet (Saf)",
+          "jockey": "Yuzae Ramzan",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "58196-049",
+          "odds": {
+            "sbk": null,
+            "exc": 42
+          }
+        }
+      ]
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/fairview-south-africa/417/4/",
+      "runners": [
+        {
+          "name": "Sports Fan (Saf)",
+          "jockey": "Richard Fourie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "3-312",
+          "odds": {
+            "sbk": null,
+            "exc": 1.45
+          }
+        },
+        {
+          "name": "Fiery Countess (Saf)",
+          "jockey": "Bavish Soodoo",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "2412541",
+          "odds": {
+            "sbk": null,
+            "exc": 5
+          }
+        },
+        {
+          "name": "Smashing (Saf)",
+          "jockey": "Kendall Minnie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "37313213",
+          "odds": {
+            "sbk": null,
+            "exc": 8.8
+          }
+        },
+        {
+          "name": "Kamakazi (Saf)",
+          "jockey": "Chad Little",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "73-987306",
+          "odds": {
+            "sbk": null,
+            "exc": 9.4
+          }
+        },
+        {
+          "name": "Enchanting Lady (Saf)",
+          "jockey": "Luyolo Mxothwa",
+          "trainer": "S. B. Kotzen, South Africa",
+          "form": "0-9343754",
+          "odds": {
+            "sbk": null,
+            "exc": 11
+          }
+        },
+        {
+          "name": "My Ami Beach (Saf)",
+          "jockey": "Yuzae Ramzan",
+          "trainer": "E. Kaknis, South Africa",
+          "form": "16955035",
+          "odds": {
+            "sbk": null,
+            "exc": 14.5
+          }
+        },
+        {
+          "name": "Air Born Lady (Saf)",
+          "jockey": "Muzi Yeni",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "5159",
+          "odds": {
+            "sbk": null,
+            "exc": 15.5
+          }
+        },
+        {
+          "name": "Piton De Neige (Saf)",
+          "jockey": "Nirvan Nastili",
+          "trainer": "D. A. McKenzie, South Africa",
+          "form": "6-6423159",
+          "odds": {
+            "sbk": null,
+            "exc": 18.5
+          }
+        },
+        {
+          "name": "Havana Grey (Saf)",
+          "jockey": "Charles Ndlovu",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "38277887",
+          "odds": {
+            "sbk": null,
+            "exc": 23
+          }
+        }
+      ]
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/fairview-south-africa/417/5/",
+      "runners": [
+        {
+          "name": "Beer With The Boys (Saf)",
+          "jockey": "Stallone Naidoo",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "22574032",
+          "odds": {
+            "sbk": null,
+            "exc": 3
+          }
+        },
+        {
+          "name": "Strange Magic (Saf)",
+          "jockey": "Craig Zackey",
+          "trainer": "Z. Oosthuizen, South Africa",
+          "form": "80993236",
+          "odds": {
+            "sbk": null,
+            "exc": 3.75
+          }
+        },
+        {
+          "name": "Back For More (Saf)",
+          "jockey": "Richard Fourie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "70909842",
+          "odds": {
+            "sbk": null,
+            "exc": 3.9
+          }
+        },
+        {
+          "name": "Blue Palace (Saf)",
+          "jockey": "Luyolo Mxothwa",
+          "trainer": "S. B. Kotzen, South Africa",
+          "form": "48-937717",
+          "odds": {
+            "sbk": null,
+            "exc": 4.3
+          }
+        },
+        {
+          "name": "Flash Lightning (Saf)",
+          "jockey": "Chase Maujean",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "80669553",
+          "odds": {
+            "sbk": null,
+            "exc": 4.8
+          }
+        },
+        {
+          "name": "Dumisani (Saf)",
+          "jockey": "Malesela Katjedi",
+          "trainer": "J. L. Van Heerden, South Africa",
+          "form": "5-0625249",
+          "odds": {
+            "sbk": null,
+            "exc": 6.6
+          }
+        },
+        {
+          "name": "Always Shining (Saf)",
+          "jockey": "S'manga Khumalo",
+          "trainer": "L. Gila, South Africa",
+          "form": "72321064",
+          "odds": {
+            "sbk": null,
+            "exc": 9.2
+          }
+        },
+        {
+          "name": "Global Drumbeat (Saf)",
+          "jockey": "Muzi Yeni",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "79344421",
+          "odds": {
+            "sbk": null,
+            "exc": 10
+          }
+        },
+        {
+          "name": "Anchor Man (Saf)",
+          "jockey": "Gareth Wright",
+          "trainer": "J. L. Van Heerden, South Africa",
+          "form": "234-13907",
+          "odds": {
+            "sbk": null,
+            "exc": 12
+          }
+        }
+      ]
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/fairview-south-africa/417/6/",
+      "runners": [
+        {
+          "name": "Outback Express (Saf)",
+          "jockey": "Chase Maujean",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "79877522",
+          "odds": {
+            "sbk": null,
+            "exc": 2.66
+          }
+        },
+        {
+          "name": "Bomber Bay (Saf)",
+          "jockey": "Craig Zackey",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "7-0433324",
+          "odds": {
+            "sbk": null,
+            "exc": 2.88
+          }
+        },
+        {
+          "name": "Darling Girl (Saf)",
+          "jockey": "Richard Fourie",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "00906663",
+          "odds": {
+            "sbk": null,
+            "exc": 4.3
+          }
+        },
+        {
+          "name": "Sempre Bella (Saf)",
+          "jockey": "Muzi Yeni",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "89978243",
+          "odds": {
+            "sbk": null,
+            "exc": 4.3
+          }
+        },
+        {
+          "name": "Janneman Wat Kan (Saf)",
+          "jockey": "S'manga Khumalo",
+          "trainer": "L. Gila, South Africa",
+          "form": "0050",
+          "odds": {
+            "sbk": null,
+            "exc": 4.5
+          }
+        },
+        {
+          "name": "Lord Quinn (Saf)",
+          "jockey": "Wayne Agrella",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "4-4267004",
+          "odds": {
+            "sbk": null,
+            "exc": 10
+          }
+        },
+        {
+          "name": "Global Speak (Saf)",
+          "jockey": "Chad Little",
+          "trainer": "J. P. Nel, South Africa",
+          "form": "0088884",
+          "odds": {
+            "sbk": null,
+            "exc": 12
+          }
+        },
+        {
+          "name": "Incendiary (Saf)",
+          "jockey": "Luyolo Mxothwa",
+          "trainer": "S. B. Kotzen, South Africa",
+          "form": "07555",
+          "odds": {
+            "sbk": null,
+            "exc": 12
+          }
+        },
+        {
+          "name": "Go Dancing (Saf)",
+          "jockey": "Nirvan Nastili",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "07078777",
+          "odds": {
+            "sbk": null,
+            "exc": 14
+          }
+        }
+      ]
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/fairview-south-africa/417/7/",
+      "runners": [
+        {
+          "name": "My Best Shot (Saf)",
+          "jockey": "Richard Fourie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "1-1111103",
+          "odds": {
+            "sbk": null,
+            "exc": 1.75
+          }
+        },
+        {
+          "name": "Royal Aussie (Saf)",
+          "jockey": "Muzi Yeni",
+          "trainer": "J. S. Snaith, South Africa",
+          "form": "52-459692",
+          "odds": {
+            "sbk": null,
+            "exc": 2.6
+          }
+        },
+        {
+          "name": "Golden Peace (Saf)",
+          "jockey": "S'manga Khumalo",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "2517-1116",
+          "odds": {
+            "sbk": null,
+            "exc": 5.3
+          }
+        },
+        {
+          "name": "Firealley (Saf)",
+          "jockey": "Chase Maujean",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "33842341",
+          "odds": {
+            "sbk": null,
+            "exc": 6.6
+          }
+        },
+        {
+          "name": "Lanciafiamme (Saf)",
+          "jockey": "Marco V'rensburg",
+          "trainer": "WGC Miller, South Africa",
+          "form": "09321141",
+          "odds": {
+            "sbk": null,
+            "exc": 6.6
+          }
+        },
+        {
+          "name": "Bingwa (Saf)",
+          "jockey": "Craig Zackey",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "721-13655",
+          "odds": {
+            "sbk": null,
+            "exc": 9.2
+          }
+        },
+        {
+          "name": "Global Ally (Saf)",
+          "jockey": "Luyolo Mxothwa",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "53224524",
+          "odds": {
+            "sbk": null,
+            "exc": 10
+          }
+        },
+        {
+          "name": "Green Mandarin (Saf)",
+          "jockey": "Malesela Katjedi",
+          "trainer": "J. P. Nel, South Africa",
+          "form": "56795544",
+          "odds": {
+            "sbk": null,
+            "exc": 10
+          }
+        },
+        {
+          "name": "Juan Carlos (Saf)",
+          "jockey": "Charles Ndlovu",
+          "trainer": "T. J. Laing, South Africa",
+          "form": "22-132145",
+          "odds": {
+            "sbk": null,
+            "exc": 12
+          }
+        },
+        {
+          "name": "Bournemouth (Saf)",
+          "jockey": "Kendall Minnie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "335-11120",
+          "odds": {
+            "sbk": null,
+            "exc": 12
+          }
+        },
+        {
+          "name": "Anatolian Silver (Saf)",
+          "jockey": "Eldin Webber",
+          "trainer": "J. P. Nel, South Africa",
+          "form": "184-48653",
+          "odds": {
+            "sbk": null,
+            "exc": 12
+          }
+        }
+      ]
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-september-2025/fairview-south-africa/417/8/",
+      "runners": [
+        {
+          "name": "Golden Grey (Saf)",
+          "jockey": "Richard Fourie",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "82232112",
+          "odds": {
+            "sbk": null,
+            "exc": 2.02
+          }
+        },
+        {
+          "name": "New Mexico (Saf)",
+          "jockey": "Chase Maujean",
+          "trainer": "T. J. Laing, South Africa",
+          "form": "6041-5601",
+          "odds": {
+            "sbk": null,
+            "exc": 2.32
+          }
+        },
+        {
+          "name": "French Flame (Saf)",
+          "jockey": "Craig Zackey",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "30-684502",
+          "odds": {
+            "sbk": null,
+            "exc": 2.32
+          }
+        },
+        {
+          "name": "Grand Allegro (Saf)",
+          "jockey": "Muzi Yeni",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "83422123",
+          "odds": {
+            "sbk": null,
+            "exc": 4.1
+          }
+        },
+        {
+          "name": "Das Gute (Saf)",
+          "jockey": "S'manga Khumalo",
+          "trainer": "L. Gila, South Africa",
+          "form": "09-000056",
+          "odds": {
+            "sbk": null,
+            "exc": 5.1
+          }
+        },
+        {
+          "name": "Mr Belvedere (Saf)",
+          "jockey": "Malesela Katjedi",
+          "trainer": "J. P. Nel, South Africa",
+          "form": "58076642",
+          "odds": {
+            "sbk": null,
+            "exc": 5.1
+          }
+        },
+        {
+          "name": "Cheerful Charlie B (Saf)",
+          "jockey": "Marco V'rensburg",
+          "trainer": "WGC Miller, South Africa",
+          "form": "45417646",
+          "odds": {
+            "sbk": null,
+            "exc": 5.1
+          }
+        },
+        {
+          "name": "Pisces (Saf)",
+          "jockey": "Stallone Naidoo",
+          "trainer": "G. D. Smith, South Africa",
+          "form": "305-73586",
+          "odds": {
+            "sbk": null,
+            "exc": 6.2
+          }
+        },
+        {
+          "name": "Sun Spectacular (Saf)",
+          "jockey": "Wayne Agrella",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "61287602",
+          "odds": {
+            "sbk": null,
+            "exc": 6.2
+          }
+        },
+        {
+          "name": "Only A Poet (Saf)",
+          "jockey": "Nirvan Nastili",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "45077397",
+          "odds": {
+            "sbk": null,
+            "exc": 6.2
+          }
+        },
+        {
+          "name": "Volare E Mambo (Saf)",
+          "jockey": "Chad Little",
+          "trainer": "D. A. McKenzie, South Africa",
+          "form": "52-327756",
+          "odds": {
+            "sbk": null,
+            "exc": 6.2
+          }
+        },
+        {
+          "name": "Green Okra (Saf)",
+          "jockey": "Charles Ndlovu",
+          "trainer": "A. C. Greeff, South Africa",
+          "form": "48231609",
+          "odds": {
+            "sbk": null,
+            "exc": 6.2
+          }
+        },
+        {
+          "name": "Flight Engineer (Saf)",
+          "jockey": "Yuzae Ramzan",
+          "trainer": "K. Mitchley, South Africa",
+          "form": "82876316",
+          "odds": {
+            "sbk": null,
+            "exc": 6.2
+          }
+        }
+      ]
+    }
+  ]
+}
