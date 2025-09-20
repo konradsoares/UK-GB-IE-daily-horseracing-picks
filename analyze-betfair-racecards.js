@@ -3,9 +3,6 @@
  * Analyze Betfair racecards with Perplexity (Sonar)
  * Input:  betfair-racecards-YYYY-MM-DD.json  (from your scraper; includes runners with J/T/Form/Odds)
  * Output: betfair-racecards-picks-YYYY-MM-DD.json
- *
- * Env:
- *   PERPLEXITY_API_KEY=...  (don’t hard-code your key)
  */
 
 'use strict';
