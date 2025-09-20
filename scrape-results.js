@@ -16,14 +16,64 @@ const BASE = 'https://betting.betfair.com';
 function pad(n){ return String(n).padStart(2,'0'); }
 function toYMD(d){ return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`; }
 
-// figure date (default: yesterday in Europe/Dublin)
 function getTargetDateFromArgs() {
-  const arg = process.argv.find(a => a.startsWith('--date='));
-  if (arg) return arg.split('=')[1];
-  // crude “yesterday in Dublin” without tz libs: shift 24h
-  const now = new Date();
-  const y = new Date(now.getTime() - 24*60*60*1000);
-  return toYMD(y);
+  const args = process.argv.slice(2);
+
+  // helpers
+  const pad = n => String(n).padStart(2, '0');
+  const toYMD = d => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+
+  const parseDateFlexible = (s) => {
+    if (!s) return null;
+    s = s.trim();
+
+    // ISO YYYY-MM-DD
+    let m = s.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (m) {
+      const d = new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3]));
+      return Number.isFinite(d.getTime()) ? toYMD(d) : null;
+    }
+
+    // DD/MM/YYYY
+    m = s.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
+    if (m) {
+      const d = new Date(Number(m[3]), Number(m[2]) - 1, Number(m[1]));
+      return Number.isFinite(d.getTime()) ? toYMD(d) : null;
+    }
+
+    return null;
+  };
+
+  // flags
+  if (args.includes('--today')) {
+    const d = new Date();           // system time
+    return toYMD(d);
+  }
+  if (args.includes('--yesterday')) {
+    const d = new Date(Date.now() - 24 * 60 * 60 * 1000);
+    return toYMD(d);
+  }
+
+  // --date=VALUE
+  const eqArg = args.find(a => a.startsWith('--date='));
+  if (eqArg) {
+    const val = eqArg.split('=')[1];
+    const parsed = parseDateFlexible(val);
+    if (parsed) return parsed;
+    throw new Error(`Invalid --date value: "${val}". Use YYYY-MM-DD or DD/MM/YYYY.`);
+  }
+
+  // --date VALUE
+  const i = args.indexOf('--date');
+  if (i !== -1 && args[i + 1]) {
+    const parsed = parseDateFlexible(args[i + 1]);
+    if (parsed) return parsed;
+    throw new Error(`Invalid --date value: "${args[i + 1]}". Use YYYY-MM-DD or DD/MM/YYYY.`);
+  }
+
+  // default: “yesterday” (Europe/Dublin semantics would require tz libs; we keep 24h back)
+  const d = new Date(Date.now() - 24 * 60 * 60 * 1000);
+  return toYMD(d);
 }
 
 function archivePathFor(dateStr){
