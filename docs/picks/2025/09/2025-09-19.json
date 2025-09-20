@@ -20,7 +20,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Aspiral",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ayr",
@@ -39,7 +46,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Ardisia (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ayr",
@@ -58,7 +72,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Chairmanfourtimes (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ayr",
@@ -77,7 +98,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Beautiful Diamond",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ayr",
@@ -96,7 +124,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Winged Messenger",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ayr",
@@ -115,7 +150,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Penelope's Sister (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ayr",
@@ -134,7 +176,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Cisco Disco (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ayr",
@@ -153,7 +202,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Just Dottie",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newbury",
@@ -172,7 +228,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Black Star Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newbury",
@@ -191,7 +254,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Tavana",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newbury",
@@ -210,7 +280,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Senorita Vega (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newbury",
@@ -229,7 +306,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Look To The Stars (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newbury",
@@ -248,7 +332,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Remmooz",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newbury",
@@ -267,7 +358,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Orionis",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newbury",
@@ -286,7 +384,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Janey Mackers (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newcastle",
@@ -305,7 +410,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Heartened (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newcastle",
@@ -324,7 +436,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Queen Roslyn",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newcastle",
@@ -343,7 +462,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Storm Esme",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newcastle",
@@ -362,7 +488,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Great Dream",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newcastle",
@@ -381,7 +514,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Jachin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newcastle",
@@ -400,7 +540,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Bazball (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newcastle",
@@ -419,7 +566,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Blazing Son",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newcastle",
@@ -438,7 +592,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Let's Go Hugo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newton Abbot",
@@ -457,7 +618,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Art Of Diplomacy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newton Abbot",
@@ -476,7 +644,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "A Pai De Nom",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newton Abbot",
@@ -495,7 +670,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Best Night (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newton Abbot",
@@ -514,7 +696,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Dickens (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newton Abbot",
@@ -533,7 +722,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Prince Zaltar (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Newton Abbot",
@@ -552,7 +748,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Shantou Lucky (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Downpatrick",
@@ -571,7 +774,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "High Court Cave (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Downpatrick",
@@ -590,7 +800,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Arcland (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Downpatrick",
@@ -609,7 +826,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Tir Og (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Downpatrick",
@@ -628,7 +852,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Sporting Glance (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Downpatrick",
@@ -647,7 +878,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Mickey Cohen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Downpatrick",
@@ -666,7 +904,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Solly Attwell (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Downpatrick",
@@ -685,7 +930,14 @@
           "request_cost": 0.006,
           "total_cost": 0.008
         }
-      }
+      },
+      "result": {
+        "name": "Moja Dama (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Dundalk",
@@ -704,7 +956,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "By The Lake (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Dundalk",
@@ -723,7 +982,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Strait And Narrow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Dundalk",
@@ -742,7 +1008,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Send Harry (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Dundalk",
@@ -761,7 +1034,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Sierra De Gredos",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Dundalk",
@@ -780,7 +1060,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Benavente",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Dundalk",
@@ -799,7 +1086,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Cala Bonita (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Dundalk",
@@ -818,7 +1112,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Barretstown (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Dundalk",
@@ -837,7 +1138,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Edward Hamilton (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Presque Isle Downs",
@@ -893,7 +1201,14 @@
           "request_cost": 0.006,
           "total_cost": 0.019
         }
-      }
+      },
+      "result": {
+        "name": "Gal In A Rush (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -912,7 +1227,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Away With Red (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -931,7 +1253,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Direct Hit (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -950,7 +1279,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Beneath The Moon (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -969,7 +1305,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Sports Fan (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -988,7 +1331,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Back For More (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -1007,7 +1357,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "Global Speak (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -1026,7 +1383,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "My Best Shot (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -1045,7 +1409,14 @@
           "request_cost": 0.006,
           "total_cost": 0.009
         }
-      }
+      },
+      "result": {
+        "name": "New Mexico (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     }
   ]
 }
