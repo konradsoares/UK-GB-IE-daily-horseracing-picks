@@ -88,12 +88,12 @@ async function renderWithResults(dayData) {
 
   // annotate DOM
   const byKey = new Map(
-    results.results.map(r => [`${r.course}||${r.time}`, r])
+    results.results.map(r => [`${r.course.trim()}||${r.time.trim()}`, r])
   );
   for (const el of document.querySelectorAll('.race')) {
     const h2 = el.querySelector('h2');
     if (!h2) continue;
-    const [course, time] = h2.textContent.split(' — ');
+    const [course, time] = h2.textContent.split(' — ').map(s => s.trim());
     const k = `${course}||${time}`;
     const r = byKey.get(k);
     if (!r) continue;
@@ -105,17 +105,23 @@ async function renderWithResults(dayData) {
     } else {
       badge.textContent = 'Result: not available';
     }
-    el.insertBefore(badge, el.querySelector('.meta + *')); // under the racecard link
+    // try to put badge right under the racecard link; otherwise append at end
+    const anchorMeta = el.querySelector('.meta'); // the "Racecard" line you just added in render()
+    if (anchorMeta && anchorMeta.nextSibling) {
+      anchorMeta.parentNode.insertBefore(badge, anchorMeta.nextSibling);
+    } else {
+      el.appendChild(badge);
+    }
   }
 }
 async function loadLatest(){
   const data = await fetchJSON('./latest.json');
-  render(data);
+  await renderWithResults(data);
 }
 
 async function loadDay(path){
   const data = await fetchJSON('./' + path);
-  render(data);
+  await renderWithResults(data);
 }
 
 function populate(index){
