@@ -13,6 +13,9 @@
   .high{border-color:#4caf50}.medium{border-color:#ffa000}
   .meta{color:#666;font-size:12px}
   .grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .stats {border:1px solid #ddd;border-radius:8px;padding:10px 12px;margin:12px 0;background:#fafafa;display:flex;gap:16px;flex-wrap:wrap}
+  .stats b {font-weight:600}
+  .stats .pill{padding:2px 8px;border-radius:999px;border:1px solid #ccc;background:#fff}
   @media(max-width:720px){.grid{grid-template-columns:1fr}}
 </style>
 
@@ -42,7 +45,102 @@ async function fetchJSON(url){
   if(!res.ok) throw new Error(`GET ${url} -> ${res.status}`);
   return res.json();
 }
+// === stats helpers ===
+function toDec(x){
+  if (x == null) return null;
+  if (typeof x === 'number' && isFinite(x)) return x;
+  if (typeof x === 'string'){
+    const s = x.trim();
 
+    // plain decimal: "3.85"
+    if (/^\d+(\.\d+)?$/.test(s)) return parseFloat(s);
+
+    // fractional like "9/4" -> 3.25
+    const m = s.match(/^(\d+)\s*\/\s*(\d+)$/);
+    if (m) { const a=+m[1], b=+m[2]; if (b) return a/b + 1; }
+
+    // pull first number from a note like "EXC 3.85" or "SBK 5/2"
+    const num = s.match(/(\d+(?:\.\d+)?)(?:\s*\/\s*(\d+))?/);
+    if (num){
+      if (num[2]) { const a=+num[1], b=+num[2]; if (b) return a/b + 1; }
+      return parseFloat(num[1]);
+    }
+  }
+  return null;
+}
+
+function pickDecimalOdds(p){
+  return (
+    toDec(p.exc_dec) ??
+    toDec(p.exchange) ??
+    toDec(p.odds) ??
+    toDec(p.odds_note) ??
+    null
+  );
+}
+
+function normName(s){ return (s||'').toLowerCase().replace(/\s+/g,' ').trim(); }
+
+function summarize(dayData, resultsJson){
+  const resByKey = new Map(resultsJson.results.map(r => [`${r.course.trim()}||${r.time.trim()}`, r]));
+  let hits=0, misses=0, racesWithResult=0;
+
+  let bets=0, wins=0, pnl=0, staked=0;
+
+  for (const r of (dayData.races||[])){
+    const key = `${(r.course||'').trim()}||${(r.time||'').trim()}`;
+    const res = resByKey.get(key);
+    if (res && res.winner) {
+      racesWithResult++;
+      const wName = normName(res.winner.name);
+      const short = r.shortlist || [];
+
+      // race hit/miss
+      const raceHit = short.some(p => normName(p.name) === wName);
+      if (raceHit) hits++; else misses++;
+
+      // per-pick betting P/L (1€ each) if odds exist
+      for (const p of short){
+        const dec = pickDecimalOdds(p);
+        if (dec){
+          bets++;
+          staked += 1;
+          const isWin = normName(p.name) === wName;
+          if (isWin){
+            wins++;
+            pnl += (dec - 1); // net profit on 1€ stake
+          } else {
+            pnl -= 1;
+          }
+        }
+      }
+    }
+  }
+
+  const roi = staked ? (pnl / staked) : 0;
+  return { hits, misses, racesWithResult, bets, wins, staked, pnl, roi };
+}
+
+function renderStatsHeader(stats){
+  // remove old
+  document.getElementById('statsbar')?.remove();
+
+  const d = document.createElement('div');
+  d.id = 'statsbar';
+  d.className = 'stats';
+  d.innerHTML = `
+    <div><b>Results coverage:</b> ${stats.racesWithResult}</div>
+    <div class="pill"><b>Hits:</b> ${stats.hits}</div>
+    <div class="pill"><b>Misses:</b> ${stats.misses}</div>
+    <div class="pill"><b>Bets:</b> ${stats.bets}</div>
+    <div class="pill"><b>Wins:</b> ${stats.wins}</div>
+    <div class="pill"><b>P/L:</b> €${stats.pnl.toFixed(2)}</div>
+    <div class="pill"><b>ROI:</b> ${(stats.roi*100).toFixed(1)}%</div>
+  `;
+  // stick it under the header controls, above #stamp
+  const header = document.querySelector('header');
+  header.insertAdjacentElement('afterend', d);
+}
 function render(data){
   stamp.textContent = `Model: ${data.model || 'n/a'} • Generated: ${new Date(data.generated_at || Date.now()).toLocaleString()}`;
   root.innerHTML = '';
@@ -113,6 +211,9 @@ async function renderWithResults(dayData) {
       el.appendChild(badge);
     }
   }
+  // compute & show stats
+  const stats = summarize(dayData, results);
+  renderStatsHeader(stats);
 }
 async function loadLatest(){
   const data = await fetchJSON('./latest.json');
