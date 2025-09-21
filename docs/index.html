@@ -222,6 +222,7 @@ async function renderWithResults(dayData) {
   const stats = summarize(dayData, results);
   renderStatsHeader(stats);
 }
+
 async function loadLatest(){
   const data = await fetchJSON('./latest.json');
   await renderWithResults(data);
