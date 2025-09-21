@@ -481,6 +481,12 @@ function computeHeaderStats(dayData, resultsJson, minDec, maxDec, stake = 1) {
   return {hits, misses, picks, staked, pnl};
 }
 
+const stakeEl = document.getElementById('stake');
+
+function getStake() {
+  const v = parseFloat(stakeEl.value);
+  return Number.isFinite(v) && v > 0 ? v : 1;
+}
 
 function recalcHeaderFromInputs() {
   if (!currentDayData || !currentResults) return;
