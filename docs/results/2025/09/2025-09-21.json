@@ -1,0 +1,461 @@
+{
+  "date": "2025-09-21",
+  "results": [
+    {
+      "course": "Hamilton Park",
+      "time": "14:13",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/hamilton-park/21/1/",
+      "winner": {
+        "name": "Myrrh",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "14:43",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/hamilton-park/21/2/",
+      "winner": {
+        "name": "Sir Benedict (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "15:13",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/hamilton-park/21/3/",
+      "winner": {
+        "name": "Arkinthestars",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/hamilton-park/21/4/",
+      "winner": {
+        "name": "Amayretto",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "16:13",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/hamilton-park/21/5/",
+      "winner": {
+        "name": "Tee Aitch Aye (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "16:43",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/hamilton-park/21/6/",
+      "winner": {
+        "name": "Belsito (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "17:13",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/hamilton-park/21/7/",
+      "winner": {
+        "name": "Cougar (Jpn)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/plumpton/40/1/",
+      "winner": {
+        "name": "The Wise Traveller (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/plumpton/40/2/",
+      "winner": {
+        "name": "Jet Patrol (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/plumpton/40/3/",
+      "winner": {
+        "name": "Kajikia (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/plumpton/40/4/",
+      "winner": {
+        "name": "Aucunrisque (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/plumpton/40/5/",
+      "winner": {
+        "name": "Ruler Of The River (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Plumpton",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/plumpton/40/6/",
+      "winner": {
+        "name": "Masked Mistress (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/1/",
+      "winner": {
+        "name": "Exotic Baby",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/2/",
+      "winner": {
+        "name": "Dragon Icon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/3/",
+      "winner": {
+        "name": "Hypnotised",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/4/",
+      "winner": {
+        "name": "Azure Angel",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:37",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/5/",
+      "winner": {
+        "name": "Zarzyni (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:07",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/6/",
+      "winner": {
+        "name": "Spirit Of Applause",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/7/",
+      "winner": {
+        "name": "Palazzo Blu (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/8/",
+      "winner": {
+        "name": "Maybe Not",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/southwell/47/9/",
+      "winner": {
+        "name": "Hatysa",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Listowel",
+      "time": "14:28",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/listowel/217/1/",
+      "winner": {
+        "name": "Hopes Are High (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Listowel",
+      "time": "14:58",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/listowel/217/2/",
+      "winner": {
+        "name": "Farfromnowhere (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "15:28",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/listowel/217/3/",
+      "winner": {
+        "name": "Pampar Lady (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "15:58",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/listowel/217/4/",
+      "winner": {
+        "name": "Good Girl Kathleen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Listowel",
+      "time": "16:28",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/listowel/217/5/",
+      "winner": {
+        "name": "Birdie Or Bust (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "16:58",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/listowel/217/6/",
+      "winner": {
+        "name": "Bythesametoken (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "17:28",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/listowel/217/7/",
+      "winner": {
+        "name": "Casterly Rock (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/1/",
+      "winner": {
+        "name": "Showgirl (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/2/",
+      "winner": {
+        "name": "Chicarito (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/3/",
+      "winner": {
+        "name": "Cognac (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/4/",
+      "winner": {
+        "name": "Master Silvano (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/5/",
+      "winner": {
+        "name": "Roy Taking Off (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/6/",
+      "winner": {
+        "name": "Arverni Princess (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/7/",
+      "winner": {
+        "name": "Major Tommie (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Scottsville",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/8/",
+      "winner": {
+        "name": "Terminator (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Scottsville",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/21-september-2025/scottsville/398/9/",
+      "winner": {
+        "name": "Wild Justice (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    }
+  ]
+}
