@@ -16,6 +16,12 @@
   .stats {border:1px solid #ddd;border-radius:8px;padding:10px 12px;margin:12px 0;background:#fafafa;display:flex;gap:16px;flex-wrap:wrap}
   .stats b {font-weight:600}
   .stats .pill{padding:2px 8px;border-radius:999px;border:1px solid #ccc;background:#fff}
+  .race.has-filter .pick.filtered{
+    outline:2px solid #4caf50;
+    border-left-color:#4caf50;
+    background:#f4fff5;
+  }
+  .race.has-filter .pick.dim{ opacity:.35 }
   @media(max-width:720px){.grid{grid-template-columns:1fr}}
 </style>
 
@@ -148,22 +154,30 @@ function renderStatsHeader(stats){
   const header = document.querySelector('header');
   header.insertAdjacentElement('afterend', d);
 }
+
 function render(data){
-  stamp.textContent = `Model: ${data.model || 'n/a'} • Generated: ${new Date(data.generated_at || Date.now()).toLocaleString()}`;
+  // store a clean base header once (see step 2)
+  baseStampText = `Model: ${data.model || 'n/a'} • Generated: ${new Date(data.generated_at || Date.now()).toLocaleString()}`;
+  stamp.textContent = baseStampText;
+
   root.innerHTML = '';
   for (const r of (data.races || [])) {
     const div = document.createElement('div'); div.className = 'race';
     div.innerHTML = `<h2>${r.course} — ${r.time}</h2>
       <div class="meta"><a href="${r.url}" target="_blank" rel="noopener">Racecard</a></div>`;
+
     if (!r.shortlist?.length) {
       div.innerHTML += `<p>No shortlisted picks.</p>`;
     } else {
       for (const p of r.shortlist) {
         const conf = (p.confidence||'').toLowerCase();
-        div.innerHTML += `<div class="pick ${conf.includes('high')?'high':conf.includes('medium')?'medium':''}">
+        const dec = pickDecimalOdds(p);            // <- use your parser
+        const decAttr = dec ? ` data-dec="${dec}"` : '';
+        div.innerHTML += `<div class="pick ${conf.includes('high')?'high':conf.includes('medium')?'medium':''}"${decAttr}>
           <strong>${p.name}</strong> — ${p.rationale || ''}<br/>
           <span class="meta">
             ${p.jockey?`J: ${p.jockey} • `:''}${p.trainer?`T: ${p.trainer} • `:''}${p.form?`F: ${p.form} • `:''}${p.odds_note||''}
+            ${dec ? ` • <b>Dec:</b> ${dec.toFixed(2)}` : ''}
           </span>
         </div>`;
       }
@@ -171,6 +185,27 @@ function render(data){
     root.appendChild(div);
   }
 }
+
+function applyHighlight(minDec, maxDec){
+  // toggle styles per pick
+  for (const raceEl of document.querySelectorAll('.race')){
+    let anyFiltered = false;
+    for (const pickEl of raceEl.querySelectorAll('.pick')){
+      const dec = parseFloat(pickEl.getAttribute('data-dec'));
+      const ok = Number.isFinite(dec)
+        && (minDec==null || dec>=minDec)
+        && (maxDec==null || dec<=maxDec);
+
+      pickEl.classList.remove('filtered','dim');
+      if (minDec==null && maxDec==null) continue; // no filter — leave clean
+
+      if (ok){ pickEl.classList.add('filtered'); anyFiltered = true; }
+      else   { pickEl.classList.add('dim'); }
+    }
+    raceEl.classList.toggle('has-filter', (minDec!=null || maxDec!=null) && anyFiltered);
+  }
+}
+
 async function tryFetchResultsFor(dateStr) {
   const [Y,M] = dateStr.split('-');
   const url = `./results/${Y}/${M}/${dateStr}.json`;
@@ -220,12 +255,14 @@ async function renderWithResults(dayData) {
   currentResults = results;        // <—— save results
 
   // Initial header stats (no odds filter yet or using current inputs if present)
-  const minVal = parseFloat(minOddsEl.value);
-  const maxVal = parseFloat(maxOddsEl.value);
-  const minDec = Number.isFinite(minVal) ? minVal : null;
-  const maxDec = Number.isFinite(maxVal) ? maxVal : null;
-  const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
-  renderHeader(stats, minDec, maxDec);   // <—— uses the filtered stats
+const minVal = parseFloat(minOddsEl.value);
+const maxVal = parseFloat(maxOddsEl.value);
+const minDec = Number.isFinite(minVal) ? minVal : null;
+const maxDec = Number.isFinite(maxVal) ? maxVal : null;
+
+const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
+renderHeader(stats, minDec, maxDec);
+applyHighlight(minDec, maxDec); // <- NEW: initial highlight
 }
 
 async function loadLatest(){
@@ -395,7 +432,7 @@ function computeHeaderStats(dayData, resultsJson, minDec, maxDec) {
 }
 
 function recalcHeaderFromInputs() {
-  if (!currentDayData || !currentResults) return; // nothing loaded yet
+  if (!currentDayData || !currentResults) return;
   const minVal = parseFloat(minOddsEl.value);
   const maxVal = parseFloat(maxOddsEl.value);
   const minDec = Number.isFinite(minVal) ? minVal : null;
@@ -403,7 +440,14 @@ function recalcHeaderFromInputs() {
 
   const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
   renderHeader(stats, minDec, maxDec);
+  applyHighlight(minDec, maxDec); // <—— highlight the picks in range
 }
+
+document.getElementById('apply').addEventListener('click', recalcHeaderFromInputs);
+[minOddsEl, maxOddsEl].forEach(el => el.addEventListener('keydown', e => {
+  if (e.key === 'Enter') recalcHeaderFromInputs();
+}));
+
 
 document.getElementById('apply').addEventListener('click', recalcHeaderFromInputs);
 
@@ -425,15 +469,16 @@ document.getElementById('apply').addEventListener('click', recalcHeaderFromInput
 function renderHeader(stats, minDec, maxDec) {
   const filt =
     (minDec != null || maxDec != null)
-    ? ` • Filter: ${minDec!=null?`≥${minDec}`:''}${(minDec!=null && maxDec!=null)?' & ':''}${maxDec!=null?`≤${maxDec}`:''}`
-    : '';
+      ? ` • Filter: ${minDec!=null?`≥${minDec}`:''}${(minDec!=null && maxDec!=null)?' & ':''}${maxDec!=null?`≤${maxDec}`:''}`
+      : '';
+
   const plStr = (stats.pnl >= 0 ? '+' : '') + stats.pnl.toFixed(2);
   const stakedStr = stats.staked.toString();
-  const rangeNote = filt || '';
-  const extra = rangeNote ? ` ${rangeNote}` : '';
-  // update the existing #stamp line by appending stats
-  const base = stamp.textContent.split(' • P/L')[0]; // crude cut to avoid duplication
-  stamp.textContent = `${base} • Hits/Misses: ${stats.hits}/${stats.misses} • P/L (€1 stakes): ${plStr} over ${stakedStr} picks${extra}`;
+
+  stamp.textContent =
+    `${baseStampText} • Hits/Misses: ${stats.hits}/${stats.misses} • ` +
+    `P/L (€1 stakes): ${plStr} over ${stakedStr} picks${filt}`;
 }
+
 </script>
 </html>
