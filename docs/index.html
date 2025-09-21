@@ -253,6 +253,15 @@ function populate(index){
   }
 }
 
+document.getElementById('apply').addEventListener('click', applyFilterAndRenderHeader);
+
+// Recompute when hitting Enter in either input
+[minOddsEl, maxOddsEl].forEach(el => {
+  el.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') applyFilterAndRenderHeader();
+  });
+});
+
 monthSel.addEventListener('change', async () => {
   const idx = await fetchJSON('./picks/index.json');
   const key = monthSel.value;
