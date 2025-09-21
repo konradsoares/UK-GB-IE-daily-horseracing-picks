@@ -181,57 +181,47 @@ async function tryFetchResultsFor(dateStr) {
 
 // After you load a day file, call:
 async function renderWithResults(dayData) {
-  currentDayData = dayData;
-  render(dayData);
+  render(dayData); // your existing render
 
-  // derive YYYY-MM-DD
+  // derive YYYY-MM-DD from the file metadata or fallback to generated_at
   const d = (dayData.date)
     || (dayData.generated_at ? new Date(dayData.generated_at).toISOString().slice(0,10) : null);
+  if (!d) return;
 
-  currentResults = d ? await tryFetchResultsFor(d) : null;
+  const results = await tryFetchResultsFor(d);
+  if (!results) return;
 
-  // annotate DOM with results (unchanged from your code)
-  if (currentResults) {
-    const byKey = new Map(currentResults.results.map(r => [`${r.course}||${r.time}`, r]));
-    for (const el of document.querySelectorAll('.race')) {
-      const h2 = el.querySelector('h2');
-      if (!h2) continue;
-      const [course, time] = h2.textContent.split(' — ');
-      const k = `${course}||${time}`;
-      const r = byKey.get(k);
-      if (!r) continue;
-      const badge = document.createElement('div');
-      badge.className = 'meta';
-      if (r.winner) {
-        badge.textContent = `Result: ${r.winner.name}${r.winner.sp ? ` (SP ${r.winner.sp})` : ''} • ${r.hit ? '✅ HIT' : '❌ MISS'}`;
-      } else {
-        badge.textContent = 'Result: not available';
-      }
-      el.insertBefore(badge, el.querySelector('.meta + *'));
+  // annotate DOM
+  const byKey = new Map(
+    results.results.map(r => [`${r.course.trim()}||${r.time.trim()}`, r])
+  );
+  for (const el of document.querySelectorAll('.race')) {
+    const h2 = el.querySelector('h2');
+    if (!h2) continue;
+    const [course, time] = h2.textContent.split(' — ').map(s => s.trim());
+    const k = `${course}||${time}`;
+    const r = byKey.get(k);
+    if (!r) continue;
+
+    const badge = document.createElement('div');
+    badge.className = 'meta';
+    if (r.winner) {
+      badge.textContent = `Result: ${r.winner.name}${r.winner.sp ? ` (SP ${r.winner.sp})` : ''} • ${r.hit ? '✅ HIT' : '❌ MISS'}`;
+    } else {
+      badge.textContent = 'Result: not available';
+    }
+    // try to put badge right under the racecard link; otherwise append at end
+    const anchorMeta = el.querySelector('.meta'); // the "Racecard" line you just added in render()
+    if (anchorMeta && anchorMeta.nextSibling) {
+      anchorMeta.parentNode.insertBefore(badge, anchorMeta.nextSibling);
+    } else {
+      el.appendChild(badge);
     }
   }
-
-  // compute header stats with current filter
-  applyFilterAndRenderHeader();
+  // compute & show stats
+  const stats = summarize(dayData, results);
+  renderStatsHeader(stats);
 }
-
-function getFilterBounds() {
-  const minStr = minOddsEl.value.trim();
-  const maxStr = maxOddsEl.value.trim();
-  const minDec = minStr ? parseFloat(minStr) : null;
-  const maxDec = maxStr ? parseFloat(maxStr) : null;
-  return {
-    min: Number.isFinite(minDec) && minDec >= 1 ? minDec : null,
-    max: Number.isFinite(maxDec) && maxDec >= 1 ? maxDec : null
-  };
-}
-
-function applyFilterAndRenderHeader() {
-  const {min, max} = getFilterBounds();
-  const stats = computeHeaderStats(currentDayData, currentResults || {results: []}, min, max);
-  renderHeader(stats, min, max);
-}
-
 async function loadLatest(){
   const data = await fetchJSON('./latest.json');
   await renderWithResults(data);
@@ -252,15 +242,6 @@ function populate(index){
       .map(d => `<option value="${d.path}">${d.date}</option>`).join('');
   }
 }
-
-document.getElementById('apply').addEventListener('click', applyFilterAndRenderHeader);
-
-// Recompute when hitting Enter in either input
-[minOddsEl, maxOddsEl].forEach(el => {
-  el.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') applyFilterAndRenderHeader();
-  });
-});
 
 monthSel.addEventListener('change', async () => {
   const idx = await fetchJSON('./picks/index.json');
@@ -286,126 +267,5 @@ document.getElementById('latest').addEventListener('click', loadLatest);
     root.textContent = 'No data yet.';
   }
 })();
-// ---- FILTER STATE ----
-let currentDayData = null;
-let currentResults = null;
-const minOddsEl = document.getElementById('minOdds');
-const maxOddsEl = document.getElementById('maxOdds');
-
-// Robust odds parser: decimal like "2.48", or fractional like "5/2"
-function parseDecimalFromText(s) {
-  if (!s) return null;
-  s = String(s);
-
-  // Try explicit "exchange" or "decimal" first (common in your JSON)
-  const ex = s.match(/(?:exchange|decimal)\s*[:=]?\s*([0-9]+(?:\.[0-9]+)?)/i);
-  if (ex) {
-    const v = parseFloat(ex[1]);
-    if (v >= 1) return v;
-  }
-
-  // Any standalone decimal >= 1.0
-  const dec = s.match(/(^|\s)([1-9]\d*(?:\.\d+)?)(?=\s|$|,)/);
-  if (dec) {
-    const v = parseFloat(dec[2]);
-    if (v >= 1) return v;
-  }
-
-  // Fraction like "5/2" → 3.5
-  const frac = s.match(/([0-9]+)\s*\/\s*([0-9]+)/);
-  if (frac) {
-    const a = parseFloat(frac[1]), b = parseFloat(frac[2] || '1');
-    if (b > 0) return (a / b) + 1;
-  }
-
-  return null;
-}
-
-// Pull a decimal from a pick object (checks multiple fields)
-function pickDecimalOdds(pick) {
-  // direct numeric fields first
-  const direct = [pick.exchange, pick?.odds?.exchange, pick?.odds?.decimal]
-    .map(v => Number(v))
-    .find(v => Number.isFinite(v) && v >= 1);
-  if (direct) return direct;
-
-  // string fields where "exchange" is mentioned next to a number
-  const candidates = [];
-  if (typeof pick.odds_note === 'string') candidates.push(pick.odds_note);
-  if (typeof pick.odds === 'string') candidates.push(pick.odds);
-  if (typeof pick.rationale === 'string') candidates.push(pick.rationale);
-
-  for (const s of candidates) {
-    if (!s) continue;
-    // Try “exchange 2.48” or “2.48 (exchange)”
-    let m = s.match(/exchange[^0-9]*([1-9]\d*(?:\.\d+)?)/i);
-    if (!m) m = s.match(/([1-9]\d*(?:\.\d+)?)[^0-9]*\(\s*exchange\s*\)/i);
-    if (m) {
-      const v = parseFloat(m[1]);
-      if (v >= 1) return v;
-    }
-  }
-
-  // If we cannot positively identify an exchange price, do not count this pick.
-  return null;
-}
-
-function normName(s){ return (s||'').toLowerCase().replace(/\s+/g,' ').trim(); }
-
-function withinRange(dec, min, max) {
-  if (min != null && dec < min) return false;
-  if (max != null && dec > max) return false;
-  return true;
-}
-
-// Compute header stats with optional odds range
-function computeHeaderStats(dayData, resultsJson, minDec, maxDec) {
-  if (!dayData || !resultsJson) return {hits:0, misses:0, staked:0, pnl:0};
-  const resByKey = new Map((resultsJson.results || []).map(r => [`${(r.course||'').trim()}||${(r.time||'').trim()}`, r]));
-  let hits = 0, misses = 0, staked = 0, pnl = 0;
-
-  for (const race of (dayData.races || [])) {
-    const key = `${(race.course||'').trim()}||${(race.time||'').trim()}`;
-    const res = resByKey.get(key);
-    if (!res || !res.winner) continue; // skip no-result races
-
-    const wName = normName(res.winner.name);
-    const picks = (race.shortlist || []);
-
-    // Apply odds range filter to picks
-    const filtered = picks.filter(p => {
-      const dec = pickDecimalOdds(p);
-      return dec && withinRange(dec, minDec, maxDec);
-    });
-
-    if (!filtered.length) continue; // nothing to count for this race
-
-    const raceHit = filtered.some(p => normName(p.name) === wName);
-    if (raceHit) hits++; else misses++;
-
-    for (const p of filtered) {
-      const dec = pickDecimalOdds(p);
-      if (!dec) continue;
-      staked += 1;
-      pnl += (normName(p.name) === wName) ? (dec - 1) : -1;
-    }
-  }
-  return {hits, misses, staked, pnl};
-}
-
-// Render header line
-function renderHeader(stats, minDec, maxDec) {
-  const filt =
-    (minDec != null || maxDec != null)
-    ? ` • Filter: ${minDec!=null?`≥${minDec}`:''}${(minDec!=null && maxDec!=null)?' & ':''}${maxDec!=null?`≤${maxDec}`:''}`
-    : '';
-  const plStr = (stats.pnl >= 0 ? '+' : '') + stats.pnl.toFixed(2);
-  const stakedStr = stats.staked.toString();
-  const rangeNote = filt || '';
-  const extra = rangeNote ? ` ${rangeNote}` : '';
-  // update the existing #stamp line by appending stats
-  const base = stamp.textContent.split(' • P/L')[0]; // crude cut to avoid duplication
-  stamp.textContent = `${base} • Hits/Misses: ${stats.hits}/${stats.misses} • P/L (€1 stakes): ${plStr} over ${stakedStr} picks${extra}`;
-}
 </script>
 </html>
