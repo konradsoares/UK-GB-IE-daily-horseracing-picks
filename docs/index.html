@@ -214,6 +214,52 @@ async function tryFetchResultsFor(dateStr) {
   return res.json();
 }
 
+function updatePerRaceFilterBadges(minDec, maxDec) {
+  if (!currentDayData || !currentResults) return;
+
+  const resByKey = new Map(
+    (currentResults.results || []).map(r => [`${(r.course||'').trim()}||${(r.time||'').trim()}`, r])
+  );
+
+  document.querySelectorAll('.race').forEach(raceEl => {
+    // clean existing filtered badge
+    raceEl.querySelector('.filter-badge')?.remove();
+
+    const h2 = raceEl.querySelector('h2');
+    if (!h2) return;
+    const [course, time] = h2.textContent.split(' — ').map(s => s.trim());
+    const res = resByKey.get(`${course}||${time}`);
+    if (!res || !res.winner) return;
+
+    const wName = normName(res.winner.name);
+    const raceObj = (currentDayData.races || []).find(rr =>
+      (rr.course||'').trim() === course && (rr.time||'').trim() === time
+    );
+    const picks = (raceObj?.shortlist || []);
+
+    // Apply odds range
+    const filtered = picks.filter(p => {
+      const dec = pickDecimalOdds(p);
+      return dec && withinRange(dec, minDec, maxDec);
+    });
+
+    // If no filter set and no filtered picks, show nothing
+    const filterActive = (minDec != null || maxDec != null);
+    if (!filterActive) return;
+
+    const badge = document.createElement('div');
+    badge.className = 'meta filter-badge';
+
+    if (!filtered.length) {
+      badge.textContent = 'Filtered: no picks in range';
+    } else {
+      const isHit = filtered.some(p => normName(p.name) === wName);
+      badge.textContent = `Filtered: ${isHit ? '✅ HIT' : '❌ MISS'} (considered ${filtered.length} pick${filtered.length>1?'s':''})`;
+    }
+    raceEl.appendChild(badge);
+  });
+}
+
 // After you load a day file, call:
 async function renderWithResults(dayData) {
   render(dayData);
@@ -238,7 +284,7 @@ async function renderWithResults(dayData) {
     const badge = document.createElement('div');
     badge.className = 'meta';
     if (r.winner) {
-      badge.textContent = `Result: ${r.winner.name}${r.winner.sp ? ` (SP ${r.winner.sp})` : ''} • ${r.hit ? '✅ HIT' : '❌ MISS'}`;
+      badge.textContent = `Result: ${r.winner.name}${r.winner.sp ? ` (SP ${r.winner.sp})` : ''} • ${r.hit ? '✅ HIT' : '❌ MISS'} (all picks)`;
     } else {
       badge.textContent = 'Result: not available';
     }
@@ -263,6 +309,8 @@ const maxDec = Number.isFinite(maxVal) ? maxVal : null;
 const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
 renderHeader(stats, minDec, maxDec);
 applyHighlight(minDec, maxDec); // <- NEW: initial highlight
+updatePerRaceFilterBadges(minDec, maxDec);
+
 }
 
 async function loadLatest(){
@@ -441,6 +489,7 @@ function recalcHeaderFromInputs() {
   const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
   renderHeader(stats, minDec, maxDec);
   applyHighlight(minDec, maxDec); // <—— highlight the picks in range
+  updatePerRaceFilterBadges(minDec, maxDec);
 }
 
 document.getElementById('apply').addEventListener('click', recalcHeaderFromInputs);
