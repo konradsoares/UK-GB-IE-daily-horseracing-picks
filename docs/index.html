@@ -267,5 +267,140 @@ document.getElementById('latest').addEventListener('click', loadLatest);
     root.textContent = 'No data yet.';
   }
 })();
+// ---- FILTER STATE ----
+let currentDayData = null;
+let currentResults = null;
+const minOddsEl = document.getElementById('minOdds');
+const maxOddsEl = document.getElementById('maxOdds');
+
+// Robust odds parser: decimal like "2.48", or fractional like "5/2"
+function parseDecimalFromText(s) {
+  if (!s) return null;
+  s = String(s);
+
+  // Try explicit "exchange" or "decimal" first (common in your JSON)
+  const ex = s.match(/(?:exchange|decimal)\s*[:=]?\s*([0-9]+(?:\.[0-9]+)?)/i);
+  if (ex) {
+    const v = parseFloat(ex[1]);
+    if (v >= 1) return v;
+  }
+
+  // Any standalone decimal >= 1.0
+  const dec = s.match(/(^|\s)([1-9]\d*(?:\.\d+)?)(?=\s|$|,)/);
+  if (dec) {
+    const v = parseFloat(dec[2]);
+    if (v >= 1) return v;
+  }
+
+  // Fraction like "5/2" → 3.5
+  const frac = s.match(/([0-9]+)\s*\/\s*([0-9]+)/);
+  if (frac) {
+    const a = parseFloat(frac[1]), b = parseFloat(frac[2] || '1');
+    if (b > 0) return (a / b) + 1;
+  }
+
+  return null;
+}
+
+// Pull a decimal from a pick object (checks multiple fields)
+function pickDecimalOdds(pick) {
+  // common fields you’ve used: odds_note, odds, sbk, exchange, etc.
+  if (pick.decimal) {
+    const v = Number(pick.decimal);
+    if (!Number.isNaN(v) && v >= 1) return v;
+  }
+  if (pick.exchange) {
+    const v = Number(pick.exchange);
+    if (!Number.isNaN(v) && v >= 1) return v;
+  }
+  if (pick.sbk) {
+    const parsed = parseDecimalFromText(String(pick.sbk));
+    if (parsed) return parsed;
+  }
+  if (pick.odds) {
+    // odds may be an object or string
+    if (typeof pick.odds === 'string') {
+      const parsed = parseDecimalFromText(pick.odds);
+      if (parsed) return parsed;
+    } else {
+      // try odds.decimal or odds.exchange
+      const cand = pick.odds.decimal ?? pick.odds.exchange;
+      const v = Number(cand);
+      if (!Number.isNaN(v) && v >= 1) return v;
+      const str = [pick.odds.sbk, pick.odds.frac, pick.odds.text].filter(Boolean).join(' ');
+      const parsed = parseDecimalFromText(str);
+      if (parsed) return parsed;
+    }
+  }
+  if (pick.odds_note) {
+    const parsed = parseDecimalFromText(pick.odds_note);
+    if (parsed) return parsed;
+  }
+  // As a last resort, scan concatenated textual fields
+  const bag = [pick.rationale, pick.note, pick.text].filter(Boolean).join(' ');
+  if (bag) {
+    const parsed = parseDecimalFromText(bag);
+    if (parsed) return parsed;
+  }
+  return null;
+}
+
+function normName(s){ return (s||'').toLowerCase().replace(/\s+/g,' ').trim(); }
+
+function withinRange(dec, min, max) {
+  if (min != null && dec < min) return false;
+  if (max != null && dec > max) return false;
+  return true;
+}
+
+// Compute header stats with optional odds range
+function computeHeaderStats(dayData, resultsJson, minDec, maxDec) {
+  if (!dayData || !resultsJson) return {hits:0, misses:0, staked:0, pnl:0};
+  const resByKey = new Map((resultsJson.results || []).map(r => [`${(r.course||'').trim()}||${(r.time||'').trim()}`, r]));
+  let hits = 0, misses = 0, staked = 0, pnl = 0;
+
+  for (const race of (dayData.races || [])) {
+    const key = `${(race.course||'').trim()}||${(race.time||'').trim()}`;
+    const res = resByKey.get(key);
+    if (!res || !res.winner) continue; // skip no-result races
+
+    const wName = normName(res.winner.name);
+    const picks = (race.shortlist || []);
+
+    // Apply odds range filter to picks
+    const filtered = picks.filter(p => {
+      const dec = pickDecimalOdds(p);
+      return dec && withinRange(dec, minDec, maxDec);
+    });
+
+    if (!filtered.length) continue; // nothing to count for this race
+
+    const raceHit = filtered.some(p => normName(p.name) === wName);
+    if (raceHit) hits++; else misses++;
+
+    for (const p of filtered) {
+      const dec = pickDecimalOdds(p);
+      if (!dec) continue;
+      staked += 1;
+      pnl += (normName(p.name) === wName) ? (dec - 1) : -1;
+    }
+  }
+  return {hits, misses, staked, pnl};
+}
+
+// Render header line
+function renderHeader(stats, minDec, maxDec) {
+  const filt =
+    (minDec != null || maxDec != null)
+    ? ` • Filter: ${minDec!=null?`≥${minDec}`:''}${(minDec!=null && maxDec!=null)?' & ':''}${maxDec!=null?`≤${maxDec}`:''}`
+    : '';
+  const plStr = (stats.pnl >= 0 ? '+' : '') + stats.pnl.toFixed(2);
+  const stakedStr = stats.staked.toString();
+  const rangeNote = filt || '';
+  const extra = rangeNote ? ` ${rangeNote}` : '';
+  // update the existing #stamp line by appending stats
+  const base = stamp.textContent.split(' • P/L')[0]; // crude cut to avoid duplication
+  stamp.textContent = `${base} • Hits/Misses: ${stats.hits}/${stats.misses} • P/L (€1 stakes): ${plStr} over ${stakedStr} picks${extra}`;
+}
 </script>
 </html>
