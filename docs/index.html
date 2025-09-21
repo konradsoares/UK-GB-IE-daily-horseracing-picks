@@ -22,6 +22,8 @@
     background:#f4fff5;
   }
   .race.has-filter .pick.dim{ opacity:.35 }
+  .pick.excluded { opacity:.45; filter:grayscale(0.2) }
+  .pick .chk { margin-right:6px; vertical-align:middle }
   @media(max-width:720px){.grid{grid-template-columns:1fr}}
 </style>
 
@@ -35,6 +37,8 @@
   </label>
   <button id="load">Load</button>
   <button id="latest">Latest</button>
+  <button id="all">All</button>
+  <button id="none">None</button>
   <label>Stake (€):
   <input id="stake" type="number" step="0.01" min="0" value="1" style="width:6ch">
   </label>
@@ -55,6 +59,21 @@ const monthSel = document.getElementById('month');
 const daySel = document.getElementById('day');
 const stamp = document.getElementById('stamp');
 const root = document.getElementById('root');
+
+// ---- FILTER STATE ----
+let currentDayData = null;
+let currentResults = null;
+
+const minOddsEl = document.getElementById('minOdds');
+const maxOddsEl = document.getElementById('maxOdds');
+const stakeEl   = document.getElementById('stake');
+
+// set of pick keys you WANT included (default = all)
+const selectedPicks = new Set();
+
+// stable key: Course||Time||Pick Name (normalized)
+const keyForPick = (course,time,name) =>
+  `${(course||'').trim()}||${(time||'').trim()}||${(name||'').toLowerCase().replace(/\s+/g,' ').trim()}`;
 
 async function fetchJSON(url){
   const res = await fetch(url, {cache:'no-store'});
@@ -174,15 +193,23 @@ function render(data){
     } else {
       for (const p of r.shortlist) {
         const conf = (p.confidence||'').toLowerCase();
-        const dec = pickDecimalOdds(p);            // <- use your parser
-        const decAttr = dec ? ` data-dec="${dec}"` : '';
-        div.innerHTML += `<div class="pick ${conf.includes('high')?'high':conf.includes('medium')?'medium':''}"${decAttr}>
-          <strong>${p.name}</strong> — ${p.rationale || ''}<br/>
-          <span class="meta">
-            ${p.jockey?`J: ${p.jockey} • `:''}${p.trainer?`T: ${p.trainer} • `:''}${p.form?`F: ${p.form} • `:''}${p.odds_note||''}
-            ${dec ? ` • <b>Dec:</b> ${dec.toFixed(2)}` : ''}
-          </span>
-        </div>`;
+        const pk = keyForPick(r.course, r.time, p.name);
+
+        // default-select on first render
+        selectedPicks.add(pk);
+
+        const dec = pickDecimalOdds(p);
+        const decNote = dec ? ` • Dec: ${dec.toFixed(2)}` : '';
+
+        div.innerHTML += `
+          <div class="pick ${conf.includes('high')?'high':conf.includes('medium')?'medium':''}"
+              data-pickkey="${pk}">
+            <input class="chk" type="checkbox" checked aria-label="Include pick" />
+            <strong>${p.name}</strong> — ${p.rationale || ''}<br/>
+            <span class="meta">
+              ${p.jockey?`J: ${p.jockey} • `:''}${p.trainer?`T: ${p.trainer} • `:''}${p.form?`F: ${p.form} • `:''}${p.odds_note||''}${decNote}
+            </span>
+          </div>`;
       }
     }
     root.appendChild(div);
@@ -274,6 +301,54 @@ async function renderWithResults(dayData) {
   setBaseStamp(dayData);
   render(dayData);
 
+function applyHighlightFromInputs(){
+  const minVal = parseFloat(minOddsEl.value);
+  const maxVal = parseFloat(maxOddsEl.value);
+  const minDec = Number.isFinite(minVal) ? minVal : null;
+  const maxDec = Number.isFinite(maxVal) ? maxVal : null;
+
+  document.querySelectorAll('.pick').forEach(div => {
+    const pk = div.dataset.pickkey;
+    const name = div.querySelector('strong')?.textContent || '';
+    // find underlying pick data (optional; you can also embed Dec in a data-attr when rendering)
+    // quick parse from text you already show:
+    const decText = div.querySelector('.meta')?.textContent || '';
+    const dec = parseDecimalFromText(decText);
+
+    const selected = selectedPicks.has(pk);
+    const inRange = (dec && withinRange(dec, minDec, maxDec));
+
+    // add/remove a class to highlight
+    if (selected && inRange) {
+      div.classList.add('in-range');
+    } else {
+      div.classList.remove('in-range');
+    }
+  });
+}
+
+  function attachPickCheckboxHandlers() {
+    document.querySelectorAll('.pick .chk').forEach(chk => {
+      chk.addEventListener('change', () => {
+        const pickDiv = chk.closest('.pick');
+        const pk = pickDiv?.dataset.pickkey;
+        if (!pk) return;
+
+        if (chk.checked) {
+          selectedPicks.add(pk);
+          pickDiv.classList.remove('excluded');
+        } else {
+          selectedPicks.delete(pk);
+          pickDiv.classList.add('excluded');
+        }
+
+        // Recompute header with current filters + stake
+        recalcHeaderFromInputs();
+        // Re-apply highlights so only included picks show as highlighted
+        applyHighlightFromInputs();
+      });
+    });
+  }  
   const d = (dayData.date)
     || (dayData.generated_at ? new Date(dayData.generated_at).toISOString().slice(0,10) : null);
   if (!d) return;
@@ -352,6 +427,32 @@ monthSel.addEventListener('change', async () => {
   daySel.innerHTML = days.map(d => `<option value="${d.path}">${d.date}</option>`).join('');
 });
 
+document.getElementById('all').addEventListener('click', () => {
+  document.querySelectorAll('.pick').forEach(div => {
+    const pk = div.dataset.pickkey;
+    if (!pk) return;
+    selectedPicks.add(pk);
+    div.classList.remove('excluded');
+    const chk = div.querySelector('.chk');
+    if (chk) chk.checked = true;
+  });
+  recalcHeaderFromInputs();
+  applyHighlightFromInputs();
+});
+
+document.getElementById('none').addEventListener('click', () => {
+  document.querySelectorAll('.pick').forEach(div => {
+    const pk = div.dataset.pickkey;
+    if (!pk) return;
+    selectedPicks.delete(pk);
+    div.classList.add('excluded');
+    const chk = div.querySelector('.chk');
+    if (chk) chk.checked = false;
+  });
+  recalcHeaderFromInputs();
+  applyHighlightFromInputs();
+});
+
 document.getElementById('load').addEventListener('click', async () => {
   const p = daySel.value;
   if (p) loadDay(p);
@@ -369,11 +470,6 @@ document.getElementById('latest').addEventListener('click', loadLatest);
     root.textContent = 'No data yet.';
   }
 })();
-// ---- FILTER STATE ----
-let currentDayData = null;
-let currentResults = null;
-const minOddsEl = document.getElementById('minOdds');
-const maxOddsEl = document.getElementById('maxOdds');
 
 // Robust odds parser: decimal like "2.48", or fractional like "5/2"
 function parseDecimalFromText(s) {
@@ -456,20 +552,23 @@ function withinRange(dec, min, max) {
 }
 
 // Compute header stats with optional odds range
-function computeHeaderStats(dayData, resultsJson, minDec, maxDec, stake = 1) {
-  if (!dayData || !resultsJson) return {hits:0, misses:0, picks:0, staked:0, pnl:0};
+function computeHeaderStats(dayData, resultsJson, minDec, maxDec, stake, selected) {
+  if (!dayData || !resultsJson) return {hits:0, misses:0, staked:0, pnl:0, picks:0};
   const resByKey = new Map((resultsJson.results || []).map(r => [`${(r.course||'').trim()}||${(r.time||'').trim()}`, r]));
-  let hits = 0, misses = 0, picks = 0, staked = 0, pnl = 0;
+
+  let hits=0, misses=0, staked=0, pnl=0, picks=0;
 
   for (const race of (dayData.races || [])) {
     const key = `${(race.course||'').trim()}||${(race.time||'').trim()}`;
     const res = resByKey.get(key);
-    if (!res || !res.winner) continue; // skip no-result races
+    if (!res || !res.winner) continue;
 
     const wName = normName(res.winner.name);
     const filtered = (race.shortlist || []).filter(p => {
+      const pk = keyForPick(race.course, race.time, p.name);
+      if (!selected.has(pk)) return false;                 // manual filter
       const dec = pickDecimalOdds(p);
-      return dec && withinRange(dec, minDec, maxDec);
+      return dec && withinRange(dec, minDec, maxDec);      // odds range
     });
 
     if (!filtered.length) continue;
@@ -480,33 +579,30 @@ function computeHeaderStats(dayData, resultsJson, minDec, maxDec, stake = 1) {
     for (const p of filtered) {
       const dec = pickDecimalOdds(p);
       if (!dec) continue;
-      picks += 1;
+      picks++;
       staked += stake;
-      pnl += (normName(p.name) === wName) ? (dec - 1) * stake : -stake;
+      pnl += (normName(p.name) === wName) ? (dec - 1) * stake : -1 * stake;
     }
   }
-  return {hits, misses, picks, staked, pnl};
+  return {hits, misses, staked, pnl, picks};
 }
 
-const stakeEl = document.getElementById('stake');
 
 function getStake() {
-  const v = parseFloat(stakeEl.value);
+  const v = stakeEl ? parseFloat(stakeEl.value) : NaN;
   return Number.isFinite(v) && v > 0 ? v : 1;
 }
 
-function recalcHeaderFromInputs() {
+function recalcHeaderFromInputs(){
   if (!currentDayData || !currentResults) return;
   const minVal = parseFloat(minOddsEl.value);
   const maxVal = parseFloat(maxOddsEl.value);
   const minDec = Number.isFinite(minVal) ? minVal : null;
   const maxDec = Number.isFinite(maxVal) ? maxVal : null;
-
   const stake = getStake();
-  const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec, stake);
+
+  const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec, stake, selectedPicks);
   renderHeader(stats, minDec, maxDec, stake);
-  applyHighlight(minDec, maxDec); // <—— highlight the picks in range
-  updatePerRaceFilterBadges(minDec, maxDec);
 }
 
 document.getElementById('apply').addEventListener('click', recalcHeaderFromInputs);
