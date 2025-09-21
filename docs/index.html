@@ -263,8 +263,15 @@ function updatePerRaceFilterBadges(minDec, maxDec) {
   });
 }
 
+function setBaseStamp(dayData){
+  const base = `Model: ${dayData.model || 'n/a'} • Generated: ${new Date(dayData.generated_at || Date.now()).toLocaleString()}`;
+  stamp.dataset.base = base;
+  stamp.textContent = base;
+}
+
 // After you load a day file, call:
 async function renderWithResults(dayData) {
+  setBaseStamp(dayData);
   render(dayData);
 
   const d = (dayData.date)
@@ -521,12 +528,15 @@ stakeEl.addEventListener('change', recalcHeaderFromInputs); // optional live upd
 
 // Render header line
 function renderHeader(stats, minDec, maxDec, stake) {
+  const base = stamp.dataset.base || stamp.textContent.replace(/\s•\sHits\/Misses.*$/, '');
+
   const filt =
     (minDec != null || maxDec != null)
       ? ` • Filter: ${minDec!=null?`≥${minDec}`:''}${(minDec!=null && maxDec!=null)?' & ':''}${maxDec!=null?`≤${maxDec}`:''}`
       : '';
+
   const plStr = (stats.pnl >= 0 ? '+' : '') + stats.pnl.toFixed(2);
-  const base = stamp.textContent.split(' • P/L')[0]; // avoid duplication
+
   stamp.textContent =
     `${base} • Hits/Misses: ${stats.hits}/${stats.misses}` +
     ` • P/L (€${stake} stakes): ${plStr} over ${stats.picks} picks` +
