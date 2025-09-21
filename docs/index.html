@@ -35,6 +35,9 @@
   </label>
   <button id="load">Load</button>
   <button id="latest">Latest</button>
+  <label>Stake (€):
+  <input id="stake" type="number" step="0.01" min="0" value="1" style="width:6ch">
+  </label>
   <label>Min odds:
   <input id="minOdds" type="number" step="0.01" min="1" placeholder="e.g. 1.5" style="width:7ch">
   </label>
@@ -306,8 +309,9 @@ const maxVal = parseFloat(maxOddsEl.value);
 const minDec = Number.isFinite(minVal) ? minVal : null;
 const maxDec = Number.isFinite(maxVal) ? maxVal : null;
 
-const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
-renderHeader(stats, minDec, maxDec);
+const stake = getStake();
+const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec, stake);
+renderHeader(stats, minDec, maxDec, stake);
 applyHighlight(minDec, maxDec); // <- NEW: initial highlight
 updatePerRaceFilterBadges(minDec, maxDec);
 
@@ -445,10 +449,10 @@ function withinRange(dec, min, max) {
 }
 
 // Compute header stats with optional odds range
-function computeHeaderStats(dayData, resultsJson, minDec, maxDec) {
-  if (!dayData || !resultsJson) return {hits:0, misses:0, staked:0, pnl:0};
+function computeHeaderStats(dayData, resultsJson, minDec, maxDec, stake = 1) {
+  if (!dayData || !resultsJson) return {hits:0, misses:0, picks:0, staked:0, pnl:0};
   const resByKey = new Map((resultsJson.results || []).map(r => [`${(r.course||'').trim()}||${(r.time||'').trim()}`, r]));
-  let hits = 0, misses = 0, staked = 0, pnl = 0;
+  let hits = 0, misses = 0, picks = 0, staked = 0, pnl = 0;
 
   for (const race of (dayData.races || [])) {
     const key = `${(race.course||'').trim()}||${(race.time||'').trim()}`;
@@ -456,15 +460,12 @@ function computeHeaderStats(dayData, resultsJson, minDec, maxDec) {
     if (!res || !res.winner) continue; // skip no-result races
 
     const wName = normName(res.winner.name);
-    const picks = (race.shortlist || []);
-
-    // Apply odds range filter to picks
-    const filtered = picks.filter(p => {
+    const filtered = (race.shortlist || []).filter(p => {
       const dec = pickDecimalOdds(p);
       return dec && withinRange(dec, minDec, maxDec);
     });
 
-    if (!filtered.length) continue; // nothing to count for this race
+    if (!filtered.length) continue;
 
     const raceHit = filtered.some(p => normName(p.name) === wName);
     if (raceHit) hits++; else misses++;
@@ -472,12 +473,14 @@ function computeHeaderStats(dayData, resultsJson, minDec, maxDec) {
     for (const p of filtered) {
       const dec = pickDecimalOdds(p);
       if (!dec) continue;
-      staked += 1;
-      pnl += (normName(p.name) === wName) ? (dec - 1) : -1;
+      picks += 1;
+      staked += stake;
+      pnl += (normName(p.name) === wName) ? (dec - 1) * stake : -stake;
     }
   }
-  return {hits, misses, staked, pnl};
+  return {hits, misses, picks, staked, pnl};
 }
+
 
 function recalcHeaderFromInputs() {
   if (!currentDayData || !currentResults) return;
@@ -486,17 +489,12 @@ function recalcHeaderFromInputs() {
   const minDec = Number.isFinite(minVal) ? minVal : null;
   const maxDec = Number.isFinite(maxVal) ? maxVal : null;
 
-  const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
-  renderHeader(stats, minDec, maxDec);
+  const stake = getStake();
+  const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec, stake);
+  renderHeader(stats, minDec, maxDec, stake);
   applyHighlight(minDec, maxDec); // <—— highlight the picks in range
   updatePerRaceFilterBadges(minDec, maxDec);
 }
-
-document.getElementById('apply').addEventListener('click', recalcHeaderFromInputs);
-[minOddsEl, maxOddsEl].forEach(el => el.addEventListener('keydown', e => {
-  if (e.key === 'Enter') recalcHeaderFromInputs();
-}));
-
 
 document.getElementById('apply').addEventListener('click', recalcHeaderFromInputs);
 
@@ -513,20 +511,20 @@ document.getElementById('apply').addEventListener('click', recalcHeaderFromInput
     if (v === '' || !Number.isNaN(parseFloat(v))) recalcHeaderFromInputs();
   });
 });
+stakeEl.addEventListener('change', recalcHeaderFromInputs); // optional live update
 
 // Render header line
-function renderHeader(stats, minDec, maxDec) {
+function renderHeader(stats, minDec, maxDec, stake) {
   const filt =
     (minDec != null || maxDec != null)
       ? ` • Filter: ${minDec!=null?`≥${minDec}`:''}${(minDec!=null && maxDec!=null)?' & ':''}${maxDec!=null?`≤${maxDec}`:''}`
       : '';
-
   const plStr = (stats.pnl >= 0 ? '+' : '') + stats.pnl.toFixed(2);
-  const stakedStr = stats.staked.toString();
-
+  const base = stamp.textContent.split(' • P/L')[0]; // avoid duplication
   stamp.textContent =
-    `${baseStampText} • Hits/Misses: ${stats.hits}/${stats.misses} • ` +
-    `P/L (€1 stakes): ${plStr} over ${stakedStr} picks${filt}`;
+    `${base} • Hits/Misses: ${stats.hits}/${stats.misses}` +
+    ` • P/L (€${stake} stakes): ${plStr} over ${stats.picks} picks` +
+    `${filt}`;
 }
 
 </script>
