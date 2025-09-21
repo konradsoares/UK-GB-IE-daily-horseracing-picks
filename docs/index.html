@@ -81,6 +81,32 @@ async function fetchJSON(url){
   return res.json();
 }
 // === stats helpers ===
+function applyHighlightFromInputs(){
+  const minVal = parseFloat(minOddsEl.value);
+  const maxVal = parseFloat(maxOddsEl.value);
+  const minDec = Number.isFinite(minVal) ? minVal : null;
+  const maxDec = Number.isFinite(maxVal) ? maxVal : null;
+
+  document.querySelectorAll('.pick').forEach(div => {
+    const pk = div.dataset.pickkey;
+    const name = div.querySelector('strong')?.textContent || '';
+    // find underlying pick data (optional; you can also embed Dec in a data-attr when rendering)
+    // quick parse from text you already show:
+    const decText = div.querySelector('.meta')?.textContent || '';
+    const dec = parseDecimalFromText(decText);
+
+    const selected = selectedPicks.has(pk);
+    const inRange = (dec && withinRange(dec, minDec, maxDec));
+
+    // add/remove a class to highlight
+    if (selected && inRange) {
+      div.classList.add('in-range');
+    } else {
+      div.classList.remove('in-range');
+    }
+  });
+}
+
 function toDec(x){
   if (x == null) return null;
   if (typeof x === 'number' && isFinite(x)) return x;
@@ -218,29 +244,6 @@ function render(data){
   }
 }
 
-function attachPickCheckboxHandlers() {
-  document.querySelectorAll('.pick .chk').forEach(chk => {
-    chk.addEventListener('change', () => {
-      const pickDiv = chk.closest('.pick');
-      const pk = pickDiv?.dataset.pickkey;
-      if (!pk) return;
-
-      if (chk.checked) {
-        selectedPicks.add(pk);
-        pickDiv.classList.remove('excluded');
-      } else {
-        selectedPicks.delete(pk);
-        pickDiv.classList.add('excluded');
-      }
-
-      // Recompute header with current filters + stake
-      recalcHeaderFromInputs();
-      // Re-apply highlights so only included picks show as highlighted
-      applyHighlightFromInputs();
-    });
-  });
-}  
-
 function applyHighlight(minDec, maxDec){
   // toggle styles per pick
   for (const raceEl of document.querySelectorAll('.race')){
@@ -325,32 +328,6 @@ function setBaseStamp(dayData){
 async function renderWithResults(dayData) {
   setBaseStamp(dayData);
   render(dayData);
-
-function applyHighlightFromInputs(){
-  const minVal = parseFloat(minOddsEl.value);
-  const maxVal = parseFloat(maxOddsEl.value);
-  const minDec = Number.isFinite(minVal) ? minVal : null;
-  const maxDec = Number.isFinite(maxVal) ? maxVal : null;
-
-  document.querySelectorAll('.pick').forEach(div => {
-    const pk = div.dataset.pickkey;
-    const name = div.querySelector('strong')?.textContent || '';
-    // find underlying pick data (optional; you can also embed Dec in a data-attr when rendering)
-    // quick parse from text you already show:
-    const decText = div.querySelector('.meta')?.textContent || '';
-    const dec = parseDecimalFromText(decText);
-
-    const selected = selectedPicks.has(pk);
-    const inRange = (dec && withinRange(dec, minDec, maxDec));
-
-    // add/remove a class to highlight
-    if (selected && inRange) {
-      div.classList.add('in-range');
-    } else {
-      div.classList.remove('in-range');
-    }
-  });
-}
 
   const d = (dayData.date)
     || (dayData.generated_at ? new Date(dayData.generated_at).toISOString().slice(0,10) : null);
@@ -462,6 +439,26 @@ document.getElementById('load').addEventListener('click', async () => {
 });
 
 document.getElementById('latest').addEventListener('click', loadLatest);
+
+// Delegated checkbox handler: works for current and future renders
+root.addEventListener('change', (e) => {
+  if (!e.target.matches('.pick .chk')) return;
+  const pickDiv = e.target.closest('.pick');
+  const pk = pickDiv?.dataset.pickkey;
+  if (!pk) return;
+
+  if (e.target.checked) {
+    selectedPicks.add(pk);
+    pickDiv.classList.remove('excluded');
+  } else {
+    selectedPicks.delete(pk);
+    pickDiv.classList.add('excluded');
+  }
+
+  // live recompute + highlight
+  recalcHeaderFromInputs();
+  applyHighlightFromInputs();
+});
 
 (async () => {
   try {
