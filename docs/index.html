@@ -394,6 +394,33 @@ function computeHeaderStats(dayData, resultsJson, minDec, maxDec) {
   return {hits, misses, staked, pnl};
 }
 
+function recalcHeaderFromInputs() {
+  if (!currentDayData || !currentResults) return; // nothing loaded yet
+  const minVal = parseFloat(minOddsEl.value);
+  const maxVal = parseFloat(maxOddsEl.value);
+  const minDec = Number.isFinite(minVal) ? minVal : null;
+  const maxDec = Number.isFinite(maxVal) ? maxVal : null;
+
+  const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
+  renderHeader(stats, minDec, maxDec);
+}
+
+document.getElementById('apply').addEventListener('click', recalcHeaderFromInputs);
+
+// (nice-to-have) Recalculate on Enter in either box
+[minOddsEl, maxOddsEl].forEach(el => {
+  el.addEventListener('keydown', e => { if (e.key === 'Enter') recalcHeaderFromInputs(); });
+});
+
+// (optional) live update while typing
+[minOddsEl, maxOddsEl].forEach(el => {
+  el.addEventListener('input', () => {
+    // only recompute if both are blank or valid numbers
+    const v = el.value.trim();
+    if (v === '' || !Number.isNaN(parseFloat(v))) recalcHeaderFromInputs();
+  });
+});
+
 // Render header line
 function renderHeader(stats, minDec, maxDec) {
   const filt =
