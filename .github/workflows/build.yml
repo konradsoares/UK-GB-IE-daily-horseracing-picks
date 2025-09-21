@@ -5,7 +5,9 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # change as needed (UTC)
+    # PICKS run (keep your existing time(s); UTC)
+    - cron: '0 3 * * *'
+    - cron: '30 22 * * *'
   workflow_dispatch: {}
 
 concurrency:
@@ -13,7 +15,9 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  run:
+  picks:
+    # Run on manual dispatch or on the 03:00 UTC schedule only
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 3 * * *'
     runs-on: ubuntu-latest
     env:
       TZ: Europe/Dublin
@@ -51,9 +55,44 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # add EVERYTHING under docs, including new folders/files
           git add -A docs
-          # if you also want to keep the dated JSON at repo root, add them too:
           git add betfair-racecards-picks-*.json || true
           git commit -m "Archive picks & update index" || echo "No changes"
+          git push
+
+  results:
+    # Run on 22:30
+    # and also allow manual dispatch.
+    if: |
+      github.event_name == 'workflow_dispatch' || github.event.schedule == '30 22 * * *'
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Dublin
+    steps:
+      - uses: actions/checkout@v4
+        with: { persist-credentials: true }
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install deps
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm i --no-audit --no-fund; fi
+
+      - name: Install Playwright browsers (Chromium)
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape results for today (Europe/Dublin)
+        run: |
+          npm run results
+
+      - name: Commit results JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Commit only the results tree
+          git add -A docs/results
+          git commit -m "Add results for today" || echo "No changes"
           git push
