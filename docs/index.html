@@ -181,9 +181,8 @@ async function tryFetchResultsFor(dateStr) {
 
 // After you load a day file, call:
 async function renderWithResults(dayData) {
-  render(dayData); // your existing render
+  render(dayData);
 
-  // derive YYYY-MM-DD from the file metadata or fallback to generated_at
   const d = (dayData.date)
     || (dayData.generated_at ? new Date(dayData.generated_at).toISOString().slice(0,10) : null);
   if (!d) return;
@@ -191,10 +190,8 @@ async function renderWithResults(dayData) {
   const results = await tryFetchResultsFor(d);
   if (!results) return;
 
-  // annotate DOM
-  const byKey = new Map(
-    results.results.map(r => [`${r.course.trim()}||${r.time.trim()}`, r])
-  );
+  // annotate DOM with winners (unchanged)
+  const byKey = new Map(results.results.map(r => [`${r.course.trim()}||${r.time.trim()}`, r]));
   for (const el of document.querySelectorAll('.race')) {
     const h2 = el.querySelector('h2');
     if (!h2) continue;
@@ -210,17 +207,25 @@ async function renderWithResults(dayData) {
     } else {
       badge.textContent = 'Result: not available';
     }
-    // try to put badge right under the racecard link; otherwise append at end
-    const anchorMeta = el.querySelector('.meta'); // the "Racecard" line you just added in render()
+    const anchorMeta = el.querySelector('.meta');
     if (anchorMeta && anchorMeta.nextSibling) {
       anchorMeta.parentNode.insertBefore(badge, anchorMeta.nextSibling);
     } else {
       el.appendChild(badge);
     }
   }
-  // compute & show stats
-  const stats = summarize(dayData, results);
-  renderStatsHeader(stats);
+
+  // NEW — keep globals so the filter can recalc without reloading
+  currentDayData = dayData;        // <—— save day
+  currentResults = results;        // <—— save results
+
+  // Initial header stats (no odds filter yet or using current inputs if present)
+  const minVal = parseFloat(minOddsEl.value);
+  const maxVal = parseFloat(maxOddsEl.value);
+  const minDec = Number.isFinite(minVal) ? minVal : null;
+  const maxDec = Number.isFinite(maxVal) ? maxVal : null;
+  const stats = computeHeaderStats(currentDayData, currentResults, minDec, maxDec);
+  renderHeader(stats, minDec, maxDec);   // <—— uses the filtered stats
 }
 
 async function loadLatest(){
