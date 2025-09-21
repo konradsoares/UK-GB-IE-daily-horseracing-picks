@@ -323,44 +323,30 @@ function parseDecimalFromText(s) {
 
 // Pull a decimal from a pick object (checks multiple fields)
 function pickDecimalOdds(pick) {
-  // common fields you’ve used: odds_note, odds, sbk, exchange, etc.
-  if (pick.decimal) {
-    const v = Number(pick.decimal);
-    if (!Number.isNaN(v) && v >= 1) return v;
-  }
-  if (pick.exchange) {
-    const v = Number(pick.exchange);
-    if (!Number.isNaN(v) && v >= 1) return v;
-  }
-  if (pick.sbk) {
-    const parsed = parseDecimalFromText(String(pick.sbk));
-    if (parsed) return parsed;
-  }
-  if (pick.odds) {
-    // odds may be an object or string
-    if (typeof pick.odds === 'string') {
-      const parsed = parseDecimalFromText(pick.odds);
-      if (parsed) return parsed;
-    } else {
-      // try odds.decimal or odds.exchange
-      const cand = pick.odds.decimal ?? pick.odds.exchange;
-      const v = Number(cand);
-      if (!Number.isNaN(v) && v >= 1) return v;
-      const str = [pick.odds.sbk, pick.odds.frac, pick.odds.text].filter(Boolean).join(' ');
-      const parsed = parseDecimalFromText(str);
-      if (parsed) return parsed;
+  // direct numeric fields first
+  const direct = [pick.exchange, pick?.odds?.exchange, pick?.odds?.decimal]
+    .map(v => Number(v))
+    .find(v => Number.isFinite(v) && v >= 1);
+  if (direct) return direct;
+
+  // string fields where "exchange" is mentioned next to a number
+  const candidates = [];
+  if (typeof pick.odds_note === 'string') candidates.push(pick.odds_note);
+  if (typeof pick.odds === 'string') candidates.push(pick.odds);
+  if (typeof pick.rationale === 'string') candidates.push(pick.rationale);
+
+  for (const s of candidates) {
+    if (!s) continue;
+    // Try “exchange 2.48” or “2.48 (exchange)”
+    let m = s.match(/exchange[^0-9]*([1-9]\d*(?:\.\d+)?)/i);
+    if (!m) m = s.match(/([1-9]\d*(?:\.\d+)?)[^0-9]*\(\s*exchange\s*\)/i);
+    if (m) {
+      const v = parseFloat(m[1]);
+      if (v >= 1) return v;
     }
   }
-  if (pick.odds_note) {
-    const parsed = parseDecimalFromText(pick.odds_note);
-    if (parsed) return parsed;
-  }
-  // As a last resort, scan concatenated textual fields
-  const bag = [pick.rationale, pick.note, pick.text].filter(Boolean).join(' ');
-  if (bag) {
-    const parsed = parseDecimalFromText(bag);
-    if (parsed) return parsed;
-  }
+
+  // If we cannot positively identify an exchange price, do not count this pick.
   return null;
 }
 
