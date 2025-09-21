@@ -178,6 +178,8 @@ function renderStatsHeader(stats){
 }
 
 function render(data){
+  selectedPicks.clear();
+
   // store a clean base header once (see step 2)
   baseStampText = `Model: ${data.model || 'n/a'} • Generated: ${new Date(data.generated_at || Date.now()).toLocaleString()}`;
   stamp.textContent = baseStampText;
@@ -215,6 +217,29 @@ function render(data){
     root.appendChild(div);
   }
 }
+
+function attachPickCheckboxHandlers() {
+  document.querySelectorAll('.pick .chk').forEach(chk => {
+    chk.addEventListener('change', () => {
+      const pickDiv = chk.closest('.pick');
+      const pk = pickDiv?.dataset.pickkey;
+      if (!pk) return;
+
+      if (chk.checked) {
+        selectedPicks.add(pk);
+        pickDiv.classList.remove('excluded');
+      } else {
+        selectedPicks.delete(pk);
+        pickDiv.classList.add('excluded');
+      }
+
+      // Recompute header with current filters + stake
+      recalcHeaderFromInputs();
+      // Re-apply highlights so only included picks show as highlighted
+      applyHighlightFromInputs();
+    });
+  });
+}  
 
 function applyHighlight(minDec, maxDec){
   // toggle styles per pick
@@ -327,28 +352,6 @@ function applyHighlightFromInputs(){
   });
 }
 
-  function attachPickCheckboxHandlers() {
-    document.querySelectorAll('.pick .chk').forEach(chk => {
-      chk.addEventListener('change', () => {
-        const pickDiv = chk.closest('.pick');
-        const pk = pickDiv?.dataset.pickkey;
-        if (!pk) return;
-
-        if (chk.checked) {
-          selectedPicks.add(pk);
-          pickDiv.classList.remove('excluded');
-        } else {
-          selectedPicks.delete(pk);
-          pickDiv.classList.add('excluded');
-        }
-
-        // Recompute header with current filters + stake
-        recalcHeaderFromInputs();
-        // Re-apply highlights so only included picks show as highlighted
-        applyHighlightFromInputs();
-      });
-    });
-  }  
   const d = (dayData.date)
     || (dayData.generated_at ? new Date(dayData.generated_at).toISOString().slice(0,10) : null);
   if (!d) return;
