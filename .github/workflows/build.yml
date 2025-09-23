@@ -6,8 +6,8 @@ permissions:
 on:
   schedule:
     # PICKS run (keep your existing time(s); UTC)
-    - cron: '0 3 * * *'
-    - cron: '30 22 * * *'
+    - cron: '30 1 * * *'
+    - cron: '0 22 * * *'
   workflow_dispatch: {}
 
 concurrency:
