@@ -1,7 +1,7 @@
 {
   "date": "2025-09-24",
   "model": "sonar-pro",
-  "generated_at": "2025-09-24T10:11:02.874Z",
+  "generated_at": "2025-09-24T10:58:13.293Z",
   "races": [
     {
       "course": "Goodwood",
@@ -13,8 +13,8 @@
           "jockey": "Oisin Murphy",
           "trainer": "Andrew Balding",
           "form": "328-39453",
-          "odds_note": "Strong favourite at 5/6 (1.93 exchange), clear market leader.",
-          "rationale": "Consistent performer at this level with solid recent form figures, regularly placing and running respectably in competitive company. Top jockey and trainer combination adds further confidence. Odds reflect strong market support and suggest minimal improvement needed to win here.",
+          "odds_note": "Strong favourite; 4/5 (SBK), 1.88 (exchange)",
+          "rationale": "Consistent performer at this level with solid recent form figures, indicating reliability and fitness. Top jockey and trainer combination adds confidence. Current odds reflect strong market support and suggest clear superiority over rivals.",
           "confidence": "High"
         },
         {
@@ -22,16 +22,16 @@
           "jockey": "Kieran Shoemark",
           "trainer": "Ed Walker",
           "form": "2103",
-          "odds_note": "Second choice in market at 6/5 (2.54 exchange), clear of outsiders.",
-          "rationale": "Progressive profile with a win and two other strong runs from four starts. Recent form is competitive for this grade. Trainer and jockey are both in good form. Market position indicates genuine winning chance without needing major improvement.",
+          "odds_note": "Second choice; 5/4 (SBK), 2.7 (exchange)",
+          "rationale": "Progressive profile with a win and two other placed efforts from four starts. Recent form is competitive for this grade. Trainer and jockey are in good form. Market rates him the main danger to the favourite.",
           "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 707,
-        "completion_tokens": 319,
-        "total_tokens": 1026,
+        "prompt_tokens": 705,
+        "completion_tokens": 310,
+        "total_tokens": 1015,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.002,
@@ -51,8 +51,8 @@
           "jockey": "Hector Crouch",
           "trainer": "Ralph Beckett",
           "form": "5",
-          "odds_note": "1/1 SBK, 2.32 exchange (clear favourite, strong market support)",
-          "rationale": "Represents a top yard in Ralph Beckett and is the clear market leader. The recent fifth-place finish may not tell the full story, as margins in flat racing can be small and improvement is likely on second start. Connections are in excellent form and the odds reflect strong confidence.",
+          "odds_note": "Clear favourite; 1/1 (SBK), 2.42 (exchange)",
+          "rationale": "Strong market support as clear favourite, representing a top trainer in Ralph Beckett. Hector Crouch is in good recent form as a jockey. Although only fifth on debut, the combination of connections and market confidence suggests significant expected improvement and readiness for this assignment.",
           "confidence": "High"
         },
         {
@@ -60,16 +60,16 @@
           "jockey": "Oisin Murphy",
           "trainer": "Andrew Balding",
           "form": "4",
-          "odds_note": "10/3 SBK, 4.9 exchange (solid second choice in market)",
-          "rationale": "Finished fourth on debut, which can be a solid platform for improvement, especially for a well-bred type from the Balding yard. Oisin Murphy is a notable booking, and the odds indicate genuine market respect. Likely to progress and should be competitive.",
-          "confidence": "Medium-High"
+          "odds_note": "Second choice; 7/2 (SBK), 5.4 (exchange)",
+          "rationale": "Solid debut effort finishing fourth, with scope for improvement. Oisin Murphy is a top jockey and Andrew Balding is a respected trainer, both positive indicators. The odds reflect realistic winning claims without being an outsider.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1042,
-        "completion_tokens": 340,
-        "total_tokens": 1382,
+        "completion_tokens": 329,
+        "total_tokens": 1371,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
@@ -89,8 +89,8 @@
           "jockey": "Jason Watson",
           "trainer": "Gary & Josh Moore",
           "form": "4114-8202",
-          "odds_note": "Solid market support (3/1 SBK, 5.0 exchange) indicates strong chance.",
-          "rationale": "Consistent recent form with two wins and a close second in last four starts. Connections are reliable and the horse is proven at this level. Odds reflect genuine market confidence and value for a likely winner.",
+          "odds_note": "Solid favourite, 3/1 SBK, 5.0 exchange",
+          "rationale": "Consistent performer with two wins and a recent runner-up effort, indicating strong current form. Connections are reliable and the odds offer fair value for a horse proven at this level.",
           "confidence": "High"
         },
         {
@@ -98,8 +98,8 @@
           "jockey": "Oisin Murphy",
           "trainer": "David O'Meara",
           "form": "86360100",
-          "odds_note": "Second choice in market (16/5 SBK, 5.8 exchange) with top jockey booked.",
-          "rationale": "Recent win two starts back and now partnered by a leading jockey. Trainer excels with this type and the horse has competitive form at this grade. Odds are fair for a horse with proven ability and connections.",
+          "odds_note": "Second choice, 16/5 SBK, 6.0 exchange",
+          "rationale": "Classy handicapper with a recent win and top jockey booking. Although form is mixed, the ability to bounce back at this track is notable and odds are competitive for a horse with proven class.",
           "confidence": "Medium-High"
         },
         {
@@ -107,22 +107,31 @@
           "jockey": "Rossa Ryan",
           "trainer": "David O'Meara",
           "form": "70507022",
-          "odds_note": "Third in market (9/2 SBK, 6.8 exchange) and trending upward.",
-          "rationale": "Placed in last two starts, showing improvement and consistency. Trainer/jockey combination is strong and the horse is well-handicapped for this contest. Odds offer reasonable value for a runner on the upgrade.",
+          "odds_note": "9/2 SBK, 7.0 exchange",
+          "rationale": "Arrives off two consecutive runner-up finishes, showing clear improvement and consistency. Trainer in form and jockey is strong at Goodwood. Odds are fair for a horse knocking on the door.",
+          "confidence": "Medium"
+        },
+        {
+          "name": "Ata Rangi (Ire)",
+          "jockey": "Kieran Shoemark",
+          "trainer": "Ed Walker",
+          "form": "3451-1921",
+          "odds_note": "5/1 SBK, 7.6 exchange",
+          "rationale": "Progressive profile with two wins in last four starts, including a recent victory. Connections are respected and the horse is still improving, making current odds attractive.",
           "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1350,
-        "completion_tokens": 455,
-        "total_tokens": 1805,
+        "prompt_tokens": 1344,
+        "completion_tokens": 536,
+        "total_tokens": 1880,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.008,
           "request_cost": 0.006,
-          "total_cost": 0.017
+          "total_cost": 0.018
         }
       }
     },
@@ -136,8 +145,8 @@
           "jockey": "Ray Dawson",
           "trainer": "Roger Varian",
           "form": "1-3211",
-          "odds_note": "Strong favourite at 11/8 (SBK), 2.8 (exchange)",
-          "rationale": "Progressive profile with three wins from last four starts, including back-to-back victories. Trained by Roger Varian, who is in excellent form, and partnered by a reliable jockey. The odds reflect strong market confidence and the horse’s recent form is the best in the field.",
+          "odds_note": "6/4 SBK, 2.8 exchange (clear favourite, strong market support)",
+          "rationale": "Progressive profile with three wins from last four starts, including back-to-back victories. Top connections and current form suggest further improvement likely. Odds reflect strong chance and market confidence.",
           "confidence": "High"
         },
         {
@@ -145,16 +154,16 @@
           "jockey": "William Buick",
           "trainer": "Charlie Appleby",
           "form": "1/2813-725",
-          "odds_note": "Second choice at 11/4 (SBK), 3.95 (exchange)",
-          "rationale": "Group-class performer with proven ability at a higher level. Recent form is solid if not spectacular, but represents top connections (Appleby/Buick) and is priced as the main danger to the favourite. Capable of improvement and has the class edge over most rivals.",
+          "odds_note": "5/2 SBK, 3.95 exchange (solid second favourite)",
+          "rationale": "Group-class performer with proven ability at a higher level. Recent runs suggest return to form is possible, and top-class trainer/jockey combination enhances claims. Odds are fair for a horse of this calibre.",
           "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1269,
-        "completion_tokens": 347,
-        "total_tokens": 1616,
+        "prompt_tokens": 1267,
+        "completion_tokens": 315,
+        "total_tokens": 1582,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
@@ -175,7 +184,7 @@
           "trainer": "Charlie Johnston",
           "form": "1195",
           "odds_note": "Strong market position (16/5 SBK, 4.8 exchange), clear favourite.",
-          "rationale": "Recent form includes two wins from last four starts, indicating peak condition. Connections are high-class: Doyle is a top jockey and Johnston is a proven trainer. Odds reflect strong market confidence and suggest genuine winning chance.",
+          "rationale": "Progressive profile with two wins from last four starts, trained by an in-form yard and partnered by a top jockey. Recent form suggests ability to win at this level and odds reflect strong market confidence.",
           "confidence": "High"
         },
         {
@@ -183,25 +192,25 @@
           "jockey": "Sam James",
           "trainer": "James Owen",
           "form": "171",
-          "odds_note": "Second choice in market (15/4 SBK, 6 exchange).",
-          "rationale": "Progressive profile with two wins in last three runs, including latest. Form suggests improvement and ability to handle competitive fields. Odds are solid for a likely contender.",
-          "confidence": "Strong"
+          "odds_note": "Second choice in market (15/4 SBK, 6.4 exchange).",
+          "rationale": "Lightly raced and improving, with two wins from three starts. Latest win shows current form and potential for further progress. Market support is notable.",
+          "confidence": "High"
         },
         {
-          "name": "Alarming",
-          "jockey": "Rossa Ryan",
-          "trainer": "Ralph Beckett",
-          "form": "2",
-          "odds_note": "Third in market (9/2 SBK, 6.6 exchange).",
-          "rationale": "Lightly raced and finished runner-up on debut, showing promise. Beckett is a respected trainer and Ryan is a reliable jockey. Market support indicates expectations for further progress.",
-          "confidence": "Solid"
+          "name": "Mayaada (Ire)",
+          "jockey": "Oisin Murphy",
+          "trainer": "Ollie Sangster",
+          "form": "5332213",
+          "odds_note": "Solid each-way support (11/2 SBK, 8.6 exchange).",
+          "rationale": "Consistent performer with multiple placings and a recent win. Top jockey booked and trainer in good form. Reliable profile for the frame, with potential to win if others underperform.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1458,
-        "completion_tokens": 411,
-        "total_tokens": 1869,
+        "prompt_tokens": 1460,
+        "completion_tokens": 418,
+        "total_tokens": 1878,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
@@ -221,8 +230,8 @@
           "jockey": "Tom Marquand",
           "trainer": "William Haggas",
           "form": "221",
-          "odds_note": "7/4 SBK, 3.2 exchange (clear favourite)",
-          "rationale": "Progressive recent form with two seconds and a win, representing a top trainer and jockey combination. The odds reflect strong market support and suggest the horse is expected to run very well at this level.",
+          "odds_note": "7/4 SBK, 3.2 exchange (clear favourite, strong market support)",
+          "rationale": "Progressive profile with two seconds followed by a win, indicating peak form. Top connections (Haggas/Marquand) and the market leader, suggesting confidence from both public and professionals. No signs of regression and holds the best recent form in the field.",
           "confidence": "High"
         },
         {
@@ -230,31 +239,22 @@
           "jockey": "Hollie Doyle",
           "trainer": "Ed Walker",
           "form": "54413",
-          "odds_note": "10/3 SBK, 5.3 exchange (second favourite)",
-          "rationale": "Solid recent win and placed effort, with a top jockey booked. Consistent performer who has shown ability in similar company, and the odds indicate genuine market respect.",
-          "confidence": "Medium-High"
-        },
-        {
-          "name": "Likealot",
-          "jockey": "Rossa Ryan",
-          "trainer": "Ralph Beckett",
-          "form": "16322",
-          "odds_note": "11/2 SBK, 7.4 exchange (third in market, not a longshot)",
-          "rationale": "Consistent recent form with two runner-up finishes and a win in last five starts. Trainer and jockey are in good form, and the odds offer reasonable value for a horse likely to be competitive.",
-          "confidence": "Medium"
+          "odds_note": "10/3 SBK, 5.9 exchange (solid second choice in market)",
+          "rationale": "Consistent recent form with a win and a place in last two starts. Hollie Doyle is a notable jockey booking. Odds indicate strong market respect, and the horse is proven at this level without needing major improvement.",
+          "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1266,
-        "completion_tokens": 420,
-        "total_tokens": 1686,
+        "prompt_tokens": 1268,
+        "completion_tokens": 323,
+        "total_tokens": 1591,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.006,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.016
+          "total_cost": 0.015
         }
       }
     },
@@ -268,8 +268,8 @@
           "jockey": "Jason Watson",
           "trainer": "Gary & Josh Moore",
           "form": "22-2523",
-          "odds_note": "4/1 SBK, 5.9 exchange (solid market support, not an outsider)",
-          "rationale": "Consistent recent form with multiple placings, suggesting reliability and readiness to win. Connections are respected, and odds indicate strong market confidence. No signs of regression in form, and profile fits a horse likely to be competitive at this level.",
+          "odds_note": "Solid market position: 4/1 SBK, 5.8 exchange",
+          "rationale": "Consistent recent form with multiple placings, indicating reliability and readiness. Connections are respected locally, and current odds reflect strong market support without being overbet. No signs of decline in recent runs.",
           "confidence": "High"
         },
         {
@@ -277,8 +277,8 @@
           "jockey": "Tom Marquand",
           "trainer": "Heather Main",
           "form": "08011255",
-          "odds_note": "9/2 SBK, 6.8 exchange (well-supported, not a longshot)",
-          "rationale": "Recent wins and solid efforts in higher grade races, with a top jockey booked. Form shows ability to win and compete at this level. Odds reflect genuine market respect and suggest a strong chance if running to recent best.",
+          "odds_note": "Competitive: 9/2 SBK, 6.8 exchange",
+          "rationale": "Recent wins and solid placings suggest peak fitness and suitability for this class. Jockey booking is notable, and odds offer fair value for a runner with proven ability at this level.",
           "confidence": "High"
         },
         {
@@ -286,22 +286,22 @@
           "jockey": "Oisin Murphy",
           "trainer": "Emma Lavelle",
           "form": "4-762443",
-          "odds_note": "5/1 SBK, 6.6 exchange (firmly in the market, not an outsider)",
-          "rationale": "Consistent performer with several recent placings, indicating reliability. Top jockey booking is a positive. While not winning recently, always close up and likely to be in the mix again. Odds are fair for a horse with this profile.",
+          "odds_note": "Value: 5/1 SBK, 7 exchange",
+          "rationale": "Consistent in-the-frame finishes, indicating reliability and competitiveness. Top jockey booking enhances prospects. Odds are fair for a runner with strong connections and steady form.",
           "confidence": "Medium-High"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1274,
-        "completion_tokens": 460,
-        "total_tokens": 1734,
+        "prompt_tokens": 1266,
+        "completion_tokens": 413,
+        "total_tokens": 1679,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.006,
           "request_cost": 0.006,
-          "total_cost": 0.017
+          "total_cost": 0.016
         }
       }
     },
@@ -315,8 +315,17 @@
           "jockey": "Sean Levey",
           "trainer": "Alan King",
           "form": "113/86-545",
-          "odds_note": "15/4 SBK, 5.7 exchange (solid market support, not an outsider)",
-          "rationale": "Consistent performer at this level with a strong win record earlier in career and recent runs in competitive company. Alan King is a respected trainer and Sean Levey is a reliable jockey. Recent form figures show competitiveness without being outclassed, and current odds reflect genuine market respect.",
+          "odds_note": "15/4 SBK, 5.9 exchange (solid market support, not a longshot)",
+          "rationale": "Consistent performer with multiple wins in recent form, trained by Alan King who is reliable at Kempton. Recent runs suggest fitness and ability to compete at this level. Odds indicate genuine market respect.",
+          "confidence": "High"
+        },
+        {
+          "name": "Uzincso",
+          "jockey": "David Egan",
+          "trainer": "John Butler",
+          "form": "7603-7241",
+          "odds_note": "9/2 SBK, 6 exchange (well-backed, competitive odds)",
+          "rationale": "Latest win signals peak form and readiness. David Egan is a strong jockey booking, and the horse has proven all-weather form. Connections are capable at this level and odds reflect realistic winning chance.",
           "confidence": "High"
         },
         {
@@ -324,29 +333,20 @@
           "jockey": "Jack Mitchell",
           "trainer": "Dan Horsford",
           "form": "423475-32",
-          "odds_note": "4/1 SBK, 6.6 exchange (well found in the market, not a longshot)",
-          "rationale": "Consistent placer with recent form figures showing two solid runs this season. Jack Mitchell is a capable jockey and the horse has been knocking on the door at this level. Odds indicate strong market confidence and the profile suggests a win is within reach.",
+          "odds_note": "4/1 SBK, 6.6 exchange (shortest price, clear market interest)",
+          "rationale": "Recent placed efforts show consistency and readiness to win. Jack Mitchell is a positive jockey booking, and the horse is holding form well. Market support suggests strong chance.",
           "confidence": "High"
-        },
-        {
-          "name": "Moab (Ire)",
-          "jockey": "Finley Marsh",
-          "trainer": "Henrietta C Knight",
-          "form": "4/34766-83",
-          "odds_note": "9/2 SBK, 6 exchange (market respect, not an outsider)",
-          "rationale": "Recent form shows improvement with a good third last time out. Has been running consistently in similar company and is not exposed as needing major improvement. Odds are competitive and connections are capable at this level.",
-          "confidence": "Medium-High"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1476,
-        "completion_tokens": 469,
-        "total_tokens": 1945,
+        "completion_tokens": 429,
+        "total_tokens": 1905,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.006,
           "request_cost": 0.006,
           "total_cost": 0.017
         }
@@ -362,8 +362,8 @@
           "jockey": "Jack Mitchell",
           "trainer": "Charlie Johnston",
           "form": "22",
-          "odds_note": "Strong favourite; 11/10 (SBK), 2.22 (exchange)",
-          "rationale": "Consistent runner with two recent runner-up finishes, indicating reliability and readiness to win. Top connections with Charlie Johnston and Jack Mitchell. Current odds reflect strong market confidence and suggest the horse is expected to be highly competitive.",
+          "odds_note": "Strong favourite; 11/10 (SBK), 2.36 (exchange)",
+          "rationale": "Consistent runner with two recent runner-up finishes, indicating reliability and readiness to win. Top connections and clear market leader, suggesting strong confidence from both bookmakers and exchange. No signs of regression in form and should be suited by conditions.",
           "confidence": "High"
         },
         {
@@ -371,16 +371,16 @@
           "jockey": "Cieren Fallon",
           "trainer": "Hugo Palmer",
           "form": "91",
-          "odds_note": "Second choice; 7/2 (SBK), 5.4 (exchange)",
-          "rationale": "Impressive last-time-out winner (form '1') and previously unplaced, suggesting marked improvement. Trained by Hugo Palmer and ridden by Cieren Fallon, both respected at this level. Odds indicate solid market support and realistic winning chance if progress continues.",
+          "odds_note": "Second choice; 7/2 (SBK), 5.5 (exchange)",
+          "rationale": "Impressive last-time-out winner, showing ability to progress quickly. Trainer and jockey both in good form. Odds reflect solid support and she is the most likely to challenge the favourite based on recent improvement and connections.",
           "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1227,
+        "prompt_tokens": 1229,
         "completion_tokens": 324,
-        "total_tokens": 1551,
+        "total_tokens": 1553,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
@@ -401,7 +401,7 @@
           "trainer": "Daniel & Claire Kubler",
           "form": "356-21681",
           "odds_note": "2/1 SBK, 3.1 exchange (clear favourite, strong market support)",
-          "rationale": "Comes here off a win last time out, showing ability to peak at the right time. Consistent profile this season, and connections are in good form. David Egan is a reliable jockey booking. No signs of regression in recent runs, and odds reflect strong chance.",
+          "rationale": "Hilltop arrives in peak form, having won last time out and showing consistent improvement through the season. The booking of David Egan is a positive, and the Kubler yard is adept at placing horses on the all-weather. Current odds reflect strong confidence and he does not require major improvement to win again.",
           "confidence": "High"
         },
         {
@@ -409,22 +409,31 @@
           "jockey": "Marco Ghiani",
           "trainer": "Roger Teal",
           "form": "4651-5371",
-          "odds_note": "11/2 SBK, 7.8 exchange (solid second tier in market)",
-          "rationale": "Latest run was a win, indicating upward trajectory. Has shown ability to handle similar company and conditions. Trainer and jockey both capable at this level. Odds offer value for a last-time-out winner with proven form.",
+          "odds_note": "11/2 SBK, 7.2 exchange (solid second tier in market)",
+          "rationale": "Midsummer Music (Ire) is another last-time-out winner, indicating current well-being. The form profile is progressive, and Roger Teal’s runners often improve for a recent win. Marco Ghiani is a capable jockey on the all-weather. Odds suggest genuine market respect without being overbet.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Tempted",
+          "jockey": "Mason Paetel",
+          "trainer": "Ollie Sangster",
+          "form": "37-174343",
+          "odds_note": "6/1 SBK, 7 exchange (well found in market, not an outsider)",
+          "rationale": "Tempted has been running consistently in competitive handicaps, rarely finishing far off the winner. The form is reliable, and the horse is holding condition well. Ollie Sangster’s team is in good order, and the odds offer some value for a horse with a solid place profile and potential to win if the favourite underperforms.",
           "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1279,
-        "completion_tokens": 340,
-        "total_tokens": 1619,
+        "prompt_tokens": 1277,
+        "completion_tokens": 522,
+        "total_tokens": 1799,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.005,
+          "output_tokens_cost": 0.008,
           "request_cost": 0.006,
-          "total_cost": 0.015
+          "total_cost": 0.018
         }
       }
     },
@@ -438,40 +447,22 @@
           "jockey": "David Egan",
           "trainer": "Kevin Philippart de Foy",
           "form": "2",
-          "odds_note": "Strong favourite; 5/6 (SBK), 1.82 (exchange)",
-          "rationale": "Showed immediate promise with a runner-up debut, indicating ability and likely improvement. Top connections, positive market support, and the best recent form in the field. No major negatives and profile fits a typical maiden winner at this track.",
+          "odds_note": "Strong favourite at 5/6 (1.86 exchange), clear market leader.",
+          "rationale": "Runner-up on debut, showing immediate ability and professionalism. Top connections with a trainer in excellent form and a reliable jockey. The market support is significant, and the form is the strongest among these, with no need for major improvement to win here.",
           "confidence": "High"
-        },
-        {
-          "name": "Trio",
-          "jockey": "Callum Hutchinson",
-          "trainer": "Eve Johnson Houghton",
-          "form": "6",
-          "odds_note": "Second choice in market; 4/1 (SBK), 6.8 (exchange)",
-          "rationale": "Debut run was fair in a decent maiden; expected to improve for experience. Trainer has a good record with juveniles at Kempton. Represents value as the clear second pick on both form and market position.",
-          "confidence": "Medium"
-        },
-        {
-          "name": "Fiery Damsel (Ire)",
-          "jockey": "Jack Mitchell",
-          "trainer": "Simon & Ed Crisford",
-          "form": "4",
-          "odds_note": "Third in market; 5/1 (SBK), 7.6 (exchange)",
-          "rationale": "Respectable debut effort in a competitive race, with scope to progress. Yard is in form and often improves runners for their second start. Market support suggests connections expect a forward showing.",
-          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1231,
-        "completion_tokens": 444,
-        "total_tokens": 1675,
+        "prompt_tokens": 1235,
+        "completion_tokens": 202,
+        "total_tokens": 1437,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.003,
           "request_cost": 0.006,
-          "total_cost": 0.016
+          "total_cost": 0.013
         }
       }
     },
@@ -485,8 +476,8 @@
           "jockey": "Callum Rodriguez",
           "trainer": "Harry Charlton",
           "form": "2-751",
-          "odds_note": "11/4 SBK, 4.3 exchange (clear favourite, solid market support)",
-          "rationale": "Progressive profile with a recent win and a strong follow-up run; lightly raced and open to further improvement. Top connections and market leader status reinforce confidence.",
+          "odds_note": "11/4 SBK, 4.4 exchange (clear favourite, solid market support)",
+          "rationale": "Progressive profile with a recent win and a strong follow-up effort (1st, then 2nd last two starts). Trainer in good form, and the horse is unexposed at this level. Market support is notable, suggesting confidence from connections.",
           "confidence": "High"
         },
         {
@@ -494,31 +485,22 @@
           "jockey": "Marco Ghiani",
           "trainer": "Emma Lavelle",
           "form": "53-362215",
-          "odds_note": "15/4 SBK, 5.6 exchange (well-supported, second choice in market)",
-          "rationale": "Consistent performer with multiple recent placings and a win two starts back. Reliable form in similar company and holding condition well. Market respect and solid each-way claims.",
+          "odds_note": "15/4 SBK, 5.7 exchange (well-backed, second choice in market)",
+          "rationale": "Consistent performer with multiple recent placings and a win two starts back. Reliable at this grade and trip, and the odds reflect solid support. Connections are respected and the horse is holding form well.",
           "confidence": "Medium-High"
-        },
-        {
-          "name": "Kingkeer",
-          "jockey": "Sean Levey",
-          "trainer": "Hughie Morrison",
-          "form": "49444-102",
-          "odds_note": "5/1 SBK, 7 exchange (third in market, not a longshot)",
-          "rationale": "Returned to form with a win two starts ago and a good second last time. Consistent at this level and connections capable. Profile suggests further competitiveness.",
-          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1480,
-        "completion_tokens": 423,
-        "total_tokens": 1903,
+        "completion_tokens": 335,
+        "total_tokens": 1815,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.006,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.017
+          "total_cost": 0.015
         }
       }
     },
@@ -532,8 +514,8 @@
           "jockey": "Jack Mitchell",
           "trainer": "Simon & Ed Crisford",
           "form": "2-21066",
-          "odds_note": "11/4 SBK, 4.2 Exchange (market leader)",
-          "rationale": "Consistent performer with a recent win and solid placed efforts; connections are in strong form and the odds reflect market confidence. No major negatives in recent runs and should be suited by conditions.",
+          "odds_note": "11/4 SBK, 3.95 exchange (clear favourite, solid market support)",
+          "rationale": "Consistent performer with a recent win and placed efforts at this level; top connections and reliable jockey. Recent form suggests a return to peak is possible after two slightly below-par runs. Remains well treated and market confidence is strong.",
           "confidence": "High"
         },
         {
@@ -541,22 +523,31 @@
           "jockey": "Jack Callan",
           "trainer": "James Tate",
           "form": "822-13",
-          "odds_note": "7/2 SBK, 5.1 Exchange (second choice)",
-          "rationale": "Progressive profile with a win two starts back and placed efforts; lightly raced this season and open to further improvement. Trainer is adept with this type and odds are competitive for a likely contender.",
-          "confidence": "High"
+          "odds_note": "7/2 SBK, 5.5 exchange (well-fancied, not an outsider)",
+          "rationale": "Progressive profile with a win and a close third this season. Lightly raced, open to further improvement, and connections are in good form. Consistency and upside make this runner a strong contender.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Rajaking",
+          "jockey": "Marco Ghiani",
+          "trainer": "Stuart Williams",
+          "form": "1-199422",
+          "odds_note": "9/2 SBK, 6 exchange (solid in the market, not a longshot)",
+          "rationale": "Has been running well in competitive handicaps, hitting the frame in last two starts. Early season form included a win; reliable at this level and should be suited by conditions. Each-way claims with potential to win if things fall right.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1274,
-        "completion_tokens": 308,
-        "total_tokens": 1582,
+        "prompt_tokens": 1272,
+        "completion_tokens": 457,
+        "total_tokens": 1729,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.005,
+          "output_tokens_cost": 0.007,
           "request_cost": 0.006,
-          "total_cost": 0.014
+          "total_cost": 0.017
         }
       }
     },
@@ -570,49 +561,40 @@
           "jockey": "Neil Callan",
           "trainer": "Stuart Kittow",
           "form": "32347747",
-          "odds_note": "15/4 SBK, 5.4 exchange (solid market support, not an outsider)",
-          "rationale": "Consistent performer at this level with multiple recent placings; reliable jockey booking; odds indicate strong market respect. No sign of major decline in form and should be competitive again.",
-          "confidence": "High"
+          "odds_note": "15/4 SBK, 5.3 exchange (solid market support, not an outsider)",
+          "rationale": "Consistently competitive in recent starts, holding form in this grade. Reliable jockey booking and odds indicate market confidence. No sign of sharp decline and should be suited by conditions.",
+          "confidence": "Strong each-way contender; solid win claims if reproducing best recent efforts."
         },
         {
           "name": "Arctic Dawn",
           "jockey": "David Egan",
           "trainer": "Daniel & Claire Kubler",
           "form": "7-2541671",
-          "odds_note": "9/2 SBK, 5.7 exchange (well-fancied, not a longshot)",
-          "rationale": "Latest win shows current well-being; versatile profile with a top jockey; connections in good form. Recent win suggests improvement and readiness for this level.",
-          "confidence": "High"
+          "odds_note": "9/2 SBK, 5.4 exchange (well found in the market)",
+          "rationale": "Latest win shows current well-being and ability to handle this level. Jockey/trainer combination is respected. Recent form is progressive and odds reflect realistic winning chance.",
+          "confidence": "High; arrives in peak form and profiles as a leading player."
         },
         {
           "name": "One More (Ire)",
           "jockey": "Sean Levey",
           "trainer": "Richard Hannon",
           "form": "222-1",
-          "odds_note": "5/1 SBK, 6.2 exchange (firmly in the market, not an outsider)",
-          "rationale": "Progressive profile with three consecutive seconds before a breakthrough win last time; top trainer and jockey combination; lightly raced and open to further improvement.",
-          "confidence": "High"
-        },
-        {
-          "name": "The Quiet Gent (Ire)",
-          "jockey": "Callum Rodriguez",
-          "trainer": "Ralph Beckett",
-          "form": "21-260723",
-          "odds_note": "9/2 SBK, 6.6 exchange (market support, not a longshot)",
-          "rationale": "Consistent at this level with multiple placings; strong connections; recent form figures suggest reliability and ability to compete for the win.",
-          "confidence": "Medium-High"
+          "odds_note": "9/2 SBK, 6 exchange (firmly among the favourites)",
+          "rationale": "Lightly raced and progressive, breaking maiden last time after a string of seconds. Top connections and scope for further improvement. Market position is justified.",
+          "confidence": "High; unexposed and open to further progress, strong win claims."
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1276,
-        "completion_tokens": 537,
-        "total_tokens": 1813,
+        "prompt_tokens": 1272,
+        "completion_tokens": 452,
+        "total_tokens": 1724,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.008,
+          "output_tokens_cost": 0.007,
           "request_cost": 0.006,
-          "total_cost": 0.018
+          "total_cost": 0.017
         }
       }
     },
@@ -626,40 +608,31 @@
           "jockey": "Finley Marsh",
           "trainer": "Richard Hughes",
           "form": "3-6860808",
-          "odds_note": "15/4 SBK, 5.6 exchange (clear market leader, not an outsider)",
-          "rationale": "Consistently supported in the market and holds the best available odds among the field. Recent form is patchy but includes a third and several midfield finishes in higher grade, suggesting competitiveness at this level. Richard Hughes is a respected trainer and the booking of Finley Marsh is positive. No major improvement needed to feature.",
-          "confidence": "Strong"
+          "odds_note": "5/2 SBK, 4.1 Exchange (clear market leader)",
+          "rationale": "Consistently supported in the market and holds the strongest odds profile. Recent form is mixed but includes competitive efforts in higher grade company. Connections are respected at Kempton and the booking of Finley Marsh is a positive. No major improvement needed; should be suited by conditions.",
+          "confidence": "High"
         },
         {
-          "name": "Rockstar Icon (Ire)",
-          "jockey": "Callum Rodriguez",
-          "trainer": "Oliver Cole",
-          "form": "0485-4694",
-          "odds_note": "9/2 SBK, 6 exchange (solid second-favorite, not a longshot)",
-          "rationale": "Consistent performer with recent form figures showing ability to place in similar company. Connections are capable and the horse has been running respectably in competitive handicaps. Market support is steady, indicating confidence from connections and punters.",
-          "confidence": "Solid"
-        },
-        {
-          "name": "Dollyana",
-          "jockey": "Lewis Edmunds",
-          "trainer": "William Muir & Chris Grassick",
-          "form": "0-7503434",
-          "odds_note": "5/1 SBK, 8 exchange (third in market, within value range)",
-          "rationale": "Has been running consistently well, with several recent placings suggesting reliability and fitness. The stable is in form and the jockey is experienced. No evidence of needing major improvement to win at this level.",
-          "confidence": "Solid"
+          "name": "Mbappe",
+          "jockey": "Joe Leavy",
+          "trainer": "Mark Loughnane",
+          "form": "1338-0093",
+          "odds_note": "11/2 SBK, 7.4 Exchange (solid second tier)",
+          "rationale": "Recent third suggests a return to form and previous winning/placed efforts indicate capability at this level. Trainer is adept with handicappers and the odds offer fair value for a runner with proven ability. No major improvement required; should be competitive.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1407,
-        "completion_tokens": 477,
-        "total_tokens": 1884,
+        "prompt_tokens": 1409,
+        "completion_tokens": 341,
+        "total_tokens": 1750,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.017
+          "total_cost": 0.015
         }
       }
     },
@@ -669,21 +642,12 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/24-september-2025/kempton-park/27/9/",
       "shortlist": [
         {
-          "name": "Muma Myflo",
-          "jockey": "Marco Ghiani",
-          "trainer": "Stuart Williams",
-          "form": "8-3273",
-          "odds_note": "7/2 SBK, 5.6 exchange (solid market support, not an outsider)",
-          "rationale": "Consistent recent form with three placings from last four starts, suggesting reliability and fitness. Connections are respected at this level and the odds indicate strong market confidence. No need for major improvement to feature.",
-          "confidence": "High"
-        },
-        {
           "name": "Initial Blue (Ire)",
           "jockey": "Sean Levey",
           "trainer": "Richard Hannon",
           "form": "41-989034",
-          "odds_note": "10/3 SBK, 5.1 exchange (well found in the market, not a longshot)",
-          "rationale": "Recent form includes a close fourth last time, and the horse has previously won at this level. Trainer and jockey are both proven in similar races. Odds reflect strong support and realistic winning chance.",
+          "odds_note": "10/3 SBK, 5.2 exchange (joint-favourite, strong market support)",
+          "rationale": "Consistent recent form with a solid fourth last time out, dropping in class and representing a top trainer/jockey combination. Odds indicate strong market confidence and he has shown ability at this level.",
           "confidence": "High"
         },
         {
@@ -691,16 +655,25 @@
           "jockey": "Lewis Edmunds",
           "trainer": "William Muir & Chris Grassick",
           "form": "48-577146",
-          "odds_note": "9/2 SBK, 4.9 exchange (firmly among the market leaders)",
-          "rationale": "Recent win two starts back and a respectable effort last time suggest the horse is in good form. Connections are capable, and the odds indicate the market expects another bold showing.",
+          "odds_note": "15/4 SBK, 5.2 exchange (well-supported, near the top of the market)",
+          "rationale": "Recent win two starts ago and a respectable sixth last time in a competitive field. Connections are in good form and the horse is holding its level. Market position suggests strong chance.",
+          "confidence": "High"
+        },
+        {
+          "name": "Muma Myflo",
+          "jockey": "Marco Ghiani",
+          "trainer": "Stuart Williams",
+          "form": "8-3273",
+          "odds_note": "4/1 SBK, 5.6 exchange (firmly in the market, not an outsider)",
+          "rationale": "Progressive profile with three placings from last four starts, suggesting reliability and readiness. Trainer and jockey are capable at this level. Odds reflect realistic winning chance.",
           "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1204,
-        "completion_tokens": 444,
-        "total_tokens": 1648,
+        "completion_tokens": 439,
+        "total_tokens": 1643,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
@@ -720,8 +693,8 @@
           "jockey": "Sean Bowen",
           "trainer": "Olly Murphy",
           "form": "321-",
-          "odds_note": "Strong favourite; 5/4 (SBK), 2.36 (exchange)",
-          "rationale": "Progressive profile with consistent recent form, including a win and two placings last season. Returns for a top yard with a leading jockey. Current odds reflect strong market confidence and suggest a high probability of success. No signs of needing major improvement.",
+          "odds_note": "Strong favourite; 5/4 (SBK), 2.5 (exchange)",
+          "rationale": "Progressive profile with consistent recent form, including a win and two placings last season. Returns for a top yard with a leading jockey. Current odds reflect strong market confidence and suggest readiness. No evidence of needing major improvement.",
           "confidence": "High"
         },
         {
@@ -729,25 +702,25 @@
           "jockey": "Danny Gilligan",
           "trainer": "Gordon Elliott, Ireland",
           "form": "1231-",
-          "odds_note": "Second choice; 5/2 (SBK), 3.85 (exchange)",
-          "rationale": "Consistent performer with a win and two placings in last four starts. Trained by Gordon Elliott, who excels with runners at this level. Market support is solid and form is reliable, making this runner a key threat to the favourite.",
-          "confidence": "Solid"
+          "odds_note": "Second favourite; 5/2 (SBK), 3.55 (exchange)",
+          "rationale": "Consistent and progressive last season, including a win and two placings. Trained by Gordon Elliott, who excels with runners at Perth. Market support is solid, and the form is reliable. No major improvement required to contend.",
+          "confidence": "Strong"
         },
         {
           "name": "Spectacularsunrise",
           "jockey": "Sam Twiston-Davies",
           "trainer": "Nigel & Willy Twiston-Davies",
           "form": "144-",
-          "odds_note": "Third in market; 5/2 (SBK), 4.3 (exchange)",
-          "rationale": "Lightly raced with a win and a fourth in last season's form. Represents a respected yard and has a top jockey booked. Odds indicate market respect, and form suggests potential to improve further without needing a major leap.",
-          "confidence": "Respectable"
+          "odds_note": "Third in market; 5/2 (SBK), 4.4 (exchange)",
+          "rationale": "Lightly raced with a win and two respectable efforts last season. Represents a respected yard and has a top jockey booked. Odds indicate market respect and the form is competitive for this grade.",
+          "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1288,
-        "completion_tokens": 475,
-        "total_tokens": 1763,
+        "completion_tokens": 456,
+        "total_tokens": 1744,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
@@ -767,8 +740,8 @@
           "jockey": "Brian Hughes",
           "trainer": "Patrick Neville",
           "form": "219-3131",
-          "odds_note": "10/3 SBK, 5.2 exchange (clear market leader, not an outsider)",
-          "rationale": "Consistent recent form with three wins from last five starts, including a win last time out. Top jockey booking in Brian Hughes adds confidence. Odds reflect strong market support and suggest stable expectations. No sign of decline in form and connections are reliable at this level.",
+          "odds_note": "7/2 SBK, 6.0 exchange (clear market leader, not an outsider)",
+          "rationale": "Consistent recent form with three wins from last five starts, including a win last time out. Proven ability to win in this grade and remains in peak form. Top jockey booking and strong market support reinforce confidence.",
           "confidence": "High"
         },
         {
@@ -776,25 +749,25 @@
           "jockey": "Sean Bowen",
           "trainer": "Tim Vaughan",
           "form": "425115-",
-          "odds_note": "5/1 SBK, 7.4 exchange (well-supported, not a longshot)",
-          "rationale": "Recent form includes two wins from last four starts before a break, indicating ability at this level. Sean Bowen is a positive jockey booking. Market position is solid and form is progressive, with no major negatives in profile.",
-          "confidence": "Solid"
+          "odds_note": "5/1 SBK, 6.8 exchange (well-supported, not a longshot)",
+          "rationale": "Two wins from last four completed starts before a break, suggesting upward trajectory. Returns with a top jockey and trainer combination. Odds indicate solid market respect and realistic winning chance.",
+          "confidence": "Medium-High"
         },
         {
           "name": "I Wish You (Fr)",
           "jockey": "Patrick Wadge",
           "trainer": "Lucinda Russell & Michael Scudamore",
           "form": "222/14364-",
-          "odds_note": "6/1 SBK, 7 exchange (respected in market, not an outsider)",
-          "rationale": "Consistent performer with multiple placings and a win this season. Recent form is competitive for this grade. Connections are in good form and the horse is holding its level. Odds indicate market respect.",
-          "confidence": "Solid"
+          "odds_note": "11/2 SBK, 7.6 exchange (respected in market, not an outsider)",
+          "rationale": "Consistent performer with multiple placings and a win in recent form. Connections are in good form and the horse is regularly competitive at this level. Odds reflect genuine contender status.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1379,
-        "completion_tokens": 462,
-        "total_tokens": 1841,
+        "prompt_tokens": 1371,
+        "completion_tokens": 444,
+        "total_tokens": 1815,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
@@ -814,8 +787,8 @@
           "jockey": "Sean Bowen",
           "trainer": "Olly Murphy",
           "form": "541-",
-          "odds_note": "Strong favourite; 11/5 SBK, 3.25 exchange",
-          "rationale": "Progressive profile with a win two starts back and a solid trainer-jockey combination. Recent form is reliable and connections are in good order. Odds reflect strong market support, indicating confidence.",
+          "odds_note": "11/5 SBK, 3.85 Exchange (clear favourite)",
+          "rationale": "Progressive profile with a win last season and a strong trainer-jockey combination. Sean Bowen is a reliable jockey and Olly Murphy is in good form. The odds indicate market confidence and the horse does not need major improvement to win here.",
           "confidence": "High"
         },
         {
@@ -823,20 +796,20 @@
           "jockey": "Peter Kavanagh",
           "trainer": "Lisa Harrison",
           "form": "253-P4412",
-          "odds_note": "Second choice in market; 4/1 SBK, 6.4 exchange",
-          "rationale": "Consistent recent form, including a win and a runner-up finish in last two starts. Profile suggests reliability and fitness. Odds offer fair value for a horse with proven recent performance.",
+          "odds_note": "4/1 SBK, 5.2 Exchange (second favourite)",
+          "rationale": "Consistent recent form with two wins and a runner-up finish in last three starts. Connections are solid and the odds offer reasonable value for a horse proven at this level.",
           "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1072,
-        "completion_tokens": 299,
-        "total_tokens": 1371,
+        "completion_tokens": 305,
+        "total_tokens": 1377,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
-          "output_tokens_cost": 0.004,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
           "total_cost": 0.014
         }
@@ -852,8 +825,8 @@
           "jockey": "Sean Bowen",
           "trainer": "Mickey Bowen",
           "form": "540032-10",
-          "odds_note": "2/1 SBK, 3.05 exchange (clear favourite, solid market support)",
-          "rationale": "Returned from a break with a win two starts ago and remains lightly raced this season. Recent form is solid, and the Bowen team is in good order. Sean Bowen is a top jockey at this venue. No major negatives in profile or market.",
+          "odds_note": "2/1 SBK, 3.05 exchange (clear market leader)",
+          "rationale": "Returned from break with a win last time out, followed by a respectable run. Consistent performer, proven at this level, and has a reliable jockey. Current odds indicate strong market support and value for a horse with recent winning form.",
           "confidence": "High"
         },
         {
@@ -861,16 +834,16 @@
           "jockey": "Derek Fox",
           "trainer": "Lucinda Russell & Michael Scudamore",
           "form": "13/3115P5-",
-          "odds_note": "9/4 SBK, 3.5 exchange (well-supported, clear second choice)",
-          "rationale": "Consistent profile last season with multiple wins and placed efforts. Returns after a break but has gone well fresh before. Lucinda Russell is a leading local trainer and Derek Fox is a reliable jockey for the yard. Market respect is notable.",
-          "confidence": "High"
+          "odds_note": "9/4 SBK, 3.5 exchange (solid second choice)",
+          "rationale": "Has shown ability with multiple wins last season and is trained by a top local yard. Recent form is mixed but includes competitive efforts at this level. Odds reflect strong market respect and connections are in good form.",
+          "confidence": "Medium-High"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 871,
-        "completion_tokens": 344,
-        "total_tokens": 1215,
+        "prompt_tokens": 873,
+        "completion_tokens": 327,
+        "total_tokens": 1200,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
@@ -890,8 +863,8 @@
           "jockey": "Sean Bowen",
           "trainer": "Olly Murphy",
           "form": "U42U5-453",
-          "odds_note": "13/8 SBK, 2.76 Exchange (clear favourite)",
-          "rationale": "Consistent recent form with two solid placed efforts in last three starts. Trained by Olly Murphy, who has a strong record at Perth, and partnered by top jockey Sean Bowen. Current odds indicate strong market confidence and value for a horse proven at this level.",
+          "odds_note": "13/8 SBK, 2.78 exchange (clear favourite, strong market support)",
+          "rationale": "Consistent recent form in competitive company, finishing in the frame on last two starts. Trained by Olly Murphy and partnered by top jockey Sean Bowen, both with strong strike rates at this level. Market support confirms expectations and connections are in form.",
           "confidence": "High"
         },
         {
@@ -899,16 +872,16 @@
           "jockey": "Alan Doyle",
           "trainer": "Lucinda Russell & Michael Scudamore",
           "form": "10/63575-3",
-          "odds_note": "16/5 SBK, 4.6 Exchange (second favourite)",
-          "rationale": "Returned from break with a promising third last time, suggesting fitness and readiness. Connections are highly respected, and the horse has shown ability in similar company. Odds are competitive and reflect genuine winning chance.",
+          "odds_note": "16/5 SBK, 4.6 exchange (solid second choice in market)",
+          "rationale": "Returned from break with a promising third last time, suggesting fitness and readiness. Trained by Lucinda Russell, a leading local trainer, and Alan Doyle is a capable jockey. Consistent profile and market position indicate strong claims if building on latest effort.",
           "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1011,
-        "completion_tokens": 328,
-        "total_tokens": 1339,
+        "completion_tokens": 344,
+        "total_tokens": 1355,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
@@ -928,8 +901,8 @@
           "jockey": "Sean Bowen",
           "trainer": "Sophie Leech",
           "form": "7UF-71541",
-          "odds_note": "11/4 SBK, 4.5 exchange (clear favourite, strong market support)",
-          "rationale": "Stiletto arrives in peak form, having won two of his last four starts and most recently scoring decisively. The booking of top jockey Sean Bowen is a positive, and the odds reflect strong market confidence. No signs of regression in recent runs, and connections are in good form.",
+          "odds_note": "3/1 SBK, 5.1 exchange (clear market leader, not an outsider)",
+          "rationale": "Recent winner with a strong latest form (1st last time out), progressive profile, and top jockey booking. Odds reflect strong market confidence and current form cycle is upward, suggesting readiness to win again.",
           "confidence": "High"
         },
         {
@@ -937,8 +910,8 @@
           "jockey": "Richie McLernon",
           "trainer": "R. Mike Smith",
           "form": "840-22233",
-          "odds_note": "11/2 SBK, 6.4 exchange (solid second choice in market)",
-          "rationale": "Burgundy Man is ultra-consistent, placing in each of his last five starts. While he has not won recently, his repeated close finishes suggest he is knocking on the door. The form is reliable, and he is unlikely to need major improvement to contend.",
+          "odds_note": "11/2 SBK, 6 exchange (solidly in the market)",
+          "rationale": "Ultra-consistent with a string of placed efforts (three consecutive thirds and prior seconds), indicating reliability and fitness. Connections are capable and the horse is holding form well, making him a logical contender if the favorite underperforms.",
           "confidence": "Medium-High"
         },
         {
@@ -946,22 +919,22 @@
           "jockey": "Bruce Lynn",
           "trainer": "N. W. Alexander",
           "form": "92423F32-",
-          "odds_note": "5/1 SBK, 7 exchange (well-supported, not an outsider)",
-          "rationale": "Anamanda has a string of placed efforts and is rarely out of the frame. The consistent profile and competitive odds indicate market respect. While not prolific, she is reliable and does not require significant improvement to be involved.",
+          "odds_note": "5/1 SBK, 6.4 exchange (well supported, not an outsider)",
+          "rationale": "Consistent placer with recent form figures showing regular top-three finishes. Has shown ability to handle similar company and conditions, and odds suggest market respect. No major improvement needed to contend.",
           "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1211,
-        "completion_tokens": 477,
-        "total_tokens": 1688,
+        "completion_tokens": 445,
+        "total_tokens": 1656,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
           "output_tokens_cost": 0.007,
           "request_cost": 0.006,
-          "total_cost": 0.017
+          "total_cost": 0.016
         }
       }
     },
@@ -975,31 +948,40 @@
           "jockey": "William Pyle",
           "trainer": "David Loughnane",
           "form": "960222",
-          "odds_note": "9/4 SBK, 3.65 Exchange (clear market leader)",
-          "rationale": "Consistent recent form with three consecutive runner-up finishes, indicating reliability and readiness to win. Connections are solid, and current odds reflect strong market support. No signs of decline in form and should be suited by race conditions.",
+          "odds_note": "9/4 SBK, 3.9 exchange (clear favourite, strong market support)",
+          "rationale": "Consistent recent form with three consecutive runner-up finishes, indicating reliability and readiness to win. Connections are solid, and the horse is well found in the market, suggesting confidence from both bookmakers and exchange layers. No sign of regression in form, and profile fits a typical winner at this level.",
           "confidence": "High"
+        },
+        {
+          "name": "Lynxman (Ire)",
+          "jockey": "Jason Hart",
+          "trainer": "Jack Morland",
+          "form": "0064",
+          "odds_note": "4/1 SBK, 6 exchange (second choice in market)",
+          "rationale": "Showed improvement last time out with a fourth-place finish after two unplaced runs, suggesting upward trajectory. Jockey booking is positive, and odds indicate market respect. Needs only minor progress to contend, and recent run hints at further improvement.",
+          "confidence": "Medium"
         },
         {
           "name": "Harswell River (Ire)",
           "jockey": "Mark Winn",
           "trainer": "Roger Fell",
           "form": "05734235",
-          "odds_note": "4/1 SBK, 6 Exchange (second choice in market)",
-          "rationale": "Recent form includes several placed efforts, showing competitiveness at this level. Trainer has a good record at Redcar, and odds suggest genuine market respect. Not as consistent as the favorite but has shown enough ability to be a strong contender.",
-          "confidence": "Solid"
+          "odds_note": "4/1 SBK, 6.2 exchange (well supported, not an outsider)",
+          "rationale": "Consistent performer at this level with multiple recent placings. Has been running respectably in similar company and is holding form well. Trainer and jockey are capable, and odds reflect realistic winning chance without being overbet.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1128,
-        "completion_tokens": 322,
-        "total_tokens": 1450,
+        "prompt_tokens": 1130,
+        "completion_tokens": 464,
+        "total_tokens": 1594,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
-          "output_tokens_cost": 0.005,
+          "output_tokens_cost": 0.007,
           "request_cost": 0.006,
-          "total_cost": 0.014
+          "total_cost": 0.016
         }
       }
     },
@@ -1013,31 +995,22 @@
           "jockey": "Shay Farmer",
           "trainer": "Brian Ellison",
           "form": "43222211",
-          "odds_note": "9/4 SBK, 3.35 exchange (clear favourite, not a longshot)",
-          "rationale": "Arrives in peak form with back-to-back wins and a string of consistent placed efforts prior. Connections are reliable, and current odds reflect strong market support. No signs of decline and recent performances suggest she is still improving.",
+          "odds_note": "2/1 SBK, 3.15 exchange (clear favourite, solid market support)",
+          "rationale": "Arrives in peak form with back-to-back wins and a string of consistent placed efforts prior. Connections are reliable, and the horse is proven at this level. Odds reflect strong chance and current form cycle is upward, with no sign of regression.",
           "confidence": "High"
-        },
-        {
-          "name": "Territorial Star",
-          "jockey": "Rowan Scott",
-          "trainer": "Stella Barclay",
-          "form": "222",
-          "odds_note": "13/2 SBK, 8 exchange (solid value, not a longshot)",
-          "rationale": "Ultra-consistent with three consecutive runner-up finishes, indicating readiness to break through. Form suggests reliability and competitiveness at this level. Odds offer each-way value and connections have placed the horse well.",
-          "confidence": "Medium-High"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1459,
-        "completion_tokens": 321,
-        "total_tokens": 1780,
+        "completion_tokens": 202,
+        "total_tokens": 1661,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.005,
+          "output_tokens_cost": 0.003,
           "request_cost": 0.006,
-          "total_cost": 0.015
+          "total_cost": 0.013
         }
       }
     },
@@ -1051,8 +1024,8 @@
           "jockey": "Clifford Lee",
           "trainer": "K. R. Burke",
           "form": "",
-          "odds_note": "Favoured at 5/4 (SBK) and 2.72 (exchange), clear market leader.",
-          "rationale": "Strong market support as favourite, representing a top yard in good form. Connections are reliable at this level and the lack of recent form suggests debut or unexposed potential, which is often respected in maiden/novice company. No signs of needing major improvement.",
+          "odds_note": "Strong favourite; 7/5 (SBK), 2.66 (exchange)",
+          "rationale": "Debuts for a top yard with a strong jockey booking and is well found in the market, indicating significant stable confidence. The lack of form is not a negative for a well-supported debutant from this stable, especially in a weak maiden.",
           "confidence": "High"
         },
         {
@@ -1060,16 +1033,16 @@
           "jockey": "Daniel Tudhope",
           "trainer": "John & Thady Gosden",
           "form": "3",
-          "odds_note": "Solid at 5/2 (SBK) and 3.9 (exchange), third choice in market.",
-          "rationale": "Good debut third for powerful connections, indicating ability and scope for improvement. Trainer/jockey combination is high class and the horse is not a longshot. Form suggests ready to progress without needing major improvement.",
-          "confidence": "Strong"
+          "odds_note": "Second choice in market; 5/2 (SBK), 4 (exchange)",
+          "rationale": "Showed promise on debut with a solid third and represents a leading stable. Improvement is likely on second start, and the current odds offer fair value given connections and proven ability to handle race conditions.",
+          "confidence": "High"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 972,
-        "completion_tokens": 328,
-        "total_tokens": 1300,
+        "prompt_tokens": 970,
+        "completion_tokens": 315,
+        "total_tokens": 1285,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
@@ -1089,8 +1062,8 @@
           "jockey": "Daniel Tudhope",
           "trainer": "David O'Meara",
           "form": "423-2303",
-          "odds_note": "Strong favourite; 1/1 SBK, 2.14 exchange.",
-          "rationale": "Consistent form at this level, regularly placing and competitive in recent starts. Top connections with Tudhope/O'Meara, both proven at Redcar. Odds reflect strong market support and reliability, with no signs of declining form.",
+          "odds_note": "1/1 SBK, 2.16 exchange (clear favourite, strong market support)",
+          "rationale": "Consistent performer at this level with multiple placings and solid recent form figures. Proven ability to handle similar company and conditions. Top jockey and trainer combination adds further confidence. Market support is strong, indicating high expectations.",
           "confidence": "High"
         },
         {
@@ -1098,16 +1071,16 @@
           "jockey": "Paul Mulrennan",
           "trainer": "Ed Walker",
           "form": "42",
-          "odds_note": "Second choice; 9/4 SBK, 3.65 exchange.",
-          "rationale": "Progressive profile with two solid runs, showing improvement and likely to be suited by conditions. Mulrennan/Walker combination is respected, and odds indicate genuine market confidence. No major negatives in recent form.",
+          "odds_note": "9/4 SBK, 3.65 exchange (second choice in market, clear of outsiders)",
+          "rationale": "Progressive profile with two promising runs to date, including a recent runner-up finish. Open to further improvement and represents a respected yard. Odds reflect genuine winning chance without being overbet.",
           "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 971,
-        "completion_tokens": 317,
-        "total_tokens": 1288,
+        "prompt_tokens": 973,
+        "completion_tokens": 320,
+        "total_tokens": 1293,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
@@ -1127,8 +1100,8 @@
           "jockey": "Kevin Stott",
           "trainer": "Roger Fell",
           "form": "80298225",
-          "odds_note": "9/2 SBK, 5.3 exchange (solid market support, not a longshot)",
-          "rationale": "Consistent recent form with multiple placings, including two seconds in last four starts. Reliable jockey and trainer combination. No signs of decline and holding form well for this grade.",
+          "odds_note": "Solid market position (4/1 SBK, 5.4 exchange)",
+          "rationale": "Consistent recent form with multiple placings, proven ability at this level, and a reliable jockey booking. Connections are in decent form and the odds reflect strong market support. No signs of decline in recent runs.",
           "confidence": "High"
         },
         {
@@ -1136,8 +1109,8 @@
           "jockey": "Paul Mulrennan",
           "trainer": "Simon & Ed Crisford",
           "form": "5-3336134",
-          "odds_note": "9/2 SBK, 5.9 exchange (competitive odds, not a longshot)",
-          "rationale": "Strong recent form with a win three starts back and consistent placings. Connections are in good order and the horse has shown ability at this level. No major improvement needed, just needs to reproduce best recent effort.",
+          "odds_note": "Well-backed (9/2 SBK, 6 exchange)",
+          "rationale": "Has shown consistent form with several placed efforts and a recent win. Trainer/jockey combination is respected, and the horse remains competitive in similar company. Odds indicate genuine market interest.",
           "confidence": "High"
         },
         {
@@ -1145,22 +1118,31 @@
           "jockey": "T. Kiely-Marshall",
           "trainer": "Julie Camacho",
           "form": "9444-4146",
-          "odds_note": "9/2 SBK, 5.9 exchange (well-backed, not a longshot)",
-          "rationale": "Recent win four starts ago and competitive efforts since. Trainer is respected and the horse has shown ability to handle similar company. Form is steady and connections are reliable.",
-          "confidence": "High"
+          "odds_note": "Competitive odds (9/2 SBK, 6.2 exchange)",
+          "rationale": "Recent win two starts back and consistent performances in handicaps. Trainer is adept at placing horses in the right races and the horse has maintained a solid level of form. Market support is notable.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Magellan Cloud",
+          "jockey": "Jason Hart",
+          "trainer": "John & Sean Quinn",
+          "form": "1-3323200",
+          "odds_note": "Market respect (9/2 SBK, 6.4 exchange)",
+          "rationale": "Early season win and several placed efforts suggest ability at this level. Recent form slightly dipped but remains within competitive range. Connections are capable and odds are fair for the profile.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1211,
-        "completion_tokens": 444,
-        "total_tokens": 1655,
+        "completion_tokens": 552,
+        "total_tokens": 1763,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.008,
           "request_cost": 0.006,
-          "total_cost": 0.016
+          "total_cost": 0.018
         }
       }
     },
@@ -1174,8 +1156,8 @@
           "jockey": "Oisin James Orr",
           "trainer": "Martin Dunne",
           "form": "47632221",
-          "odds_note": "9/4 SBK, 3.4 exchange (clear favourite, strong market support)",
-          "rationale": "Arrives in peak form with a recent win and multiple placings, indicating consistency and improvement. The current odds reflect strong market confidence, and the booking of a reliable jockey further boosts prospects. No signs of regression in recent runs.",
+          "odds_note": "9/4 SBK, 3.45 exchange (clear market leader)",
+          "rationale": "Arrives in peak form with a win last time and consistent placed efforts prior. Reliable jockey booking and odds reflect strong market support. No signs of decline and connections have placed the horse well for this contest.",
           "confidence": "High"
         },
         {
@@ -1183,22 +1165,22 @@
           "jockey": "David Allan",
           "trainer": "Tim Easterby",
           "form": "93404056",
-          "odds_note": "11/4 SBK, 4 exchange (solid second choice in market)",
-          "rationale": "Consistently competitive at this level, with several respectable finishes. The odds suggest market respect and the trainer/jockey combination is proven at this track. While not as progressive as the favourite, recent form is solid and no major improvement is required to contend.",
-          "confidence": "Medium"
+          "odds_note": "11/4 SBK, 4.1 exchange (second choice in market)",
+          "rationale": "Consistent performer at this level, with several respectable finishes. Trainer and jockey combination is proven locally. Odds indicate solid support and recent form suggests the horse is competitive in this grade.",
+          "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1199,
-        "completion_tokens": 331,
-        "total_tokens": 1530,
+        "prompt_tokens": 1203,
+        "completion_tokens": 306,
+        "total_tokens": 1509,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
           "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.015
+          "total_cost": 0.014
         }
       }
     },
@@ -1212,8 +1194,8 @@
           "jockey": "Jason Hart",
           "trainer": "Julie Camacho",
           "form": "72331332",
-          "odds_note": "11/4 SBK, 4.6 exchange (clear favourite, solid market support)",
-          "rationale": "Consistent recent form with multiple placings and a win in last six starts. Remains in good heart, holding form well without signs of regression. Top connections for this grade and is well found in the market, indicating strong confidence.",
+          "odds_note": "11/4 SBK, 4.5 exchange (clear favourite, solid market support)",
+          "rationale": "Consistent recent form with multiple placings and a win in last 6 starts. Proven reliability at this level, and market support confirms strong chance. Jockey/trainer combination is in good order. No signs of decline in form, and profile fits a horse ready to win again.",
           "confidence": "High"
         },
         {
@@ -1221,16 +1203,16 @@
           "jockey": "David Nolan",
           "trainer": "Tony Coyle & Kaine Wood",
           "form": "3218-3141",
-          "odds_note": "5/1 SBK, 6.2 exchange (solid second choice in market)",
-          "rationale": "Recent form is progressive with two wins in last four starts, including a latest victory. Profile suggests further improvement is possible and market position confirms respect. Connections are in form and the horse is proven at this level.",
+          "odds_note": "5/1 SBK, 6.2 exchange (second choice in market, holding value)",
+          "rationale": "Recent form includes two wins from last four starts, showing ability to get head in front. Versatile and progressive profile, with no major negatives in the form cycle. Connections are capable, and odds offer fair value for a proven winner at this level.",
           "confidence": "Medium-High"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1423,
-        "completion_tokens": 325,
-        "total_tokens": 1748,
+        "prompt_tokens": 1419,
+        "completion_tokens": 346,
+        "total_tokens": 1765,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
@@ -1250,31 +1232,40 @@
           "jockey": "Stevie Donohoe",
           "trainer": "Ivan Furtado",
           "form": "62166303",
-          "odds_note": "16/5 SBK, 4.6 exchange (clear market leader, not an outsider)",
-          "rationale": "Consistent recent form with multiple placings and a win in last six starts. Market support is strong, indicating confidence. Connections are solid and the horse is proven at this level.",
+          "odds_note": "16/5 SBK, 5.1 exchange (clear market leader, not an outsider)",
+          "rationale": "Consistent recent form with multiple placings and a win in the last 8 starts. Market support is strong, indicating confidence. Connections are solid and the horse is proven at this level.",
           "confidence": "High"
+        },
+        {
+          "name": "Darbucks (Ire)",
+          "jockey": "Jason Hart",
+          "trainer": "Christopher Kellett",
+          "form": "4-0479184",
+          "odds_note": "9/2 SBK, 6.4 exchange (well-supported, not a longshot)",
+          "rationale": "Recent win three starts ago and competitive efforts since. Jockey booking is positive and odds suggest the market expects a good run. No need for major improvement to contend.",
+          "confidence": "Solid"
         },
         {
           "name": "Good Karma",
           "jockey": "S. B. Kirrane",
           "trainer": "John David Riches",
           "form": "5998-8154",
-          "odds_note": "5/1 SBK, 7.2 exchange (well-supported, not a longshot)",
-          "rationale": "Recent win two starts back and competitive efforts since. Odds suggest genuine market respect. Form is improving and the horse is holding condition.",
-          "confidence": "Solid"
+          "odds_note": "11/2 SBK, 7.2 exchange (within main market group)",
+          "rationale": "Recent win four starts back and fair efforts since. Odds are competitive and form is reliable for this grade. Should be in the mix if repeating best recent efforts.",
+          "confidence": "Moderate"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1279,
-        "completion_tokens": 307,
-        "total_tokens": 1586,
+        "prompt_tokens": 1285,
+        "completion_tokens": 430,
+        "total_tokens": 1715,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.005,
+          "output_tokens_cost": 0.006,
           "request_cost": 0.006,
-          "total_cost": 0.014
+          "total_cost": 0.016
         }
       }
     },
@@ -1288,34 +1279,34 @@
           "jockey": "Mr D. L. Queally",
           "trainer": "Declan Queally, Ireland",
           "form": "7112-",
-          "odds_note": "7/5 SBK, 2.96 exchange (clear market leader)",
-          "rationale": "Progressive profile with three wins and a second from last four starts, suggesting strong current form. Market support is significant, indicating confidence. Connections are reliable and the horse has proven ability at this level.",
+          "odds_note": "Strong favourite; 5/4 sportsbook, 3.15 exchange.",
+          "rationale": "Progressive profile with three wins/places from last four starts, suggesting reliability and peak form. Connections are in form and odds reflect strong market confidence. No sign of regression in recent runs.",
           "confidence": "High"
-        },
-        {
-          "name": "Night Moon (Ger)",
-          "jockey": "P. Townend",
-          "trainer": "W. P. Mullins, Ireland",
-          "form": "7",
-          "odds_note": "11/5 SBK, 3.6 exchange (solid second-favorite)",
-          "rationale": "Represents top connections (Mullins/Townend) and is well found in the market despite limited form. Likely to improve from debut and respected on stable/jockey combination alone.",
-          "confidence": "Medium"
         },
         {
           "name": "Astelia (Ire)",
           "jockey": "Sam Ewing",
           "trainer": "Peter Fahey, Ireland",
           "form": "2222",
-          "odds_note": "15/4 SBK, 6.2 exchange (third in market, not an outsider)",
-          "rationale": "Ultra-consistent with four consecutive runner-up finishes, indicating reliability and readiness. May lack a finishing kick but is always in contention and could capitalize if favorites underperform.",
+          "odds_note": "4/1 sportsbook, 6.6 exchange; solidly supported.",
+          "rationale": "Ultra-consistent with four consecutive runner-up finishes, indicating readiness to win. Connections are respected and the horse is holding form well. Odds offer fair value for a consistent type likely to be involved.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Wholelotofbusiness (Ire)",
+          "jockey": "J. W. Kennedy",
+          "trainer": "Eoin Christopher McCarthy, Ireland",
+          "form": "63/26432",
+          "odds_note": "9/2 sportsbook, 6 exchange; competitive in market.",
+          "rationale": "Consistent placer at this level, regularly in the frame and now gets top jockey booking. Recent form figures show reliability and ability to compete for the win. Odds are fair for a horse with proven competitiveness.",
           "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1828,
-        "completion_tokens": 434,
-        "total_tokens": 2262,
+        "prompt_tokens": 1826,
+        "completion_tokens": 443,
+        "total_tokens": 2269,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.005,
@@ -1335,25 +1326,25 @@
           "jockey": "P. Townend",
           "trainer": "W. P. Mullins, Ireland",
           "form": "11",
-          "odds_note": "4/9 (SBK), 1.58 (exchange) – clear favourite",
-          "rationale": "Unbeaten in two starts, showing progressive and reliable form. Trained by Willie Mullins and ridden by Paul Townend, the leading combination in Irish jumps racing. Odds are short but justified by dominant profile and connections. No signs of decline or need for improvement.",
-          "confidence": "Very strong"
+          "odds_note": "2/5 SBK, 1.57 exchange (clear favourite, very short odds)",
+          "rationale": "Unbeaten in two starts, representing the leading Mullins/Townend combination. Recent form is flawless, and the market strongly supports his chance. No evidence of decline or need for improvement; proven at this level.",
+          "confidence": "Very High"
         },
         {
           "name": "La Note Verte",
           "jockey": "J. J. Slevin",
           "trainer": "W. P. Mullins, Ireland",
           "form": "8/1-116",
-          "odds_note": "15/4 (SBK), 6.2 (exchange) – solid second choice",
-          "rationale": "Recent form figures include two wins this season before a respectable 6th in a likely stronger contest. Also trained by Mullins, indicating stable confidence. Odds offer some value as the clear second string with proven winning ability and fitness.",
-          "confidence": "Strong"
+          "odds_note": "9/2 SBK, 7 exchange (solid second-favourite)",
+          "rationale": "Recent form includes two wins this season before a respectable sixth in a stronger contest. Also trained by Mullins, suggesting stable confidence. Odds indicate clear market respect and she is the most credible alternative to the favourite.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 884,
-        "completion_tokens": 349,
-        "total_tokens": 1233,
+        "prompt_tokens": 878,
+        "completion_tokens": 332,
+        "total_tokens": 1210,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
@@ -1373,8 +1364,8 @@
           "jockey": "Sam Ewing",
           "trainer": "Peter Fahey, Ireland",
           "form": "3-500P701",
-          "odds_note": "15/8 SBK, 3.0 exchange (clear favourite, strong market support)",
-          "rationale": "Returned to form with a win last time out, indicating peak condition. Has a reliable jockey and trainer combination. Recent form figures show improvement and ability to win in this grade. Odds reflect strong market confidence.",
+          "odds_note": "13/8 SBK, 2.8 exchange (clear market leader)",
+          "rationale": "Returned to form with a win last time out, suggesting peak condition. Reliable connections and strong market support indicate confidence. Recent form figures show improvement and ability to win in this grade.",
           "confidence": "High"
         },
         {
@@ -1382,31 +1373,22 @@
           "jockey": "P. Byrnes",
           "trainer": "Charles Byrnes, Ireland",
           "form": "020-87001",
-          "odds_note": "4/1 SBK, 3.45 exchange (solid second choice in market)",
-          "rationale": "Latest run was a win, suggesting the horse is on the upgrade. Trained by Charles Byrnes, a respected handler. Form shows progression and ability to handle similar company. Odds indicate genuine support.",
-          "confidence": "Strong"
-        },
-        {
-          "name": "Dunany Point (Ire)",
-          "jockey": "K. E. Buckley",
-          "trainer": "Conor David Maxwell, Ireland",
-          "form": "P71-27862",
-          "odds_note": "6/1 SBK, 3.25 exchange (well-backed, not an outsider)",
-          "rationale": "Consistent recent form with several placings and a win earlier this season. Remains competitive at this level and odds suggest market respect. Connections are capable and the horse is holding form.",
-          "confidence": "Solid"
+          "odds_note": "4/1 SBK, 5.6 exchange (solid second choice in market)",
+          "rationale": "Latest run was a win, indicating upward trajectory. Trained by Charles Byrnes, a respected handler for handicappers. Form shows ability to bounce back and win after moderate runs, and odds reflect genuine market respect.",
+          "confidence": "Medium-High"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1870,
-        "completion_tokens": 452,
-        "total_tokens": 2322,
+        "prompt_tokens": 1651,
+        "completion_tokens": 320,
+        "total_tokens": 1971,
         "search_context_size": "low",
         "cost": {
-          "input_tokens_cost": 0.006,
-          "output_tokens_cost": 0.007,
+          "input_tokens_cost": 0.005,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.018
+          "total_cost": 0.016
         }
       }
     },
@@ -1420,8 +1402,8 @@
           "jockey": "K. C. Sexton",
           "trainer": "Declan Queally, Ireland",
           "form": "36707-2F1",
-          "odds_note": "Strong market support (5/2 SBK, 4.6 exchange), clear favourite.",
-          "rationale": "Recent win last time out signals peak form and readiness. Reliable jockey and trainer combination. Form shows improvement and resilience after a fall, with a win on latest start indicating confidence and fitness. No major negatives in profile.",
+          "odds_note": "11/4 SBK, 4.6 exchange (joint-favourite, strong market support)",
+          "rationale": "Comes here in peak form, having won last time out after a solid runner-up finish and only a fall interrupting a sequence of progressive efforts. Reliable connections and current odds reflect strong market confidence. No signs of decline and recent win suggests readiness.",
           "confidence": "High"
         },
         {
@@ -1429,22 +1411,31 @@
           "jockey": "C. M. Hogan",
           "trainer": "Eric McNamara, Ireland",
           "form": "09P92-133",
-          "odds_note": "Solid value (4/1 SBK, 5 exchange), second choice in market.",
-          "rationale": "Consistent recent form with three consecutive placed efforts, including a win and two thirds. Connections are reliable at this level. Profile suggests ongoing improvement and ability to compete strongly in this field.",
+          "odds_note": "11/4 SBK, 4.7 exchange (joint-favourite, well-backed)",
+          "rationale": "Consistent performer with three consecutive placed efforts (1-3-3) this season, including a win. Trainer in form and horse is holding condition well. Market position indicates strong support and no need for major improvement.",
+          "confidence": "High"
+        },
+        {
+          "name": "Duke Silver (Ire)",
+          "jockey": "J. J. Slevin",
+          "trainer": "Joseph Patrick O'Brien, Ireland",
+          "form": "853F-2724",
+          "odds_note": "9/2 SBK, 4.7 exchange (solid third choice, respected yard)",
+          "rationale": "Consistent recent form with two runner-up finishes and a fourth last time, all in competitive company. Trained by a top yard and partnered by a strong jockey. Odds offer value for a horse with proven reliability at this level.",
           "confidence": "Medium-High"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1505,
-        "completion_tokens": 341,
-        "total_tokens": 1846,
+        "prompt_tokens": 1507,
+        "completion_tokens": 495,
+        "total_tokens": 2002,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.005,
-          "output_tokens_cost": 0.005,
+          "output_tokens_cost": 0.007,
           "request_cost": 0.006,
-          "total_cost": 0.016
+          "total_cost": 0.018
         }
       }
     },
@@ -1458,34 +1449,34 @@
           "jockey": "P. Townend",
           "trainer": "W. P. Mullins, Ireland",
           "form": "0144-U221",
-          "odds_note": "7/2 SBK, 6.4 Exchange (market leader, solid support)",
-          "rationale": "Recent form is highly consistent with two seconds and a win in last three starts, indicating peak condition. Trained by W. P. Mullins and ridden by P. Townend, both top-class connections for Listowel. Odds reflect strong market confidence and value for a proven performer.",
+          "odds_note": "7/2 SBK, 6.0 exchange (clear market leader, not an outsider)",
+          "rationale": "Progressive profile with two recent runner-up finishes followed by a win, indicating peak form. Trained by Willie Mullins and ridden by Paul Townend, both top connections. Odds reflect strong market confidence and current form is solid without needing major improvement.",
           "confidence": "High"
-        },
-        {
-          "name": "Three Card Brag (Ire)",
-          "jockey": "J. W. Kennedy",
-          "trainer": "Gordon Elliott, Ireland",
-          "form": "2/337130-8",
-          "odds_note": "5/1 SBK, 8.2 Exchange (solid second choice)",
-          "rationale": "Form includes a win and several placed efforts at a good level, with a recent run suggesting fitness. Gordon Elliott and J. W. Kennedy are a proven combination in competitive handicaps. Odds offer reasonable value for a horse with class and consistency.",
-          "confidence": "Medium-High"
         },
         {
           "name": "Thecompanysergeant",
           "jockey": "Keith Donoghue",
           "trainer": "Gavin Patrick Cromwell, Ireland",
           "form": "136432-59",
-          "odds_note": "6/1 SBK, 8.6 Exchange (well-backed, not a longshot)",
-          "rationale": "Consistent placed form last season, including several seconds and thirds, and recent runs suggest readiness. Trainer Cromwell is adept at preparing horses for these events. Odds are competitive for a runner with reliable form and proven stamina.",
+          "odds_note": "11/2 SBK, 8.4 exchange (well-supported, not a longshot)",
+          "rationale": "Consistent performer at this level with several placed efforts last season. Recent runs suggest fitness and reliability. Trainer and jockey are both respected, and odds indicate market respect without being overbet.",
+          "confidence": "Medium"
+        },
+        {
+          "name": "Three Card Brag (Ire)",
+          "jockey": "J. W. Kennedy",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "2/337130-8",
+          "odds_note": "11/2 SBK, 8.8 exchange (competitive odds, not an outsider)",
+          "rationale": "Strong novice form last season, including a win and several placed efforts. Recent run may have been needed after a break. Top connections with Elliott and Kennedy. Odds suggest market expects improvement without requiring a major leap.",
           "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 2029,
-        "completion_tokens": 489,
-        "total_tokens": 2518,
+        "prompt_tokens": 1881,
+        "completion_tokens": 476,
+        "total_tokens": 2357,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.006,
@@ -1505,40 +1496,40 @@
           "jockey": "P. Townend",
           "trainer": "W. P. Mullins, Ireland",
           "form": "7/4P13-P3P",
-          "odds_note": "7/4 SBK, 2.94 exchange (clear favourite)",
-          "rationale": "Top connections with Mullins/Townend, proven at graded level, and despite a mixed recent form, has placed in competitive races. Current odds reflect strong market support and class edge.",
+          "odds_note": "7/4 SBK, 2.78 exchange (clear favourite, strong market support)",
+          "rationale": "Represents the top connections of Mullins and Townend, who excel at Listowel. Zenta has mixed recent form but has run well in higher grade company and is proven at this level. The market strongly supports her chances, indicating confidence from connections and punters.",
           "confidence": "High"
-        },
-        {
-          "name": "Enjoy The Dream",
-          "jockey": "B. Hayes",
-          "trainer": "Andrew McNamara, Ireland",
-          "form": "7/442522-1",
-          "odds_note": "9/2 SBK, 4.1 exchange (solid second favourite)",
-          "rationale": "Recent win signals peak fitness and improvement. Consistent placings prior to latest victory, and odds offer value for a runner in form with proven stamina.",
-          "confidence": "Medium-High"
         },
         {
           "name": "Cloonainra (Ire)",
           "jockey": "P. Hanlon",
           "trainer": "John McConnell, Ireland",
           "form": "3422251-5",
-          "odds_note": "15/4 SBK, 5.1 exchange (well-supported, not a longshot)",
-          "rationale": "Reliable recent form with multiple placings and a win two starts back. Connections are in good order and odds indicate market respect for consistency.",
+          "odds_note": "15/4 SBK, 5.3 exchange (solid second choice in market)",
+          "rationale": "Consistent profile with a recent win and solid placed efforts last season. McConnell is adept at placing his runners, and Cloonainra's form is reliable for this grade. Odds reflect genuine respect and she does not require major improvement to contend.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Me Wee Bonnie Lass (Ire)",
+          "jockey": "C. Stone-Walsh",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "form": "1141/448-3",
+          "odds_note": "17/2 SBK, 5 exchange (not an outsider on exchange, market support notable)",
+          "rationale": "Returned from a break with a promising third, suggesting fitness and readiness. Cromwell is a shrewd trainer and the exchange price is much shorter than fixed odds, indicating smart money. Has winning form and does not need to improve much to feature.",
           "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1043,
-        "completion_tokens": 426,
-        "total_tokens": 1469,
+        "prompt_tokens": 1039,
+        "completion_tokens": 500,
+        "total_tokens": 1539,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.003,
-          "output_tokens_cost": 0.006,
+          "output_tokens_cost": 0.008,
           "request_cost": 0.006,
-          "total_cost": 0.016
+          "total_cost": 0.017
         }
       }
     },
@@ -1548,120 +1539,82 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/24-september-2025/listowel/217/7/",
       "shortlist": [
         {
-          "name": "Poetic Glory",
-          "jockey": "Mr J. L. Gleeson",
-          "trainer": "Emmet Mullins, Ireland",
-          "form": "0",
-          "odds_note": "Strong favourite on exchange (2.28), 4/1 SBK.",
-          "rationale": "Represents the Emmet Mullins yard, which is highly respected for targeting these races. Despite a poor last run (form '0'), the market support is significant, suggesting confidence from connections. Likely to improve and is well found in the betting.",
-          "confidence": "High"
-        },
-        {
           "name": "Apache Tribe (Ire)",
           "jockey": "Mr O. McGill",
           "trainer": "Noel C. Kelly, Ireland",
           "form": "5",
-          "odds_note": "Second favourite on exchange (3.5), 85/40 SBK.",
-          "rationale": "Comes from a stable with a good record in similar contests. Recent form is fair (5th), and the horse is prominent in the market, indicating expected improvement or suitability for this race type.",
-          "confidence": "Solid"
+          "odds_note": "2/1 SBK, 3.55 exchange (clear market leader)",
+          "rationale": "Apache Tribe is the current favourite, indicating strong market confidence. Recent form is solid and connections are reliable. The horse has shown ability at this level and does not require major improvement to win.",
+          "confidence": "High"
         },
         {
           "name": "Ring Of Kerry (Ire)",
           "jockey": "Mr P. W. Mullins",
           "trainer": "Cian Michael Collins, Ireland",
           "form": "9",
-          "odds_note": "Third favourite on exchange (4.2), 11/4 SBK.",
-          "rationale": "Booked with leading amateur jockey Patrick Mullins, which is a notable positive in this sphere. Last run was disappointing (9th), but the market keeps him very competitive, and the jockey booking suggests connections expect a much better showing.",
-          "confidence": "Respectable"
+          "odds_note": "5/2 SBK, 4 exchange (second favourite)",
+          "rationale": "Ring Of Kerry is well supported in the market and benefits from top amateur jockey P. W. Mullins. While recent form is not outstanding, the combination of connections and odds value keeps him in contention.",
+          "confidence": "Medium"
+        },
+        {
+          "name": "Poetic Glory",
+          "jockey": "Mr J. L. Gleeson",
+          "trainer": "Emmet Mullins, Ireland",
+          "form": "0",
+          "odds_note": "4/1 SBK, 5.9 exchange (third in market)",
+          "rationale": "Poetic Glory is trained by Emmet Mullins, a notable trainer, and is respected in the market despite a poor last run. Connections suggest potential for improvement without needing a major leap in form.",
+          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1610,
-        "completion_tokens": 459,
-        "total_tokens": 2069,
+        "prompt_tokens": 1606,
+        "completion_tokens": 435,
+        "total_tokens": 2041,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.005,
           "output_tokens_cost": 0.007,
           "request_cost": 0.006,
-          "total_cost": 0.018
+          "total_cost": 0.017
         }
       }
     },
     {
       "course": "Greyville",
       "time": "11:00",
-      "url": "https://betting.betfair.com/horse-racing/racecards/24-september-2025/greyville/339/1/",
-      "shortlist": [
-        {
-          "name": "Quarter Master (Saf)",
-          "jockey": "Tristan Godden",
-          "trainer": "R. A. Hill, South Africa",
-          "form": "",
-          "odds_note": "Very short at 1.24, clear market leader.",
-          "rationale": "Dominant favourite on the exchange, suggesting strong confidence from the market and likely superior ability or connections. While lacking published recent form, the odds imply a significant class edge or inside stable confidence. No evidence of needing major improvement.",
-          "confidence": "Very high"
-        },
-        {
-          "name": "Pinetti (Saf)",
-          "jockey": "Rachel Venniker",
-          "trainer": "D. S. Bosch, South Africa",
-          "form": "05225",
-          "odds_note": "Solid second favourite at 2.02.",
-          "rationale": "Consistent recent form with multiple placings, indicating reliability and fitness. Odds reflect strong market support as the main alternative to the favourite. Connections are competent and the horse does not require major improvement to contend.",
-          "confidence": "High"
-        }
-      ],
+      "url": "https://betting.betfair.com/horse-racing/results/24-september-2025/greyville/339/1/",
+      "shortlist": [],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1065,
-        "completion_tokens": 315,
-        "total_tokens": 1380,
+        "prompt_tokens": 497,
+        "completion_tokens": 66,
+        "total_tokens": 563,
         "search_context_size": "low",
         "cost": {
-          "input_tokens_cost": 0.003,
-          "output_tokens_cost": 0.005,
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
           "request_cost": 0.006,
-          "total_cost": 0.014
+          "total_cost": 0.008
         }
       }
     },
     {
       "course": "Greyville",
       "time": "11:30",
-      "url": "https://betting.betfair.com/horse-racing/racecards/24-september-2025/greyville/339/2/",
-      "shortlist": [
-        {
-          "name": "Sovereign Command (Saf)",
-          "jockey": "Sean Veale",
-          "trainer": "Y. Govender, South Africa",
-          "form": "44943522",
-          "odds_note": "Exchange odds 1.95, clear second favourite.",
-          "rationale": "Consistent recent form with two consecutive runner-up finishes indicates readiness and reliability. Connections are solid, and current odds offer reasonable value for a horse knocking on the door for a win[2][3].",
-          "confidence": "High"
-        },
-        {
-          "name": "Quincy Town (Saf)",
-          "jockey": "Jabu Jacobs",
-          "trainer": "A. J. Rivalland, South Africa",
-          "form": "7605",
-          "odds_note": "Exchange odds 1.24, joint favourite.",
-          "rationale": "Despite patchy form, represents a top yard and is strongly supported in the market. Likely to be well-prepared and competitive at this level, with connections suggesting improvement is expected[3].",
-          "confidence": "Medium"
-        }
-      ],
+      "url": "https://betting.betfair.com/horse-racing/results/24-september-2025/greyville/339/2/",
+      "shortlist": [],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1226,
-        "completion_tokens": 311,
-        "total_tokens": 1537,
+        "prompt_tokens": 497,
+        "completion_tokens": 66,
+        "total_tokens": 563,
         "search_context_size": "low",
         "cost": {
-          "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.005,
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
           "request_cost": 0.006,
-          "total_cost": 0.014
+          "total_cost": 0.008
         }
       }
     },
@@ -1671,44 +1624,35 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/24-september-2025/greyville/339/3/",
       "shortlist": [
         {
-          "name": "Capricious Miss (Saf)",
-          "jockey": "Athandiwe Mgudlwa",
-          "trainer": "A. Wright, South Africa",
-          "form": "6882",
-          "odds_note": "Clear market leader at 2.26 on exchange.",
-          "rationale": "Consistent recent form, notably a strong 2nd last time, and now faces a modest field. Top jockey/trainer combo and fitness is assured with regular racing. Odds reflect strong market confidence.",
-          "confidence": "High"
-        },
-        {
           "name": "Love The Usa (Saf)",
           "jockey": "Craig Zackey",
           "trainer": "G. van Zyl (Jnr), South Africa",
           "form": "546",
-          "odds_note": "Second choice in market at 2.8 on exchange.",
-          "rationale": "Progressive profile with each run showing improvement, and now gets a top jockey. Trainer is in good form. Market support is notable and suggests further improvement is expected.",
-          "confidence": "Solid"
+          "odds_note": "Current exchange odds 2.48, clear market leader.",
+          "rationale": "Consistent recent form with a solid 4th and 6th before a 6th last time, indicating reliability and competitiveness at this level. Craig Zackey is a reputable jockey and G. van Zyl (Jnr) is a strong local trainer. The odds reflect strong market confidence and suggest the horse is expected to run well.",
+          "confidence": "High"
         },
         {
-          "name": "Ada Lovelace (Saf)",
-          "jockey": "Brevan Plaatjies",
-          "trainer": "G. S. Kotzen, South Africa",
-          "form": "75",
-          "odds_note": "Well-supported at 4.0 on exchange.",
-          "rationale": "Lightly raced and open to improvement after a fair 5th last time. Trainer is capable and the market respect is significant in a weak field.",
-          "confidence": "Respectable"
+          "name": "Capricious Miss (Saf)",
+          "jockey": "Athandiwe Mgudlwa",
+          "trainer": "A. Wright, South Africa",
+          "form": "6882",
+          "odds_note": "Exchange odds 3.85, second-favorite.",
+          "rationale": "Improving profile with a close 2nd last time out, showing upward trajectory in form. The trainer and jockey are both capable, and the odds indicate genuine market support. Recent form suggests the horse is peaking at the right time.",
+          "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1233,
-        "completion_tokens": 428,
-        "total_tokens": 1661,
+        "completion_tokens": 353,
+        "total_tokens": 1586,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.006,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.016
+          "total_cost": 0.015
         }
       }
     },
@@ -1722,40 +1666,31 @@
           "jockey": "Sean Veale",
           "trainer": "M/M de Kock, South Africa",
           "form": "2452",
-          "odds_note": "Clear favourite at 1.5 on exchange.",
-          "rationale": "Progressive profile with consistent recent form, placing in three of last four starts. Trained by the top-class de Kock yard and partnered by a reliable jockey. The odds reflect strong market confidence and the form is solid for this grade.",
-          "confidence": "Very strong"
-        },
-        {
-          "name": "Black Platina (Saf)",
-          "jockey": "Derryl Daniels",
-          "trainer": "N. Kotzen, South Africa",
-          "form": "2-5436465",
-          "odds_note": "Second favourite at 2.12 on exchange.",
-          "rationale": "Consistent performer with multiple placings this season. While not winning, has been running respectably in similar company and is the main market rival to the favourite. Connections are capable and the horse is reliable at this level.",
-          "confidence": "Solid"
+          "odds_note": "Clear favourite at 1.5 on exchange; strong market support.",
+          "rationale": "Consistent recent form with two runner-up finishes and never out of the first four in last four starts. Trained by the highly respected de Kock stable and partnered by a reliable jockey. The odds reflect strong confidence and the horse's profile suggests readiness to win at this level.",
+          "confidence": "Very high"
         },
         {
           "name": "Takeyourbestshot (Saf)",
           "jockey": "Marco V'rensburg",
           "trainer": "M. J. Odendaal, South Africa",
           "form": "89633222",
-          "odds_note": "Third choice at 2.8 on exchange.",
-          "rationale": "String of runner-up finishes signals a horse in form and knocking on the door for a win. Consistency is a positive, though may lack the finishing kick of the top two. Still, the form is strong enough to merit shortlist inclusion.",
-          "confidence": "Respectable"
+          "odds_note": "Second choice at 2.84 on exchange; solid market position.",
+          "rationale": "Ultra-consistent with four consecutive second-place finishes, indicating reliability and competitiveness at this grade. While lacking a recent win, the horse is repeatedly knocking on the door and is the only realistic threat to the favourite based on current form and odds.",
+          "confidence": "High"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1246,
-        "completion_tokens": 462,
-        "total_tokens": 1708,
+        "prompt_tokens": 1248,
+        "completion_tokens": 346,
+        "total_tokens": 1594,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.017
+          "total_cost": 0.015
         }
       }
     },
@@ -1765,53 +1700,44 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/24-september-2025/greyville/339/5/",
       "shortlist": [
         {
-          "name": "Record High (Saf)",
-          "jockey": "Calvin Habib",
-          "trainer": "W. Whitehead, South Africa",
-          "form": "77-928410",
-          "odds_note": "Clear market leader at 1.84 on exchange.",
-          "rationale": "Strong market support and recent win two starts ago indicate peak form. Trainer and jockey both have solid reputations locally. Despite a modest last run, overall profile and odds suggest this is the horse to beat.",
-          "confidence": "High"
-        },
-        {
-          "name": "The Gliding Fish (Saf)",
-          "jockey": "Kabelo Matsunyane",
-          "trainer": "M. Dixon, South Africa",
-          "form": "48-081539",
-          "odds_note": "Second favorite at 2.22 on exchange.",
-          "rationale": "Recent win three starts back and consistent efforts in the frame. Connections are respected and the odds reflect strong market confidence. No major negatives in recent form.",
-          "confidence": "Solid"
-        },
-        {
-          "name": "King's Island (Saf)",
-          "jockey": "Dezahn Louw",
-          "trainer": "S. H. Ferrie, South Africa",
-          "form": "81-495659",
-          "odds_note": "Joint second favorite at 2.22 on exchange.",
-          "rationale": "Has won this season and remains competitive in similar company. Consistent enough to warrant shortlist inclusion given market respect and proven ability at this level.",
-          "confidence": "Solid"
-        },
-        {
           "name": "El Rey Viene (Saf)",
           "jockey": "Sean Veale",
           "trainer": "D. C. Howells, South Africa",
           "form": "43347123",
-          "odds_note": "Well-supported at 2.56 on exchange.",
-          "rationale": "Ultra-consistent with multiple placings and a win in last six starts. Connections are reliable and the horse is holding form well. Odds indicate genuine market respect.",
+          "odds_note": "Current exchange favourite at 2.56, indicating strong market support.",
+          "rationale": "Consistent recent form with multiple placings and a win in last 8 starts. Reliable connections and holding form well, with no signs of regression. Market confidence is high and profile fits a likely winner at this level.",
+          "confidence": "High"
+        },
+        {
+          "name": "Record High (Saf)",
+          "jockey": "Calvin Habib",
+          "trainer": "W. Whitehead, South Africa",
+          "form": "77-928410",
+          "odds_note": "Second favourite at 2.72, clear market respect.",
+          "rationale": "Recent win two starts ago and competitive in similar company. Trainer and jockey are both capable at this venue. Form is solid and odds reflect genuine winning chance.",
+          "confidence": "Strong"
+        },
+        {
+          "name": "Send Me (Saf)",
+          "jockey": "Mxolisi Mbuto",
+          "trainer": "A. J. Rivalland, South Africa",
+          "form": "927-07726",
+          "odds_note": "Well-backed at 2.88, third in the market.",
+          "rationale": "Recent runner-up finish signals return to form. Connections are respected and odds indicate market confidence. Has shown ability to compete at this level and does not require major improvement.",
           "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
-        "prompt_tokens": 1243,
-        "completion_tokens": 531,
-        "total_tokens": 1774,
+        "prompt_tokens": 1241,
+        "completion_tokens": 432,
+        "total_tokens": 1673,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.008,
+          "output_tokens_cost": 0.006,
           "request_cost": 0.006,
-          "total_cost": 0.018
+          "total_cost": 0.016
         }
       }
     },
@@ -1825,40 +1751,40 @@
           "jockey": "Mxolisi Mbuto",
           "trainer": "R. A. Hill, South Africa",
           "form": "712-39218",
-          "odds_note": "Clear favourite at 1.24 on exchange.",
-          "rationale": "Consistent recent form with multiple placings and a win in last eight starts. Connections are reliable and odds indicate strong market confidence. No signs of decline in form, making her the standout.",
-          "confidence": "High"
+          "odds_note": "Clear market leader at 1.24 on exchange.",
+          "rationale": "Consistent recent form with a win and several placings this season, suggesting strong current ability. Connections are reliable and the horse is proven at this level. Odds reflect clear market confidence and suitability for the race.",
+          "confidence": "Very high"
         },
         {
           "name": "Star Of The Future (Saf)",
           "jockey": "Brevan Plaatjies",
           "trainer": "F. Robinson, South Africa",
           "form": "31-902241",
-          "odds_note": "Solid contender at 4.0 on exchange.",
-          "rationale": "Recent win and consistent placings suggest improving form. Trainer is respected locally and odds offer reasonable value for a horse with upward trajectory.",
-          "confidence": "Medium"
+          "odds_note": "Solid value at 4.0, not an outsider.",
+          "rationale": "Recent win and consistent top-three finishes indicate the horse is in peak form. Trainer and jockey have a good strike rate at this venue. Represents value against the favourite and is unlikely to need major improvement to contend.",
+          "confidence": "High"
         },
         {
           "name": "King Bavarian (Saf)",
           "jockey": "Jacey Botes",
           "trainer": "A. Wright, South Africa",
           "form": "51427151",
-          "odds_note": "Competitive at 4.5 on exchange.",
-          "rationale": "Recent win and multiple placings in last eight runs. Trainer has a good record at this venue. Form is reliable and odds are fair for a horse with proven ability.",
-          "confidence": "Medium"
+          "odds_note": "Competitive at 4.5, within main market group.",
+          "rationale": "Multiple recent wins and consistent form figures suggest this runner is thriving. The trainer is in form and the horse has shown versatility in running style and conditions. Should be competitive if repeating recent efforts.",
+          "confidence": "High"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1341,
-        "completion_tokens": 412,
-        "total_tokens": 1753,
+        "completion_tokens": 448,
+        "total_tokens": 1789,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.006,
+          "output_tokens_cost": 0.007,
           "request_cost": 0.006,
-          "total_cost": 0.016
+          "total_cost": 0.017
         }
       }
     },
@@ -1868,44 +1794,35 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/24-september-2025/greyville/339/7/",
       "shortlist": [
         {
+          "name": "Hope Is Power (Saf)",
+          "jockey": "Damyan Pillay",
+          "trainer": "G. van Zyl (Jnr), South Africa",
+          "form": "21-344458",
+          "odds_note": "Very short at 1.24, clear market leader.",
+          "rationale": "Consistent performer with strong early form this season and proven ability at this level. Recent runs suggest fitness is maintained and connections are reliable. The market support is significant, indicating high confidence.",
+          "confidence": "Very High"
+        },
+        {
           "name": "Super Fast (Saf)",
           "jockey": "Mxolisi Mbuto",
           "trainer": "A. J. Rivalland, South Africa",
           "form": "95-212222",
-          "odds_note": "Exchange 3.0; solid value among market leaders.",
-          "rationale": "Consistently placed in recent starts (five consecutive 2nds), indicating reliability and strong current form. Connections are respected and the horse is holding form well, suggesting a win is imminent if maintaining this level.",
+          "odds_note": "Solid at 3, clear second choice in the market.",
+          "rationale": "Ultra-consistent with a string of runner-up finishes, indicating readiness to win. Form is progressive and connections are respected. Odds offer some value relative to consistency and recent performance.",
           "confidence": "High"
-        },
-        {
-          "name": "Kanaal Skater (Saf)",
-          "jockey": "Craig Zackey",
-          "trainer": "D. Kannemeyer, South Africa",
-          "form": "39921",
-          "odds_note": "Exchange 4.0; competitive price for a last-time winner.",
-          "rationale": "Progressive profile with a recent win and improving form figures. Top jockey booking and a trainer known for placing horses well at this level. Should be competitive if repeating latest effort.",
-          "confidence": "High"
-        },
-        {
-          "name": "Magic Surprise (Saf)",
-          "jockey": "Calvin Habib",
-          "trainer": "D. I. Campbell, South Africa",
-          "form": "084531",
-          "odds_note": "Exchange 1.51; prominent in the market, coming off a win.",
-          "rationale": "Recent winner with steadily improving form. The latest victory suggests the horse is peaking at the right time, and the market support is notable. Connections are capable and the form is trending upward.",
-          "confidence": "Solid"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1174,
-        "completion_tokens": 440,
-        "total_tokens": 1614,
+        "completion_tokens": 315,
+        "total_tokens": 1489,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.016
+          "total_cost": 0.014
         }
       }
     },
@@ -1919,40 +1836,31 @@
           "jockey": "Kabelo Matsunyane",
           "trainer": "P. M. Gadsby, South Africa",
           "form": "10-101194",
-          "odds_note": "Exchange 1.24, clear market leader among non-odds-on runners",
-          "rationale": "Consistent recent form with multiple wins this season, including a string of 1s and a solid 4th last time. Proven ability to win in this grade, and connections are in good order. Odds reflect strong market support without being prohibitively short.",
+          "odds_note": "Clear market leader, exchange 1.24.",
+          "rationale": "Multiple recent wins and consistently strong form figures indicate she is holding her form well. Top jockey booked and connections in good order. Odds reflect dominance and reliability at this level.",
+          "confidence": "Very High"
+        },
+        {
+          "name": "Quandary (Saf)",
+          "jockey": "Nicholas Patel",
+          "trainer": "G. van Zyl (Jnr), South Africa",
+          "form": "3-9416434",
+          "odds_note": "Solid second choice, exchange 1.51.",
+          "rationale": "Consistent performer with several recent placings and a win in the last six starts. Trainer and jockey combination is respected locally. Reliable profile for the places and could capitalize if the favorite underperforms.",
           "confidence": "High"
-        },
-        {
-          "name": "Mojo Man (Saf)",
-          "jockey": "Callan Murray",
-          "trainer": "M/M de Kock, South Africa",
-          "form": "61567442",
-          "odds_note": "Exchange 3, solid second-favorite",
-          "rationale": "Has been running consistently well, placing in last two starts and showing ability to compete at this level. Trained by a top yard and gets a strong jockey booking. Represents value as a likely improver with reliable recent form.",
-          "confidence": "Medium-High"
-        },
-        {
-          "name": "Rainbow Reward (Saf)",
-          "jockey": "Jabu Jacobs",
-          "trainer": "K. Naidoo, South Africa",
-          "form": "523-67332",
-          "odds_note": "Exchange 3.25, competitive in the market",
-          "rationale": "Ultra-consistent profile with three consecutive placings, indicating readiness to win. Has been knocking on the door and is well placed in this field. Market respect and solid connections add to appeal.",
-          "confidence": "Medium"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1240,
-        "completion_tokens": 466,
-        "total_tokens": 1706,
+        "completion_tokens": 321,
+        "total_tokens": 1561,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
-          "output_tokens_cost": 0.007,
+          "output_tokens_cost": 0.005,
           "request_cost": 0.006,
-          "total_cost": 0.017
+          "total_cost": 0.015
         }
       }
     },
@@ -1966,8 +1874,8 @@
           "jockey": "Brevan Plaatjies",
           "trainer": "M. D. Miller, South Africa",
           "form": "37172214",
-          "odds_note": "Exchange 1.54, clear market leader among non-odds-on runners",
-          "rationale": "Consistent recent form with multiple placings and a win two starts back. Connections are reliable and the horse is holding form well, suggesting fitness and readiness. Odds indicate strong market support without being prohibitively short, offering some value for a likely winner.",
+          "odds_note": "Exchange 1.54, among the shortest in the field.",
+          "rationale": "Consistent recent form with two wins and two seconds in last six starts, indicating strong current ability and reliability. Connections are solid and the odds reflect strong market support. No signs of decline or need for major improvement.",
           "confidence": "High"
         },
         {
@@ -1975,8 +1883,8 @@
           "jockey": "Sifisokuhle Bungane",
           "trainer": "G. I. Rich, South Africa",
           "form": "76-670671",
-          "odds_note": "Exchange 3, second choice in the market",
-          "rationale": "Recent win last time out signals improvement and readiness. Form shows progression and ability to win at this level. Market support is solid, and connections are capable. Should be competitive if repeating latest effort.",
+          "odds_note": "Exchange 3.0, clear second favorite.",
+          "rationale": "Recent win last time out suggests peaking at the right time. Trainer and jockey have competitive records. Odds indicate market respect and the form shows improvement, not regression.",
           "confidence": "Solid"
         },
         {
@@ -1984,16 +1892,16 @@
           "jockey": "Trent Mayhew",
           "trainer": "M. J. Odendaal, South Africa",
           "form": "33542-016",
-          "odds_note": "Exchange 4.5, respected in the market",
-          "rationale": "Won two starts ago and has a generally consistent profile. Trainer and jockey are experienced, and the horse has shown ability to compete at this level. Odds reflect realistic winning chance without being overbet.",
+          "odds_note": "Exchange 4.5, third choice in the market.",
+          "rationale": "Recent win two starts ago and generally consistent profile. Connections are capable and the odds are competitive. No evidence of needing major improvement; should be competitive if repeating best form.",
           "confidence": "Moderate"
         }
       ],
       "_status": "ok",
       "_usage": {
         "prompt_tokens": 1331,
-        "completion_tokens": 461,
-        "total_tokens": 1792,
+        "completion_tokens": 440,
+        "total_tokens": 1771,
         "search_context_size": "low",
         "cost": {
           "input_tokens_cost": 0.004,
