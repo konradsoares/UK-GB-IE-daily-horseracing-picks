@@ -1,0 +1,665 @@
+{
+  "date": "2025-09-23",
+  "results": [
+    {
+      "course": "Beverley",
+      "time": "14:08",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/beverley/5/1/",
+      "winner": {
+        "name": "Mariotto",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "14:38",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/beverley/5/2/",
+      "winner": {
+        "name": "Ironwill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Beverley",
+      "time": "15:08",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/beverley/5/3/",
+      "winner": {
+        "name": "Beerwah (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "15:38",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/beverley/5/4/",
+      "winner": {
+        "name": "Elegant Erin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "16:08",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/beverley/5/5/",
+      "winner": {
+        "name": "It Just Takes Time (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "16:38",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/beverley/5/6/",
+      "winner": {
+        "name": "Kiss Me My Love (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/beverley/5/7/",
+      "winner": {
+        "name": "Hill O Rue",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/1/",
+      "winner": {
+        "name": "Master Vintner (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/2/",
+      "winner": {
+        "name": "Al Shabab (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/3/",
+      "winner": {
+        "name": "Cashbox (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/4/",
+      "winner": {
+        "name": "Indian Spirit (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/5/",
+      "winner": {
+        "name": "Panelli",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/6/",
+      "winner": {
+        "name": "Carron (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/7/",
+      "winner": {
+        "name": "Toolatetonegotiate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/8/",
+      "winner": {
+        "name": "Ever Driven (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/lingfield-park/30/9/",
+      "winner": {
+        "name": "Borderline Madness",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/1/",
+      "winner": {
+        "name": "Savvy Stellar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/2/",
+      "winner": {
+        "name": "Kilkenny Warrior (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/3/",
+      "winner": {
+        "name": "Luzon Heights",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/4/",
+      "winner": {
+        "name": "Celestias Comet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/5/",
+      "winner": {
+        "name": "Accrual",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/6/",
+      "winner": {
+        "name": "Star Chorus (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/7/",
+      "winner": {
+        "name": "Leading Times",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/8/",
+      "winner": {
+        "name": "Tryfan",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Southwell",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/southwell/47/9/",
+      "winner": {
+        "name": "Both Of Us (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Warwick",
+      "time": "14:28",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/warwick/54/1/",
+      "winner": {
+        "name": "King Of The Story (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "14:58",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/warwick/54/2/",
+      "winner": {
+        "name": "Soleil D'arizona (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Warwick",
+      "time": "15:28",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/warwick/54/3/",
+      "winner": {
+        "name": "Hamlet's Night (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Warwick",
+      "time": "15:58",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/warwick/54/4/",
+      "winner": {
+        "name": "Mary (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/warwick/54/5/",
+      "winner": {
+        "name": "Ile De Jersey (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Warwick",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/warwick/54/6/",
+      "winner": {
+        "name": "Bumpy Evans (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Warwick",
+      "time": "17:35",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/warwick/54/7/",
+      "winner": {
+        "name": "My Gift To You (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Listowel",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/listowel/217/1/",
+      "winner": {
+        "name": "Straight Up (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Listowel",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/listowel/217/2/",
+      "winner": {
+        "name": "The Blue Panther (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/listowel/217/3/",
+      "winner": {
+        "name": "Dragon Of Malta (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/listowel/217/4/",
+      "winner": {
+        "name": "Cristal Clere (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Listowel",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/listowel/217/5/",
+      "winner": {
+        "name": "Limestone (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Listowel",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/listowel/217/6/",
+      "winner": {
+        "name": "Sunriseontheboyne (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "17:22",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/listowel/217/7/",
+      "winner": {
+        "name": "Saratoga (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Auteuil",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/auteuil/63/1/",
+      "winner": {
+        "name": "Lacrima (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/auteuil/63/2/",
+      "winner": {
+        "name": "Nuit De L'homme (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/auteuil/63/3/",
+      "winner": {
+        "name": "Duc De Roche (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/auteuil/63/4/",
+      "winner": {
+        "name": "Family Speed (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/auteuil/63/5/",
+      "winner": {
+        "name": "Lanivtsi (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/auteuil/63/6/",
+      "winner": {
+        "name": "Happy Mum's Day (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/auteuil/63/7/",
+      "winner": {
+        "name": "Interdit De Jeu (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/auteuil/63/8/",
+      "winner": {
+        "name": "Caligramme (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/fairview-south-africa/417/1/",
+      "winner": {
+        "name": "Bandmaster (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/fairview-south-africa/417/2/",
+      "winner": {
+        "name": "Winter Emeralds (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/fairview-south-africa/417/3/",
+      "winner": {
+        "name": "Imaginable (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/fairview-south-africa/417/4/",
+      "winner": {
+        "name": "Golden Pavilion (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/fairview-south-africa/417/5/",
+      "winner": {
+        "name": "Augusta Rosso (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/fairview-south-africa/417/6/",
+      "winner": {
+        "name": "Exquisite (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/fairview-south-africa/417/7/",
+      "winner": {
+        "name": "Red William (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/23-september-2025/fairview-south-africa/417/8/",
+      "winner": {
+        "name": "San Quintin (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}

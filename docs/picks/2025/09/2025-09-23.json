@@ -39,7 +39,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Mariotto",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Beverley",
@@ -77,7 +84,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Ironwill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Beverley",
@@ -124,7 +138,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Beerwah (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Beverley",
@@ -171,7 +192,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Elegant Erin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Beverley",
@@ -218,7 +246,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "It Just Takes Time (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Beverley",
@@ -265,7 +300,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Kiss Me My Love (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Beverley",
@@ -312,7 +354,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Hill O Rue",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Lingfield Park",
@@ -350,7 +399,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Master Vintner (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Lingfield Park",
@@ -397,7 +453,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Al Shabab (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Lingfield Park",
@@ -444,7 +507,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Cashbox (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Lingfield Park",
@@ -491,7 +561,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Indian Spirit (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Lingfield Park",
@@ -538,7 +615,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Panelli",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Lingfield Park",
@@ -585,7 +669,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Carron (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Lingfield Park",
@@ -623,7 +714,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Toolatetonegotiate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Lingfield Park",
@@ -670,7 +768,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Ever Driven (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Lingfield Park",
@@ -717,7 +822,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Borderline Madness",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Southwell",
@@ -755,7 +867,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Savvy Stellar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Southwell",
@@ -802,7 +921,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Kilkenny Warrior (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -849,7 +975,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Luzon Heights",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Southwell",
@@ -896,7 +1029,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Celestias Comet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -925,7 +1065,14 @@
           "request_cost": 0.006,
           "total_cost": 0.012
         }
-      }
+      },
+      "result": {
+        "name": "Accrual",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Southwell",
@@ -963,7 +1110,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Star Chorus (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Southwell",
@@ -1001,7 +1155,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Leading Times",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -1048,7 +1209,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Tryfan",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -1086,7 +1254,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Both Of Us (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Warwick",
@@ -1124,7 +1299,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "King Of The Story (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Warwick",
@@ -1162,7 +1344,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Soleil D'arizona (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Warwick",
@@ -1200,7 +1389,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Hamlet's Night (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Warwick",
@@ -1238,7 +1434,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Mary (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Warwick",
@@ -1276,7 +1479,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Ile De Jersey (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Warwick",
@@ -1323,7 +1533,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Bumpy Evans (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Warwick",
@@ -1370,7 +1587,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "My Gift To You (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Listowel",
@@ -1417,7 +1641,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Straight Up (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Listowel",
@@ -1455,7 +1686,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "The Blue Panther (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Listowel",
@@ -1502,7 +1740,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Dragon Of Malta (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Listowel",
@@ -1549,7 +1794,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Cristal Clere (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Listowel",
@@ -1596,7 +1848,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Limestone (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Listowel",
@@ -1643,7 +1902,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Sunriseontheboyne (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Listowel",
@@ -1690,7 +1956,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Saratoga (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Auteuil",
@@ -1737,7 +2010,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Lacrima (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1784,7 +2064,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Nuit De L'homme (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1840,7 +2127,14 @@
           "request_cost": 0.006,
           "total_cost": 0.02
         }
-      }
+      },
+      "result": {
+        "name": "Duc De Roche (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Auteuil",
@@ -1887,7 +2181,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Family Speed (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1934,7 +2235,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Lanivtsi (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1981,7 +2289,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Happy Mum's Day (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Auteuil",
@@ -2028,7 +2343,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Interdit De Jeu (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -2075,7 +2397,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Caligramme (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fairview (South Africa)",
@@ -2131,7 +2460,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Bandmaster (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fairview (South Africa)",
@@ -2178,7 +2514,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Winter Emeralds (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fairview (South Africa)",
@@ -2225,7 +2568,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Imaginable (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fairview (South Africa)",
@@ -2272,7 +2622,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Golden Pavilion (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fairview (South Africa)",
@@ -2319,7 +2676,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Augusta Rosso (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fairview (South Africa)",
@@ -2366,7 +2730,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Exquisite (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fairview (South Africa)",
@@ -2413,7 +2784,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Red William (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fairview (South Africa)",
@@ -2460,7 +2838,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "San Quintin (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     }
   ]
 }
