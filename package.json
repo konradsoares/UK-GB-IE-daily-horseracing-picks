@@ -7,7 +7,7 @@
     "analyze": "node analyze-betfair-racecards.js",
     "archive": "node archive-picks.js",
     "postbuild": "node postbuild.js",
-    "results": "node scrape-results.js --today"
+    "results": "node scrape-results.js --yesterday"
   },
   "dependencies": {
     "axios": "^1.12.2",
