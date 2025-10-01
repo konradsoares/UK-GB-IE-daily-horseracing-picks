@@ -1,0 +1,545 @@
+{
+  "date": "2025-09-30",
+  "results": [
+    {
+      "course": "Ayr",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/ayr/2/1/",
+      "winner": {
+        "name": "Dwindling Funds",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Ayr",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/ayr/2/2/",
+      "winner": {
+        "name": "Daizen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/ayr/2/3/",
+      "winner": {
+        "name": "Cisco Disco (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Ayr",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/ayr/2/4/",
+      "winner": {
+        "name": "Count Palatine (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/ayr/2/5/",
+      "winner": {
+        "name": "Jkr Cobbler (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Ayr",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/ayr/2/6/",
+      "winner": {
+        "name": "Rousing Encore (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/ayr/2/7/",
+      "winner": {
+        "name": "Aighear",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/bath/4/1/",
+      "winner": {
+        "name": "Annexation (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/bath/4/2/",
+      "winner": {
+        "name": "Endofastorm (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "15:22",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/bath/4/3/",
+      "winner": {
+        "name": "Thapa Vc (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "15:52",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/bath/4/4/",
+      "winner": {
+        "name": "Latin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Bath",
+      "time": "16:22",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/bath/4/5/",
+      "winner": {
+        "name": "Item",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Bath",
+      "time": "16:52",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/bath/4/6/",
+      "winner": {
+        "name": "Hk Fourteen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Bath",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/bath/4/7/",
+      "winner": {
+        "name": "Reality Queen",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "17:55",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/bath/4/8/",
+      "winner": {
+        "name": "On Edge",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/newcastle/35/1/",
+      "winner": {
+        "name": "Weegeebear (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/newcastle/35/2/",
+      "winner": {
+        "name": "Billy Bathgate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/newcastle/35/3/",
+      "winner": {
+        "name": "Hello Goodbye (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/newcastle/35/4/",
+      "winner": {
+        "name": "Golden Conqueror",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/newcastle/35/5/",
+      "winner": {
+        "name": "Fanjove (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/newcastle/35/6/",
+      "winner": {
+        "name": "Second Fiddle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/newcastle/35/7/",
+      "winner": {
+        "name": "Woodrafff",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/newcastle/35/8/",
+      "winner": {
+        "name": "The Green Man (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/sedgefield/46/1/",
+      "winner": {
+        "name": "Roadshow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/sedgefield/46/2/",
+      "winner": {
+        "name": "Ammes (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/sedgefield/46/3/",
+      "winner": {
+        "name": "Aslukwoodhavit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/sedgefield/46/4/",
+      "winner": {
+        "name": "Zamond (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Sedgefield",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/sedgefield/46/5/",
+      "winner": {
+        "name": "Jet Of Dreams (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "16:37",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/sedgefield/46/6/",
+      "winner": {
+        "name": "Siouxfonic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Cork",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/cork/218/1/",
+      "winner": {
+        "name": "Tornado Kiss (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Cork",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/cork/218/2/",
+      "winner": {
+        "name": "Nakamura (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Cork",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/cork/218/3/",
+      "winner": {
+        "name": "Winters Breath (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/cork/218/4/",
+      "winner": {
+        "name": "Ukiyo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/cork/218/5/",
+      "winner": {
+        "name": "Bloom (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/cork/218/6/",
+      "winner": {
+        "name": "Purview",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Cork",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/cork/218/7/",
+      "winner": {
+        "name": "Falls Of Acharn",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/cork/218/8/",
+      "winner": {
+        "name": "La Tulipe Noire (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/vaal/342/1/",
+      "winner": {
+        "name": "Bellerophon (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Vaal",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/vaal/342/2/",
+      "winner": {
+        "name": "United Offer (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/vaal/342/3/",
+      "winner": {
+        "name": "Lost For Words (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Vaal",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/vaal/342/4/",
+      "winner": {
+        "name": "African Pride (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Vaal",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/vaal/342/5/",
+      "winner": {
+        "name": "Hazy Dazy (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/vaal/342/6/",
+      "winner": {
+        "name": "Alpine Jet (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Vaal",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/vaal/342/7/",
+      "winner": {
+        "name": "Potberrie (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Vaal",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/30-september-2025/vaal/342/8/",
+      "winner": {
+        "name": "Mamlambo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    }
+  ]
+}
