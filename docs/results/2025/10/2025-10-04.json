@@ -1,0 +1,1004 @@
+{
+  "date": "2025-10-04",
+  "results": [
+    {
+      "course": "Ascot",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/ascot/1/1/",
+      "winner": {
+        "name": "Cajole",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/ascot/1/2/",
+      "winner": {
+        "name": "Shagraan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Ascot",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/ascot/1/3/",
+      "winner": {
+        "name": "Al Qareem (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Ascot",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/ascot/1/4/",
+      "winner": {
+        "name": "Annaf (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/ascot/1/5/",
+      "winner": {
+        "name": "Native Warrior",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Ascot",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/ascot/1/6/",
+      "winner": {
+        "name": "Roach Power (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newcastle/35/1/",
+      "winner": {
+        "name": "Sacred Fire",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newcastle/35/2/",
+      "winner": {
+        "name": "Cloth Of Gold (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newcastle/35/3/",
+      "winner": {
+        "name": "Free Pic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newcastle/35/4/",
+      "winner": {
+        "name": "Arrabbiata (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newcastle/35/5/",
+      "winner": {
+        "name": "Lanarra (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newcastle/35/6/",
+      "winner": {
+        "name": "Sovereign View",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newcastle/35/7/",
+      "winner": {
+        "name": "Spell Master",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newcastle/35/8/",
+      "winner": {
+        "name": "Samra Star (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newmarket-rowley/36/1/",
+      "winner": {
+        "name": "Princess Rascal",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newmarket-rowley/36/2/",
+      "winner": {
+        "name": "Jel Pepper (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newmarket-rowley/36/3/",
+      "winner": {
+        "name": "Fallen Angel",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newmarket-rowley/36/4/",
+      "winner": {
+        "name": "Lyneham (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newmarket-rowley/36/5/",
+      "winner": {
+        "name": "Perfect Your Craft (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newmarket-rowley/36/6/",
+      "winner": {
+        "name": "Castle Rock",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/newmarket-rowley/36/7/",
+      "winner": {
+        "name": "Naina",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Redcar",
+      "time": "13:36",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/redcar/42/1/",
+      "winner": {
+        "name": "Pandemonium (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "14:11",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/redcar/42/2/",
+      "winner": {
+        "name": "Jewel Maker (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "14:46",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/redcar/42/3/",
+      "winner": {
+        "name": "Spartan Times",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Redcar",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/redcar/42/4/",
+      "winner": {
+        "name": "Ardisia (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "15:56",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/redcar/42/5/",
+      "winner": {
+        "name": "Elim (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/redcar/42/6/",
+      "winner": {
+        "name": "Debora's Dream (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Redcar",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/redcar/42/7/",
+      "winner": {
+        "name": "Peaky Blinder (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "17:37",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/redcar/42/8/",
+      "winner": {
+        "name": "Copper Knight (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/1/",
+      "winner": {
+        "name": "Ibn Altheeb (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/2/",
+      "winner": {
+        "name": "Coconut Cove (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/3/",
+      "winner": {
+        "name": "Papa Cocktail (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/4/",
+      "winner": {
+        "name": "Have You A Minute",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/5/",
+      "winner": {
+        "name": "Unassuming (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/6/",
+      "winner": {
+        "name": "Top Of Pleinmont",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/7/",
+      "winner": {
+        "name": "Hint Of Humour",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/8/",
+      "winner": {
+        "name": "Riot (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/wolverhampton/58/9/",
+      "winner": {
+        "name": "Thurso",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Curragh",
+      "time": "13:07",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/curragh/204/1/",
+      "winner": {
+        "name": "Causeway (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Curragh",
+      "time": "13:42",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/curragh/204/2/",
+      "winner": {
+        "name": "Cameo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Curragh",
+      "time": "14:17",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/curragh/204/3/",
+      "winner": {
+        "name": "Carla Ridge (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Curragh",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/curragh/204/4/",
+      "winner": {
+        "name": "Unique Journey (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Curragh",
+      "time": "15:27",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/curragh/204/5/",
+      "winner": {
+        "name": "Highbury See See (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Curragh",
+      "time": "16:02",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/curragh/204/6/",
+      "winner": {
+        "name": "Alfalfa (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Curragh",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/curragh/204/7/",
+      "winner": {
+        "name": "Smoke Them Out (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Curragh",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/curragh/204/8/",
+      "winner": {
+        "name": "Syzygy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/gowran-park/210/1/",
+      "winner": {
+        "name": "Bibe Mus (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/gowran-park/210/2/",
+      "winner": {
+        "name": "Daydream Nation (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Gowran Park",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/gowran-park/210/3/",
+      "winner": {
+        "name": "Jerisk Star (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/gowran-park/210/4/",
+      "winner": {
+        "name": "Ag Obair Go Crua (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/gowran-park/210/5/",
+      "winner": {
+        "name": "Custom Taylor (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/gowran-park/210/6/",
+      "winner": {
+        "name": "Western Fold (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/gowran-park/210/7/",
+      "winner": {
+        "name": "Boston Rover (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/gowran-park/210/8/",
+      "winner": {
+        "name": "Taponthego (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/keeneland/77/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/keeneland/77/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/keeneland/77/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/keeneland/77/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/keeneland/77/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "12:23",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/longchamp/80/1/",
+      "winner": {
+        "name": "Tennessee Stud (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "12:58",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/longchamp/80/2/",
+      "winner": {
+        "name": "Caballo De Mar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/longchamp/80/3/",
+      "winner": {
+        "name": "Alva (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Longchamp",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/longchamp/80/4/",
+      "winner": {
+        "name": "Cape Orator (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/longchamp/80/5/",
+      "winner": {
+        "name": "Ridari (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/longchamp/80/6/",
+      "winner": {
+        "name": "Consent (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/longchamp/80/7/",
+      "winner": {
+        "name": "First Look (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/longchamp/80/8/",
+      "winner": {
+        "name": "Mon Ricin (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Woodbine",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/woodbine/91/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Woodbine",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/woodbine/91/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Woodbine",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/woodbine/91/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/santa-anita/132/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/santa-anita/132/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/santa-anita/132/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/santa-anita/132/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Aqueduct",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/aqueduct/150/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Aqueduct",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/aqueduct/150/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Aqueduct",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/aqueduct/150/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Aqueduct",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/aqueduct/150/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "09:45",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/fontainebleau/159/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "10:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/fontainebleau/159/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/fontainebleau/159/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/fontainebleau/159/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "11:47",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/fontainebleau/159/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/1/",
+      "winner": {
+        "name": "Drumnadrochit (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/2/",
+      "winner": {
+        "name": "Olympian Gold (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/3/",
+      "winner": {
+        "name": "Prince Of Kildare (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/4/",
+      "winner": {
+        "name": "Confederate (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/5/",
+      "winner": {
+        "name": "Miami Mountain (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/6/",
+      "winner": {
+        "name": "Callmegetrix (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/7/",
+      "winner": {
+        "name": "Tin Pan Alley (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Turffontein",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/8/",
+      "winner": {
+        "name": "Perfect Miracle (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Turffontein",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-october-2025/turffontein/341/9/",
+      "winner": {
+        "name": "Beynac (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
