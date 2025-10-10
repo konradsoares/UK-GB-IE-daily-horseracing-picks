@@ -5,7 +5,7 @@
   "scripts": {
     "scrape": "node scrape-betfair-racecards.js",
     "analyze": "node analyze-betfair-racecards.js",
-    "top3": "node select-top3.js betfair-racecards-picks-${TODAY}.json",
+    "top3": "node select-top3.js",
     "archive": "node archive-picks.js",
     "postbuild": "node postbuild.js",
     "results": "node scrape-results.js --yesterday"

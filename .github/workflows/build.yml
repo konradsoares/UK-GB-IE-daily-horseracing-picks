@@ -47,7 +47,9 @@ jobs:
 
       # 🟩 New step — generate the top 3 profitable picks file
       - name: Filter to top 3 profitable picks
-        run: npm run top3
+        run: |
+          TODAY=$(date +%F)
+          npm run top3 -- betfair-racecards-picks-$TODAY.json
 
       # 🟩 Use the filtered file for dashboard latest.json
       - name: Postbuild (copy latest to docs/latest.json)
