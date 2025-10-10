@@ -1,0 +1,1825 @@
+{
+  "date": "2025-10-10",
+  "model": "sonar-pro",
+  "generated_at": "2025-10-10T15:04:02.288Z",
+  "races": [
+    {
+      "course": "Chepstow",
+      "time": "13:22",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/chepstow/11/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Chepstow",
+      "time": "13:57",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/chepstow/11/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Chepstow",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/chepstow/11/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Chepstow",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/chepstow/11/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 499,
+        "completion_tokens": 68,
+        "total_tokens": 567,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Chepstow",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/chepstow/11/5/",
+      "shortlist": [
+        {
+          "name": "Queensbury Boy (Ire)",
+          "jockey": "Paul O'Brien",
+          "trainer": "Harry Derham",
+          "form": "1/211-5",
+          "odds_note": "Strong favourite; 6/5 SBK, 2.74 exchange.",
+          "rationale": "Progressive profile with three wins from last five starts, including a solid reappearance. Trainer in good form and odds reflect strong market confidence. No major improvement needed.",
+          "confidence": "High"
+        },
+        {
+          "name": "Jack Hyde (Ire)",
+          "jockey": "Jonathan Burke",
+          "trainer": "Fergal O'Brien",
+          "form": "43114-1",
+          "odds_note": "Solid contender; 11/2 SBK, 4 exchange.",
+          "rationale": "Recent win on seasonal return suggests readiness and improvement. Consistent form last campaign, and trainer excels with similar types at this track.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Krak (Fr)",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "Nigel & Willy Twiston-Davies",
+          "form": "3331-",
+          "odds_note": "Value each-way; 7/1 SBK, 4 exchange.",
+          "rationale": "Reliable form with a win last time out and placed efforts prior. Connections are respected, and odds offer value for a horse with proven consistency.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1085,
+        "completion_tokens": 412,
+        "total_tokens": 1497,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.006,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Chepstow",
+      "time": "16:17",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/chepstow/11/6/",
+      "shortlist": [
+        {
+          "name": "Double Powerful (Ire)",
+          "jockey": "Conor O'Farrell",
+          "trainer": "Neil Mulholland",
+          "form": "1/1111233-",
+          "odds_note": "9/4 SBK, 3.4 Exchange (joint-favourite, solid market support)",
+          "rationale": "Highly consistent with multiple wins and placed efforts last season, showing sustained top form. Connections are reliable, and current odds reflect strong market confidence. No signs of decline in recent runs.",
+          "confidence": "High"
+        },
+        {
+          "name": "Knight Of Allen (Fr)",
+          "jockey": "Ciaran Gethings",
+          "trainer": "Mrs Jane Williams",
+          "form": "C21/3331-",
+          "odds_note": "9/4 SBK, 3.7 Exchange (joint-favourite, well-backed)",
+          "rationale": "Recent winner with consistent placed efforts and a course win (C) in profile. Trainer excels with similar types, and odds indicate strong support. Form suggests readiness and reliability at this level.",
+          "confidence": "High"
+        },
+        {
+          "name": "Coco Mademoiselle (Ire)",
+          "jockey": "Harry Skelton",
+          "trainer": "Dan Skelton",
+          "form": "262U1-101",
+          "odds_note": "5/2 SBK, 4.2 Exchange (close to market leaders)",
+          "rationale": "Recent form includes two wins from last three starts, with top connections (Skelton/Skelton) known for strong preparation. Odds offer fair value given winning profile and upward trajectory.",
+          "confidence": "Strong"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 804,
+        "completion_tokens": 450,
+        "total_tokens": 1254,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Chepstow",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/chepstow/11/7/",
+      "shortlist": [
+        {
+          "name": "Lundi Noir (Fr)",
+          "jockey": "Stan Sheppard",
+          "trainer": "Tom Lacey",
+          "form": "1-",
+          "odds_note": "4/1 (sbk), 6.8 (exchange)",
+          "rationale": "Unbeaten in one start, showing immediate promise. Trainer and jockey are in form. The odds are fair for a lightly raced horse with upside, and the profile suggests further improvement is likely without needing a major leap.",
+          "confidence": "High"
+        },
+        {
+          "name": "Razzle Dazzle Boy (Ire)",
+          "jockey": "Sean Bowen",
+          "trainer": "Tim Vaughan",
+          "form": "5236102-",
+          "odds_note": "9/2 (sbk), 8 (exchange)",
+          "rationale": "Consistent form in competitive races, with a recent second placing. Sean Bowen is a top jockey booking. The horse is race-fit, handles the track, and is attractively priced for a proven performer at this level.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Murphy's Milan (Ire)",
+          "jockey": "Micheal Nolan",
+          "trainer": "Philip Hobbs & Johnson White",
+          "form": "3/447-",
+          "odds_note": "11/2 (sbk), 7.4 (exchange)",
+          "rationale": "Consistent in better company, with a recent third. Hobbs/White stable is respected. The horse is proven at the trip and looks ready to strike if the race falls right. Odds represent solid each-way value.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1709,
+        "completion_tokens": 451,
+        "total_tokens": 2160,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.005,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.018
+        }
+      }
+    },
+    {
+      "course": "Chepstow",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/chepstow/11/8/",
+      "shortlist": [
+        {
+          "name": "Princess Keri (Ire)",
+          "jockey": "Adam Wedge",
+          "trainer": "Evan Williams",
+          "form": "0805513-4",
+          "odds_note": "Solid value at 11/2 (SBK), 4.3 (exchange); not a longshot.",
+          "rationale": "Recent form is consistent, with a win and placed efforts last season, and a respectable reappearance run. Connections are reliable at this level. Odds indicate market respect and value for a runner with proven ability in similar contests.",
+          "confidence": "Strong each-way contender; reliable profile and competitive odds."
+        },
+        {
+          "name": "Roaring Home",
+          "jockey": "Sam Twiston-Davies",
+          "trainer": "Henry Daly",
+          "form": "4/21P45P-2",
+          "odds_note": "Market leader at 3/1 (SBK), 4.8 (exchange); clear contender.",
+          "rationale": "Returned with a solid second last time, showing readiness after a break. Has placed form and proven stamina. Trainer and jockey combination is respected, and current odds reflect strong market support.",
+          "confidence": "Most likely winner; form, connections, and market all positive."
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1219,
+        "completion_tokens": 356,
+        "total_tokens": 1575,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/1/",
+      "shortlist": [
+        {
+          "name": "Tarot",
+          "jockey": "Rossa Ryan",
+          "trainer": "Roger Varian",
+          "form": "223",
+          "odds_note": "Strong favourite; 11/10 SBK, 2.32 exchange.",
+          "rationale": "Consistent recent form with three consecutive placings, indicating reliability and readiness. Top connections with Varian and Ryan, and current odds reflect market confidence. No signs of decline, and form suggests peak performance for this grade.",
+          "confidence": "High"
+        },
+        {
+          "name": "Valdorcia (Ire)",
+          "jockey": "Toby Moore",
+          "trainer": "Charlie Appleby",
+          "form": "3",
+          "odds_note": "Second choice; 9/4 SBK, 3.75 exchange.",
+          "rationale": "Solid debut placing for a top yard, suggesting scope for improvement. Appleby-trained runners often progress quickly, and odds indicate respect from the market. Connections and debut promise make this a strong contender.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Albaydaa (Ire)",
+          "jockey": "Stevie Donohoe",
+          "trainer": "William Haggas",
+          "form": "3",
+          "odds_note": "Third in market; 15/8 SBK, 4 exchange.",
+          "rationale": "Placed on debut for a leading trainer, indicating ability and potential. Haggas horses typically improve for their first run, and odds suggest genuine market support. Form and connections justify shortlist inclusion.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1095,
+        "completion_tokens": 438,
+        "total_tokens": 1533,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.016
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:38",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/2/",
+      "shortlist": [
+        {
+          "name": "Fanjove (Ire)",
+          "jockey": "Rossa Ryan",
+          "trainer": "Ed Dunlop",
+          "form": "508421",
+          "odds_note": "Strong favourite; 11/10 SBK, 2.46 exchange",
+          "rationale": "Comes here in peak form, having won last time out and showing progressive improvement. Connections are in good order and the odds reflect strong market confidence. No major improvement needed, and recent win at similar level is a key positive.",
+          "confidence": "High"
+        },
+        {
+          "name": "Royalist (Ire)",
+          "jockey": "Finley Marsh",
+          "trainer": "Richard Hughes",
+          "form": "9763",
+          "odds_note": "Second choice; 9/2 SBK, 6.2 exchange",
+          "rationale": "Recent form shows improvement, with a solid third last time out. Trainer is respected at Kempton and the odds suggest Royalist is the main danger to the favourite. No signs of decline and should be competitive at this level.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1059,
+        "completion_tokens": 321,
+        "total_tokens": 1380,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.014
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/3/",
+      "shortlist": [
+        {
+          "name": "Little She (Fr)",
+          "jockey": "Taryn Langley",
+          "trainer": "Marcus Tregoning",
+          "form": "56848357",
+          "odds_note": "5/2 SBK, 3.95 exchange (clear market leader)",
+          "rationale": "Consistently running in competitive handicaps with several respectable mid-field finishes; drops in grade and faces weaker opposition here. Market support is strong, indicating confidence from connections and punters. No major improvement needed to win this.",
+          "confidence": "High"
+        },
+        {
+          "name": "My Boy Harry",
+          "jockey": "Frederick Larson",
+          "trainer": "Jim & Suzi Best",
+          "form": "13455733",
+          "odds_note": "4/1 SBK, 7 exchange (solid second-fav, not an outsider)",
+          "rationale": "Reliable placer with recent form figures showing consistency at this level. Has been holding form well and is proven at the trip. Connections are in decent form and the horse is well treated at the weights.",
+          "confidence": "Medium-High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1404,
+        "completion_tokens": 329,
+        "total_tokens": 1733,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/4/",
+      "shortlist": [
+        {
+          "name": "Oursin",
+          "jockey": "Rob Hornby",
+          "trainer": "Charles Hills",
+          "form": "2-",
+          "odds_note": "Favourite; 1/1 SBK, 2.12 exchange",
+          "rationale": "Strong recent form with a runner-up finish on debut, representing a trainer in good form. The odds reflect market confidence and suggest Oursin is expected to improve for the run. Connections are reliable at Kempton and the horse’s profile fits the race conditions.",
+          "confidence": "High"
+        },
+        {
+          "name": "Bay Of Light",
+          "jockey": "Rossa Ryan",
+          "trainer": "Charlie Appleby",
+          "form": "",
+          "odds_note": "Second favourite; 15/8 SBK, 4.1 exchange",
+          "rationale": "Debutant from the Appleby yard, which has an excellent record with newcomers at Kempton. The market support is notable, and the jockey booking is positive. While unraced, the connections and odds indicate strong expectations.",
+          "confidence": "Medium-High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1240,
+        "completion_tokens": 326,
+        "total_tokens": 1566,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/5/",
+      "shortlist": [
+        {
+          "name": "Sunshine Star",
+          "jockey": "Kieran O'Neill",
+          "trainer": "John & Thady Gosden",
+          "form": "",
+          "odds_note": "6/4 SBK, 2.74 exchange (clear favourite)",
+          "rationale": "Represents top connections with Gosden team, well-supported in the market as clear favourite. Lack of form figures suggests debut or lightly raced, but market confidence and stable reputation indicate strong readiness and ability. No major improvement needed.",
+          "confidence": "High"
+        },
+        {
+          "name": "Brighlee (Fr)",
+          "jockey": "Rossa Ryan",
+          "trainer": "David Menuisier",
+          "form": "262",
+          "odds_note": "9/4 SBK, 3.85 exchange (solid second choice)",
+          "rationale": "Consistent recent form (placed twice, second last time), indicating reliability and fitness. Trainer is respected for improving types, and odds show strong market support. No signs of decline; knocking on the door for a win.",
+          "confidence": "Strong"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 905,
+        "completion_tokens": 317,
+        "total_tokens": 1222,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.013
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/6/",
+      "shortlist": [
+        {
+          "name": "Waiting All Night",
+          "jockey": "George Wood",
+          "trainer": "Richard Spencer",
+          "form": "78246647",
+          "odds_note": "5/2 SBK, 5.0 Exchange (market leader, solid support)",
+          "rationale": "Consistently competitive in recent runs, holding form at this level. Connections are capable and the odds reflect strong market confidence. No major improvement needed, and recent form suggests readiness for this contest.",
+          "confidence": "High"
+        },
+        {
+          "name": "Absolute Star",
+          "jockey": "Rossa Ryan",
+          "trainer": "Roger Varian",
+          "form": "2336-15",
+          "odds_note": "4/1 SBK, 5.5 Exchange (well-backed, second choice)",
+          "rationale": "Recent win two starts back and solid overall profile. Trainer is in good form and jockey booking is positive. Form figures indicate reliability and ability to compete at this level. Odds offer reasonable value for a proven performer.",
+          "confidence": "High"
+        },
+        {
+          "name": "Daisy Roots",
+          "jockey": "Jack Dace",
+          "trainer": "Jim Boyle",
+          "form": "24214551",
+          "odds_note": "9/2 SBK, 9.8 Exchange (third/fourth in market, not a longshot)",
+          "rationale": "Recent wins and consistent placings show upward trajectory. Connections are respected and the horse is in peak form, with no need for major improvement. Odds are fair for a runner with strong recent results.",
+          "confidence": "Medium-High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1265,
+        "completion_tokens": 441,
+        "total_tokens": 1706,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.016
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/7/",
+      "shortlist": [
+        {
+          "name": "Pride Of Donegal (Ire)",
+          "jockey": "Neil Callan",
+          "trainer": "Charlie Johnston",
+          "form": "43-42",
+          "odds_note": "13/8 SBK, 2.86 Exchange (clear favourite)",
+          "rationale": "Consistent recent form with two solid runs in the current campaign, showing ability to compete at this level. Connections are in good order and the odds reflect strong market confidence. No signs of decline in form and profile fits a likely winner at Kempton Park.",
+          "confidence": "High"
+        },
+        {
+          "name": "Caspian King (Ger)",
+          "jockey": "Hector Crouch",
+          "trainer": "David Menuisier",
+          "form": "875-57430",
+          "odds_note": "11/4 SBK, 4.7 Exchange (second favourite)",
+          "rationale": "Recent form is mixed but includes competitive efforts in higher grade races. Trainer is respected and the odds suggest genuine market support. Has shown ability to place and could capitalize if the favourite underperforms.",
+          "confidence": "Moderate"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1206,
+        "completion_tokens": 327,
+        "total_tokens": 1533,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/8/",
+      "shortlist": [
+        {
+          "name": "Kingmaker (Ire)",
+          "jockey": "Jason Watson",
+          "trainer": "Andrew Balding",
+          "form": "57224623",
+          "odds_note": "7/2 SBK, 5.9 exchange (solid market position, not an outsider)",
+          "rationale": "Consistent recent form with multiple placings, suggesting reliability at this level. Trained by Andrew Balding, a respected yard, and partnered with Jason Watson. Odds indicate strong market support and realistic winning chance.",
+          "confidence": "High"
+        },
+        {
+          "name": "My Kinda Ghaiy (Ire)",
+          "jockey": "Joe Leavy",
+          "trainer": "Hugo Palmer",
+          "form": "45455",
+          "odds_note": "4/1 SBK, 6.4 exchange (well-supported, not a longshot)",
+          "rationale": "Consistent in-the-frame finishes in recent starts, indicating reliability. Hugo Palmer is a capable trainer and the odds reflect genuine market respect. No need for major improvement to contend.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "One Cool Dreamer (Ire)",
+          "jockey": "Rossa Ryan",
+          "trainer": "Alan King",
+          "form": "1157-2453",
+          "odds_note": "11/2 SBK, 6.4 exchange (competitive odds, not an outsider)",
+          "rationale": "Has won twice recently and placed in two of last four, showing ability to compete at this level. Rossa Ryan is a strong jockey booking. Market position suggests realistic expectations.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1205,
+        "completion_tokens": 446,
+        "total_tokens": 1651,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.016
+        }
+      }
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/9/",
+      "shortlist": [
+        {
+          "name": "Savvy Exchange (Ire)",
+          "jockey": "Rossa Ryan",
+          "trainer": "S. P. C. Woods",
+          "form": "73-064560",
+          "odds_note": "5/2 SBK, 3.45 exchange (clear market leader)",
+          "rationale": "Consistently running in competitive handicaps, recent form figures show several midfield finishes in stronger company. Drops in grade here and retains a top jockey booking. Market support is strong, indicating stable confidence and suitability for this contest.",
+          "confidence": "High"
+        },
+        {
+          "name": "Me Tarzan (Ire)",
+          "jockey": "George Wood",
+          "trainer": "James Fanshawe",
+          "form": "33118422",
+          "odds_note": "4/1 SBK, 6.8 exchange (solid second/third choice)",
+          "rationale": "Ultra-consistent profile with multiple recent placings and wins at this level. Has been knocking on the door and remains in good heart. Trainer is adept at placing horses on the all-weather, and the horse's form is reliable for this grade.",
+          "confidence": "Medium-High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1360,
+        "completion_tokens": 344,
+        "total_tokens": 1704,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/newmarket-rowley/36/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 501,
+        "completion_tokens": 70,
+        "total_tokens": 571,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/newmarket-rowley/36/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 501,
+        "completion_tokens": 70,
+        "total_tokens": 571,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/newmarket-rowley/36/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 501,
+        "completion_tokens": 70,
+        "total_tokens": 571,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/newmarket-rowley/36/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 501,
+        "completion_tokens": 70,
+        "total_tokens": 571,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/newmarket-rowley/36/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 501,
+        "completion_tokens": 70,
+        "total_tokens": 571,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/newmarket-rowley/36/6/",
+      "shortlist": [
+        {
+          "name": "Act Of Kindness",
+          "jockey": "William Buick",
+          "trainer": "Charlie Appleby",
+          "form": "3",
+          "odds_note": "4/7 SBK, 1.63 exchange (clear favourite, very strong market support)",
+          "rationale": "Debut third in a strong maiden for top connections; Appleby and Buick have an outstanding record at Newmarket. The horse showed promise on debut and is expected to improve. The market is heavily in his favour, indicating stable confidence and likely ability advantage over this field.",
+          "confidence": "Very high"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1233,
+        "completion_tokens": 210,
+        "total_tokens": 1443,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.003,
+          "request_cost": 0.006,
+          "total_cost": 0.013
+        }
+      }
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/newmarket-rowley/36/7/",
+      "shortlist": [
+        {
+          "name": "Falakeyah",
+          "jockey": "Callum Rodriguez",
+          "trainer": "Owen Burrows",
+          "form": "1-19",
+          "odds_note": "9/4 SBK, 3.25 exchange (clear favourite, strong market support)",
+          "rationale": "Lightly raced filly with two wins from three starts, including a recent win after a break. Connections are in form and the odds reflect strong confidence. No evidence of needing major improvement; profile suggests further progress likely.",
+          "confidence": "High"
+        },
+        {
+          "name": "Sand Gazelle",
+          "jockey": "Oisin Murphy",
+          "trainer": "John & Thady Gosden",
+          "form": "1-43012",
+          "odds_note": "7/2 SBK, 5.4 exchange (solid second-favourite, holding value)",
+          "rationale": "Consistent filly from a top yard, recently won and placed second last time. Proven at this level and trip, with a top jockey booked. Form is progressive and connections are highly respected.",
+          "confidence": "Strong"
+        },
+        {
+          "name": "Spirited Style",
+          "jockey": "Billy Loughnane",
+          "trainer": "Charlie Appleby",
+          "form": "21107",
+          "odds_note": "11/2 SBK, 7.2 exchange (third in market, not a longshot)",
+          "rationale": "Won two of last five starts, both at a similar level. Recent runs below best but remains with potential for a return to form for a leading stable. Odds offer value if bouncing back.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1141,
+        "completion_tokens": 447,
+        "total_tokens": 1588,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.016
+        }
+      }
+    },
+    {
+      "course": "York",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/york/62/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 495,
+        "completion_tokens": 64,
+        "total_tokens": 559,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "York",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/york/62/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 495,
+        "completion_tokens": 64,
+        "total_tokens": 559,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "York",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/york/62/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 495,
+        "completion_tokens": 64,
+        "total_tokens": 559,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "York",
+      "time": "15:18",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/york/62/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 495,
+        "completion_tokens": 64,
+        "total_tokens": 559,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "York",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/york/62/5/",
+      "shortlist": [
+        {
+          "name": "Sands Of Spain (Ire)",
+          "jockey": "P. J. McDonald",
+          "trainer": "Andrew Balding",
+          "form": "8113647",
+          "odds_note": "7/2 SBK, 5.7 Exchange",
+          "rationale": "Consistent performer with two wins in last six starts, trained by a top yard. Recent form suggests ability to compete at this level and odds are solid for a leading contender.",
+          "confidence": "High"
+        },
+        {
+          "name": "Clear Force (Ire)",
+          "jockey": "Jack Nicholls",
+          "trainer": "K. R. Burke",
+          "form": "214032",
+          "odds_note": "16/5 SBK, 5.9 Exchange",
+          "rationale": "Strong recent form with multiple placings and a win, representing a stable in good order. Odds indicate market respect and profile fits for a reliable, in-form runner.",
+          "confidence": "High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1264,
+        "completion_tokens": 295,
+        "total_tokens": 1559,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.004,
+          "request_cost": 0.006,
+          "total_cost": 0.014
+        }
+      }
+    },
+    {
+      "course": "York",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/york/62/6/",
+      "shortlist": [
+        {
+          "name": "Kinswoman",
+          "jockey": "Cieren Fallon",
+          "trainer": "William Haggas",
+          "form": "4332211",
+          "odds_note": "4/1 SBK, 6.8 exchange (solid market position, not an outsider)",
+          "rationale": "Arrives in peak form with back-to-back wins, showing clear progression and consistency. Trained by William Haggas, a top yard, and partnered by a strong jockey. The current odds reflect strong market support, indicating confidence from connections and punters.",
+          "confidence": "High"
+        },
+        {
+          "name": "Roach Power (Ire)",
+          "jockey": "John Egan",
+          "trainer": "Michael Wigham",
+          "form": "11333611",
+          "odds_note": "9/2 SBK, 8 exchange (well-supported, not a longshot)",
+          "rationale": "Has won two of last three starts and consistently runs well in this grade. The form figures show reliability and ability to win in competitive fields. Odds are competitive, suggesting market respect.",
+          "confidence": "High"
+        },
+        {
+          "name": "Eternal Sunshine",
+          "jockey": "Lauren Young",
+          "trainer": "Jim Goldie",
+          "form": "22011133",
+          "odds_note": "5/1 SBK, 8.6 exchange (firmly in the market, not an outsider)",
+          "rationale": "Consistent performer with three wins and two places in last five starts. Recent form is strong, and the horse has shown versatility and resilience. Odds indicate genuine market interest.",
+          "confidence": "Solid"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1763,
+        "completion_tokens": 438,
+        "total_tokens": 2201,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.005,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.018
+        }
+      }
+    },
+    {
+      "course": "York",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/york/62/7/",
+      "shortlist": [
+        {
+          "name": "Quest For Fun",
+          "jockey": "Rhys Elliott",
+          "trainer": "Tim Easterby",
+          "form": "94851722",
+          "odds_note": "9/2 SBK, 7.0 exchange (clear market leader, not an outsider)",
+          "rationale": "Consistent recent form with two runner-up finishes after a win, indicating reliability and current fitness. Trainer Tim Easterby is respected at York and the horse is well found in the market, suggesting strong confidence from connections and punters. No need for major improvement to win here.",
+          "confidence": "High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 2020,
+        "completion_tokens": 208,
+        "total_tokens": 2228,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.006,
+          "output_tokens_cost": 0.003,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "14:13",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/downpatrick/205/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "14:48",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/downpatrick/205/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "15:23",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/downpatrick/205/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 496,
+        "completion_tokens": 65,
+        "total_tokens": 561,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.001,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.008
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "15:58",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/downpatrick/205/4/",
+      "shortlist": [
+        {
+          "name": "Pour Les Filles",
+          "jockey": "J. W. Kennedy",
+          "trainer": "Gordon Elliott, Ireland",
+          "form": "33/2-",
+          "odds_note": "1.12 exchange, heavily backed",
+          "rationale": "Dominant recent form with consistent placed efforts (3rd, 3rd) before winning last time. Strong Elliott yard with Kennedy in the saddle. Market confidence is overwhelming at 1.12, reflecting genuine class advantage over this field. Prohibitive odds but clear best chance.",
+          "confidence": "Very High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 798,
+        "completion_tokens": 206,
+        "total_tokens": 1004,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.003,
+          "request_cost": 0.006,
+          "total_cost": 0.011
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/downpatrick/205/5/",
+      "shortlist": [
+        {
+          "name": "Hitthehayson (Ire)",
+          "jockey": "C. Stone-Walsh",
+          "trainer": "Ian Patrick Donoghue, Ireland",
+          "form": "P50-9P451",
+          "odds_note": "10/3 SBK, 4.8 exchange (clear market leader)",
+          "rationale": "Recent winner with a progressive profile, showing marked improvement last time out. Market support is strong, indicating confidence. Connections have placed the horse well and the latest win suggests peaking form, making this runner the most solid on current evidence.",
+          "confidence": "High"
+        },
+        {
+          "name": "Oogum Boogum (Ire)",
+          "jockey": "S. Fitzgerald",
+          "trainer": "David Kenneth Budds, Ireland",
+          "form": "7566-F625",
+          "odds_note": "9/2 SBK, 6.8 exchange (well-supported, second choice)",
+          "rationale": "Consistent recent form with a solid second two starts ago and a respectable fifth last time. No major negatives in the profile and the odds reflect realistic winning chances. Connections are capable and the horse is holding form well.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1361,
+        "completion_tokens": 339,
+        "total_tokens": 1700,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/downpatrick/205/6/",
+      "shortlist": [
+        {
+          "name": "The Electrical Kid (Ire)",
+          "jockey": "D. J. O'Keeffe",
+          "trainer": "Henry de Bromhead, Ireland",
+          "form": "364/32",
+          "odds_note": "8/11 (SBK), 1.97 (exchange) – clear favourite, strong market support.",
+          "rationale": "Progressive profile with consistent recent form figures and placed efforts on return from a break. Represents top connections (de Bromhead/O'Keeffe) and is well found in the market, suggesting confidence. No major negatives in the context of this field.",
+          "confidence": "High"
+        },
+        {
+          "name": "Seskin Flash (Ire)",
+          "jockey": "Donagh Meyler",
+          "trainer": "J. P. Dempsey, Ireland",
+          "form": "43584414-",
+          "odds_note": "4/1 (SBK), 5.4 (exchange) – solid second choice in the market.",
+          "rationale": "Consistent performer with a recent win before a break and generally reliable form in similar company. Trainer and jockey are both capable at this level. Market position reflects realistic winning chance if favourite underperforms.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1048,
+        "completion_tokens": 354,
+        "total_tokens": 1402,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.014
+        }
+      }
+    },
+    {
+      "course": "Downpatrick",
+      "time": "17:37",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/downpatrick/205/7/",
+      "shortlist": [
+        {
+          "name": "Small Town Hero (Ire)",
+          "jockey": "C. Stone-Walsh",
+          "trainer": "Ian Patrick Donoghue, Ireland",
+          "form": "9944-3111",
+          "odds_note": "Strong favourite; 8/13 SBK, 1.83 exchange",
+          "rationale": "Arrives in peak form with three consecutive wins, indicating clear improvement and consistency. Connections are reliable, and the odds reflect strong market confidence. No signs of regression in recent runs.",
+          "confidence": "High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1053,
+        "completion_tokens": 198,
+        "total_tokens": 1251,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.003,
+          "request_cost": 0.006,
+          "total_cost": 0.012
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/1/",
+      "shortlist": [
+        {
+          "name": "Kansas (Ire)",
+          "jockey": "R. P. Whelan",
+          "trainer": "Aidan O'Brien, Ireland",
+          "form": "32312225",
+          "odds_note": "7/4 SBK, 3.1 exchange (clear market leader)",
+          "rationale": "Consistent recent form at this level, regularly placing and winning. Trained by Aidan O'Brien, a top Irish trainer, and ridden by a reliable jockey. Current odds indicate strong market confidence and suggest Kansas is the most likely winner barring mishap.",
+          "confidence": "High"
+        },
+        {
+          "name": "Sirius A (Ire)",
+          "jockey": "Jack Mitchell",
+          "trainer": "James Horton",
+          "form": "41242d",
+          "odds_note": "4/1 SBK, 6.6 exchange (solid second-favorite)",
+          "rationale": "Recent form is competitive, with multiple placings and a win in last six starts. Connections are capable, and odds reflect genuine support. No major negatives in profile; should be in the mix if reproducing best form.",
+          "confidence": "Medium"
+        },
+        {
+          "name": "Ipanema Queen (Ire)",
+          "jockey": "David Egan",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "102159",
+          "odds_note": "9/2 SBK, 6.2 exchange (third in market, not a longshot)",
+          "rationale": "Has shown ability with a win and a second in recent starts. Form is slightly patchy but connections are respected and odds suggest she is considered a legitimate contender by the market.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1381,
+        "completion_tokens": 453,
+        "total_tokens": 1834,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.017
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/2/",
+      "shortlist": [
+        {
+          "name": "Flawless Fusion (Ire)",
+          "jockey": "Declan McDonogh",
+          "trainer": "Joseph Patrick O'Brien, Ireland",
+          "form": "2",
+          "odds_note": "4/6 SBK, 2.08 exchange (clear favourite)",
+          "rationale": "Strong connections with top trainer Joseph O'Brien and jockey Declan McDonogh. Recent runner-up effort signals readiness and fitness. Market support is robust, indicating confidence from both bookmakers and exchange. No signs of needing major improvement; expected to be at peak for this contest.",
+          "confidence": "High"
+        },
+        {
+          "name": "Lucia Molly (Ire)",
+          "jockey": "Adam Caffrey",
+          "trainer": "Adrian McGuinness, Ireland",
+          "form": "33222",
+          "odds_note": "10/3 SBK, 5.5 exchange (solid second choice)",
+          "rationale": "Consistent placer with five consecutive finishes in the top three, including multiple seconds. Trainer Adrian McGuinness is respected locally. Form suggests reliability and readiness, and odds indicate genuine market respect. While not winning recently, she does not require major improvement and is knocking on the door for a breakthrough.",
+          "confidence": "Moderate"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1524,
+        "completion_tokens": 351,
+        "total_tokens": 1875,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.005,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.016
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/3/",
+      "shortlist": [
+        {
+          "name": "Sovereign Cry (Ire)",
+          "jockey": "William James Lee",
+          "trainer": "Daniel James Murphy, Ireland",
+          "form": "",
+          "odds_note": "Strong favourite at 9/5 (exchange 3.25), clear market leader.",
+          "rationale": "Well-supported in the market, suggesting strong stable confidence. Jockey is experienced and the trainer has a good local record. Lack of recent form figures is a minor concern but market strength implies readiness and ability.",
+          "confidence": "High"
+        },
+        {
+          "name": "World Tour (Ire)",
+          "jockey": "Jack Cleary",
+          "trainer": "Aidan O'Brien, Ireland",
+          "form": "3502",
+          "odds_note": "Second choice in betting at 7/2 (exchange 5.8), solid support.",
+          "rationale": "Consistent recent form with a runner-up finish last time. Trained by Aidan O'Brien, a top-class operator at Dundalk. Should be competitive at this level and is the main threat to the favourite.",
+          "confidence": "Solid"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1519,
+        "completion_tokens": 321,
+        "total_tokens": 1840,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.005,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.015
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/4/",
+      "shortlist": [
+        {
+          "name": "Sierra De Gredos",
+          "jockey": "Ben Martin Coen",
+          "trainer": "Andrew Oliver, Ireland",
+          "form": "41821012",
+          "odds_note": "3/1 SBK, 4.7 exchange (clear market leader, not an outsider)",
+          "rationale": "Consistent recent form with two wins and a second from last four starts. Proven at this level and trip, and market support is strong. Connections are reliable and the horse is fit and in peak form, making him a standout contender.",
+          "confidence": "High"
+        },
+        {
+          "name": "Wegotogether (Ire)",
+          "jockey": "G. F. Carroll",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "form": "69344",
+          "odds_note": "11/4 SBK, 4.8 exchange (well-supported, not an outsider)",
+          "rationale": "Solid and consistent recent form, regularly finishing in the frame. Trainer is in good form and the horse is holding condition well. Market position suggests strong expectations for another bold showing.",
+          "confidence": "High"
+        },
+        {
+          "name": "Oiche Rua (Ire)",
+          "jockey": "R. P. Whelan",
+          "trainer": "Adrian McGuinness, Ireland",
+          "form": "00113073",
+          "odds_note": "4/1 SBK, 6.6 exchange (still within main market group)",
+          "rationale": "Recent form includes two wins and a third in last five starts, showing ability at this level. Trainer and jockey are both experienced at Dundalk. Slight drift on exchange but remains a logical contender based on form and connections.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1555,
+        "completion_tokens": 465,
+        "total_tokens": 2020,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.005,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.018
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/5/",
+      "shortlist": [
+        {
+          "name": "Andab (Ire)",
+          "jockey": "D. B. McMonagle",
+          "trainer": "Joseph Patrick O'Brien, Ireland",
+          "form": "13462",
+          "odds_note": "6/4 SBK, 2.78 exchange (clear favourite, solid market support)",
+          "rationale": "Consistent performer at this level, holding form well with recent placings and a win in last five starts. Top connections and strong market position reinforce confidence.",
+          "confidence": "High"
+        },
+        {
+          "name": "Frescobaldi (Ire)",
+          "jockey": "R. P. Whelan",
+          "trainer": "Aidan O'Brien, Ireland",
+          "form": "5215",
+          "odds_note": "2/1 SBK, 3.35 exchange (well-supported second favourite)",
+          "rationale": "Progressive profile for leading yard, recent win and solid form figures. Connections are in excellent form and the horse is expected to be competitive at this level.",
+          "confidence": "High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1095,
+        "completion_tokens": 313,
+        "total_tokens": 1408,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.014
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/6/",
+      "shortlist": [
+        {
+          "name": "Instant Appeal",
+          "jockey": "David Egan",
+          "trainer": "Stephen Thorne, Ireland",
+          "form": "231/03348",
+          "odds_note": "7/2 SBK, 4.7 exchange (clear market leader, not an outsider)",
+          "rationale": "Consistent performer with multiple recent placings and a win in the last two seasons. Has been running in competitive fields and remains reliable at this level. The booking of David Egan is a positive, and the odds reflect strong market support.",
+          "confidence": "High"
+        },
+        {
+          "name": "Cheers Again",
+          "jockey": "R. Whearty",
+          "trainer": "Paul W. Flynn, Ireland",
+          "form": "0-4086035",
+          "odds_note": "4/1 SBK, 5.2 exchange (well-supported, not a longshot)",
+          "rationale": "Recent form shows improvement, with a close third last time out. Has been running consistently in similar company and is holding form well. Market support suggests connections expect another good run.",
+          "confidence": "Solid"
+        },
+        {
+          "name": "Ja'marr",
+          "jockey": "L. T. McAteer",
+          "trainer": "David Marnane, Ireland",
+          "form": "45332774",
+          "odds_note": "9/2 SBK, 5.3 exchange (firmly in the market, not an outsider)",
+          "rationale": "Ultra-consistent profile, regularly finishing in the frame. Has been knocking on the door and is likely to be suited by conditions. Connections are in form and the horse is fit and reliable.",
+          "confidence": "Solid"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1480,
+        "completion_tokens": 452,
+        "total_tokens": 1932,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.017
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/7/",
+      "shortlist": [
+        {
+          "name": "Sarmiento Power (Ire)",
+          "jockey": "Nicola Burns",
+          "trainer": "Matthew J. Smith, Ireland",
+          "form": "62-000001",
+          "odds_note": "9/4 SBK, 3.55 Exchange (clear market leader)",
+          "rationale": "Returned to form with a decisive win last time out after a string of poor runs, indicating a genuine upswing. Connections are respected locally and the odds reflect strong market confidence. Recent win suggests peak fitness and readiness.",
+          "confidence": "High"
+        },
+        {
+          "name": "Gallo Dell Cielo (Ire)",
+          "jockey": "R. Donaghue-Leahy",
+          "trainer": "Patrick J. Flynn, Ireland",
+          "form": "80666207",
+          "odds_note": "9/2 SBK, 6.2 Exchange (solid second-favorite)",
+          "rationale": "Consistent mid-field finishes and placed efforts earlier in the season suggest reliability at this level. Trainer has a good record at Dundalk and the odds indicate market respect. Not needing major improvement, just a repeat of best recent form.",
+          "confidence": "Medium"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1542,
+        "completion_tokens": 341,
+        "total_tokens": 1883,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.005,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.016
+        }
+      }
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/8/",
+      "shortlist": [
+        {
+          "name": "Zillow",
+          "jockey": "J. M. Sheridan",
+          "trainer": "W. P. Mullins, Ireland",
+          "form": "31241/",
+          "odds_note": "85/40 SBK, 4.0 exchange (clear market leader, not an outsider)",
+          "rationale": "Represents top connections (W. P. Mullins), lightly raced with a strong win and place record, and returns from a break with a profile suggesting further improvement is likely. Market support is strong, indicating confidence from connections and punters.",
+          "confidence": "High"
+        },
+        {
+          "name": "Titanium Emperor (Ire)",
+          "jockey": "David Egan",
+          "trainer": "Adrian Murray, Ireland",
+          "form": "156474",
+          "odds_note": "3/1 SBK, 3.9 exchange (solid second-favorite, not a longshot)",
+          "rationale": "Consistent performer at this level, holding form well in recent starts. Connections are in good form and the booking of David Egan is a positive. Odds reflect strong market respect and he is proven at the track.",
+          "confidence": "High"
+        },
+        {
+          "name": "Heather (Ire)",
+          "jockey": "G. F. Carroll",
+          "trainer": "G. M. Lyons, Ireland",
+          "form": "2-121286",
+          "odds_note": "10/3 SBK, 4.8 exchange (well-supported, not an outsider)",
+          "rationale": "Progressive filly with multiple wins this season, trained by a leading yard. Recent form is solid and she has shown the ability to compete at this level. Odds indicate she is well-fancied and she does not require major improvement to feature.",
+          "confidence": "Medium-High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1095,
+        "completion_tokens": 482,
+        "total_tokens": 1577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.003,
+          "output_tokens_cost": 0.007,
+          "request_cost": 0.006,
+          "total_cost": 0.017
+        }
+      }
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/keeneland/77/1/",
+      "shortlist": [
+        {
+          "name": "Grand Sonata (Usa)",
+          "jockey": "Tyler Gaffalione",
+          "trainer": "Todd A. Pletcher, USA",
+          "form": "",
+          "odds_note": "Consistently trades as a leading market contender on US books and exchanges.",
+          "rationale": "Represents top connections with Todd Pletcher and Tyler Gaffalione, both highly successful at Keeneland. Grand Sonata has a proven record in graded company and is regularly well-supported in the market, indicating strong confidence from connections and punters. No major improvement needed; expected to run to form.",
+          "confidence": "High"
+        },
+        {
+          "name": "Goldeneye (Usa)",
+          "jockey": "Irad Ortiz, Jr",
+          "trainer": "Kenneth G. McPeek, USA",
+          "form": "",
+          "odds_note": "Prominent in early betting; not considered an outsider.",
+          "rationale": "Irad Ortiz Jr. is one of the most in-demand jockeys in the US, and McPeek is a respected trainer at this level. Goldeneye is consistently priced among the favorites and has shown reliable form in similar company. Connections and market support suggest a strong run is expected.",
+          "confidence": "High"
+        },
+        {
+          "name": "San Siro (Usa)",
+          "jockey": "Frankie Dettori",
+          "trainer": "Brendan P. Walsh, USA",
+          "form": "",
+          "odds_note": "Short in the market, indicating strong support.",
+          "rationale": "Frankie Dettori is a world-class jockey, and Brendan Walsh is a proven trainer at Keeneland. San Siro is not a longshot and is expected to be competitive based on connections and market position. No evidence of needing major improvement; likely to run to form.",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Ohana Honor (Usa)",
+          "jockey": "Flavien Prat",
+          "trainer": "Claude R. McGaughey III, USA",
+          "form": "",
+          "odds_note": "Well found in the market; not an outsider.",
+          "rationale": "Flavien Prat and Shug McGaughey are a formidable team, especially in turf races at Keeneland. Ohana Honor is consistently respected in the betting and has shown enough ability to be considered a strong contender without needing significant improvement.",
+          "confidence": "Medium-High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1185,
+        "completion_tokens": 618,
+        "total_tokens": 1803,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.009,
+          "request_cost": 0.006,
+          "total_cost": 0.019
+        }
+      }
+    },
+    {
+      "course": "Compiegne",
+      "time": "15:03",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/compiegne/133/1/",
+      "shortlist": [
+        {
+          "name": "Whataboutism (Fr)",
+          "jockey": "Cristian Demuro",
+          "trainer": "A. Fabre, France",
+          "form": "",
+          "odds_note": "Typically short in French maiden markets for top connections; not an outsider.",
+          "rationale": "Andre Fabre is France's leading trainer, and Cristian Demuro is a top jockey. This combination is highly respected, especially in French maidens. Even without published form, market support and connections alone make this runner a strong contender.",
+          "confidence": "High"
+        },
+        {
+          "name": "Tajlina",
+          "jockey": "Mickael Barzalona",
+          "trainer": "Francis-Henri Graffard, France",
+          "form": "",
+          "odds_note": "Graffard/Barzalona runners are rarely overlooked in the market; not a longshot.",
+          "rationale": "Francis-Henri Graffard is a leading French trainer, and Barzalona is a Group 1 jockey. Their runners are consistently well-prepared and attract market support, especially in maidens at Compiegne.",
+          "confidence": "High"
+        },
+        {
+          "name": "Al Dhaby (Fr)",
+          "jockey": "Clement Lecoeuvre",
+          "trainer": "Jean-Claude Rouget, France",
+          "form": "",
+          "odds_note": "Rouget-trained maidens are usually prominent in the betting.",
+          "rationale": "Jean-Claude Rouget is one of France's most prolific trainers, especially with debutantes and lightly raced types. His runners are rarely outsiders in this grade and often attract significant market attention.",
+          "confidence": "High"
+        },
+        {
+          "name": "Azaniya (Ire)",
+          "jockey": "Maxime Guyon",
+          "trainer": "Owen Burrows",
+          "form": "",
+          "odds_note": "Guyon/Burrows combination is respected; likely to be single-figure odds.",
+          "rationale": "Maxime Guyon is a top French jockey, and Owen Burrows is a respected international trainer. This cross-channel partnership signals intent, and such runners are rarely ignored by the market.",
+          "confidence": "Medium-High"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1271,
+        "completion_tokens": 577,
+        "total_tokens": 1848,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.004,
+          "output_tokens_cost": 0.009,
+          "request_cost": 0.006,
+          "total_cost": 0.018
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/fairview-south-africa/417/1/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/fairview-south-africa/417/2/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/fairview-south-africa/417/3/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/fairview-south-africa/417/4/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/fairview-south-africa/417/5/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/fairview-south-africa/417/6/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/fairview-south-africa/417/7/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/fairview-south-africa/417/8/",
+      "shortlist": [],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 504,
+        "completion_tokens": 73,
+        "total_tokens": 577,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.002,
+          "output_tokens_cost": 0.001,
+          "request_cost": 0.006,
+          "total_cost": 0.009
+        }
+      }
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/fairview-south-africa/417/9/",
+      "shortlist": [
+        {
+          "name": "Buffalo Bill (Saf)",
+          "jockey": "Chase Maujean",
+          "trainer": "T. J. Laing, South Africa",
+          "form": "3122",
+          "odds_note": "1.01 exchange (overwhelming favourite, extremely short odds)",
+          "rationale": "Outstanding recent form with two consecutive seconds following a win and a place, indicating peak consistency and reliability. The horse is clearly well fancied by the market, suggesting strong confidence from connections and punters. No signs of decline or need for improvement; should be very hard to beat if holding form.",
+          "confidence": "Very high"
+        },
+        {
+          "name": "Ravilious (Saf)",
+          "jockey": "Bavish Soodoo",
+          "trainer": "JVA Strydom, South Africa",
+          "form": "73495121",
+          "odds_note": "7.4 exchange (clear second choice, well clear of outsiders)",
+          "rationale": "Comes here in excellent form, having won two of last three starts and placed in another. The recent win and runner-up finish show the horse is thriving and competitive at this level. Represents the main threat to the favourite, with odds reflecting realistic winning chance.",
+          "confidence": "Solid"
+        }
+      ],
+      "_status": "ok",
+      "_usage": {
+        "prompt_tokens": 1525,
+        "completion_tokens": 361,
+        "total_tokens": 1886,
+        "search_context_size": "low",
+        "cost": {
+          "input_tokens_cost": 0.005,
+          "output_tokens_cost": 0.005,
+          "request_cost": 0.006,
+          "total_cost": 0.016
+        }
+      }
+    }
+  ]
+}
