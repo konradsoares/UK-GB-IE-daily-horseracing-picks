@@ -611,7 +611,12 @@
       "course": "Saint-Cloud",
       "time": "14:31",
       "url": "https://betting.betfair.com/horse-racing/results/09-october-2025/saintcloud/86/1/",
-      "winner": null,
+      "winner": {
+        "name": "Mondialito D'huez (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
       "hit": false
     },
     {
