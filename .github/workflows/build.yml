@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    # PICKS run (keep your existing time(s); UTC)
+    # PICKS run (keep your existing times; UTC)
     - cron: '0 1 * * *'
     - cron: '30 1 * * *'
   workflow_dispatch: {}
@@ -16,14 +16,14 @@ concurrency:
 
 jobs:
   picks:
-    # Run on manual dispatch or on the 03:00 UTC schedule only
     if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 1 * * *'
     runs-on: ubuntu-latest
     env:
       TZ: Europe/Dublin
     steps:
       - uses: actions/checkout@v4
-        with: { persist-credentials: true }
+        with:
+          persist-credentials: true
 
       - uses: actions/setup-node@v4
         with:
@@ -45,8 +45,13 @@ jobs:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: npm run analyze
 
+      # 🟩 New step — generate the top 3 profitable picks file
+      - name: Filter to top 3 profitable picks
+        run: npm run top3
+
+      # 🟩 Use the filtered file for dashboard latest.json
       - name: Postbuild (copy latest to docs/latest.json)
-        run: npm run postbuild
+        run: node postbuild.js betfair-racecards-picks-${{ env.TODAY }}-top3.json
 
       - name: Archive daily + rebuild index
         run: npm run archive
@@ -61,16 +66,14 @@ jobs:
           git push
 
   results:
-    # Run on 22:30
-    # and also allow manual dispatch.
-    if: |
-      github.event_name == 'workflow_dispatch' || github.event.schedule == '30 1 * * *'
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '30 1 * * *'
     runs-on: ubuntu-latest
     env:
       TZ: Europe/Dublin
     steps:
       - uses: actions/checkout@v4
-        with: { persist-credentials: true }
+        with:
+          persist-credentials: true
 
       - uses: actions/setup-node@v4
         with:
@@ -85,14 +88,12 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: Scrape results for today (Europe/Dublin)
-        run: |
-          npm run results
+        run: npm run results
 
       - name: Commit results JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Commit only the results tree
           git add -A docs/results
           git commit -m "Add results for today" || echo "No changes"
           git push
