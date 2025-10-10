@@ -1,77 +1,80 @@
 /**
  * select-top3.js
- * 
+ *
  * Reads the daily Perplexity-analyzed picks JSON and outputs a refined version
  * containing only the top 3 profitable horses per race (expected value > 0).
- * 
+ *
  * Usage:
- *   node select-top3.js ./picks/2025/10/10/betfair-racecards-picks-2025-10-10.json
+ *   node select-top3.js betfair-racecards-picks-2025-10-10.json
  */
 
 const fs = require('fs');
 const path = require('path');
 
-
+// ---------- Helpers ----------
 function toDec(odds) {
   if (!odds) return null;
   const s = String(odds).trim();
+
+  // Decimal format
   if (/^\d+(\.\d+)?$/.test(s)) return parseFloat(s);
+
+  // Fractional like 5/2 → 3.5
   const frac = s.match(/^(\d+)\s*\/\s*(\d+)$/);
   if (frac) {
-    const a = parseFloat(frac[1]), b = parseFloat(frac[2]);
+    const a = +frac[1], b = +frac[2];
     if (b > 0) return a / b + 1;
   }
+
+  // Extract from strings like "EXC 4.8"
   const num = s.match(/(\d+(?:\.\d+)?)(?:\s*\/\s*(\d+))?/);
   if (num) {
     if (num[2]) {
       const a = +num[1], b = +num[2];
-      if (b) return a / b + 1;
+      if (b > 0) return a / b + 1;
     }
     return parseFloat(num[1]);
   }
   return null;
 }
 
-// basic market-based probability
 function impliedProb(odds) {
   const d = toDec(odds);
   return d && d > 1 ? 1 / d : 0;
 }
 
-// adjust probability slightly using model confidence
 function adjustedProb(pick) {
   let p = impliedProb(pick.exchange || pick.exc_dec || pick.odds || pick.odds_note);
   const conf = (pick.confidence || '').toLowerCase();
-  if (conf.includes('high')) p *= 1.10;
+  if (conf.includes('high')) p *= 1.1;
   else if (conf.includes('medium')) p *= 1.05;
-  // slight form influence
+
+  // Simple form bonus/penalty
   if (pick.form && /1/.test(pick.form)) p *= 1.05;
   if (pick.form && /0/.test(pick.form)) p *= 0.95;
   return Math.min(p, 0.99);
 }
 
-// expected value calculation
 function expectedValue(prob, oddsDec) {
   if (!oddsDec || !prob) return -1;
   return (prob * (oddsDec - 1)) - (1 - prob);
 }
 
 function calcPotentialProfit(picks) {
-  // assume 1€ stake per horse, only one winner
+  // 1€ stake each, one winner → profit = (winnerOdds - 3)
   for (const p of picks) {
-    const dec = toDec(p.oddsDec);
-    const profit = dec - 3; // one wins, two lose
-    if (profit > 0) return profit;
+    if (p.oddsDec && p.oddsDec - 3 > 0) return p.oddsDec - 3;
   }
   return -1;
 }
 
-// === MAIN ===
+// ---------- Main ----------
 const inFile = process.argv[2];
 if (!inFile) {
   console.error('Usage: node select-top3.js <input-file>');
   process.exit(1);
 }
+
 const text = fs.readFileSync(inFile, 'utf8');
 const data = JSON.parse(text);
 
@@ -92,38 +95,38 @@ for (const race of data.races || []) {
     return { ...p, oddsDec: dec, probability: prob, expected_value: ev };
   });
 
+  // Keep only EV > 0
   const profitable = picks.filter(p => p.expected_value > 0);
-  if (profitable.length < 3) continue; // skip unprofitable races
+  if (profitable.length < 3) continue;
 
-  // sort by adjusted probability desc
+  // Sort by adjusted probability descending
   profitable.sort((a, b) => b.probability - a.probability);
 
-  // pick top 3
   const top3 = profitable.slice(0, 3);
   const potential = calcPotentialProfit(top3);
-
-  if (potential <= 0) continue; // skip if no combo profit
+  if (potential <= 0) continue;
 
   refined.races.push({
     course,
     time,
-    best_3_picks: top3.map(p => ({
+    shortlist: top3.map(p => ({
       name: p.name,
-      odds: p.oddsDec,
+      oddsDec: p.oddsDec,
       probability: +(p.probability * 100).toFixed(1),
       expected_value: +p.expected_value.toFixed(3),
       rationale: p.rationale,
       trainer: p.trainer,
-      jockey: p.jockey
+      jockey: p.jockey,
+      confidence: p.confidence
     })),
     combo_profit_check: potential.toFixed(2)
   });
 
-  console.log(`${course} ${time} → ${top3.length} profitable picks (combo +${potential.toFixed(2)}€)`);
+  console.log(`${course} ${time} → 3 profitable picks (combo +${potential.toFixed(2)}€)`);
 }
 
 if (!refined.races.length) {
-  console.warn('No races qualified for profitable top3 selection.');
+  console.warn('⚠️ No races qualified for profitable top3 selection.');
 }
 
 const dir = path.dirname(inFile);
