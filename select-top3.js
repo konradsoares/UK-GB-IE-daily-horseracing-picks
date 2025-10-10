@@ -111,6 +111,7 @@ for (const race of data.races || []) {
     time,
     shortlist: top3.map(p => ({
       name: p.name,
+      odds: p.exchange || p.odds || p.odds_note || `${p.oddsDec?.toFixed(2)} (dec)`,
       oddsDec: p.oddsDec,
       probability: +(p.probability * 100).toFixed(1),
       expected_value: +p.expected_value.toFixed(3),
