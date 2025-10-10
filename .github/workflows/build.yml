@@ -49,14 +49,12 @@ jobs:
       - name: Filter to top 3 profitable picks
         run: |
           TODAY=$(date +%F)
-          npm run top3 -- betfair-racecards-picks-$TODAY.json
+          echo "TODAY=$TODAY" >> $GITHUB_ENV
+          node select-top3.js betfair-racecards-picks-$TODAY.json
 
       # 🟩 Use the filtered file for dashboard latest.json
       - name: Postbuild (copy latest to docs/latest.json)
-        run: node postbuild.js betfair-racecards-picks-${{ env.TODAY }}-top3.json
-
-      - name: Archive daily + rebuild index
-        run: npm run archive
+        run: node postbuild.js
 
       - name: Commit updated docs (archive + latest + index)
         run: |
