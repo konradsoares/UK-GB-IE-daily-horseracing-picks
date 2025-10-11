@@ -130,8 +130,17 @@ if (!refined.races.length) {
   console.warn('⚠️ No races qualified for profitable top3 selection.');
 }
 
-const dir = path.dirname(inFile);
-const base = path.basename(inFile).replace('.json', '');
-const outFile = path.join(dir, `${base}-top3.json`);
+// === Save output ===
+const d = new Date(refined.date || new Date());
+const Y = d.getFullYear(), M = String(d.getMonth() + 1).padStart(2, '0');
+const archiveDir = path.join('docs', 'picks', Y.toString(), M);
+fs.mkdirSync(archiveDir, { recursive: true });
+
+// keep original archive naming (no "-top3" suffix)
+const outFile = path.join(archiveDir, `${refined.date || toYMD(d)}.json`);
 fs.writeFileSync(outFile, JSON.stringify(refined, null, 2));
-console.log(`✅ Saved filtered file: ${outFile}`);
+console.log(`✅ Saved filtered (top3) archive: ${outFile}`);
+
+// also copy to docs/latest.json for dashboard
+fs.copyFileSync(outFile, path.join('docs', 'latest.json'));
+console.log('📋 Updated docs/latest.json');
