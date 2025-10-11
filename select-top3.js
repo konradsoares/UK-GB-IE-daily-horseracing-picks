@@ -138,7 +138,7 @@ const archiveDir = path.join('docs', 'picks', Y.toString(), M);
 fs.mkdirSync(archiveDir, { recursive: true });
 
 // keep original archive naming (no "-top3" suffix)
-const outFile = path.join(archiveDir, `${refined.date || toYMD(d)}.json`);
+const outFile = path.join(archiveDir, `${refined.date || toYMD(new Date())}.json`);
 fs.writeFileSync(outFile, JSON.stringify(refined, null, 2));
 console.log(`✅ Saved filtered (top3) archive: ${outFile}`);
 
