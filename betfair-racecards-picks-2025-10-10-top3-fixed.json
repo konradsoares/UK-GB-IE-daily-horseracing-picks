@@ -1,0 +1,336 @@
+{
+  "date": "2025-10-10",
+  "model": "sonar-pro",
+  "generated_at": "2025-10-10T15:06:32.049Z",
+  "races": [
+    {
+      "course": "Chepstow",
+      "time": "15:43",
+      "shortlist": [
+        {
+          "name": "Queensbury Boy (Ire)",
+          "odds": "Strong favourite; 6/5 SBK, 2.74 exchange.",
+          "oddsDec": 2.2,
+          "probability": 52.5,
+          "expected_value": 0.155,
+          "rationale": "Progressive profile with three wins from last five starts, including a solid reappearance. Trainer in good form and odds reflect strong market confidence. No major improvement needed.",
+          "trainer": "Harry Derham",
+          "jockey": "Paul O'Brien",
+          "confidence": "High"
+        },
+        {
+          "name": "Jack Hyde (Ire)",
+          "odds": "Solid contender; 11/2 SBK, 4 exchange.",
+          "oddsDec": 6.5,
+          "probability": 17.8,
+          "expected_value": 0.155,
+          "rationale": "Recent win on seasonal return suggests readiness and improvement. Consistent form last campaign, and trainer excels with similar types at this track.",
+          "trainer": "Fergal O'Brien",
+          "jockey": "Jonathan Burke",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Krak (Fr)",
+          "odds": "Value each-way; 7/1 SBK, 4 exchange.",
+          "oddsDec": 8,
+          "probability": 13.8,
+          "expected_value": 0.103,
+          "rationale": "Reliable form with a win last time out and placed efforts prior. Connections are respected, and odds offer value for a horse with proven consistency.",
+          "trainer": "Nigel & Willy Twiston-Davies",
+          "jockey": "Sam Twiston-Davies",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "3.50",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/chepstow/11/5/"
+    },
+    {
+      "course": "Chepstow",
+      "time": "16:55",
+      "shortlist": [
+        {
+          "name": "Lundi Noir (Fr)",
+          "odds": "4/1 (sbk), 6.8 (exchange)",
+          "oddsDec": 5,
+          "probability": 23.1,
+          "expected_value": 0.155,
+          "rationale": "Unbeaten in one start, showing immediate promise. Trainer and jockey are in form. The odds are fair for a lightly raced horse with upside, and the profile suggests further improvement is likely without needing a major leap.",
+          "trainer": "Tom Lacey",
+          "jockey": "Stan Sheppard",
+          "confidence": "High"
+        },
+        {
+          "name": "Razzle Dazzle Boy (Ire)",
+          "odds": "9/2 (sbk), 8 (exchange)",
+          "oddsDec": 5.5,
+          "probability": 20,
+          "expected_value": 0.097,
+          "rationale": "Consistent form in competitive races, with a recent second placing. Sean Bowen is a top jockey booking. The horse is race-fit, handles the track, and is attractively priced for a proven performer at this level.",
+          "trainer": "Tim Vaughan",
+          "jockey": "Sean Bowen",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Murphy's Milan (Ire)",
+          "odds": "11/2 (sbk), 7.4 (exchange)",
+          "oddsDec": 6.5,
+          "probability": 16.2,
+          "expected_value": 0.05,
+          "rationale": "Consistent in better company, with a recent third. Hobbs/White stable is respected. The horse is proven at the trip and looks ready to strike if the race falls right. Odds represent solid each-way value.",
+          "trainer": "Philip Hobbs & Johnson White",
+          "jockey": "Micheal Nolan",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "2.00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/chepstow/11/7/"
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:05",
+      "shortlist": [
+        {
+          "name": "Tarot",
+          "odds": "Strong favourite; 11/10 SBK, 2.32 exchange.",
+          "oddsDec": 2.1,
+          "probability": 52.4,
+          "expected_value": 0.1,
+          "rationale": "Consistent recent form with three consecutive placings, indicating reliability and readiness. Top connections with Varian and Ryan, and current odds reflect market confidence. No signs of decline, and form suggests peak performance for this grade.",
+          "trainer": "Roger Varian",
+          "jockey": "Rossa Ryan",
+          "confidence": "High"
+        },
+        {
+          "name": "Albaydaa (Ire)",
+          "odds": "Third in market; 15/8 SBK, 4 exchange.",
+          "oddsDec": 2.875,
+          "probability": 36.5,
+          "expected_value": 0.05,
+          "rationale": "Placed on debut for a leading trainer, indicating ability and potential. Haggas horses typically improve for their first run, and odds suggest genuine market support. Form and connections justify shortlist inclusion.",
+          "trainer": "William Haggas",
+          "jockey": "Stevie Donohoe",
+          "confidence": "Medium"
+        },
+        {
+          "name": "Valdorcia (Ire)",
+          "odds": "Second choice; 9/4 SBK, 3.75 exchange.",
+          "oddsDec": 3.25,
+          "probability": 33.8,
+          "expected_value": 0.1,
+          "rationale": "Solid debut placing for a top yard, suggesting scope for improvement. Appleby-trained runners often progress quickly, and odds indicate respect from the market. Connections and debut promise make this a strong contender.",
+          "trainer": "Charlie Appleby",
+          "jockey": "Toby Moore",
+          "confidence": "Medium-High"
+        }
+      ],
+      "combo_profit_check": "0.25",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/1/"
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:45",
+      "shortlist": [
+        {
+          "name": "Waiting All Night",
+          "odds": "5/2 SBK, 5.0 Exchange (market leader, solid support)",
+          "oddsDec": 3.5,
+          "probability": 31.4,
+          "expected_value": 0.1,
+          "rationale": "Consistently competitive in recent runs, holding form at this level. Connections are capable and the odds reflect strong market confidence. No major improvement needed, and recent form suggests readiness for this contest.",
+          "trainer": "Richard Spencer",
+          "jockey": "George Wood",
+          "confidence": "High"
+        },
+        {
+          "name": "Absolute Star",
+          "odds": "4/1 SBK, 5.5 Exchange (well-backed, second choice)",
+          "oddsDec": 5,
+          "probability": 23.1,
+          "expected_value": 0.155,
+          "rationale": "Recent win two starts back and solid overall profile. Trainer is in good form and jockey booking is positive. Form figures indicate reliability and ability to compete at this level. Odds offer reasonable value for a proven performer.",
+          "trainer": "Roger Varian",
+          "jockey": "Rossa Ryan",
+          "confidence": "High"
+        },
+        {
+          "name": "Daisy Roots",
+          "odds": "9/2 SBK, 9.8 Exchange (third/fourth in market, not a longshot)",
+          "oddsDec": 5.5,
+          "probability": 21,
+          "expected_value": 0.155,
+          "rationale": "Recent wins and consistent placings show upward trajectory. Connections are respected and the horse is in peak form, with no need for major improvement. Odds are fair for a runner with strong recent results.",
+          "trainer": "Jim Boyle",
+          "jockey": "Jack Dace",
+          "confidence": "Medium-High"
+        }
+      ],
+      "combo_profit_check": "0.50",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/6/"
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:45",
+      "shortlist": [
+        {
+          "name": "Kingmaker (Ire)",
+          "odds": "7/2 SBK, 5.9 exchange (solid market position, not an outsider)",
+          "oddsDec": 4.5,
+          "probability": 24.4,
+          "expected_value": 0.1,
+          "rationale": "Consistent recent form with multiple placings, suggesting reliability at this level. Trained by Andrew Balding, a respected yard, and partnered with Jason Watson. Odds indicate strong market support and realistic winning chance.",
+          "trainer": "Andrew Balding",
+          "jockey": "Jason Watson",
+          "confidence": "High"
+        },
+        {
+          "name": "My Kinda Ghaiy (Ire)",
+          "odds": "4/1 SBK, 6.4 exchange (well-supported, not a longshot)",
+          "oddsDec": 5,
+          "probability": 22,
+          "expected_value": 0.1,
+          "rationale": "Consistent in-the-frame finishes in recent starts, indicating reliability. Hugo Palmer is a capable trainer and the odds reflect genuine market respect. No need for major improvement to contend.",
+          "trainer": "Hugo Palmer",
+          "jockey": "Joe Leavy",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "One Cool Dreamer (Ire)",
+          "odds": "11/2 SBK, 6.4 exchange (competitive odds, not an outsider)",
+          "oddsDec": 6.5,
+          "probability": 17,
+          "expected_value": 0.103,
+          "rationale": "Has won twice recently and placed in two of last four, showing ability to compete at this level. Rossa Ryan is a strong jockey booking. Market position suggests realistic expectations.",
+          "trainer": "Alan King",
+          "jockey": "Rossa Ryan",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "1.50",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/kempton-park/27/8/"
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:50",
+      "shortlist": [
+        {
+          "name": "Kansas (Ire)",
+          "odds": "7/4 SBK, 3.1 exchange (clear market leader)",
+          "oddsDec": 2.75,
+          "probability": 42,
+          "expected_value": 0.155,
+          "rationale": "Consistent recent form at this level, regularly placing and winning. Trained by Aidan O'Brien, a top Irish trainer, and ridden by a reliable jockey. Current odds indicate strong market confidence and suggest Kansas is the most likely winner barring mishap.",
+          "trainer": "Aidan O'Brien, Ireland",
+          "jockey": "R. P. Whelan",
+          "confidence": "High"
+        },
+        {
+          "name": "Sirius A (Ire)",
+          "odds": "4/1 SBK, 6.6 exchange (solid second-favorite)",
+          "oddsDec": 5,
+          "probability": 22.1,
+          "expected_value": 0.103,
+          "rationale": "Recent form is competitive, with multiple placings and a win in last six starts. Connections are capable, and odds reflect genuine support. No major negatives in profile; should be in the mix if reproducing best form.",
+          "trainer": "James Horton",
+          "jockey": "Jack Mitchell",
+          "confidence": "Medium"
+        },
+        {
+          "name": "Ipanema Queen (Ire)",
+          "odds": "9/2 SBK, 6.2 exchange (third in market, not a longshot)",
+          "oddsDec": 5.5,
+          "probability": 19,
+          "expected_value": 0.047,
+          "rationale": "Has shown ability with a win and a second in recent starts. Form is slightly patchy but connections are respected and odds suggest she is considered a legitimate contender by the market.",
+          "trainer": "Adrian Murray, Ireland",
+          "jockey": "David Egan",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "2.00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/1/"
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:30",
+      "shortlist": [
+        {
+          "name": "Wegotogether (Ire)",
+          "odds": "11/4 SBK, 4.8 exchange (well-supported, not an outsider)",
+          "oddsDec": 3.75,
+          "probability": 29.3,
+          "expected_value": 0.1,
+          "rationale": "Solid and consistent recent form, regularly finishing in the frame. Trainer is in good form and the horse is holding condition well. Market position suggests strong expectations for another bold showing.",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "jockey": "G. F. Carroll",
+          "confidence": "High"
+        },
+        {
+          "name": "Sierra De Gredos",
+          "odds": "3/1 SBK, 4.7 exchange (clear market leader, not an outsider)",
+          "oddsDec": 4,
+          "probability": 27.4,
+          "expected_value": 0.097,
+          "rationale": "Consistent recent form with two wins and a second from last four starts. Proven at this level and trip, and market support is strong. Connections are reliable and the horse is fit and in peak form, making him a standout contender.",
+          "trainer": "Andrew Oliver, Ireland",
+          "jockey": "Ben Martin Coen",
+          "confidence": "High"
+        },
+        {
+          "name": "Oiche Rua (Ire)",
+          "odds": "4/1 SBK, 6.6 exchange (still within main market group)",
+          "oddsDec": 5,
+          "probability": 20.9,
+          "expected_value": 0.047,
+          "rationale": "Recent form includes two wins and a third in last five starts, showing ability at this level. Trainer and jockey are both experienced at Dundalk. Slight drift on exchange but remains a logical contender based on form and connections.",
+          "trainer": "Adrian McGuinness, Ireland",
+          "jockey": "R. P. Whelan",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "0.75",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/4/"
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:30",
+      "shortlist": [
+        {
+          "name": "Zillow",
+          "odds": "85/40 SBK, 4.0 exchange (clear market leader, not an outsider)",
+          "oddsDec": 3.125,
+          "probability": 37,
+          "expected_value": 0.155,
+          "rationale": "Represents top connections (W. P. Mullins), lightly raced with a strong win and place record, and returns from a break with a profile suggesting further improvement is likely. Market support is strong, indicating confidence from connections and punters.",
+          "trainer": "W. P. Mullins, Ireland",
+          "jockey": "J. M. Sheridan",
+          "confidence": "High"
+        },
+        {
+          "name": "Titanium Emperor (Ire)",
+          "odds": "3/1 SBK, 3.9 exchange (solid second-favorite, not a longshot)",
+          "oddsDec": 4,
+          "probability": 28.9,
+          "expected_value": 0.155,
+          "rationale": "Consistent performer at this level, holding form well in recent starts. Connections are in good form and the booking of David Egan is a positive. Odds reflect strong market respect and he is proven at the track.",
+          "trainer": "Adrian Murray, Ireland",
+          "jockey": "David Egan",
+          "confidence": "High"
+        },
+        {
+          "name": "Heather (Ire)",
+          "odds": "10/3 SBK, 4.8 exchange (well-supported, not an outsider)",
+          "oddsDec": 4.333333333333334,
+          "probability": 26.7,
+          "expected_value": 0.155,
+          "rationale": "Progressive filly with multiple wins this season, trained by a leading yard. Recent form is solid and she has shown the ability to compete at this level. Odds indicate she is well-fancied and she does not require major improvement to feature.",
+          "trainer": "G. M. Lyons, Ireland",
+          "jockey": "G. F. Carroll",
+          "confidence": "Medium-High"
+        }
+      ],
+      "combo_profit_check": "0.13",
+      "url": "https://betting.betfair.com/horse-racing/racecards/10-october-2025/dundalk/207/8/"
+    }
+  ],
+  "note": "Filtered to top 3 profitable picks per race"
+}
