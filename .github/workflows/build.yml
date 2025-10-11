@@ -107,7 +107,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge --strategy-option ours origin/main || true
           git add -A docs/results
           git commit -m "Add results for today" || echo "No changes"
-          git pull --rebase origin main || true
           git push
