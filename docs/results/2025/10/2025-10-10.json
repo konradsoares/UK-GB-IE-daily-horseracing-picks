@@ -1,0 +1,101 @@
+{
+  "date": "2025-10-10",
+  "results": [
+    {
+      "course": "Chepstow",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/chepstow/11/5/",
+      "winner": {
+        "name": "Sticktotheplan (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/chepstow/11/7/",
+      "winner": {
+        "name": "Got A Dream (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/kempton-park/27/1/",
+      "winner": {
+        "name": "Tarot",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/kempton-park/27/6/",
+      "winner": {
+        "name": "Absolute Star",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/kempton-park/27/8/",
+      "winner": {
+        "name": "John T",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/dundalk/207/1/",
+      "winner": {
+        "name": "Ipanema Queen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/dundalk/207/4/",
+      "winner": {
+        "name": "Venetian (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-october-2025/dundalk/207/8/",
+      "winner": {
+        "name": "Zillow",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    }
+  ]
+}
