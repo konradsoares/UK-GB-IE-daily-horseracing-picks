@@ -1,0 +1,928 @@
+{
+  "date": "2025-10-11",
+  "model": "sonar-pro",
+  "generated_at": "2025-10-11T07:18:57.600Z",
+  "races": [
+    {
+      "course": "Chepstow",
+      "time": "14:45",
+      "shortlist": [
+        {
+          "name": "Ask Brewster (Ire)",
+          "odds": "9/2 SBK, 7.0 exchange (solid, not an outsider)",
+          "oddsDec": 5.5,
+          "probability": 21,
+          "expected_value": 0.155,
+          "rationale": "Progressive profile with two wins from last three starts, suggesting improvement and peak fitness. Trainer/jockey combination is reliable, and odds indicate market respect. No major negatives in recent form.",
+          "trainer": "Evan Williams",
+          "jockey": "Adam Wedge",
+          "confidence": "High"
+        },
+        {
+          "name": "Ile De Jersey (Fr)",
+          "odds": "9/2 SBK, 7.2 exchange (well-supported, not a longshot)",
+          "oddsDec": 5.5,
+          "probability": 21,
+          "expected_value": 0.155,
+          "rationale": "Consistent and in-form, winning two of last four and placed in all recent runs. Top connections with Henderson/de Boinville. Recent win shows readiness and ability at this level.",
+          "trainer": "Nicky Henderson",
+          "jockey": "Nico de Boinville",
+          "confidence": "High"
+        },
+        {
+          "name": "Neon Moon (Ire)",
+          "odds": "5/1 SBK, 6.8 exchange (firmly in the market)",
+          "oddsDec": 6,
+          "probability": 17.5,
+          "expected_value": 0.05,
+          "rationale": "Consistent performer at this grade, regularly in the frame. Pipe stable in good form and runner is proven at the trip. Odds reflect strong market support.",
+          "trainer": "David Pipe",
+          "jockey": "Jack Tudor",
+          "confidence": "Solid"
+        }
+      ],
+      "combo_profit_check": "2.50"
+    },
+    {
+      "course": "Chepstow",
+      "time": "16:00",
+      "shortlist": [
+        {
+          "name": "Gibbs Island",
+          "odds": "10/3 SBK, 5.1 exchange (clear market leader)",
+          "oddsDec": 4.333333333333334,
+          "probability": 26.7,
+          "expected_value": 0.155,
+          "rationale": "Progressive profile last season with back-to-back wins before a pulled-up and a below-par effort; returns fresh for a yard adept at readying one after a break. Market support is strong and connections are reliable at this venue.",
+          "trainer": "Tom Lacey",
+          "jockey": "Stan Sheppard",
+          "confidence": "High"
+        },
+        {
+          "name": "Hope Rising (Ire)",
+          "odds": "5/1 SBK, 8 exchange (solid second-favorite)",
+          "oddsDec": 6,
+          "probability": 19.3,
+          "expected_value": 0.155,
+          "rationale": "Ultra-consistent with multiple wins and runner-up finishes in recent starts, showing adaptability and resilience. Remains on an upward curve and is proven at this level; strong connections and reliable recent form.",
+          "trainer": "Jamie Snowden",
+          "jockey": "Gavin Sheehan",
+          "confidence": "High"
+        },
+        {
+          "name": "Aviemore",
+          "odds": "5/1 SBK, 7.8 exchange (well-supported, not an outsider)",
+          "oddsDec": 6,
+          "probability": 19.3,
+          "expected_value": 0.155,
+          "rationale": "Progressed well last campaign with two wins before a pulled-up effort, which can be forgiven given prior consistency. Yard is in good form and the horse has shown ability to win fresh.",
+          "trainer": "Harry Derham",
+          "jockey": "Paul O'Brien",
+          "confidence": "Medium-High"
+        }
+      ],
+      "combo_profit_check": "1.33"
+    },
+    {
+      "course": "Chepstow",
+      "time": "17:10",
+      "shortlist": [
+        {
+          "name": "Theatre Of Flight",
+          "odds": "9/4 SBK, 5.0 exchange (clear favourite, solid market support)",
+          "oddsDec": 3.25,
+          "probability": 33.8,
+          "expected_value": 0.097,
+          "rationale": "Arrives in peak form, having won last time out after a progressive profile. Reliable connections and strong market position indicate confidence. No signs of regression in recent runs, and the form figures suggest the horse is still improving or at least holding form at a high level.",
+          "trainer": "Mickey Bowen",
+          "jockey": "James Bowen",
+          "confidence": "High"
+        },
+        {
+          "name": "Paddy De Pole (Ire)",
+          "odds": "4/1 SBK, 6.2 exchange (well-backed, second choice in market)",
+          "oddsDec": 5,
+          "probability": 21,
+          "expected_value": 0.05,
+          "rationale": "Consistent performer with a recent win, trained by a top yard. The form shows regular placings and a bounce-back to winning ways last time, indicating the horse is in good heart. Connections are notable, and odds reflect genuine respect from the market.",
+          "trainer": "Paul Nicholls",
+          "jockey": "Freddie Keighley",
+          "confidence": "Solid"
+        },
+        {
+          "name": "Marlacoo (Ire)",
+          "odds": "6/1 SBK, 6.4 exchange (third in market, not an outsider)",
+          "oddsDec": 7,
+          "probability": 15,
+          "expected_value": 0.05,
+          "rationale": "Very consistent profile with multiple wins and placings in recent starts. Returned with a respectable third, suggesting fitness and form remain intact. Trainer and jockey are both capable, and the horse's profile fits a reliable, in-form contender.",
+          "trainer": "Tom Lacey",
+          "jockey": "Stan Sheppard",
+          "confidence": "Respectable"
+        }
+      ],
+      "combo_profit_check": "0.25"
+    },
+    {
+      "course": "Hexham",
+      "time": "16:55",
+      "shortlist": [
+        {
+          "name": "Ballydangan (Ire)",
+          "odds": "11/4 SBK, 4.8 exchange (clear market leader, not an outsider)",
+          "oddsDec": 3.75,
+          "probability": 30.8,
+          "expected_value": 0.155,
+          "rationale": "Arrives in peak form with two wins from last three starts, including a recent victory. Consistent profile, proven stamina, and holding form well. Market support confirms strong chance.",
+          "trainer": "Hugh Burns",
+          "jockey": "Peter Kavanagh",
+          "confidence": "High"
+        },
+        {
+          "name": "Fox's Fancy (Ire)",
+          "odds": "9/2 SBK, 5.8 exchange (respected in the market)",
+          "oddsDec": 5.5,
+          "probability": 19.1,
+          "expected_value": 0.05,
+          "rationale": "Lightly raced and consistent, placed in all recent starts. Returns from a break but represents top connections and has scope for improvement.",
+          "trainer": "Lucinda Russell & Michael Scudamore",
+          "jockey": "Derek Fox",
+          "confidence": "Solid"
+        },
+        {
+          "name": "Sean Og (Ire)",
+          "odds": "11/2 SBK, 6 exchange (short enough, not an outsider)",
+          "oddsDec": 6.5,
+          "probability": 16.2,
+          "expected_value": 0.05,
+          "rationale": "Consistent placer with recent seconds and thirds at this level. Top jockey booked. Reliable profile, though may find one too good for win purposes.",
+          "trainer": "Dianne Sayer",
+          "jockey": "Brian Hughes",
+          "confidence": "Moderate"
+        }
+      ],
+      "combo_profit_check": "0.75"
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "13:15",
+      "shortlist": [
+        {
+          "name": "Damysus",
+          "odds": "6/4 SBK, 2.88 exchange (clear favourite, strong market support)",
+          "oddsDec": 2.5,
+          "probability": 43.9,
+          "expected_value": 0.097,
+          "rationale": "Proven winning form, returns to winning ways last time out, top connections, and current odds reflect strong confidence. No signs of decline and profile fits a peak performer at this level.",
+          "trainer": "John & Thady Gosden",
+          "jockey": "James Doyle",
+          "confidence": "High"
+        },
+        {
+          "name": "Gladius (Ire)",
+          "odds": "10/3 SBK, 4.8 exchange (solid second choice in market)",
+          "oddsDec": 4.333333333333334,
+          "probability": 24.2,
+          "expected_value": 0.05,
+          "rationale": "Consistent, progressive profile with multiple wins and a recent fourth in a likely stronger contest. Top jockey/trainer combo and odds indicate respect from the market.",
+          "trainer": "Andrew Balding",
+          "jockey": "Oisin Murphy",
+          "confidence": "Strong"
+        },
+        {
+          "name": "First Conquest",
+          "odds": "15/4 SBK, 5.3 exchange (well found in market, not an outsider)",
+          "oddsDec": 4.75,
+          "probability": 22.1,
+          "expected_value": 0.05,
+          "rationale": "Solid form this season with two wins and recent placed efforts. Trained by a leading yard and partnered by a top jockey. Consistent at this level and odds suggest competitiveness.",
+          "trainer": "Charlie Appleby",
+          "jockey": "William Buick",
+          "confidence": "Solid"
+        }
+      ],
+      "combo_profit_check": "1.33"
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "13:50",
+      "shortlist": [
+        {
+          "name": "Endorsement (Ire)",
+          "odds": "9/4 SBK, 3.6 exchange (clear favourite, strong market support)",
+          "oddsDec": 3.25,
+          "probability": 35.5,
+          "expected_value": 0.155,
+          "rationale": "Progressive profile with a win and a second from two starts, representing the top-class O'Brien yard. Market leader with solid form and proven connections. No sign of regression and expected to be at peak fitness.",
+          "trainer": "Aidan O'Brien, Ireland",
+          "jockey": "W. M. Lordan",
+          "confidence": "High"
+        },
+        {
+          "name": "Look To The Stars (Ire)",
+          "odds": "10/3 SBK, 4.8 exchange (well-supported, second favourite)",
+          "oddsDec": 4.333333333333334,
+          "probability": 26.7,
+          "expected_value": 0.155,
+          "rationale": "Comes in off back-to-back wins and has never finished outside the top two in four starts. Trained by Appleby and ridden by Buick, both highly reliable at this venue. Consistent, progressive, and well found in the market.",
+          "trainer": "Charlie Appleby",
+          "jockey": "William Buick",
+          "confidence": "High"
+        },
+        {
+          "name": "Pierre Bonnard (Ire)",
+          "odds": "15/4 SBK, 5.5 exchange (third choice, respected in market)",
+          "oddsDec": 4.75,
+          "probability": 22.1,
+          "expected_value": 0.05,
+          "rationale": "Improved markedly to win last time out for the O'Brien team. Still unexposed and open to further progress. Soumillon is a top international jockey, and the market respects his chances.",
+          "trainer": "Aidan O'Brien, Ireland",
+          "jockey": "Christophe Soumillon",
+          "confidence": "Solid"
+        }
+      ],
+      "combo_profit_check": "0.25"
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "14:25",
+      "shortlist": [
+        {
+          "name": "Hankelow (Ire)",
+          "odds": "Strong market position (11/5 SBK, 3.65 exchange)",
+          "oddsDec": 3.2,
+          "probability": 36.1,
+          "expected_value": 0.155,
+          "rationale": "Solid recent form with a win and a second, indicating consistency and progression. Trainer is in good form and the odds suggest strong market confidence. No signs of regression and connections are reliable.",
+          "trainer": "K. R. Burke",
+          "jockey": "Clifford Lee",
+          "confidence": "High"
+        },
+        {
+          "name": "Al Zanati",
+          "odds": "Prominent in market (11/4 SBK, 4.1 exchange)",
+          "oddsDec": 3.75,
+          "probability": 30.8,
+          "expected_value": 0.155,
+          "rationale": "Impressive debut winner for a top yard. Buick and Appleby are a proven combination at Newmarket, and the odds reflect strong support. Form is unexposed but highly promising.",
+          "trainer": "Charlie Appleby",
+          "jockey": "William Buick",
+          "confidence": "High"
+        },
+        {
+          "name": "Straight Up (Ire)",
+          "odds": "Solid value (10/3 SBK, 5.2 exchange)",
+          "oddsDec": 4.333333333333334,
+          "probability": 26.7,
+          "expected_value": 0.155,
+          "rationale": "Won on debut for elite connections. Soumillon is a top international jockey and O'Brien excels with juveniles at this meeting. Market respects the horse and form is progressive.",
+          "trainer": "Aidan O'Brien, Ireland",
+          "jockey": "Christophe Soumillon",
+          "confidence": "High"
+        }
+      ],
+      "combo_profit_check": "0.20"
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "15:00",
+      "shortlist": [
+        {
+          "name": "Distant Storm",
+          "odds": "2/1 (SBK), 3.3 (Exchange) – clear market leader",
+          "oddsDec": 3,
+          "probability": 38.5,
+          "expected_value": 0.155,
+          "rationale": "Progressive profile with two wins from last three starts, representing top connections (Appleby/Buick) who excel at this venue. Recent win suggests peak form and odds reflect strong market confidence.",
+          "trainer": "Charlie Appleby",
+          "jockey": "William Buick",
+          "confidence": "High"
+        },
+        {
+          "name": "Gstaad",
+          "odds": "16/5 (SBK), 4.4 (Exchange) – solid second choice",
+          "oddsDec": 4.2,
+          "probability": 27.5,
+          "expected_value": 0.155,
+          "rationale": "Ultra-consistent with two wins and two seconds in last four, trained by O'Brien and ridden by Soumillon. Proven at this level and holding form, with odds indicating strong support.",
+          "trainer": "Aidan O'Brien, Ireland",
+          "jockey": "Christophe Soumillon",
+          "confidence": "High"
+        },
+        {
+          "name": "Zavateri (Ire)",
+          "odds": "7/2 (SBK), 4.8 (Exchange) – respected in market",
+          "oddsDec": 4.5,
+          "probability": 25.7,
+          "expected_value": 0.155,
+          "rationale": "Unbeaten in four starts, showing progressive form. Steps up in class but market respect and perfect record warrant inclusion among strongest contenders.",
+          "trainer": "Eve Johnson Houghton",
+          "jockey": "Charles Bishop",
+          "confidence": "Medium-High"
+        }
+      ],
+      "combo_profit_check": "1.20"
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "16:50",
+      "shortlist": [
+        {
+          "name": "Celandine",
+          "odds": "2/1",
+          "oddsDec": 3,
+          "probability": 38.5,
+          "expected_value": 0.155,
+          "rationale": "Consistent form with recent improvement, strong odds value.",
+          "trainer": "Ed Walker",
+          "jockey": "Kieran Shoemark",
+          "confidence": "High"
+        },
+        {
+          "name": "Dubai Treasure (Ire)",
+          "odds": "11/4",
+          "oddsDec": 3.75,
+          "probability": 30.8,
+          "expected_value": 0.155,
+          "rationale": "Strong connections and recent form suggest potential for a win.",
+          "trainer": "Saeed bin Suroor",
+          "jockey": "Oisin Murphy",
+          "confidence": "High"
+        },
+        {
+          "name": "Circe (Ire)",
+          "odds": "5/1",
+          "oddsDec": 6,
+          "probability": 18.4,
+          "expected_value": 0.102,
+          "rationale": "Recent form shows consistency, though recent performance was less impressive.",
+          "trainer": "Richard Hannon",
+          "jockey": "Jamie Spencer",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "0.75"
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:45",
+      "shortlist": [
+        {
+          "name": "Shetakesthegold",
+          "odds": "10/3 (SBK), 3.9 (exchange) – joint-favourite, consistent in the market",
+          "oddsDec": 4.333333333333334,
+          "probability": 26.7,
+          "expected_value": 0.155,
+          "rationale": "Very consistent profile with multiple recent placings and a win in the last eight starts. Proven at the track and trip, and represents a top yard. Reliable form and no sign of regression.",
+          "trainer": "Richard Hannon",
+          "jockey": "Joe Leavy",
+          "confidence": "High"
+        },
+        {
+          "name": "Oh So Perfect (Ire)",
+          "odds": "10/3 (SBK), 3.4 (exchange) – joint-favourite, strong market support",
+          "oddsDec": 4.333333333333334,
+          "probability": 25.4,
+          "expected_value": 0.1,
+          "rationale": "Lightly raced with scope for improvement; last run was a solid effort in a stronger race. Trainer Charlie Fellowes is in good form and the market support is notable. No need for major improvement to win at this level.",
+          "trainer": "Charlie Fellowes",
+          "jockey": "Paddy Bradley",
+          "confidence": "High"
+        },
+        {
+          "name": "Sharpness",
+          "odds": "11/2 (SBK), 6 (exchange) – solidly backed, not an outsider",
+          "oddsDec": 6.5,
+          "probability": 16.2,
+          "expected_value": 0.05,
+          "rationale": "Progressive profile with a strong third and fourth in recent starts, suggesting readiness to win soon. Trainer is adept with this type and the odds offer value relative to form. No major improvement required.",
+          "trainer": "Jack Channon",
+          "jockey": "George Bass",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "1.33"
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:20",
+      "shortlist": [
+        {
+          "name": "Woody Y Fernandez",
+          "odds": "4/1 SBK, 5.0 exchange (solid market position, not an outsider)",
+          "oddsDec": 5,
+          "probability": 22,
+          "expected_value": 0.1,
+          "rationale": "Consistent recent form with three consecutive placings, indicating reliability and fitness. Connections are competent at this level. Odds reflect strong market support and realistic winning chance.",
+          "trainer": "Jennie Candlish",
+          "jockey": "Darragh Keenan",
+          "confidence": "High"
+        },
+        {
+          "name": "Thanh Nam",
+          "odds": "4/1 SBK, 4.4 exchange (joint-favourite, strong market position)",
+          "oddsDec": 5,
+          "probability": 22,
+          "expected_value": 0.1,
+          "rationale": "Progressive profile with a close fourth last time, suggesting readiness to peak. Market confidence is notable and connections are respected at this level.",
+          "trainer": "James Owen",
+          "jockey": "Paddy Bradley",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Miss Ayala (Ire)",
+          "odds": "5/1 SBK, 5.4 exchange (well-supported, not a longshot)",
+          "oddsDec": 6,
+          "probability": 19.3,
+          "expected_value": 0.155,
+          "rationale": "Recent winner (last time out), showing clear improvement and ability to win in this grade. Market support is positive and form is peaking at the right time.",
+          "trainer": "Mark Usher",
+          "jockey": "George Bass",
+          "confidence": "High"
+        }
+      ],
+      "combo_profit_check": "2.00"
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:50",
+      "shortlist": [
+        {
+          "name": "Outer Edge",
+          "odds": "Exchange 4.1, SBK 13/2; solid market support, clear favourite.",
+          "oddsDec": 4.1,
+          "probability": 26.8,
+          "expected_value": 0.097,
+          "rationale": "Recent winner this season and holding form well; latest efforts competitive in similar company. Market support is strong and connections are reliable at this level. No major negatives in profile.",
+          "trainer": "Christopher Mason",
+          "jockey": "Gina Mangan",
+          "confidence": "High"
+        },
+        {
+          "name": "Henery Hawk",
+          "odds": "Exchange 5, SBK 5/1; prominent in betting.",
+          "oddsDec": 5,
+          "probability": 23.1,
+          "expected_value": 0.155,
+          "rationale": "Consistent performer with two wins in last six starts, including recent success. Form is solid for this grade and odds reflect genuine chance. Connections have placed the horse well.",
+          "trainer": "Linda Perratt",
+          "jockey": "Tommie Jakes",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Basholo (Ire)",
+          "odds": "Exchange 5.2, SBK 10/3; well found in market.",
+          "oddsDec": 5.2,
+          "probability": 20.1,
+          "expected_value": 0.047,
+          "rationale": "Has placed twice this season and generally runs well at this level. Odds are short, indicating stable confidence. Recent form is competitive and no major improvement is required to feature.",
+          "trainer": "Stella Barclay",
+          "jockey": "Zak Wheatley",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "1.10"
+    },
+    {
+      "course": "York",
+      "time": "14:40",
+      "shortlist": [
+        {
+          "name": "He's Waliim",
+          "odds": "Strong favourite; 11/8 SBK, 2.52 exchange",
+          "oddsDec": 2.375,
+          "probability": 48.6,
+          "expected_value": 0.155,
+          "rationale": "Proven winning form, recent runner-up and win indicate peak condition. Top connections with Tudhope and Tate. Odds reflect strong market support and form reliability.",
+          "trainer": "James Tate",
+          "jockey": "Daniel Tudhope",
+          "confidence": "High"
+        },
+        {
+          "name": "Laazm (Ire)",
+          "odds": "Solid contender; 3/1 SBK, 4.4 exchange",
+          "oddsDec": 4,
+          "probability": 28.9,
+          "expected_value": 0.155,
+          "rationale": "Progressive profile with win and second in only two starts, suggesting untapped potential. Balding/McDonald combination is respected. Odds offer reasonable value for a lightly raced improver.",
+          "trainer": "Andrew Balding",
+          "jockey": "P. J. McDonald",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Boiling Over (Ire)",
+          "odds": "Competitive; 16/5 SBK, 4 exchange",
+          "oddsDec": 4.2,
+          "probability": 26.3,
+          "expected_value": 0.103,
+          "rationale": "Consistent recent form with a win two starts back and placed efforts. Trainer Burke is in form and runner is well supported in the market. Reliable for exotics and place prospects.",
+          "trainer": "K. R. Burke",
+          "jockey": "Jack Nicholls",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "1.00"
+    },
+    {
+      "course": "York",
+      "time": "15:55",
+      "shortlist": [
+        {
+          "name": "Joulany (Ire)",
+          "odds": "Strong favourite; 10/11 (SBK), 2.04 (exchange)",
+          "oddsDec": 1.9090909090909092,
+          "probability": 57.6,
+          "expected_value": 0.1,
+          "rationale": "Runner-up on debut, representing a top yard with a strong record in similar races. The market leader, suggesting confidence from connections and punters. No need for major improvement to win here.",
+          "trainer": "Ralph Beckett",
+          "jockey": "Hector Crouch",
+          "confidence": "High"
+        },
+        {
+          "name": "Morshdi",
+          "odds": "Second favourite; 3/1 (SBK), 4.7 (exchange)",
+          "oddsDec": 4,
+          "probability": 27.5,
+          "expected_value": 0.1,
+          "rationale": "Solid debut second for a leading trainer/jockey combination. Well-supported in the market and likely to progress, with proven ability at this level.",
+          "trainer": "William Haggas",
+          "jockey": "Tom Marquand",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Valenday",
+          "odds": "Third in market; 15/4 (SBK), 5.5 (exchange)",
+          "oddsDec": 4.75,
+          "probability": 22.1,
+          "expected_value": 0.05,
+          "rationale": "Another debut runner-up, showing immediate promise. Trainer has a good record with juveniles at York. Market support suggests a competitive chance.",
+          "trainer": "Kevin Ryan",
+          "jockey": "Tom Eaves",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "1.00"
+    },
+    {
+      "course": "York",
+      "time": "16:30",
+      "shortlist": [
+        {
+          "name": "Berkshire Sundance (Ire)",
+          "odds": "9/2 (SBK), 7.8 (exchange) – prominent in the market",
+          "oddsDec": 5.5,
+          "probability": 21,
+          "expected_value": 0.155,
+          "rationale": "Progressive profile last season with two wins before a break; returns for a top yard with a capable jockey. Market support is notable, and the form suggests ability to win at this level if fit. No evidence of needing major improvement.",
+          "trainer": "Andrew Balding",
+          "jockey": "P. J. McDonald",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Queen Roslyn",
+          "odds": "11/2 (SBK), 8.8 (exchange) – well-supported, not an outsider",
+          "oddsDec": 6.5,
+          "probability": 17,
+          "expected_value": 0.103,
+          "rationale": "Arrives in peak form with back-to-back wins before latest run. Trainer is adept at placing horses at York, and the recent form is strong for this grade. Odds reflect genuine chance without being overbet.",
+          "trainer": "Brian Ellison",
+          "jockey": "Warren Fentiman",
+          "confidence": "Medium"
+        },
+        {
+          "name": "Molten Sea",
+          "odds": "8/1 (SBK), 7.4 (exchange) – solid mid-market, not an outsider",
+          "oddsDec": 9,
+          "probability": 12.8,
+          "expected_value": 0.155,
+          "rationale": "Consistent performer with a recent win and multiple placings this season. Trained by William Haggas, a top yard, and partnered with Tom Marquand, both strong connections. Current odds offer value for a horse with proven form at this level and no major negatives in the profile.",
+          "trainer": "William Haggas",
+          "jockey": "Tom Marquand",
+          "confidence": "High"
+        }
+      ],
+      "combo_profit_check": "2.50"
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "13:42",
+      "shortlist": [
+        {
+          "name": "Relieved Of Duties (Ire)",
+          "odds": "Strong favourite, 11/4 SBK, 3.2 exchange",
+          "oddsDec": 3.75,
+          "probability": 29.3,
+          "expected_value": 0.097,
+          "rationale": "Consistent performer at this level with a top jockey and trainer combination. Recent form includes a fall and a fifth, but prior runs show reliability and ability to compete in this grade. Market support is strong, indicating stable confidence.",
+          "trainer": "Gordon Elliott, Ireland",
+          "jockey": "J. W. Kennedy",
+          "confidence": "High"
+        },
+        {
+          "name": "Come On The Lads (Ire)",
+          "odds": "Solid in market, 4/1 SBK, 4.2 exchange",
+          "oddsDec": 5,
+          "probability": 23.1,
+          "expected_value": 0.155,
+          "rationale": "Very consistent recent form, regularly placing and winning at this level. Trainer and jockey are both in good form. Odds reflect realistic winning chance without being overbet.",
+          "trainer": "Gavin Patrick Cromwell, Ireland",
+          "jockey": "Keith Donoghue",
+          "confidence": "High"
+        },
+        {
+          "name": "Koori Star (Ire)",
+          "odds": "Well-backed, 5/1 SBK, 3.9 exchange",
+          "oddsDec": 6,
+          "probability": 19.3,
+          "expected_value": 0.155,
+          "rationale": "Recent form is solid, with multiple placings and a close fourth last time out. Connections are capable, and exchange market support is notable. Should be competitive if repeating recent efforts.",
+          "trainer": "Peter Fahey, Ireland",
+          "jockey": "J. Coen",
+          "confidence": "Medium-High"
+        }
+      ],
+      "combo_profit_check": "0.75"
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:52",
+      "shortlist": [
+        {
+          "name": "Paul's Dream (Ire)",
+          "odds": "7/2 SBK, 5.0 exchange (solid market support, not an outsider)",
+          "oddsDec": 4.5,
+          "probability": 25.7,
+          "expected_value": 0.155,
+          "rationale": "Consistent recent form with two runner-up finishes and two wins in last six starts, indicating peak fitness and reliability. Connections are respected and the horse is holding form well, with no signs of decline. Odds reflect strong market confidence.",
+          "trainer": "Anthony Mullins, Ireland",
+          "jockey": "D. E. Mullins",
+          "confidence": "High"
+        },
+        {
+          "name": "Tequila Talkin' (Ire)",
+          "odds": "15/2 SBK, 4.1 exchange (well-backed, not an outsider)",
+          "oddsDec": 8.5,
+          "probability": 13.6,
+          "expected_value": 0.155,
+          "rationale": "Recent win and third in last three completed starts, with a fall and a pulled-up run that can be forgiven in context of jumps racing. Trainer is capable and the market support is notable. Horse has shown ability to win at this level.",
+          "trainer": "Paul Nolan, Ireland",
+          "jockey": "C. Stone-Walsh",
+          "confidence": "Medium-High"
+        },
+        {
+          "name": "Desert Haven",
+          "odds": "15/2 SBK, 3.4 exchange (not a longshot, exchange market favourite)",
+          "oddsDec": 8.5,
+          "probability": 12.3,
+          "expected_value": 0.045,
+          "rationale": "Recent form figures show three placings from last four starts, including a close second and third, suggesting the horse is in good shape and ready to win. The exchange market has made this runner favourite, indicating strong professional support.",
+          "trainer": "Noel Meade, Ireland",
+          "jockey": "Donagh Meyler",
+          "confidence": "High"
+        }
+      ],
+      "combo_profit_check": "1.50"
+    },
+    {
+      "course": "Naas",
+      "time": "14:35",
+      "shortlist": [
+        {
+          "name": "Diego El Queso (Ire)",
+          "odds": "Strong favourite; 11/10 SBK, 2.06 exchange",
+          "oddsDec": 2.1,
+          "probability": 52.4,
+          "expected_value": 0.1,
+          "rationale": "Consistent recent form with two runner-up finishes, indicating readiness to win. Top jockey and trainer combination. Short odds reflect strong market confidence and form reliability.",
+          "trainer": "G. M. Lyons, Ireland",
+          "jockey": "C. T. Keane",
+          "confidence": "High"
+        },
+        {
+          "name": "Maestro Bernstein (Ire)",
+          "odds": "Second favourite; 11/4 SBK, 5.1 exchange",
+          "oddsDec": 3.75,
+          "probability": 28,
+          "expected_value": 0.05,
+          "rationale": "Represents a leading stable with a strong record in maidens. Only one run (8th) but likely to improve significantly on debut, as is typical for the yard. Market support suggests ability.",
+          "trainer": "Aidan O'Brien, Ireland",
+          "jockey": "R. P. Whelan",
+          "confidence": "Medium"
+        },
+        {
+          "name": "Retrograde (Ire)",
+          "odds": "Third in market; 10/3 SBK, 5 exchange",
+          "oddsDec": 4.333333333333334,
+          "probability": 24.2,
+          "expected_value": 0.05,
+          "rationale": "From a top yard and shaped with promise on debut (5th). Expected to progress with experience. Market position indicates respect and potential for improvement.",
+          "trainer": "Joseph Patrick O'Brien, Ireland",
+          "jockey": "D. B. McMonagle",
+          "confidence": "Medium"
+        }
+      ],
+      "combo_profit_check": "0.75"
+    },
+    {
+      "course": "Naas",
+      "time": "15:10",
+      "shortlist": [
+        {
+          "name": "Amiata (Ire)",
+          "odds": "Exchange 3.9, SBK 7/1 (solid market support, not a longshot)",
+          "oddsDec": 3.9,
+          "probability": 29.6,
+          "expected_value": 0.155,
+          "rationale": "Recent win signals peak form and readiness. Connections are strong: Lyons/Keane are proven at Naas. Odds indicate genuine market respect, and the horse is not overexposed.",
+          "trainer": "G. M. Lyons, Ireland",
+          "jockey": "C. T. Keane",
+          "confidence": "High"
+        },
+        {
+          "name": "First Approach (Ire)",
+          "odds": "Exchange 4.1, SBK 5/1 (well-backed, not a longshot)",
+          "oddsDec": 4.1,
+          "probability": 26.8,
+          "expected_value": 0.097,
+          "rationale": "Aidan O'Brien-trained runner with competitive form in higher grade races. Recent placings suggest consistency and class edge. Odds are fair for a horse with top connections and proven ability.",
+          "trainer": "Aidan O'Brien, Ireland",
+          "jockey": "Jack Cleary",
+          "confidence": "High"
+        },
+        {
+          "name": "Morehampton (Ire)",
+          "odds": "Exchange 5, SBK 7/2 (market leader, strong support)",
+          "oddsDec": 5,
+          "probability": 23.1,
+          "expected_value": 0.155,
+          "rationale": "Consistent form with a win and placed efforts in recent starts. Murtagh/Coen combination is reliable, and the horse is well-fancied in the market, suggesting confidence from connections and punters.",
+          "trainer": "John Patrick Murtagh, Ireland",
+          "jockey": "Ben Martin Coen",
+          "confidence": "High"
+        }
+      ],
+      "combo_profit_check": "0.90"
+    },
+    {
+      "course": "Naas",
+      "time": "15:50",
+      "shortlist": [
+        {
+          "name": "Queen Of Mougins (Ire)",
+          "odds": "4/1 SBK, 4.1 exchange (solid second-favorite)",
+          "oddsDec": 5,
+          "probability": 21.9,
+          "expected_value": 0.097,
+          "rationale": "Recent winner this season and generally consistent in the frame. Slight dip last time but overall profile is progressive for this grade. Jockey/trainer combination is respected.",
+          "trainer": "Adrian Murray, Ireland",
+          "jockey": "C. D. Hayes",
+          "confidence": "High"
+        },
+        {
+          "name": "Powerful Nation (Ire)",
+          "odds": "9/2 SBK, 3.0 exchange (well-supported, clear market leader)",
+          "oddsDec": 5.5,
+          "probability": 21,
+          "expected_value": 0.155,
+          "rationale": "Consistent performer at this level with a win and two places in last six starts; recent form slightly dipped but remains competitive. Connections are reliable and odds indicate strong market confidence.",
+          "trainer": "A. Slattery, Ireland",
+          "jockey": "Andrew Joseph Slattery",
+          "confidence": "High"
+        },
+        {
+          "name": "Fandom",
+          "odds": "9/2 SBK, 3.9 exchange (well-fancied, strong yard)",
+          "oddsDec": 5.5,
+          "probability": 20,
+          "expected_value": 0.097,
+          "rationale": "Lightly raced, progressive profile with two wins from last four starts. Fifth on seasonal return can be forgiven; likely to improve for top connections. Market support is notable.",
+          "trainer": "Joseph Patrick O'Brien, Ireland",
+          "jockey": "D. B. McMonagle",
+          "confidence": "High"
+        }
+      ],
+      "combo_profit_check": "2.00"
+    },
+    {
+      "course": "Naas",
+      "time": "16:25",
+      "shortlist": [
+        {
+          "name": "Arklow Lad (Ire)",
+          "odds": "15/4 (sbk), 3.9 (exchange) – among the favourites",
+          "oddsDec": 4.75,
+          "probability": 24.3,
+          "expected_value": 0.155,
+          "rationale": "Rapid recent improvement, culminating in a win last time out. Lightly raced and open to further progress. Top jockey booked and market position suggests stable confidence.",
+          "trainer": "Kieran Patrick Cotter, Ireland",
+          "jockey": "Declan McDonogh",
+          "confidence": "High – progressive profile, recent win, and strong connections."
+        },
+        {
+          "name": "Nezeeh (Ire)",
+          "odds": "11/2 (sbk), 3.7 (exchange) – solid market support, not an outsider",
+          "oddsDec": 6.5,
+          "probability": 17.8,
+          "expected_value": 0.155,
+          "rationale": "Consistent recent form with multiple wins and placings, including a win two starts ago. Proven fitness and reliability, with connections in good order. Odds indicate strong market confidence and value for a runner with this profile.",
+          "trainer": "Denis Hogan, Ireland",
+          "jockey": "J. M. Sheridan",
+          "confidence": "High – best recent form in the field, strong win record, and market support."
+        },
+        {
+          "name": "Likedbymike (Ire)",
+          "odds": "11/2 (sbk), 3.9 (exchange) – prominent in the betting",
+          "oddsDec": 6.5,
+          "probability": 16.1,
+          "expected_value": 0.047,
+          "rationale": "Consistent at this level, with a strong second last time out. Top jockey booking is a positive. Odds indicate market confidence for a horse with proven ability in similar races.",
+          "trainer": "M. J. Byrne, Ireland",
+          "jockey": "C. T. Keane",
+          "confidence": "Medium – reliable profile, strong connections, and competitive odds."
+        }
+      ],
+      "combo_profit_check": "1.75"
+    },
+    {
+      "course": "Naas",
+      "time": "17:00",
+      "shortlist": [
+        {
+          "name": "Treasure Rose (Ire)",
+          "odds": "Strong market support (exchange 2.46, sbk 3/1); clear favourite.",
+          "oddsDec": 2.46,
+          "probability": 44.7,
+          "expected_value": 0.1,
+          "rationale": "Consistent recent form with multiple placings, suggesting reliability and fitness. Connections are respected, and odds indicate strong market confidence. No sign of regression in form cycle, and profile fits a likely winner at this level.",
+          "trainer": "John Patrick Murtagh, Ireland",
+          "jockey": "Ben Martin Coen",
+          "confidence": "High"
+        },
+        {
+          "name": "Therewillbeglory (Ire)",
+          "odds": "Well-backed (exchange 3.5, sbk 2/1); second choice in market.",
+          "oddsDec": 3.5,
+          "probability": 31.4,
+          "expected_value": 0.1,
+          "rationale": "Ultra-consistent with three consecutive runner-up finishes, indicating readiness to win. Form is peaking and horse is holding condition well. Market position and recent efforts suggest a breakthrough is imminent.",
+          "trainer": "A. Slattery, Ireland",
+          "jockey": "Andrew Joseph Slattery",
+          "confidence": "High"
+        },
+        {
+          "name": "Tea Rose (Ire)",
+          "odds": "Solid support (exchange 3.6, sbk 5/1); third in market.",
+          "oddsDec": 3.6,
+          "probability": 30.6,
+          "expected_value": 0.1,
+          "rationale": "Progressive profile for top connections. Two fourths this season after a break suggest improvement is likely, and O'Brien-trained runners often peak with racing. Market respect and potential for further progress make this a strong contender.",
+          "trainer": "Aidan O'Brien, Ireland",
+          "jockey": "R. P. Whelan",
+          "confidence": "Medium-High"
+        }
+      ],
+      "combo_profit_check": "0.50"
+    },
+    {
+      "course": "Naas",
+      "time": "17:30",
+      "shortlist": [
+        {
+          "name": "Rowdy Yeats (Ire)",
+          "odds": "4/1 (SBK), 3.55 (exchange) – clear market leader, strong support.",
+          "oddsDec": 5,
+          "probability": 21.9,
+          "expected_value": 0.097,
+          "rationale": "Consistent performer with multiple recent wins and places, including a last-time-out victory. Top jockey booking and trainer in form. Profile suggests reliability and peak fitness, with odds reflecting strong market confidence.",
+          "trainer": "Noel Meade, Ireland",
+          "jockey": "C. T. Keane",
+          "confidence": "High"
+        },
+        {
+          "name": "Bishopton (Ire)",
+          "odds": "9/2 (SBK), 3.65 (exchange) – solidly supported, not an outsider.",
+          "oddsDec": 5.5,
+          "probability": 20,
+          "expected_value": 0.097,
+          "rationale": "Arrives in top form after back-to-back wins, indicating improvement and readiness. Connections have placed the horse well and the odds suggest genuine market respect. Recent form is peaking at the right time.",
+          "trainer": "Miss Natalia Lupini, Ireland",
+          "jockey": "M. W. Hassett",
+          "confidence": "High"
+        },
+        {
+          "name": "Tina's Indian (Ire)",
+          "odds": "11/2 (SBK), 3.5 (exchange) – well found in the market.",
+          "oddsDec": 6.5,
+          "probability": 16.2,
+          "expected_value": 0.05,
+          "rationale": "Recent third signals return to form after a win last season. Consistent at this level and market support is notable. Jockey/trainer combination is reliable and the horse is fit and competitive.",
+          "trainer": "Mark Fahey, Ireland",
+          "jockey": "R. P. Whelan",
+          "confidence": "Solid"
+        }
+      ],
+      "combo_profit_check": "2.00"
+    }
+  ],
+  "note": "Filtered to top 3 profitable picks per race"
+}
