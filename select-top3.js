@@ -109,6 +109,7 @@ for (const race of data.races || []) {
   refined.races.push({
     course,
     time,
+    url: race.url, // ✅ preserve the original Betfair racecard URL
     shortlist: top3.map(p => ({
       name: p.name,
       odds: p.exchange || p.odds || p.odds_note || `${p.oddsDec?.toFixed(2)} (dec)`,
