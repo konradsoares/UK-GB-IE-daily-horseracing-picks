@@ -48,7 +48,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Safe Destination",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chepstow",
@@ -86,7 +93,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Settle Down Jill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chepstow",
@@ -124,7 +138,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Speculatrix",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chepstow",
@@ -171,7 +192,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Celtic Dino (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chepstow",
@@ -218,7 +246,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Saint Segal (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chepstow",
@@ -265,7 +300,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Washington",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chepstow",
@@ -273,7 +315,14 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/12-october-2025/chepstow/11/7/",
       "shortlist": [],
       "_status": "bad_json",
-      "_raw": null
+      "_raw": null,
+      "result": {
+        "name": "Black Eddy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Goodwood",
@@ -320,7 +369,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Poncho (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Goodwood",
@@ -358,7 +414,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Sing The Blues (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Goodwood",
@@ -396,7 +459,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Magnatura (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Goodwood",
@@ -443,7 +513,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Far Above Dream (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Goodwood",
@@ -481,7 +558,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Poseidon's Warrior (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Goodwood",
@@ -519,7 +603,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Cerulean Bay (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Goodwood",
@@ -557,7 +648,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Day Of Grace (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Cork",
@@ -613,7 +711,14 @@
           "request_cost": 0.006,
           "total_cost": 0.02
         }
-      }
+      },
+      "result": {
+        "name": "Quinta Do Lago (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Cork",
@@ -660,7 +765,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Wizard Of Odds (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Cork",
@@ -668,7 +780,14 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/12-october-2025/cork/218/3/",
       "shortlist": [],
       "_status": "bad_json",
-      "_raw": null
+      "_raw": null,
+      "result": {
+        "name": "Jaadil (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Cork",
@@ -706,7 +825,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Kevin's Pride (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Cork",
@@ -753,7 +879,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Tackletommywoowoo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Cork",
@@ -791,7 +924,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Kazakh D'arthel (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Cork",
@@ -829,7 +969,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "She's A Fine Wine (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Cork",
@@ -867,7 +1014,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Minella Emperor (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Naas",
@@ -914,7 +1068,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Josh's Joy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Naas",
@@ -952,7 +1113,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Chicago Pope (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Naas",
@@ -1008,7 +1176,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Alphecca (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Naas",
@@ -1046,7 +1221,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Onemoredance (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Naas",
@@ -1093,7 +1275,14 @@
           "request_cost": 0.006,
           "total_cost": 0.019
         }
-      }
+      },
+      "result": {
+        "name": "Fleur De Chine",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Naas",
@@ -1131,7 +1320,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Light As Air (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Naas",
@@ -1178,7 +1374,14 @@
           "request_cost": 0.006,
           "total_cost": 0.019
         }
-      }
+      },
+      "result": {
+        "name": "Capital Theory",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Naas",
@@ -1234,7 +1437,14 @@
           "request_cost": 0.006,
           "total_cost": 0.019
         }
-      }
+      },
+      "result": {
+        "name": "Speckled Meadow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1253,7 +1463,14 @@
           "request_cost": 0.006,
           "total_cost": 0.012
         }
-      }
+      },
+      "result": {
+        "name": "Nador (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1272,7 +1489,14 @@
           "request_cost": 0.006,
           "total_cost": 0.011
         }
-      }
+      },
+      "result": {
+        "name": "Chelsea Star (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1319,7 +1543,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Aulko (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1366,7 +1597,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Lauthentyko (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Auteuil",
@@ -1413,7 +1651,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Leopard Du Berlais (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Auteuil",
@@ -1460,7 +1705,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "File Au Poteau (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1507,7 +1759,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Olga De Kiev (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Auteuil",
@@ -1545,7 +1804,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Pas De Quartier (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Keeneland",
@@ -1601,7 +1867,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Time To Dazzle (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Greyville",
@@ -1648,7 +1921,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Johnny Boy (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Greyville",
@@ -1695,7 +1975,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Pied Piper (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Greyville",
@@ -1742,7 +2029,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Miss Twinkle (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Greyville",
@@ -1789,7 +2083,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Cognac (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Greyville",
@@ -1836,7 +2137,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "I Am Giant (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Greyville",
@@ -1883,7 +2191,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Forward Motion (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Greyville",
@@ -1921,7 +2236,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Quickstepgal (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Greyville",
@@ -1968,7 +2290,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Pioneer Square (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Greyville",
@@ -2015,7 +2344,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Kanaal Skater (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Greyville",
@@ -2062,7 +2398,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Gotta Go Eddie (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Nancy",
@@ -2100,7 +2443,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Speed Coko (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Nancy",
@@ -2129,7 +2479,14 @@
           "request_cost": 0.006,
           "total_cost": 0.012
         }
-      }
+      },
+      "result": {
+        "name": "Shades (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     }
   ]
 }

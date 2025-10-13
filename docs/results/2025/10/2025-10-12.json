@@ -1,0 +1,617 @@
+{
+  "date": "2025-10-12",
+  "results": [
+    {
+      "course": "Chepstow",
+      "time": "13:32",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/chepstow/11/1/",
+      "winner": {
+        "name": "Safe Destination",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Chepstow",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/chepstow/11/2/",
+      "winner": {
+        "name": "Settle Down Jill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Chepstow",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/chepstow/11/3/",
+      "winner": {
+        "name": "Speculatrix",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Chepstow",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/chepstow/11/4/",
+      "winner": {
+        "name": "Celtic Dino (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Chepstow",
+      "time": "15:52",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/chepstow/11/5/",
+      "winner": {
+        "name": "Saint Segal (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Chepstow",
+      "time": "16:27",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/chepstow/11/6/",
+      "winner": {
+        "name": "Washington",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Chepstow",
+      "time": "17:02",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/chepstow/11/7/",
+      "winner": {
+        "name": "Black Eddy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "13:52",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/goodwood/20/1/",
+      "winner": {
+        "name": "Poncho (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "14:27",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/goodwood/20/2/",
+      "winner": {
+        "name": "Sing The Blues (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Goodwood",
+      "time": "15:02",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/goodwood/20/3/",
+      "winner": {
+        "name": "Magnatura (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/goodwood/20/4/",
+      "winner": {
+        "name": "Far Above Dream (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "16:12",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/goodwood/20/5/",
+      "winner": {
+        "name": "Poseidon's Warrior (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Goodwood",
+      "time": "16:47",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/goodwood/20/6/",
+      "winner": {
+        "name": "Cerulean Bay (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Goodwood",
+      "time": "17:22",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/goodwood/20/7/",
+      "winner": {
+        "name": "Day Of Grace (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Cork",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/cork/218/1/",
+      "winner": {
+        "name": "Quinta Do Lago (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "13:42",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/cork/218/2/",
+      "winner": {
+        "name": "Wizard Of Odds (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "14:17",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/cork/218/3/",
+      "winner": {
+        "name": "Jaadil (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/cork/218/4/",
+      "winner": {
+        "name": "Kevin's Pride (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Cork",
+      "time": "15:27",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/cork/218/5/",
+      "winner": {
+        "name": "Tackletommywoowoo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "16:02",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/cork/218/6/",
+      "winner": {
+        "name": "Kazakh D'arthel (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Cork",
+      "time": "16:37",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/cork/218/7/",
+      "winner": {
+        "name": "She's A Fine Wine (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "17:12",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/cork/218/8/",
+      "winner": {
+        "name": "Minella Emperor (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/naas/219/1/",
+      "winner": {
+        "name": "Josh's Joy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Naas",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/naas/219/2/",
+      "winner": {
+        "name": "Chicago Pope (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/naas/219/3/",
+      "winner": {
+        "name": "Alphecca (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Naas",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/naas/219/4/",
+      "winner": {
+        "name": "Onemoredance (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/naas/219/5/",
+      "winner": {
+        "name": "Fleur De Chine",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/naas/219/6/",
+      "winner": {
+        "name": "Light As Air (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Naas",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/naas/219/7/",
+      "winner": {
+        "name": "Capital Theory",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/naas/219/8/",
+      "winner": {
+        "name": "Speckled Meadow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:58",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/auteuil/63/1/",
+      "winner": {
+        "name": "Nador (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/auteuil/63/2/",
+      "winner": {
+        "name": "Chelsea Star (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/auteuil/63/3/",
+      "winner": {
+        "name": "Aulko (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/auteuil/63/4/",
+      "winner": {
+        "name": "Lauthentyko (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Auteuil",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/auteuil/63/5/",
+      "winner": {
+        "name": "Leopard Du Berlais (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Auteuil",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/auteuil/63/6/",
+      "winner": {
+        "name": "File Au Poteau (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/auteuil/63/7/",
+      "winner": {
+        "name": "Olga De Kiev (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/auteuil/63/8/",
+      "winner": {
+        "name": "Pas De Quartier (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/keeneland/77/1/",
+      "winner": {
+        "name": "Time To Dazzle (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/1/",
+      "winner": {
+        "name": "Johnny Boy (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/2/",
+      "winner": {
+        "name": "Pied Piper (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/3/",
+      "winner": {
+        "name": "Miss Twinkle (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/4/",
+      "winner": {
+        "name": "Cognac (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/5/",
+      "winner": {
+        "name": "I Am Giant (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/6/",
+      "winner": {
+        "name": "Forward Motion (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/7/",
+      "winner": {
+        "name": "Quickstepgal (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/8/",
+      "winner": {
+        "name": "Pioneer Square (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/9/",
+      "winner": {
+        "name": "Kanaal Skater (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/greyville/339/10/",
+      "winner": {
+        "name": "Gotta Go Eddie (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Nancy",
+      "time": "10:20",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/nancy/380/1/",
+      "winner": {
+        "name": "Speed Coko (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Nancy",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/12-october-2025/nancy/380/2/",
+      "winner": {
+        "name": "Shades (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
