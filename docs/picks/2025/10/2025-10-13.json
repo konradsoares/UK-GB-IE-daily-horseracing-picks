@@ -39,7 +39,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Triple Force",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Musselburgh",
@@ -77,7 +84,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "The Resdev Scholar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Musselburgh",
@@ -115,7 +129,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Vince L'amour (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Musselburgh",
@@ -162,7 +183,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Trojan Sun",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Musselburgh",
@@ -200,7 +228,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Bellarchi (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Musselburgh",
@@ -247,7 +282,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Carolus Magnus (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Musselburgh",
@@ -294,7 +336,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Carlton And Co",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Musselburgh",
@@ -341,7 +390,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Thunderstorm Katie",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Hereford",
@@ -388,7 +444,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Ninna Collina",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Hereford",
@@ -426,7 +489,14 @@
           "request_cost": 0.006,
           "total_cost": 0.012
         }
-      }
+      },
+      "result": {
+        "name": "Jackstell (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Hereford",
@@ -464,7 +534,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Lelant (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Hereford",
@@ -502,7 +579,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Flash In The Pan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Hereford",
@@ -540,7 +624,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Donnie Azoff (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Hereford",
@@ -578,7 +669,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Unspeakable (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Hereford",
@@ -625,7 +723,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "My Virtue",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Kempton Park",
@@ -672,7 +777,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Double Time",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Kempton Park",
@@ -710,7 +822,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Chapman's Peak",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Kempton Park",
@@ -766,7 +885,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Lizzana (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Kempton Park",
@@ -813,7 +939,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Fort Rock",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Kempton Park",
@@ -860,7 +993,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Sapphire Princess",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Kempton Park",
@@ -898,7 +1038,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Raneenn (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Kempton Park",
@@ -945,7 +1092,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Crystal Mariner (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Kempton Park",
@@ -983,7 +1137,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Federated (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Kempton Park",
@@ -1030,7 +1191,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Veraison (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Yarmouth",
@@ -1077,7 +1245,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Ya Karim (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Yarmouth",
@@ -1115,7 +1290,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Romantic Twilight",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Yarmouth",
@@ -1153,7 +1335,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Heddon Street (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Yarmouth",
@@ -1200,7 +1389,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Smooth Silesie (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Yarmouth",
@@ -1247,7 +1443,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Bill Plumb (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Yarmouth",
@@ -1285,7 +1488,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Jonnie",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Yarmouth",
@@ -1332,7 +1542,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Valkyrja",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Roscommon",
@@ -1379,7 +1596,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Millraceflow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Roscommon",
@@ -1426,7 +1650,14 @@
           "request_cost": 0.006,
           "total_cost": 0.019
         }
-      }
+      },
+      "result": {
+        "name": "Spanish Temptress (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Roscommon",
@@ -1482,7 +1713,14 @@
           "request_cost": 0.006,
           "total_cost": 0.02
         }
-      }
+      },
+      "result": {
+        "name": "La Tulipe Noire (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Roscommon",
@@ -1529,7 +1767,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Mocking (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Roscommon",
@@ -1567,7 +1812,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Glenroyal (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Roscommon",
@@ -1614,7 +1866,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Ephesus (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Roscommon",
@@ -1661,7 +1920,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Nancee Spain (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fontainebleau",
@@ -1708,7 +1974,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Lerika (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fontainebleau",
@@ -1746,7 +2019,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Parabellum D'oroux (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fontainebleau",
@@ -1793,7 +2073,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Dance All Night (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fontainebleau",
@@ -1812,7 +2099,14 @@
           "request_cost": 0.006,
           "total_cost": 0.011
         }
-      }
+      },
+      "result": {
+        "name": "Pimmsoclock (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fontainebleau",
@@ -1859,7 +2153,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Pervenche D'or (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Fontainebleau",
@@ -1915,7 +2216,14 @@
           "request_cost": 0.006,
           "total_cost": 0.019
         }
-      }
+      },
+      "result": {
+        "name": "Icare Du Seuil (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Fontainebleau",
@@ -1962,7 +2270,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Coute Que Coute (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     }
   ]
 }
