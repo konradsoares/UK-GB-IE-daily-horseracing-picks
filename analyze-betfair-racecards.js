@@ -254,12 +254,19 @@ function buildMessages(race) {
     }
   });
 
-  const outFile = `betfair-racecards-picks-${out.date}.json`;
-  await fs.writeFile(outFile, JSON.stringify(out, null, 2), 'utf8');
-  console.log(`Saved picks → ${outFile}`);
+const outFile = `betfair-racecards-picks-${out.date}.json`;
+await fs.writeFile(outFile, JSON.stringify(out, null, 2), 'utf8');
+console.log(`Saved picks → ${outFile}`);
 
-  const ok = out.races.filter(r => r._status === 'ok').length;
-  console.log(`Races analyzed: ${ok}/${out.races.length}`);
+// also pre-archive same file to docs/picks/YYYY/MM/YYYY-MM-DD.json
+const d = new Date(out.date);
+const Y = d.getFullYear();
+const M = String(d.getMonth() + 1).padStart(2, '0');
+const archiveDir = path.join('docs', 'picks', Y.toString(), M);
+await fs.mkdir(archiveDir, { recursive: true });
+const archiveFile = path.join(archiveDir, `${out.date}.json`);
+await fs.writeFile(archiveFile, JSON.stringify(out, null, 2), 'utf8');
+console.log(`📦 Archived initial (full) picks to ${archiveFile}`);
 })().catch(err => {
   console.error('FAILED:', err?.message || err);
   process.exit(1);
