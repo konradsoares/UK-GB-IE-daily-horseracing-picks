@@ -95,22 +95,27 @@ for (const race of data.races || []) {
     return { ...p, oddsDec: dec, probability: prob, expected_value: ev };
   });
 
-  // Keep only EV > 0
-  const profitable = picks.filter(p => p.expected_value > 0);
-  if (profitable.length < 3) continue;
+  // keep only EV > 0
+  let profitable = picks.filter(p => p.expected_value > 0);
 
-  // Sort by adjusted probability descending
+  // sort by adjusted probability descending
   profitable.sort((a, b) => b.probability - a.probability);
 
-  const top3 = profitable.slice(0, 3);
-  const potential = calcPotentialProfit(top3);
+  // 🔥 enforce hard cap of 3 no matter what
+  profitable = profitable.slice(0, 3);
+
+  // if we ended up with fewer than 1–2 picks, skip
+  if (profitable.length === 0) continue;
+
+  // recalc potential profit
+  const potential = calcPotentialProfit(profitable);
   if (potential <= 0) continue;
 
   refined.races.push({
     course,
     time,
-    url: race.url, // ✅ preserve the original Betfair racecard URL
-    shortlist: top3.map(p => ({
+    url: race.url,
+    shortlist: profitable.map(p => ({
       name: p.name,
       odds: p.exchange || p.odds || p.odds_note || `${p.oddsDec?.toFixed(2)} (dec)`,
       oddsDec: p.oddsDec,
@@ -124,7 +129,7 @@ for (const race of data.races || []) {
     combo_profit_check: potential.toFixed(2)
   });
 
-  console.log(`${course} ${time} → 3 profitable picks (combo +${potential.toFixed(2)}€)`);
+  console.log(`${course} ${time} → ${profitable.length} profitable picks (combo +${potential.toFixed(2)}€)`);
 }
 
 if (!refined.races.length) {
