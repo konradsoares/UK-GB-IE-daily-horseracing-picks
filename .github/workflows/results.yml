@@ -1,0 +1,55 @@
+name: Scrape Results
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '30 4 * * *'  # 04:30 UTC (05:30 Dublin)
+  workflow_dispatch: {}
+
+concurrency:
+  group: daily-results
+  cancel-in-progress: true
+
+jobs:
+  results:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Dublin
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Pull latest repo updates
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+          ls -l docs/picks/$(date +%Y)/$(date +%m)/ || true  # debug visibility
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install deps
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm i --no-audit --no-fund; fi
+
+      - name: Install Playwright browsers (Chromium)
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape results for yesterday (Europe/Dublin)
+        run: npm run results
+
+      - name: Commit results JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge --strategy-option ours origin/main || true
+          git add -A docs/results
+          git commit -m "Add results for yesterday" || echo "No changes"
+          git push

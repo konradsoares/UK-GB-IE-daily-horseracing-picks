@@ -1,0 +1,64 @@
+name: Build & Publish Picks
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 01:00 UTC (02:00 Dublin summer time)
+  workflow_dispatch: {}
+
+concurrency:
+  group: daily-picks
+  cancel-in-progress: true
+
+jobs:
+  picks:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Dublin
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install deps
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm i --no-audit --no-fund; fi
+
+      - name: Install Playwright browsers (Chromium)
+        run: npx playwright install --with-deps chromium
+
+      - name: Scrape racecards
+        run: npm run scrape
+
+      - name: Analyze with Perplexity
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: npm run analyze
+
+      - name: Filter to top 3 profitable picks (and archive)
+        run: |
+          TODAY=$(date +%F)
+          echo "TODAY=$TODAY" >> $GITHUB_ENV
+          node select-top3.js betfair-racecards-picks-$TODAY.json
+
+      - name: Postbuild (copy latest to docs/latest.json)
+        run: node postbuild.js
+
+      - name: Archive daily + rebuild index
+        run: npm run archive
+
+      - name: Commit updated docs (archive + latest + index)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs
+          git add betfair-racecards-picks-*.json || true
+          git commit -m "Archive picks & update index" || echo "No changes"
+          git push
