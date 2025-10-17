@@ -39,7 +39,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "State Of Madness",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Brighton",
@@ -77,7 +84,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Boss Lady (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Brighton",
@@ -115,7 +129,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Magical Merlot",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Brighton",
@@ -162,7 +183,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Oj Lifestyle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Brighton",
@@ -209,7 +237,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Mc'ted",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Brighton",
@@ -256,7 +291,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "King Of War",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Brighton",
@@ -312,7 +354,14 @@
           "request_cost": 0.006,
           "total_cost": 0.018
         }
-      }
+      },
+      "result": {
+        "name": "Alshimali (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Carlisle",
@@ -359,7 +408,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "King Ulanda (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Carlisle",
@@ -397,7 +453,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Push The Button (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Carlisle",
@@ -444,7 +507,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Cave Bridge (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Carlisle",
@@ -491,7 +561,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Dare To Shout",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Carlisle",
@@ -529,7 +606,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Looking Splendid",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Carlisle",
@@ -576,7 +660,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Hello Judge",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Carlisle",
@@ -584,7 +675,14 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/16-october-2025/carlisle/7/7/",
       "shortlist": [],
       "_status": "bad_json",
-      "_raw": "{\n  \"race\": {\n    \"course\": \"Carlisle\",\n    \"time\": \"16:50\",\n    \"url\": \"https://betting.betfair.com/horse-racing/racecards/16-october-2025/carlisle/7/7/\"\n  },\n  \"shortlist\": [\n    {\n      \"name\": \"Nobotheratall (Ire)\",\n      \"jockey\": \"Harry Reed\",\n      \"trainer\": \"Tristan Davidson\",\n      \"form\": \"33\",\n      \"odds_note\": \"Strong favourite; 6/4 (SBK), 2.82 (exchange)\",\n      \"rationale\": \"Consistent recent form with two consecutive third-place finishes, indicating reliability and readiness. Short odds reflect strong market confidence. Trainer and jockey both have solid local records, and the horse is proven at this level.\",\n      \"confidence\": \"High\"\n    },\n    {\n      \"name\": \"Frankies Fortune (Ire)\",\n      \"jockey\": \"Alan Doyle\",\n      \"trainer\": \"Lucinda Russell & Michael Scudamore\",\n      \"form\": \"\",\n      \"odds_note\": \"Second favourite; 2/1 (SBK), 2.78 (exchange)\",\n      \"rationale\": \"Represents a top dual trainer partnership with a strong record at Carlisle. Market support is notable, and the lack of recent form is offset by connections and current odds, suggesting positive expectations from the yard.\",\n      \"confidence\": \"High\"\n    },\n    {\n      \"name\": \"Siege Of Acres (Fr)\",\n      \"jockey\": \"Brian Hughes\",\n      \"trainer\": \"Donald McCain\",\n      \"form\": \"\",\n      \"odds_note\": \"Well-supported; 11/2 (SBK), 3.9 (exchange)\",\n      \"rationale\": \"Trained by Donald McCain and ridden by Brian Hughes, both highly successful at this track. Odds have shortened on the exchange, indicating market respect. While lacking recent form figures, the connections and support make this runner a credible threat"
+      "_raw": "{\n  \"race\": {\n    \"course\": \"Carlisle\",\n    \"time\": \"16:50\",\n    \"url\": \"https://betting.betfair.com/horse-racing/racecards/16-october-2025/carlisle/7/7/\"\n  },\n  \"shortlist\": [\n    {\n      \"name\": \"Nobotheratall (Ire)\",\n      \"jockey\": \"Harry Reed\",\n      \"trainer\": \"Tristan Davidson\",\n      \"form\": \"33\",\n      \"odds_note\": \"Strong favourite; 6/4 (SBK), 2.82 (exchange)\",\n      \"rationale\": \"Consistent recent form with two consecutive third-place finishes, indicating reliability and readiness. Short odds reflect strong market confidence. Trainer and jockey both have solid local records, and the horse is proven at this level.\",\n      \"confidence\": \"High\"\n    },\n    {\n      \"name\": \"Frankies Fortune (Ire)\",\n      \"jockey\": \"Alan Doyle\",\n      \"trainer\": \"Lucinda Russell & Michael Scudamore\",\n      \"form\": \"\",\n      \"odds_note\": \"Second favourite; 2/1 (SBK), 2.78 (exchange)\",\n      \"rationale\": \"Represents a top dual trainer partnership with a strong record at Carlisle. Market support is notable, and the lack of recent form is offset by connections and current odds, suggesting positive expectations from the yard.\",\n      \"confidence\": \"High\"\n    },\n    {\n      \"name\": \"Siege Of Acres (Fr)\",\n      \"jockey\": \"Brian Hughes\",\n      \"trainer\": \"Donald McCain\",\n      \"form\": \"\",\n      \"odds_note\": \"Well-supported; 11/2 (SBK), 3.9 (exchange)\",\n      \"rationale\": \"Trained by Donald McCain and ridden by Brian Hughes, both highly successful at this track. Odds have shortened on the exchange, indicating market respect. While lacking recent form figures, the connections and support make this runner a credible threat",
+      "result": {
+        "name": "Nobotheratall (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Chelmsford City",
@@ -613,7 +711,14 @@
           "request_cost": 0.006,
           "total_cost": 0.012
         }
-      }
+      },
+      "result": {
+        "name": "Noble Journey",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chelmsford City",
@@ -651,7 +756,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Beach Partee",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Chelmsford City",
@@ -689,7 +801,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Jungle Drums (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Chelmsford City",
@@ -736,7 +855,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Evening Saigon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chelmsford City",
@@ -783,7 +909,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Waiting All Night",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Chelmsford City",
@@ -821,7 +954,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Edergole's Gift (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Chelmsford City",
@@ -859,7 +999,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Morte Point",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chelmsford City",
@@ -906,7 +1053,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Kessaar Power (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Chelmsford City",
@@ -953,7 +1107,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Wyld Bill",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -991,7 +1152,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Captain Parma (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -1029,7 +1197,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "King's Trust",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -1076,7 +1251,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Rogue Citation (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -1114,7 +1296,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Mollie Foster (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Southwell",
@@ -1161,7 +1350,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Jazz Scene",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -1199,7 +1395,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Massimo Blue",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Southwell",
@@ -1237,7 +1440,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Betelgeuse (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Southwell",
@@ -1284,7 +1494,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Takteek",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Ffos Las",
@@ -1322,7 +1539,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Calme Olympien (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Ffos Las",
@@ -1360,7 +1584,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Puddlesinthepark (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ffos Las",
@@ -1407,7 +1638,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Mini Fortune (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Ffos Las",
@@ -1445,7 +1683,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Order Of The Dance (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Ffos Las",
@@ -1483,7 +1728,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "At The Oche (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Ffos Las",
@@ -1530,7 +1782,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Baikal",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Ffos Las",
@@ -1577,7 +1836,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "D'jo Dela Barriere (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Curragh",
@@ -1624,7 +1890,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Acclamatic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Curragh",
@@ -1662,7 +1935,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Silk Braid (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Curragh",
@@ -1709,7 +1989,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Unique Journey (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Curragh",
@@ -1747,7 +2034,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Mary Shoelaces (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Curragh",
@@ -1794,7 +2088,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Retracement (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Curragh",
@@ -1841,7 +2142,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Appeared (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Curragh",
@@ -1906,7 +2214,14 @@
           "request_cost": 0.006,
           "total_cost": 0.022
         }
-      }
+      },
+      "result": {
+        "name": "Trubshaw",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Curragh",
@@ -1953,7 +2268,14 @@
           "request_cost": 0.006,
           "total_cost": 0.021
         }
-      }
+      },
+      "result": {
+        "name": "Loingseoir (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Thurles",
@@ -2000,7 +2322,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Run For Mahler (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Thurles",
@@ -2008,7 +2337,14 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/16-october-2025/thurles/225/2/",
       "shortlist": [],
       "_status": "bad_json",
-      "_raw": null
+      "_raw": null,
+      "result": {
+        "name": "Katakana (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Thurles",
@@ -2055,7 +2391,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Tassarolo",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Thurles",
@@ -2102,7 +2445,14 @@
           "request_cost": 0.006,
           "total_cost": 0.015
         }
-      }
+      },
+      "result": {
+        "name": "Heron's Butler (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Thurles",
@@ -2140,7 +2490,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Hewick (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Thurles",
@@ -2187,7 +2544,14 @@
           "request_cost": 0.006,
           "total_cost": 0.02
         }
-      }
+      },
+      "result": {
+        "name": "Alright Darling (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Thurles",
@@ -2195,7 +2559,14 @@
       "url": "https://betting.betfair.com/horse-racing/racecards/16-october-2025/thurles/225/7/",
       "shortlist": [],
       "_status": "bad_json",
-      "_raw": null
+      "_raw": null,
+      "result": {
+        "name": "Press The Button (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Turffontein",
@@ -2233,7 +2604,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Far Beyond (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Turffontein",
@@ -2271,7 +2649,14 @@
           "request_cost": 0.006,
           "total_cost": 0.013
         }
-      }
+      },
+      "result": {
+        "name": "Trajanus (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Turffontein",
@@ -2318,7 +2703,14 @@
           "request_cost": 0.006,
           "total_cost": 0.016
         }
-      }
+      },
+      "result": {
+        "name": "Onetwobucklemyshoe (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
     },
     {
       "course": "Turffontein",
@@ -2356,7 +2748,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Maverick Queen (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Turffontein",
@@ -2403,7 +2802,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Pressonregardless (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Turffontein",
@@ -2450,7 +2856,14 @@
           "request_cost": 0.006,
           "total_cost": 0.017
         }
-      }
+      },
+      "result": {
+        "name": "Birthright (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     },
     {
       "course": "Turffontein",
@@ -2488,7 +2901,14 @@
           "request_cost": 0.006,
           "total_cost": 0.014
         }
-      }
+      },
+      "result": {
+        "name": "Gamer (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
     }
   ]
 }
