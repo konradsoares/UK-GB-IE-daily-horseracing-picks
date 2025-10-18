@@ -1,0 +1,629 @@
+{
+  "date": "2025-10-17",
+  "results": [
+    {
+      "course": "Fakenham",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fakenham/17/1/",
+      "winner": {
+        "name": "Belle Montrose (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fakenham",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fakenham/17/2/",
+      "winner": {
+        "name": "At Mangan Bridge (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fakenham",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fakenham/17/3/",
+      "winner": {
+        "name": "Squeezebox (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fakenham",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fakenham/17/4/",
+      "winner": {
+        "name": "Breezethroughlife (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fakenham",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fakenham/17/5/",
+      "winner": {
+        "name": "Enjoy D'allen (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fakenham",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fakenham/17/6/",
+      "winner": {
+        "name": "Dartmouth Rose",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Haydock Park",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/haydock-park/22/1/",
+      "winner": {
+        "name": "Gnomon",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/haydock-park/22/2/",
+      "winner": {
+        "name": "Accredit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Haydock Park",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/haydock-park/22/3/",
+      "winner": {
+        "name": "Eternal Force",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Haydock Park",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/haydock-park/22/4/",
+      "winner": {
+        "name": "King Of Thunder",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/haydock-park/22/5/",
+      "winner": {
+        "name": "Splish Splash (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Haydock Park",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/haydock-park/22/6/",
+      "winner": {
+        "name": "Kinswoman",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Haydock Park",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/haydock-park/22/7/",
+      "winner": {
+        "name": "Son Of Astar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/newcastle/35/1/",
+      "winner": {
+        "name": "Best Adventure (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/newcastle/35/2/",
+      "winner": {
+        "name": "Swinging London (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/newcastle/35/3/",
+      "winner": {
+        "name": "Ten Carat Harry",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/newcastle/35/4/",
+      "winner": {
+        "name": "Cephalus",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/newcastle/35/5/",
+      "winner": {
+        "name": "Mr Mistoffelees (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/newcastle/35/6/",
+      "winner": {
+        "name": "Coramento",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/newcastle/35/7/",
+      "winner": {
+        "name": "Bambalam (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/newcastle/35/8/",
+      "winner": {
+        "name": "Second Fiddle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Redcar",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/redcar/42/1/",
+      "winner": {
+        "name": "Harswell Angel (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Redcar",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/redcar/42/2/",
+      "winner": {
+        "name": "Bella Delizia",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Redcar",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/redcar/42/3/",
+      "winner": {
+        "name": "Beyond The Bar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Redcar",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/redcar/42/4/",
+      "winner": {
+        "name": "Storm Call (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/redcar/42/5/",
+      "winner": {
+        "name": "Sugar Baby",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/redcar/42/6/",
+      "winner": {
+        "name": "Rapido Girl",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/redcar/42/7/",
+      "winner": {
+        "name": "Flamborough Head",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Redcar",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/redcar/42/8/",
+      "winner": {
+        "name": "Jam Lass",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/uttoxeter/53/1/",
+      "winner": {
+        "name": "Laurens Bay (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/uttoxeter/53/2/",
+      "winner": {
+        "name": "Shabalko D'herm (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/uttoxeter/53/3/",
+      "winner": {
+        "name": "Fern Hill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:32",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/uttoxeter/53/4/",
+      "winner": {
+        "name": "Dargiannini (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/uttoxeter/53/5/",
+      "winner": {
+        "name": "Mister Cessna (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/uttoxeter/53/6/",
+      "winner": {
+        "name": "Cawthorne Banker (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/uttoxeter/53/7/",
+      "winner": {
+        "name": "Shotgun Shirley",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/dundalk/207/1/",
+      "winner": {
+        "name": "Powerful Hook Head (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/dundalk/207/2/",
+      "winner": {
+        "name": "Cala Bonita (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/dundalk/207/3/",
+      "winner": {
+        "name": "Quatre Bras (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/dundalk/207/4/",
+      "winner": {
+        "name": "Spinning Around (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/dundalk/207/5/",
+      "winner": {
+        "name": "Wellwhatshappenin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/dundalk/207/6/",
+      "winner": {
+        "name": "Drafted (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/dundalk/207/7/",
+      "winner": {
+        "name": "Daamberdiplomat (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/dundalk/207/8/",
+      "winner": {
+        "name": "Cecco (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fairview-south-africa/417/1/",
+      "winner": {
+        "name": "Warofdynamite (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fairview-south-africa/417/2/",
+      "winner": {
+        "name": "Stand Up (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fairview-south-africa/417/3/",
+      "winner": {
+        "name": "State Secret (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fairview-south-africa/417/4/",
+      "winner": {
+        "name": "East Coast Girl (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fairview-south-africa/417/5/",
+      "winner": {
+        "name": "Mercantour (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fairview-south-africa/417/6/",
+      "winner": {
+        "name": "George Handel (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fairview-south-africa/417/7/",
+      "winner": {
+        "name": "Guy Gibson (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-october-2025/fairview-south-africa/417/8/",
+      "winner": {
+        "name": "King Rahul (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    }
+  ]
+}
