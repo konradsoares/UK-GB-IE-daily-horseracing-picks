@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '30 4 * * *'  # 04:30 UTC (05:30 Dublin)
+    - cron: '0 0 * * *'  # 04:30 UTC (05:30 Dublin)
   workflow_dispatch: {}
 
 concurrency:
