@@ -1,0 +1,489 @@
+{
+  "date": "2025-10-19",
+  "results": [
+    {
+      "course": "Kempton Park",
+      "time": "13:46",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/kempton-park/27/1/",
+      "winner": {
+        "name": "As Fast As Wind (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "14:16",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/kempton-park/27/2/",
+      "winner": {
+        "name": "Bluey (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Kempton Park",
+      "time": "14:46",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/kempton-park/27/3/",
+      "winner": {
+        "name": "One Horse Town (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:16",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/kempton-park/27/4/",
+      "winner": {
+        "name": "Bad (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/kempton-park/27/5/",
+      "winner": {
+        "name": "Rubaud (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/kempton-park/27/6/",
+      "winner": {
+        "name": "Village Master (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/kempton-park/27/7/",
+      "winner": {
+        "name": "Turndlightsdownlow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/sedgefield/46/1/",
+      "winner": {
+        "name": "Tree Top Tyson (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/sedgefield/46/2/",
+      "winner": {
+        "name": "Couldbeaweapon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/sedgefield/46/3/",
+      "winner": {
+        "name": "Only One Blue (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:33",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/sedgefield/46/4/",
+      "winner": {
+        "name": "Red Delta",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Sedgefield",
+      "time": "16:06",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/sedgefield/46/5/",
+      "winner": {
+        "name": "Ivane (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "16:41",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/sedgefield/46/6/",
+      "winner": {
+        "name": "Zanndabad (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Sedgefield",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/sedgefield/46/7/",
+      "winner": {
+        "name": "Blue Topaz",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Leopardstown",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/leopardstown/214/1/",
+      "winner": {
+        "name": "Playin Cool (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/leopardstown/214/2/",
+      "winner": {
+        "name": "Norwalk Havoc",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/leopardstown/214/3/",
+      "winner": {
+        "name": "Dark Viper",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "15:26",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/leopardstown/214/4/",
+      "winner": {
+        "name": "Shaool (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/leopardstown/214/5/",
+      "winner": {
+        "name": "Pillar Of Hope",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/leopardstown/214/6/",
+      "winner": {
+        "name": "Blake",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/leopardstown/214/7/",
+      "winner": {
+        "name": "Skippinandajumpin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Limerick",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/limerick/215/1/",
+      "winner": {
+        "name": "Chosen Comrade (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Limerick",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/limerick/215/2/",
+      "winner": {
+        "name": "Walks In June (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Limerick",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/limerick/215/3/",
+      "winner": {
+        "name": "Midleton Rare (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/limerick/215/4/",
+      "winner": {
+        "name": "Kir (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Limerick",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/limerick/215/5/",
+      "winner": {
+        "name": "French Dynamite (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/limerick/215/6/",
+      "winner": {
+        "name": "Crowsatedappletart (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "17:22",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/limerick/215/7/",
+      "winner": {
+        "name": "July Flower (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/keeneland/77/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/longchamp/80/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/longchamp/80/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/longchamp/80/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/1/",
+      "winner": {
+        "name": "Oklahoma Girl (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/2/",
+      "winner": {
+        "name": "Mfethu (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/3/",
+      "winner": {
+        "name": "Cool Wind (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/4/",
+      "winner": {
+        "name": "Global Movement (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/5/",
+      "winner": {
+        "name": "Spectacular (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/6/",
+      "winner": {
+        "name": "La Maddalena (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/7/",
+      "winner": {
+        "name": "Treaty Of Paris (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    },
+    {
+      "course": "Greyville",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/8/",
+      "winner": {
+        "name": "Madison Valley (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/9/",
+      "winner": {
+        "name": "Tara Star (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/19-october-2025/greyville/339/10/",
+      "winner": {
+        "name": "Fate Of Fortune (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": true
+    }
+  ]
+}
