@@ -1,0 +1,685 @@
+{
+  "date": "2025-11-06",
+  "results": [
+    {
+      "course": "Chelmsford City",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/chelmsford-city/28/1/",
+      "winner": {
+        "name": "Onyeisi",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/chelmsford-city/28/2/",
+      "winner": {
+        "name": "Flash Rascal",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/chelmsford-city/28/3/",
+      "winner": {
+        "name": "Starlight Time",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/chelmsford-city/28/4/",
+      "winner": {
+        "name": "Threatening (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/chelmsford-city/28/5/",
+      "winner": {
+        "name": "Freddie's Star (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/chelmsford-city/28/6/",
+      "winner": {
+        "name": "Valley Ofthe Kings (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/chelmsford-city/28/7/",
+      "winner": {
+        "name": "General Assembly (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/chelmsford-city/28/8/",
+      "winner": {
+        "name": "Renesmee",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/ludlow/32/1/",
+      "winner": {
+        "name": "Tiptoptim (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/ludlow/32/2/",
+      "winner": {
+        "name": "Ocean Conquest",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/ludlow/32/3/",
+      "winner": {
+        "name": "Treasure Planet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/ludlow/32/4/",
+      "winner": {
+        "name": "Minniemum",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/ludlow/32/5/",
+      "winner": {
+        "name": "Park Princess (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/ludlow/32/6/",
+      "winner": {
+        "name": "L'empire Vert (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:47",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/ludlow/32/7/",
+      "winner": {
+        "name": "Crack Ops",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newbury/34/1/",
+      "winner": {
+        "name": "Josh The Boss",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newbury/34/2/",
+      "winner": {
+        "name": "Bowmore (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newbury/34/3/",
+      "winner": {
+        "name": "Captain Hugo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newbury/34/4/",
+      "winner": {
+        "name": "Jackie Hobbs",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newbury/34/5/",
+      "winner": {
+        "name": "Haiti Couleurs (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newbury/34/6/",
+      "winner": {
+        "name": "Lord Baddesley (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newbury/34/7/",
+      "winner": {
+        "name": "Bass Hunter (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/1/",
+      "winner": {
+        "name": "Parisian Scholar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/2/",
+      "winner": {
+        "name": "Secret Testimony",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/3/",
+      "winner": {
+        "name": "Without Compromise",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/4/",
+      "winner": {
+        "name": "Fashion People (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/5/",
+      "winner": {
+        "name": "Be Patient",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/6/",
+      "winner": {
+        "name": "Lethal Nymph",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/7/",
+      "winner": {
+        "name": "Coramento",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/8/",
+      "winner": {
+        "name": "Korroor (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/newcastle/35/9/",
+      "winner": {
+        "name": "Bishop's Glory (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/sedgefield/46/1/",
+      "winner": {
+        "name": "Zenato (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/sedgefield/46/2/",
+      "winner": {
+        "name": "Avalon Beach (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/sedgefield/46/3/",
+      "winner": {
+        "name": "El Muchacho (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/sedgefield/46/4/",
+      "winner": {
+        "name": "Absolutely Doyen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/sedgefield/46/5/",
+      "winner": {
+        "name": "Fat Harry",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/sedgefield/46/6/",
+      "winner": {
+        "name": "Devon Skies",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/sedgefield/46/7/",
+      "winner": {
+        "name": "Keep On Cobbling",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "12:37",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/clonmel/203/1/",
+      "winner": {
+        "name": "Kovanis (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/clonmel/203/2/",
+      "winner": {
+        "name": "Scope To Improve",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/clonmel/203/3/",
+      "winner": {
+        "name": "Jeriko De Baune (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/clonmel/203/4/",
+      "winner": {
+        "name": "Spindleberry (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/clonmel/203/5/",
+      "winner": {
+        "name": "Il Etait Temps (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "15:32",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/clonmel/203/6/",
+      "winner": {
+        "name": "Kobalt St Georges (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/clonmel/203/7/",
+      "winner": {
+        "name": "Panjandrum",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:10",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/turffontein/341/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/turffontein/341/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/turffontein/341/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/turffontein/341/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/turffontein/341/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/turffontein/341/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/turffontein/341/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/turffontein/341/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/fontainebleau/159/1/",
+      "winner": {
+        "name": "Girolle De Sivola (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "11:23",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/fontainebleau/159/2/",
+      "winner": {
+        "name": "Laguinte (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/fontainebleau/159/3/",
+      "winner": {
+        "name": "Master Falcon (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "12:27",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/fontainebleau/159/4/",
+      "winner": {
+        "name": "Mittani (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/fontainebleau/159/5/",
+      "winner": {
+        "name": "Mount Angel (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/fontainebleau/159/6/",
+      "winner": {
+        "name": "Lucie Des Pictons (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/06-november-2025/fontainebleau/159/7/",
+      "winner": {
+        "name": "Prestige D'olva (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
