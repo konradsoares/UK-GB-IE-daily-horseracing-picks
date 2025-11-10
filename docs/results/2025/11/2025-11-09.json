@@ -1,0 +1,405 @@
+{
+  "date": "2025-11-09",
+  "results": [
+    {
+      "course": "Sandown Park",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/sandown-park/45/1/",
+      "winner": {
+        "name": "Admiral Stewart (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/sandown-park/45/2/",
+      "winner": {
+        "name": "Invincible Nao (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/sandown-park/45/3/",
+      "winner": {
+        "name": "Glynn Brae (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/sandown-park/45/4/",
+      "winner": {
+        "name": "Hurricane Pat (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/sandown-park/45/5/",
+      "winner": {
+        "name": "Nardaran (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/sandown-park/45/6/",
+      "winner": {
+        "name": "Twig",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/sandown-park/45/7/",
+      "winner": {
+        "name": "Le Roi Remi (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/ffos-las/50/1/",
+      "winner": {
+        "name": "Our Boy Stan",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/ffos-las/50/2/",
+      "winner": {
+        "name": "Howaya Now (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/ffos-las/50/3/",
+      "winner": {
+        "name": "They Call Me Hugo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/ffos-las/50/4/",
+      "winner": {
+        "name": "Mister Barclay",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/ffos-las/50/5/",
+      "winner": {
+        "name": "Jaipaletemps (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/ffos-las/50/6/",
+      "winner": {
+        "name": "El Bandido Pancho",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/ffos-las/50/7/",
+      "winner": {
+        "name": "Katie's Melody (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/naas/219/1/",
+      "winner": {
+        "name": "Crecora Hills (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/naas/219/2/",
+      "winner": {
+        "name": "Port Authority (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/naas/219/3/",
+      "winner": {
+        "name": "Tir Og (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:52",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/naas/219/4/",
+      "winner": {
+        "name": "Fruit De Mer (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:27",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/naas/219/5/",
+      "winner": {
+        "name": "Letos (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:02",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/naas/219/6/",
+      "winner": {
+        "name": "Only By Night (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/naas/219/7/",
+      "winner": {
+        "name": "Irish Panther",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/naas/219/8/",
+      "winner": {
+        "name": "Shadys Lady (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/1/",
+      "winner": {
+        "name": "Speedman (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/2/",
+      "winner": {
+        "name": "Hathighwaytothesky (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:10",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/3/",
+      "winner": {
+        "name": "Dawson's Anvil (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:45",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/4/",
+      "winner": {
+        "name": "Buffalo Storm Cody (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/5/",
+      "winner": {
+        "name": "Whistle The Tune (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/6/",
+      "winner": {
+        "name": "Kisshoten (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/7/",
+      "winner": {
+        "name": "The Ultimate King (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/8/",
+      "winner": {
+        "name": "Skittles Skies (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/turffontein/341/9/",
+      "winner": {
+        "name": "Dark Silver (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "12:58",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/saintcloud/86/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/saintcloud/86/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/saintcloud/86/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "15:23",
+      "url": "https://betting.betfair.com/horse-racing/results/09-november-2025/saintcloud/86/4/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
