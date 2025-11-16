@@ -1,0 +1,637 @@
+{
+  "date": "2025-11-15",
+  "results": [
+    {
+      "course": "Cheltenham",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/cheltenham/10/1/",
+      "winner": {
+        "name": "One Horse Town (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cheltenham",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/cheltenham/10/2/",
+      "winner": {
+        "name": "Hung Jury (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cheltenham",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/cheltenham/10/3/",
+      "winner": {
+        "name": "July Flower (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cheltenham",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/cheltenham/10/4/",
+      "winner": {
+        "name": "Panic Attack (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cheltenham",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/cheltenham/10/5/",
+      "winner": {
+        "name": "Kikijo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cheltenham",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/cheltenham/10/6/",
+      "winner": {
+        "name": "Lavender Hill Mob",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cheltenham",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/cheltenham/10/7/",
+      "winner": {
+        "name": "Celestial Tune (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "12:07",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/uttoxeter/53/1/",
+      "winner": {
+        "name": "Reinado (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "12:42",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/uttoxeter/53/2/",
+      "winner": {
+        "name": "Gower Spirit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "13:17",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/uttoxeter/53/3/",
+      "winner": {
+        "name": "Aworkinprogress (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "13:52",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/uttoxeter/53/4/",
+      "winner": {
+        "name": "Blacksamssenorita",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "14:27",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/uttoxeter/53/5/",
+      "winner": {
+        "name": "Jasmine D'airy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:02",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/uttoxeter/53/6/",
+      "winner": {
+        "name": "My Granny Lily",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/uttoxeter/53/7/",
+      "winner": {
+        "name": "Rathkenny (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/wetherby/55/1/",
+      "winner": {
+        "name": "The Big Breac (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/wetherby/55/2/",
+      "winner": {
+        "name": "Get On George (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/wetherby/55/3/",
+      "winner": {
+        "name": "Saligo Bay (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/wetherby/55/4/",
+      "winner": {
+        "name": "Meetmebythesea (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/wetherby/55/5/",
+      "winner": {
+        "name": "Glen Road (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/wetherby/55/6/",
+      "winner": {
+        "name": "Fresh Perspective",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/wetherby/55/7/",
+      "winner": {
+        "name": "Issam (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/navan/220/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/navan/220/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/navan/220/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/navan/220/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/navan/220/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/navan/220/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/navan/220/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/navan/220/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/1/",
+      "winner": {
+        "name": "Moody Blue (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/2/",
+      "winner": {
+        "name": "Winter Snap (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/3/",
+      "winner": {
+        "name": "Gimmie Rules (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/4/",
+      "winner": {
+        "name": "Count William (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/5/",
+      "winner": {
+        "name": "Coco's Hero (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/6/",
+      "winner": {
+        "name": "Lavender Bay (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/7/",
+      "winner": {
+        "name": "Palace Gift (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/8/",
+      "winner": {
+        "name": "Demanding Dave (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/kenilworth/322/9/",
+      "winner": {
+        "name": "Dame Of Trix (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/jebel-ali/172/1/",
+      "winner": {
+        "name": "Fight Zone (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/jebel-ali/172/2/",
+      "winner": {
+        "name": "Rakaan (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/jebel-ali/172/3/",
+      "winner": {
+        "name": "On The Way (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/jebel-ali/172/4/",
+      "winner": {
+        "name": "Rabaah (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/jebel-ali/172/5/",
+      "winner": {
+        "name": "Princ Rouz (Rus)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/jebel-ali/172/6/",
+      "winner": {
+        "name": "Deciduous",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aqueduct",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/aqueduct/150/1/",
+      "winner": {
+        "name": "Fionn (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Woodbine",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/woodbine/91/1/",
+      "winner": {
+        "name": "Nobals (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Churchill Downs",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/churchill-downs/67/1/",
+      "winner": {
+        "name": "Shred The Gnar (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "10:38",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/1/",
+      "winner": {
+        "name": "Liskaria (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "11:13",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/2/",
+      "winner": {
+        "name": "Miss Des Boullats (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "11:48",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/3/",
+      "winner": {
+        "name": "Nador (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:23",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/4/",
+      "winner": {
+        "name": "Goliath D'aunou (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:58",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/5/",
+      "winner": {
+        "name": "Quel Bonbon (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/6/",
+      "winner": {
+        "name": "Delmegan (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/7/",
+      "winner": {
+        "name": "Kikounette (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/8/",
+      "winner": {
+        "name": "Losange Bleu (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-november-2025/auteuil/63/9/",
+      "winner": {
+        "name": "Iliva Des Obeaux (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
