@@ -1,0 +1,416 @@
+{
+  "date": "2025-11-18",
+  "results": [
+    {
+      "course": "Kelso",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/kelso/26/1/",
+      "winner": {
+        "name": "Be The Difference (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/kelso/26/2/",
+      "winner": {
+        "name": "Golden Point (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/kelso/26/3/",
+      "winner": {
+        "name": "Eagles Reprieve (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/kelso/26/4/",
+      "winner": {
+        "name": "Triple Crown Ted (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/kelso/26/5/",
+      "winner": {
+        "name": "Classical Sting",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/kelso/26/6/",
+      "winner": {
+        "name": "Magnolia (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/lingfield-park/30/1/",
+      "winner": {
+        "name": "Gatineau Park (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/lingfield-park/30/2/",
+      "winner": {
+        "name": "Getaway King (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/lingfield-park/30/3/",
+      "winner": {
+        "name": "Kosac D'oudairies (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/lingfield-park/30/4/",
+      "winner": {
+        "name": "No Tackle",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/lingfield-park/30/5/",
+      "winner": {
+        "name": "Scorpio Rising (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/lingfield-park/30/6/",
+      "winner": {
+        "name": "Jorebel (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/1/",
+      "winner": {
+        "name": "Merrijig",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/2/",
+      "winner": {
+        "name": "Container Express",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/3/",
+      "winner": {
+        "name": "Clouds Hill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/4/",
+      "winner": {
+        "name": "Midnight Lion",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/5/",
+      "winner": {
+        "name": "Hot And Cold",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/6/",
+      "winner": {
+        "name": "Minshaar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/7/",
+      "winner": {
+        "name": "Superior Council (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/8/",
+      "winner": {
+        "name": "Green Valentine (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/newcastle/35/9/",
+      "winner": {
+        "name": "Fidelius",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/limerick/215/1/",
+      "winner": {
+        "name": "West Of Bally (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/limerick/215/2/",
+      "winner": {
+        "name": "Piccolo Player (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/limerick/215/3/",
+      "winner": {
+        "name": "Doyen Magic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/limerick/215/4/",
+      "winner": {
+        "name": "Lenjoleur De Palma (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/limerick/215/5/",
+      "winner": {
+        "name": "Happy Dreams (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/limerick/215/6/",
+      "winner": {
+        "name": "Hees Dynamite (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/limerick/215/7/",
+      "winner": {
+        "name": "Mossy Way (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "10:10",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/greyville/339/9/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chantilly",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-november-2025/chantilly/66/1/",
+      "winner": {
+        "name": "Al Zanati",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
