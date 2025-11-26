@@ -1,0 +1,557 @@
+{
+  "date": "2025-11-25",
+  "results": [
+    {
+      "course": "Hereford",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/hereford/23/1/",
+      "winner": {
+        "name": "Marsiac (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/hereford/23/2/",
+      "winner": {
+        "name": "Four Springs (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/hereford/23/3/",
+      "winner": {
+        "name": "Danny's Friend (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/hereford/23/4/",
+      "winner": {
+        "name": "Oakley (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/hereford/23/5/",
+      "winner": {
+        "name": "Buckna (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/hereford/23/6/",
+      "winner": {
+        "name": "Granny Hawkins",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/hereford/23/7/",
+      "winner": {
+        "name": "Smile John Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/1/",
+      "winner": {
+        "name": "Beach Partee",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/2/",
+      "winner": {
+        "name": "Master Of Shanghai (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/3/",
+      "winner": {
+        "name": "Wyld Bill",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/4/",
+      "winner": {
+        "name": "Lordsbridge Blu",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/5/",
+      "winner": {
+        "name": "Lahina Bay (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/6/",
+      "winner": {
+        "name": "H Key Lails",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/7/",
+      "winner": {
+        "name": "Dandy Khan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/8/",
+      "winner": {
+        "name": "Roman Spring (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/lingfield-park/30/9/",
+      "winner": {
+        "name": "Arthur Rose (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/southwell/47/1/",
+      "winner": {
+        "name": "Bravethewaves",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/southwell/47/2/",
+      "winner": {
+        "name": "Queens Wish (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/southwell/47/3/",
+      "winner": {
+        "name": "Nazare (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/southwell/47/4/",
+      "winner": {
+        "name": "Next Twist (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/southwell/47/5/",
+      "winner": {
+        "name": "Secret Vino",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/southwell/47/6/",
+      "winner": {
+        "name": "Apieceovfortune",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/1/",
+      "winner": {
+        "name": "Dingwall",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/2/",
+      "winner": {
+        "name": "Tribal Wisdom (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/3/",
+      "winner": {
+        "name": "Sarab Star",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/4/",
+      "winner": {
+        "name": "Crown The Future (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/5/",
+      "winner": {
+        "name": "Angel Love",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/6/",
+      "winner": {
+        "name": "Midnight Call (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/7/",
+      "winner": {
+        "name": "Woodhay Whisper (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/8/",
+      "winner": {
+        "name": "Night Storm (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/wolverhampton/58/9/",
+      "winner": {
+        "name": "I'd Go Maniac (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Tramore",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/tramore/228/1/",
+      "winner": {
+        "name": "Bon Viveur (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Tramore",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/tramore/228/2/",
+      "winner": {
+        "name": "Barra Rua (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Tramore",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/tramore/228/3/",
+      "winner": {
+        "name": "Pebble Bleu (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Tramore",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/tramore/228/4/",
+      "winner": {
+        "name": "Alright Darling (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Tramore",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/tramore/228/5/",
+      "winner": {
+        "name": "Aclass (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Tramore",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/tramore/228/6/",
+      "winner": {
+        "name": "Bigbraveboy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Tramore",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/tramore/228/7/",
+      "winner": {
+        "name": "Susie Lenglen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/greyville/339/1/",
+      "winner": {
+        "name": "Sword Speed (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/greyville/339/2/",
+      "winner": {
+        "name": "Ice Rain (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/greyville/339/3/",
+      "winner": {
+        "name": "Rollo The Viking (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/greyville/339/4/",
+      "winner": {
+        "name": "Sail To The Moon (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/greyville/339/5/",
+      "winner": {
+        "name": "Circumbendibus (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/greyville/339/6/",
+      "winner": {
+        "name": "Rahhabba (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/greyville/339/7/",
+      "winner": {
+        "name": "French Trip (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-november-2025/greyville/339/8/",
+      "winner": {
+        "name": "Roy's Grace (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
