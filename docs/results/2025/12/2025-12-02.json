@@ -1,0 +1,671 @@
+{
+  "date": "2025-12-02",
+  "results": [
+    {
+      "course": "Lingfield Park",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/1/",
+      "winner": {
+        "name": "Dandy Khan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/2/",
+      "winner": {
+        "name": "Banyan",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/3/",
+      "winner": {
+        "name": "Nunc Est Bibendum (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/4/",
+      "winner": {
+        "name": "Knight Of Glory (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/5/",
+      "winner": {
+        "name": "Villalobos (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/6/",
+      "winner": {
+        "name": "Likealot",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/7/",
+      "winner": {
+        "name": "Salaria (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/8/",
+      "winner": {
+        "name": "Bownder (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/lingfield-park/30/9/",
+      "winner": {
+        "name": "Alafdhal (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/newcastle/35/1/",
+      "winner": {
+        "name": "Return To Dubai (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/newcastle/35/2/",
+      "winner": {
+        "name": "Art Gallery (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/newcastle/35/3/",
+      "winner": {
+        "name": "Dalamara",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/newcastle/35/4/",
+      "winner": {
+        "name": "Bowfell",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/newcastle/35/5/",
+      "winner": {
+        "name": "Up The Agenda (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/newcastle/35/6/",
+      "winner": {
+        "name": "Aisling Oscar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/newcastle/35/7/",
+      "winner": {
+        "name": "Bajan Bandit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/newcastle/35/8/",
+      "winner": {
+        "name": "State Of Madness",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "12:52",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/southwell/47/1/",
+      "winner": {
+        "name": "The Bluesman (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:22",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/southwell/47/2/",
+      "winner": {
+        "name": "Flash In The Park (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:52",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/southwell/47/3/",
+      "winner": {
+        "name": "Old Habits (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/southwell/47/4/",
+      "winner": {
+        "name": "Looping D'arc (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/southwell/47/5/",
+      "winner": {
+        "name": "Stone's Throw",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:23",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/southwell/47/6/",
+      "winner": {
+        "name": "Always A Reason (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "13:13",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/ffos-las/50/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "13:43",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/ffos-las/50/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:13",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/ffos-las/50/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:43",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/ffos-las/50/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/ffos-las/50/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:48",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/ffos-las/50/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/clonmel/203/1/",
+      "winner": {
+        "name": "Mystic Malina (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/clonmel/203/2/",
+      "winner": {
+        "name": "Finnicky Filly (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/clonmel/203/3/",
+      "winner": {
+        "name": "Staffordshire Knot (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/clonmel/203/4/",
+      "winner": {
+        "name": "Parnell Street (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/clonmel/203/5/",
+      "winner": {
+        "name": "Great Island (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/clonmel/203/6/",
+      "winner": {
+        "name": "Ballinaboola Jet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/clonmel/203/7/",
+      "winner": {
+        "name": "Bridie's Beau (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/clonmel/203/8/",
+      "winner": {
+        "name": "He's Gorgeous (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/1/",
+      "winner": {
+        "name": "Plumbago Park (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/2/",
+      "winner": {
+        "name": "Tempranillo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/3/",
+      "winner": {
+        "name": "Frangipani (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/4/",
+      "winner": {
+        "name": "Diesel's Shadow (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/5/",
+      "winner": {
+        "name": "Arlington Action (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/6/",
+      "winner": {
+        "name": "Misty Metal (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/vaal/342/9/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/turffontein/341/9/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/fontainebleau/159/1/",
+      "winner": {
+        "name": "L'aziza Des Places (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "10:51",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/fontainebleau/159/2/",
+      "winner": {
+        "name": "Saint Patrice (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "11:23",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/fontainebleau/159/3/",
+      "winner": {
+        "name": "Jouvancelle (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "12:27",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/fontainebleau/159/4/",
+      "winner": {
+        "name": "Prestige D'olva (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/fontainebleau/159/5/",
+      "winner": {
+        "name": "Santcoko (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/fontainebleau/159/6/",
+      "winner": {
+        "name": "Jumpanjive",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/fontainebleau/159/7/",
+      "winner": {
+        "name": "Free And Easy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/02-december-2025/fontainebleau/159/8/",
+      "winner": {
+        "name": "Caitlin's Court (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
