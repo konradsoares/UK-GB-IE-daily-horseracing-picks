@@ -1,0 +1,449 @@
+{
+  "date": "2025-12-08",
+  "results": [
+    {
+      "course": "Musselburgh",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/musselburgh/15/1/",
+      "winner": {
+        "name": "Red Oak (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/musselburgh/15/2/",
+      "winner": {
+        "name": "Newport",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/musselburgh/15/3/",
+      "winner": {
+        "name": "Rossbridge (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/musselburgh/15/4/",
+      "winner": {
+        "name": "You Did (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/musselburgh/15/5/",
+      "winner": {
+        "name": "Benefit Ben (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/musselburgh/15/6/",
+      "winner": {
+        "name": "Passing Pleasure",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/fontwell-park/19/1/",
+      "winner": {
+        "name": "The Bellhop (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/fontwell-park/19/2/",
+      "winner": {
+        "name": "Atreides (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/fontwell-park/19/3/",
+      "winner": {
+        "name": "Mask Of Zorro (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/fontwell-park/19/4/",
+      "winner": {
+        "name": "Queen's Theatre",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/fontwell-park/19/5/",
+      "winner": {
+        "name": "Mutley Crew (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/fontwell-park/19/6/",
+      "winner": {
+        "name": "Calshot Spit (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "11:07",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/1/",
+      "winner": {
+        "name": "Lord Harcourt",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "11:37",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/2/",
+      "winner": {
+        "name": "Oracle Mission",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:07",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/3/",
+      "winner": {
+        "name": "Towerlands (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:37",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/4/",
+      "winner": {
+        "name": "Fascinating Shadow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:07",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/5/",
+      "winner": {
+        "name": "Counsel",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:37",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/6/",
+      "winner": {
+        "name": "Twilight Moon",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/7/",
+      "winner": {
+        "name": "Dandy Khan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/8/",
+      "winner": {
+        "name": "Poke The Bear (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/lingfield-park/30/9/",
+      "winner": {
+        "name": "Tortured Soul",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/1/",
+      "winner": {
+        "name": "Snaafy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/2/",
+      "winner": {
+        "name": "Sassicaia (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/3/",
+      "winner": {
+        "name": "Mersea Island (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/4/",
+      "winner": {
+        "name": "Side Deal (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/5/",
+      "winner": {
+        "name": "Stratusnine (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/6/",
+      "winner": {
+        "name": "No Knee Never (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/7/",
+      "winner": {
+        "name": "Twilight Madness",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/8/",
+      "winner": {
+        "name": "Blue Force (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/wolverhampton/58/9/",
+      "winner": {
+        "name": "Bella Bisbee",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/cagnessurmer/136/1/",
+      "winner": {
+        "name": "Jarze (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/cagnessurmer/136/2/",
+      "winner": {
+        "name": "Toastmaster (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/cagnessurmer/136/3/",
+      "winner": {
+        "name": "Feu De Dieu (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/cagnessurmer/136/4/",
+      "winner": {
+        "name": "Style D'emirs (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/cagnessurmer/136/5/",
+      "winner": {
+        "name": "Wishful Eyes (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/cagnessurmer/136/6/",
+      "winner": {
+        "name": "Alonzo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-december-2025/cagnessurmer/136/7/",
+      "winner": {
+        "name": "Dixan Senora (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
