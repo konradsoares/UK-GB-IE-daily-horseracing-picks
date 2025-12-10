@@ -1,0 +1,470 @@
+{
+  "date": "2025-12-09",
+  "results": [
+    {
+      "course": "Ayr",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/ayr/2/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/ayr/2/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/ayr/2/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/ayr/2/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/ayr/2/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/ayr/2/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/ayr/2/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:18",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/1/",
+      "winner": {
+        "name": "Mr Zippi",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/2/",
+      "winner": {
+        "name": "Yy Spirit (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/3/",
+      "winner": {
+        "name": "Dolos Dream",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/4/",
+      "winner": {
+        "name": "Paddy's Day (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/5/",
+      "winner": {
+        "name": "Priapos (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/6/",
+      "winner": {
+        "name": "Concert Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/7/",
+      "winner": {
+        "name": "Platino Bianco (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/8/",
+      "winner": {
+        "name": "Yorkshire Glory (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/newcastle/35/9/",
+      "winner": {
+        "name": "Latin Five (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/uttoxeter/53/1/",
+      "winner": {
+        "name": "Fingle Bridge (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/uttoxeter/53/2/",
+      "winner": {
+        "name": "Jalisco Star (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/uttoxeter/53/3/",
+      "winner": {
+        "name": "Baron Noir (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/uttoxeter/53/4/",
+      "winner": {
+        "name": "Itseemslikeit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/uttoxeter/53/5/",
+      "winner": {
+        "name": "Authodidacte (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:33",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/uttoxeter/53/6/",
+      "winner": {
+        "name": "Analiese",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/punchestown/222/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/punchestown/222/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/punchestown/222/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/punchestown/222/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/punchestown/222/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/punchestown/222/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/punchestown/222/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "15:23",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/punchestown/222/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/greyville/339/1/",
+      "winner": {
+        "name": "Gorgeous Bomb (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/greyville/339/2/",
+      "winner": {
+        "name": "Malshana Mou (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/greyville/339/3/",
+      "winner": {
+        "name": "Parliament Square (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/greyville/339/4/",
+      "winner": {
+        "name": "Eventidor (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/greyville/339/5/",
+      "winner": {
+        "name": "Winter Waves (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/greyville/339/6/",
+      "winner": {
+        "name": "Mrsglittersparkles (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/greyville/339/7/",
+      "winner": {
+        "name": "Beautiful Rania (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/greyville/339/8/",
+      "winner": {
+        "name": "United Nation (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/fontainebleau/159/1/",
+      "winner": {
+        "name": "Girolle De Sivola (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "11:17",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/fontainebleau/159/2/",
+      "winner": {
+        "name": "Macarena Du Rib (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "11:52",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/fontainebleau/159/3/",
+      "winner": {
+        "name": "Capitaine Dino (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "12:27",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/fontainebleau/159/4/",
+      "winner": {
+        "name": "Laccio Conti (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/fontainebleau/159/5/",
+      "winner": {
+        "name": "Soledad Nonantaise (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/fontainebleau/159/6/",
+      "winner": {
+        "name": "Mieszko (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontainebleau",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/09-december-2025/fontainebleau/159/7/",
+      "winner": {
+        "name": "J'ai La Cote (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
