@@ -1,0 +1,629 @@
+{
+  "date": "2025-12-10",
+  "results": [
+    {
+      "course": "Hereford",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hereford/23/1/",
+      "winner": {
+        "name": "Soomaroy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hereford/23/2/",
+      "winner": {
+        "name": "Vol Royale (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hereford/23/3/",
+      "winner": {
+        "name": "Laguna Beach (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hereford/23/4/",
+      "winner": {
+        "name": "Golan Loop (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hereford/23/5/",
+      "winner": {
+        "name": "Despereaux (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hereford/23/6/",
+      "winner": {
+        "name": "Kingcormac (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hereford/23/7/",
+      "winner": {
+        "name": "Jamaicaine (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hexham",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hexham/24/1/",
+      "winner": {
+        "name": "Azahara Palace",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hexham",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hexham/24/2/",
+      "winner": {
+        "name": "Tashkhan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hexham",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hexham/24/3/",
+      "winner": {
+        "name": "King Gris (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hexham",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hexham/24/4/",
+      "winner": {
+        "name": "Adveram",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hexham",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hexham/24/5/",
+      "winner": {
+        "name": "Heeztheboy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hexham",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/hexham/24/6/",
+      "winner": {
+        "name": "Stick With Me Sam (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/1/",
+      "winner": {
+        "name": "Asmeralda (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/2/",
+      "winner": {
+        "name": "Botagoz (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/3/",
+      "winner": {
+        "name": "Gunlock (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/4/",
+      "winner": {
+        "name": "Beccadelli",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/5/",
+      "winner": {
+        "name": "Nation's Hope (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/6/",
+      "winner": {
+        "name": "Hierarchy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/7/",
+      "winner": {
+        "name": "Berkshire Sundance (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/8/",
+      "winner": {
+        "name": "Adace",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kempton-park/27/9/",
+      "winner": {
+        "name": "Up The Anti (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/leicester/29/1/",
+      "winner": {
+        "name": "Thankyouandplease (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/leicester/29/2/",
+      "winner": {
+        "name": "Amazing Cleni (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/leicester/29/3/",
+      "winner": {
+        "name": "The Cistercian (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/leicester/29/4/",
+      "winner": {
+        "name": "Irish Chorus",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/leicester/29/5/",
+      "winner": {
+        "name": "Kicour La (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/leicester/29/6/",
+      "winner": {
+        "name": "Jet Plane (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/leicester/29/7/",
+      "winner": {
+        "name": "Lady Henrietta",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/dundalk/207/1/",
+      "winner": {
+        "name": "Heaven's Wish (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/dundalk/207/2/",
+      "winner": {
+        "name": "Benavente",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/dundalk/207/3/",
+      "winner": {
+        "name": "Kartayaz (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/dundalk/207/4/",
+      "winner": {
+        "name": "Spy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/dundalk/207/5/",
+      "winner": {
+        "name": "Mo Mhuirin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/dundalk/207/6/",
+      "winner": {
+        "name": "Kc Bear (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/dundalk/207/7/",
+      "winner": {
+        "name": "Golden Trigger (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/dundalk/207/8/",
+      "winner": {
+        "name": "Lahore Da King (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/1/",
+      "winner": {
+        "name": "Vroom Vroom (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/2/",
+      "winner": {
+        "name": "Black Erika (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/3/",
+      "winner": {
+        "name": "Cassandra (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/4/",
+      "winner": {
+        "name": "Her World (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/5/",
+      "winner": {
+        "name": "Fast And Free (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/6/",
+      "winner": {
+        "name": "Pushing Limits (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/7/",
+      "winner": {
+        "name": "Demanding Dave (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:44",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/8/",
+      "winner": {
+        "name": "Ardabil (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/kenilworth/322/9/",
+      "winner": {
+        "name": "Chance Encounter (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/pau/175/1/",
+      "winner": {
+        "name": "Kapaca De Thaix (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/pau/175/2/",
+      "winner": {
+        "name": "Hip Hop Conti (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/pau/175/3/",
+      "winner": {
+        "name": "Elle A Tout Ca (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/pau/175/4/",
+      "winner": {
+        "name": "Glady Tiger (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/pau/175/5/",
+      "winner": {
+        "name": "New President (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/10-december-2025/pau/175/6/",
+      "winner": {
+        "name": "Royal Macan (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
