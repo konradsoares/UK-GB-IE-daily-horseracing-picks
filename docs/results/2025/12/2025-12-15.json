@@ -1,0 +1,497 @@
+{
+  "date": "2025-12-15",
+  "results": [
+    {
+      "course": "Lingfield Park",
+      "time": "11:12",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/1/",
+      "winner": {
+        "name": "Mad Unicorn",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "11:42",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/2/",
+      "winner": {
+        "name": "Angel Gabriel (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:12",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/3/",
+      "winner": {
+        "name": "Felicitas",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:42",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/4/",
+      "winner": {
+        "name": "Gogo Yubari",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/5/",
+      "winner": {
+        "name": "All Too Beautiful",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:42",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/6/",
+      "winner": {
+        "name": "Tommy's Promise",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:12",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/7/",
+      "winner": {
+        "name": "Three On Thursday (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/8/",
+      "winner": {
+        "name": "Nebula Stars (Aus)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/lingfield-park/30/9/",
+      "winner": {
+        "name": "Duke's Command",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/plumpton/40/1/",
+      "winner": {
+        "name": "Adonedeal (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/plumpton/40/2/",
+      "winner": {
+        "name": "Jubilant (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/plumpton/40/3/",
+      "winner": {
+        "name": "The Boss Bear (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/plumpton/40/4/",
+      "winner": {
+        "name": "Avada Kedavra (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/plumpton/40/5/",
+      "winner": {
+        "name": "Lady Pretender (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/plumpton/40/6/",
+      "winner": {
+        "name": "Grand Conqueror (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/plumpton/40/7/",
+      "winner": {
+        "name": "Joan's Choice (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/1/",
+      "winner": {
+        "name": "Horwich",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/2/",
+      "winner": {
+        "name": "Enola Grey (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/3/",
+      "winner": {
+        "name": "Thanh Nam",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/4/",
+      "winner": {
+        "name": "Siouxfonic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/5/",
+      "winner": {
+        "name": "Alligator Alley",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/6/",
+      "winner": {
+        "name": "Arc Zoosve",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/7/",
+      "winner": {
+        "name": "Monty Beau",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/8/",
+      "winner": {
+        "name": "Rajapour (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/wolverhampton/58/9/",
+      "winner": {
+        "name": "King Of Bears (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/naas/219/1/",
+      "winner": {
+        "name": "Prends Garde A Toi (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/naas/219/2/",
+      "winner": {
+        "name": "The Big Cloud (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/naas/219/3/",
+      "winner": {
+        "name": "It's Bobsled Time",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/naas/219/4/",
+      "winner": {
+        "name": "Open Secret",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/naas/219/5/",
+      "winner": {
+        "name": "Shellrunforbriggs (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/naas/219/6/",
+      "winner": {
+        "name": "Oldschool Outlaw (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/naas/219/7/",
+      "winner": {
+        "name": "River Vale (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/naas/219/8/",
+      "winner": {
+        "name": "Tiktok Casey (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/cagnessurmer/136/1/",
+      "winner": {
+        "name": "Chateau La Barre (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/cagnessurmer/136/2/",
+      "winner": {
+        "name": "Quonstantine (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/cagnessurmer/136/3/",
+      "winner": {
+        "name": "Isaac Of York (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/cagnessurmer/136/4/",
+      "winner": {
+        "name": "Pyravol Laujac (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/cagnessurmer/136/5/",
+      "winner": {
+        "name": "Le Colombar (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/cagnessurmer/136/6/",
+      "winner": {
+        "name": "Iron Barks (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/cagnessurmer/136/7/",
+      "winner": {
+        "name": "Illaho (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/15-december-2025/cagnessurmer/136/8/",
+      "winner": {
+        "name": "Kissy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
