@@ -1,0 +1,480 @@
+{
+  "date": "2025-12-22",
+  "results": [
+    {
+      "course": "Musselburgh",
+      "time": "12:38",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/musselburgh/15/1/",
+      "winner": {
+        "name": "Judicial Deference (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "13:08",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/musselburgh/15/2/",
+      "winner": {
+        "name": "O'faolains Glory (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "13:38",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/musselburgh/15/3/",
+      "winner": {
+        "name": "Magna Victor",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "14:08",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/musselburgh/15/4/",
+      "winner": {
+        "name": "Forged Well (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "14:38",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/musselburgh/15/5/",
+      "winner": {
+        "name": "Reflection Of You",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "15:08",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/musselburgh/15/6/",
+      "winner": {
+        "name": "Kilaro (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/huntingdon/25/1/",
+      "winner": {
+        "name": "Watamu",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/huntingdon/25/2/",
+      "winner": {
+        "name": "Impatient (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/huntingdon/25/3/",
+      "winner": {
+        "name": "Rehill Relic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/huntingdon/25/4/",
+      "winner": {
+        "name": "Albie Littlewood (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/huntingdon/25/5/",
+      "winner": {
+        "name": "Benvoy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/huntingdon/25/6/",
+      "winner": {
+        "name": "Touquet (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/huntingdon/25/7/",
+      "winner": {
+        "name": "Milpat (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/1/",
+      "winner": {
+        "name": "Guildmaster (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/2/",
+      "winner": {
+        "name": "Port Of London (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/3/",
+      "winner": {
+        "name": "Tokyo Joe",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/4/",
+      "winner": {
+        "name": "Giorgio M (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/5/",
+      "winner": {
+        "name": "Sam's Xpress (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/6/",
+      "winner": {
+        "name": "Homme De Fer",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/7/",
+      "winner": {
+        "name": "Jackson Street (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/8/",
+      "winner": {
+        "name": "Watermelon Sugar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/lingfield-park/30/9/",
+      "winner": {
+        "name": "Tommy's Promise",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/1/",
+      "winner": {
+        "name": "Free Your Spirit (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/2/",
+      "winner": {
+        "name": "U S S Charleston",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/3/",
+      "winner": {
+        "name": "Gustav Graves",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/4/",
+      "winner": {
+        "name": "Papa Don't Preach (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/5/",
+      "winner": {
+        "name": "Lady Of Arabia",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/6/",
+      "winner": {
+        "name": "Rastnet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/7/",
+      "winner": {
+        "name": "Love Your Work (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/8/",
+      "winner": {
+        "name": "Tuba",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/wolverhampton/58/9/",
+      "winner": {
+        "name": "Accrual",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/fairview-south-africa/417/1/",
+      "winner": {
+        "name": "Originator (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/fairview-south-africa/417/2/",
+      "winner": {
+        "name": "Smiddyburn (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/fairview-south-africa/417/3/",
+      "winner": {
+        "name": "Royal Missy (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/fairview-south-africa/417/4/",
+      "winner": {
+        "name": "Global Drumbeat (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/fairview-south-africa/417/5/",
+      "winner": {
+        "name": "Fairy Knight (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/fairview-south-africa/417/6/",
+      "winner": {
+        "name": "Baie Mooi (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/fairview-south-africa/417/7/",
+      "winner": {
+        "name": "Hoerikwaggo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/fairview-south-africa/417/8/",
+      "winner": {
+        "name": "Teerex (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Deauville",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-december-2025/deauville/70/1/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
