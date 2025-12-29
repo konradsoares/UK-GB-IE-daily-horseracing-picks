@@ -1,0 +1,661 @@
+{
+  "date": "2025-12-28",
+  "results": [
+    {
+      "course": "Catterick Bridge",
+      "time": "12:18",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/catterick-bridge/9/1/",
+      "winner": {
+        "name": "Couldbeaweapon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "12:53",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/catterick-bridge/9/2/",
+      "winner": {
+        "name": "Kaka's Cousin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "13:28",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/catterick-bridge/9/3/",
+      "winner": {
+        "name": "Supreme George (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:03",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/catterick-bridge/9/4/",
+      "winner": {
+        "name": "Ninna Collina",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:38",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/catterick-bridge/9/5/",
+      "winner": {
+        "name": "Valence D'aumont (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:13",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/catterick-bridge/9/6/",
+      "winner": {
+        "name": "Soldierofthestorm (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leicester/29/1/",
+      "winner": {
+        "name": "Roi Du Risk (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "12:37",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leicester/29/2/",
+      "winner": {
+        "name": "Ballymackie (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leicester/29/3/",
+      "winner": {
+        "name": "Casa Loupi",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leicester/29/4/",
+      "winner": {
+        "name": "Rodney (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leicester/29/5/",
+      "winner": {
+        "name": "Jhentong Enki (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leicester/29/6/",
+      "winner": {
+        "name": "Heeztheboy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "15:32",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leicester/29/7/",
+      "winner": {
+        "name": "Double Oban",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/southwell/47/1/",
+      "winner": {
+        "name": "Fight Your Corner (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/southwell/47/2/",
+      "winner": {
+        "name": "Eligible (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/southwell/47/3/",
+      "winner": {
+        "name": "Lake Como (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/southwell/47/4/",
+      "winner": {
+        "name": "All Moonshine",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/southwell/47/5/",
+      "winner": {
+        "name": "Hunky Dory",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/southwell/47/6/",
+      "winner": {
+        "name": "Sax Appeal",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/southwell/47/7/",
+      "winner": {
+        "name": "Ziggy's Triton (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/southwell/47/8/",
+      "winner": {
+        "name": "Mr Nugget",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leopardstown/214/1/",
+      "winner": {
+        "name": "Lazare De Star (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leopardstown/214/2/",
+      "winner": {
+        "name": "The Nagger Reidy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leopardstown/214/3/",
+      "winner": {
+        "name": "Koktail Divin (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leopardstown/214/4/",
+      "winner": {
+        "name": "Teahupoo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leopardstown/214/5/",
+      "winner": {
+        "name": "Affordale Fury (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leopardstown/214/6/",
+      "winner": {
+        "name": "Duke Silver (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/leopardstown/214/7/",
+      "winner": {
+        "name": "Bentraghhill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/limerick/215/1/",
+      "winner": {
+        "name": "King Rasko Grey (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/limerick/215/2/",
+      "winner": {
+        "name": "You Proof (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/limerick/215/3/",
+      "winner": {
+        "name": "Final Demand (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/limerick/215/4/",
+      "winner": {
+        "name": "Ballybawn Belter (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/limerick/215/5/",
+      "winner": {
+        "name": "Joyau De Thaix (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/limerick/215/6/",
+      "winner": {
+        "name": "Dalmatic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/limerick/215/7/",
+      "winner": {
+        "name": "Rojuco Mac (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/scottsville/398/1/",
+      "winner": {
+        "name": "Son Of Rafeef (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/scottsville/398/2/",
+      "winner": {
+        "name": "Lilac In Winter (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/scottsville/398/3/",
+      "winner": {
+        "name": "Christmas Cactus (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/scottsville/398/4/",
+      "winner": {
+        "name": "Agrado (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/scottsville/398/5/",
+      "winner": {
+        "name": "Warrior Royale (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/scottsville/398/6/",
+      "winner": {
+        "name": "Wild Justice (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/scottsville/398/7/",
+      "winner": {
+        "name": "Light Of Gabriel (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/scottsville/398/8/",
+      "winner": {
+        "name": "Sneeuwitjie (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/greyville/339/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/greyville/339/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/greyville/339/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/greyville/339/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/greyville/339/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/greyville/339/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/greyville/339/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/greyville/339/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "10:28",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/pau/175/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "10:59",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/pau/175/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "11:31",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/pau/175/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:03",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/pau/175/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/pau/175/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/pau/175/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/santa-anita/132/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/santa-anita/132/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/santa-anita/132/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/santa-anita/132/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/santa-anita/132/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/28-december-2025/santa-anita/132/6/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
