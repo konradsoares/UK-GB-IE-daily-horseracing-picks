@@ -1,0 +1,505 @@
+{
+  "date": "2025-12-31",
+  "results": [
+    {
+      "course": "Lingfield Park",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/lingfield-park/30/1/",
+      "winner": {
+        "name": "Marseillan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/lingfield-park/30/2/",
+      "winner": {
+        "name": "Cryingintherain",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/lingfield-park/30/3/",
+      "winner": {
+        "name": "Lord Harcourt",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/lingfield-park/30/4/",
+      "winner": {
+        "name": "Baldomero (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/lingfield-park/30/5/",
+      "winner": {
+        "name": "Nebras",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/lingfield-park/30/6/",
+      "winner": {
+        "name": "Invited",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/lingfield-park/30/7/",
+      "winner": {
+        "name": "Handle With Care",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/lingfield-park/30/8/",
+      "winner": {
+        "name": "Lazzar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "12:43",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/uttoxeter/53/1/",
+      "winner": {
+        "name": "John Barbour",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "13:13",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/uttoxeter/53/2/",
+      "winner": {
+        "name": "Bollin Thou",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "13:43",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/uttoxeter/53/3/",
+      "winner": {
+        "name": "Lon Chaney (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "14:13",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/uttoxeter/53/4/",
+      "winner": {
+        "name": "Postponed Legacy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "14:43",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/uttoxeter/53/5/",
+      "winner": {
+        "name": "Jacques Clouseau (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:13",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/uttoxeter/53/6/",
+      "winner": {
+        "name": "Express Surprise (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/uttoxeter/53/7/",
+      "winner": {
+        "name": "Millstatt Abbey (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/warwick/54/1/",
+      "winner": {
+        "name": "Happy And Fine (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "12:52",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/warwick/54/2/",
+      "winner": {
+        "name": "Indannya (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "13:22",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/warwick/54/3/",
+      "winner": {
+        "name": "Following Chapter",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "13:52",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/warwick/54/4/",
+      "winner": {
+        "name": "Roger Rarebit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/warwick/54/5/",
+      "winner": {
+        "name": "Benign Dictator (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/warwick/54/6/",
+      "winner": {
+        "name": "Stick With Me Sam (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "15:22",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/warwick/54/7/",
+      "winner": {
+        "name": "Risky Obsession (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/punchestown/222/1/",
+      "winner": {
+        "name": "Argento Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/punchestown/222/2/",
+      "winner": {
+        "name": "Sammy Smart",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/punchestown/222/3/",
+      "winner": {
+        "name": "Immediate Effect",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/punchestown/222/4/",
+      "winner": {
+        "name": "El Fabiolo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/punchestown/222/5/",
+      "winner": {
+        "name": "Linden Arden (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/punchestown/222/6/",
+      "winner": {
+        "name": "Dameauscottlestown (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/punchestown/222/7/",
+      "winner": {
+        "name": "Lilannbee",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/greyville/339/1/",
+      "winner": {
+        "name": "Sun In My Pocket (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:25",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/greyville/339/2/",
+      "winner": {
+        "name": "Run For Peace (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/greyville/339/3/",
+      "winner": {
+        "name": "Tee Dog (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/greyville/339/4/",
+      "winner": {
+        "name": "Mohandas (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/greyville/339/5/",
+      "winner": {
+        "name": "Salani Kahle (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/greyville/339/6/",
+      "winner": {
+        "name": "Flying Reign Storm (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/greyville/339/7/",
+      "winner": {
+        "name": "El Rey Viene (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/greyville/339/8/",
+      "winner": {
+        "name": "L'ultimo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/pau/175/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "11:28",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/pau/175/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/pau/175/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/pau/175/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/pau/175/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/pau/175/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/pau/175/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/31-december-2025/pau/175/8/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
