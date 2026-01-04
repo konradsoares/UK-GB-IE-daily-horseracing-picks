@@ -1,0 +1,617 @@
+{
+  "date": "2026-01-03",
+  "results": [
+    {
+      "course": "Lingfield Park",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "All Too Beautiful",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Fille Imbassee",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Maskatto",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Repertoire",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "Mio Amico",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Charlie's Choice",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "Dandy Khan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:29",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/lingfield-park/30/8/",
+      "winner": {
+        "name": "Naval Ensign (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/newcastle/35/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "12:22",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/newcastle/35/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "12:52",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/newcastle/35/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "13:22",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/newcastle/35/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "13:57",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/newcastle/35/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/newcastle/35/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/newcastle/35/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/sandown-park/45/1/",
+      "winner": {
+        "name": "Sinnatra (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/sandown-park/45/2/",
+      "winner": {
+        "name": "Vanderpoel (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/sandown-park/45/3/",
+      "winner": {
+        "name": "Range (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/sandown-park/45/4/",
+      "winner": {
+        "name": "Triple Trade",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/sandown-park/45/5/",
+      "winner": {
+        "name": "Nurse Susan (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/sandown-park/45/6/",
+      "winner": {
+        "name": "Nocte Volatus",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/sandown-park/45/7/",
+      "winner": {
+        "name": "All In You (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/southwell/47/1/",
+      "winner": {
+        "name": "Dartrey (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/southwell/47/2/",
+      "winner": {
+        "name": "Brazilian Rose (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/southwell/47/3/",
+      "winner": {
+        "name": "Moyowasi",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/southwell/47/4/",
+      "winner": {
+        "name": "Operation Gimcrack (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/southwell/47/5/",
+      "winner": {
+        "name": "Talis Evolvere (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/southwell/47/6/",
+      "winner": {
+        "name": "Jungle Ruler (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/southwell/47/7/",
+      "winner": {
+        "name": "Nunc Est Bibendum (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/southwell/47/8/",
+      "winner": {
+        "name": "Tortured Soul",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "12:27",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/wincanton/56/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "12:57",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/wincanton/56/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/wincanton/56/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/wincanton/56/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/wincanton/56/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/wincanton/56/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/wincanton/56/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/cork/218/1/",
+      "winner": {
+        "name": "The Reverend",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/cork/218/2/",
+      "winner": {
+        "name": "Tatateo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/cork/218/3/",
+      "winner": {
+        "name": "Rebel Budz (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/cork/218/4/",
+      "winner": {
+        "name": "Cousin Kate (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "14:47",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/cork/218/5/",
+      "winner": {
+        "name": "Way Down South (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "15:22",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/cork/218/6/",
+      "winner": {
+        "name": "Milan Forth (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "15:57",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/cork/218/7/",
+      "winner": {
+        "name": "Moonverrin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/1/",
+      "winner": {
+        "name": "Chapbook (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/2/",
+      "winner": {
+        "name": "Gulf Of America (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/3/",
+      "winner": {
+        "name": "Lovable (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/4/",
+      "winner": {
+        "name": "The Playboy Bomber (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/5/",
+      "winner": {
+        "name": "Radio Star (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/6/",
+      "winner": {
+        "name": "Fostinovo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/7/",
+      "winner": {
+        "name": "Chrome Tourmaline (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/turffontein/341/9/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "10:27",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/pau/175/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "10:59",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/pau/175/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "11:31",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/pau/175/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:03",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/pau/175/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/pau/175/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/pau/175/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/pau/175/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/03-january-2026/pau/175/8/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
