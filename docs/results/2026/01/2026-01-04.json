@@ -1,0 +1,459 @@
+{
+  "date": "2026-01-04",
+  "results": [
+    {
+      "course": "Chepstow",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/chepstow/11/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/chepstow/11/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/chepstow/11/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/chepstow/11/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/chepstow/11/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/chepstow/11/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/chepstow/11/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/plumpton/40/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/plumpton/40/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/plumpton/40/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/plumpton/40/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/plumpton/40/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/plumpton/40/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:42",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/plumpton/40/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/1/",
+      "winner": {
+        "name": "Dapper Gee Gee",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/2/",
+      "winner": {
+        "name": "Down To The Kid (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/3/",
+      "winner": {
+        "name": "Magna",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/4/",
+      "winner": {
+        "name": "Call Glory (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/5/",
+      "winner": {
+        "name": "Existent",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/6/",
+      "winner": {
+        "name": "Arlington",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/7/",
+      "winner": {
+        "name": "Duchess (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/8/",
+      "winner": {
+        "name": "Moon Over The Sea",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/southwell/47/9/",
+      "winner": {
+        "name": "Timely Affair",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/naas/219/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/naas/219/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/naas/219/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/naas/219/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/naas/219/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/naas/219/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/naas/219/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/1/",
+      "winner": {
+        "name": "Wave Of Glory (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/2/",
+      "winner": {
+        "name": "Digby (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/3/",
+      "winner": {
+        "name": "Backinthefastlane (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/4/",
+      "winner": {
+        "name": "Eric Liddell (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/5/",
+      "winner": {
+        "name": "Gentleman Joe (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/6/",
+      "winner": {
+        "name": "Foudre (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/7/",
+      "winner": {
+        "name": "Kinda Wonderful (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/8/",
+      "winner": {
+        "name": "Dream Searcher (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/kenilworth/322/9/",
+      "winner": {
+        "name": "True Horizon (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "10:59",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/cagnessurmer/136/1/",
+      "winner": {
+        "name": "Philadelphie (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "11:31",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/cagnessurmer/136/2/",
+      "winner": {
+        "name": "Neva (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "12:03",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/cagnessurmer/136/3/",
+      "winner": {
+        "name": "Isaac Of York (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/cagnessurmer/136/4/",
+      "winner": {
+        "name": "Lockbatan Thom (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/cagnessurmer/136/5/",
+      "winner": {
+        "name": "Icare Du Seuil (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/cagnessurmer/136/6/",
+      "winner": {
+        "name": "Blekolina (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/cagnessurmer/136/7/",
+      "winner": {
+        "name": "Gemma Invicta (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/04-january-2026/santa-anita/132/1/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
