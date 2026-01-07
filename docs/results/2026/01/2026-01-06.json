@@ -1,0 +1,450 @@
+{
+  "date": "2026-01-06",
+  "results": [
+    {
+      "course": "Musselburgh",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/musselburgh/15/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/musselburgh/15/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/musselburgh/15/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/musselburgh/15/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/musselburgh/15/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/musselburgh/15/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Musselburgh",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/musselburgh/15/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/1/",
+      "winner": {
+        "name": "Popular Dream",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/2/",
+      "winner": {
+        "name": "Knight Of Magic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/3/",
+      "winner": {
+        "name": "Highfield Comrade",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/4/",
+      "winner": {
+        "name": "Live Each Day",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/5/",
+      "winner": {
+        "name": "Pride Eye",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/6/",
+      "winner": {
+        "name": "Imola (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/7/",
+      "winner": {
+        "name": "Ellusive Butterfly (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/8/",
+      "winner": {
+        "name": "Dartrey (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/southwell/47/9/",
+      "winner": {
+        "name": "Showtime Mahomes",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "My Champion",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Sovereign Wealth",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Secret Road (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "East Tyrone (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "Saffron Dandy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Echalar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "Appier (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/8/",
+      "winner": {
+        "name": "Latin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/wolverhampton/58/9/",
+      "winner": {
+        "name": "Fools Rush In (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/fairview-south-africa/417/1/",
+      "winner": {
+        "name": "Desert Cloud (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/fairview-south-africa/417/2/",
+      "winner": {
+        "name": "Intro (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/fairview-south-africa/417/3/",
+      "winner": {
+        "name": "Porfirio (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/fairview-south-africa/417/4/",
+      "winner": {
+        "name": "Xplicit Content (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/fairview-south-africa/417/5/",
+      "winner": {
+        "name": "Golden Pavilion (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/fairview-south-africa/417/6/",
+      "winner": {
+        "name": "Silva City (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/fairview-south-africa/417/7/",
+      "winner": {
+        "name": "Pomerol (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/fairview-south-africa/417/8/",
+      "winner": {
+        "name": "Welsh Starlet (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "10:51",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/cagnessurmer/136/1/",
+      "winner": {
+        "name": "Soria (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "11:23",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/cagnessurmer/136/2/",
+      "winner": {
+        "name": "Mandatory (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/cagnessurmer/136/3/",
+      "winner": {
+        "name": "Kucharsky (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "12:27",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/cagnessurmer/136/4/",
+      "winner": {
+        "name": "Prairie Samba (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/cagnessurmer/136/5/",
+      "winner": {
+        "name": "Royal Paloma (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/cagnessurmer/136/6/",
+      "winner": {
+        "name": "Priam Du Mesnil (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/06-january-2026/cagnessurmer/136/7/",
+      "winner": {
+        "name": "Dixan Senora (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
