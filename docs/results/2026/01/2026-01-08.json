@@ -1,0 +1,505 @@
+{
+  "date": "2026-01-08",
+  "results": [
+    {
+      "course": "Catterick Bridge",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/catterick-bridge/9/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/catterick-bridge/9/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/catterick-bridge/9/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/catterick-bridge/9/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/catterick-bridge/9/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/catterick-bridge/9/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/catterick-bridge/9/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/chelmsford-city/28/1/",
+      "winner": {
+        "name": "Evenepoel (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/chelmsford-city/28/2/",
+      "winner": {
+        "name": "Dubai Magic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/chelmsford-city/28/3/",
+      "winner": {
+        "name": "Sir Rodneyredblood",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/chelmsford-city/28/4/",
+      "winner": {
+        "name": "Damzon",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/chelmsford-city/28/5/",
+      "winner": {
+        "name": "Merrimack",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/chelmsford-city/28/6/",
+      "winner": {
+        "name": "High On Hope",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/chelmsford-city/28/7/",
+      "winner": {
+        "name": "Beachborough Girl",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/taunton/49/1/",
+      "winner": {
+        "name": "Calvino (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/taunton/49/2/",
+      "winner": {
+        "name": "Onlyforfrankie (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/taunton/49/3/",
+      "winner": {
+        "name": "Crest Of Stars (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/taunton/49/4/",
+      "winner": {
+        "name": "Hypotenus",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/taunton/49/5/",
+      "winner": {
+        "name": "Brave Knight",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/taunton/49/6/",
+      "winner": {
+        "name": "Unexpected Party (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/taunton/49/7/",
+      "winner": {
+        "name": "Broomfield Gale (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/ffos-las/50/1/",
+      "winner": {
+        "name": "Bossman Jack",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/ffos-las/50/2/",
+      "winner": {
+        "name": "Bobby's Nelson (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/ffos-las/50/3/",
+      "winner": {
+        "name": "Pour Les Filles",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/ffos-las/50/4/",
+      "winner": {
+        "name": "Fresh Speculation",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/ffos-las/50/5/",
+      "winner": {
+        "name": "Itseemslikeit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/ffos-las/50/6/",
+      "winner": {
+        "name": "Osterberg (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/ffos-las/50/7/",
+      "winner": {
+        "name": "El Gavilan (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/clonmel/203/1/",
+      "winner": {
+        "name": "Kilbrin Rocco (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/clonmel/203/2/",
+      "winner": {
+        "name": "I Walked The Line (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/clonmel/203/3/",
+      "winner": {
+        "name": "Santo Sospir (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/clonmel/203/4/",
+      "winner": {
+        "name": "Radiator Springs (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/clonmel/203/5/",
+      "winner": {
+        "name": "King Of Aces (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/clonmel/203/6/",
+      "winner": {
+        "name": "Our Uncle Jack (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Clonmel",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/clonmel/203/7/",
+      "winner": {
+        "name": "The Little Yank (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:15",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/1/",
+      "winner": {
+        "name": "Hubertus Hunt (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/2/",
+      "winner": {
+        "name": "Falconfly (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:25",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/3/",
+      "winner": {
+        "name": "Errol Flynn (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/4/",
+      "winner": {
+        "name": "Naretoi (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/5/",
+      "winner": {
+        "name": "Gerbera (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/6/",
+      "winner": {
+        "name": "Littlemissmillion (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/7/",
+      "winner": {
+        "name": "Opera Fan (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/8/",
+      "winner": {
+        "name": "Vamanos (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/vaal/342/9/",
+      "winner": {
+        "name": "Never Never Land (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-january-2026/santa-anita/132/1/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
