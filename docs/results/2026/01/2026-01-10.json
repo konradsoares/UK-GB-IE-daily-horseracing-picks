@@ -1,0 +1,589 @@
+{
+  "date": "2026-01-10",
+  "results": [
+    {
+      "course": "Kempton Park",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Baron Noir (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Lookaway (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Precious Man (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "The Doyen Chief (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "Edwardstone",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Iberico Lord (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:53",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Williethebuilder (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Francesi (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Tilsworth Max",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Secret Road (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Siam Ruby (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "Dream Pirate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Gogo Yubari",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "The Thames Boatman",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:38",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/lingfield-park/30/8/",
+      "winner": {
+        "name": "Damascus Steel (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Star Cast",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:47",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Eligible (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Eagles Whistle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Pink Socks (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Ted Le Saux",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Lord Capulet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Justmyluck",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/8/",
+      "winner": {
+        "name": "Spartan Fighter",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/newcastle/35/9/",
+      "winner": {
+        "name": "Athollblair Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/warwick/54/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/warwick/54/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "13:52",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/warwick/54/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/warwick/54/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/warwick/54/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "15:32",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/warwick/54/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "16:02",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/warwick/54/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/wetherby/55/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "12:52",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/wetherby/55/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/wetherby/55/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/wetherby/55/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/wetherby/55/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "15:03",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/wetherby/55/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "15:42",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/wetherby/55/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/fairyhouse/208/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/fairyhouse/208/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/fairyhouse/208/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/fairyhouse/208/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/fairyhouse/208/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:49",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/fairyhouse/208/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "15:24",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/fairyhouse/208/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/santa-anita/132/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "10:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/jebel-ali/172/1/",
+      "winner": {
+        "name": "Nam Phrik (Brz)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/jebel-ali/172/2/",
+      "winner": {
+        "name": "Yasup (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/jebel-ali/172/3/",
+      "winner": {
+        "name": "Whitegate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/jebel-ali/172/4/",
+      "winner": {
+        "name": "Indicate (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/jebel-ali/172/5/",
+      "winner": {
+        "name": "Excel Power (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Jebel Ali",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/jebel-ali/172/6/",
+      "winner": {
+        "name": "Mawhoob (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "10:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/9/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-january-2026/kenilworth/322/10/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
