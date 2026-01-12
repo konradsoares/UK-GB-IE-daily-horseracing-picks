@@ -1,0 +1,588 @@
+{
+  "date": "2026-01-11",
+  "results": [
+    {
+      "course": "Fontwell Park",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/fontwell-park/19/1/",
+      "winner": {
+        "name": "Legendary Luke (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/fontwell-park/19/2/",
+      "winner": {
+        "name": "Cooleenymore (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/fontwell-park/19/3/",
+      "winner": {
+        "name": "Limerick Lass (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/fontwell-park/19/4/",
+      "winner": {
+        "name": "Park Princess (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/fontwell-park/19/5/",
+      "winner": {
+        "name": "Mr Griffiths (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/fontwell-park/19/6/",
+      "winner": {
+        "name": "Alright Dai (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/fontwell-park/19/7/",
+      "winner": {
+        "name": "Bradman",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/kelso/26/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/kelso/26/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/kelso/26/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/kelso/26/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/kelso/26/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/kelso/26/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/kelso/26/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "13:42",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/chelmsford-city/28/1/",
+      "winner": {
+        "name": "Gogo Yubari",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "14:12",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/chelmsford-city/28/2/",
+      "winner": {
+        "name": "Waistcoat",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/chelmsford-city/28/3/",
+      "winner": {
+        "name": "Seraphic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/chelmsford-city/28/4/",
+      "winner": {
+        "name": "Marinakis (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "15:42",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/chelmsford-city/28/5/",
+      "winner": {
+        "name": "North View",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "16:12",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/chelmsford-city/28/6/",
+      "winner": {
+        "name": "Campani",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "16:42",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/chelmsford-city/28/7/",
+      "winner": {
+        "name": "Al Waqidi",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/punchestown/222/1/",
+      "winner": {
+        "name": "Banter At The Bar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/punchestown/222/2/",
+      "winner": {
+        "name": "Kappa Jy Pyke (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/punchestown/222/3/",
+      "winner": {
+        "name": "Diamond Dollar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/punchestown/222/4/",
+      "winner": {
+        "name": "Showurappreciation (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/punchestown/222/5/",
+      "winner": {
+        "name": "Sober (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/punchestown/222/6/",
+      "winner": {
+        "name": "I Started A Joke (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/punchestown/222/7/",
+      "winner": {
+        "name": "Powerful (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/santa-anita/132/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/santa-anita/132/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "11:31",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/pau/175/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:03",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/pau/175/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/pau/175/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/pau/175/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/1/",
+      "winner": {
+        "name": "Volcanic Heat (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/2/",
+      "winner": {
+        "name": "Spirit Of Gabz (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/3/",
+      "winner": {
+        "name": "Precocious (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/4/",
+      "winner": {
+        "name": "Fiery Rose (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/5/",
+      "winner": {
+        "name": "Navajo Nation (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/6/",
+      "winner": {
+        "name": "Pressonregardless (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/7/",
+      "winner": {
+        "name": "Warm Reception (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/8/",
+      "winner": {
+        "name": "Splittheeights (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/9/",
+      "winner": {
+        "name": "Almond Sea (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/turffontein/341/10/",
+      "winner": {
+        "name": "There She Goes (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "09:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/1/",
+      "winner": {
+        "name": "Ode To The Sea (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/2/",
+      "winner": {
+        "name": "Global Trend (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/3/",
+      "winner": {
+        "name": "Penan Nom (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/4/",
+      "winner": {
+        "name": "Scarlet Starlet (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/5/",
+      "winner": {
+        "name": "Past And Present (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/6/",
+      "winner": {
+        "name": "Fine Wine (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/7/",
+      "winner": {
+        "name": "Down By The River (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/8/",
+      "winner": {
+        "name": "Cowdray Park (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/9/",
+      "winner": {
+        "name": "Hithemhardsunshine (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-january-2026/scottsville/398/10/",
+      "winner": {
+        "name": "Definitely Yes (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
