@@ -1,0 +1,437 @@
+{
+  "date": "2026-01-14",
+  "results": [
+    {
+      "course": "Kempton Park",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Vizzavona Lady (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Pave The Way",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Jazzy Baby",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "Liv My Life (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "Utmost Good Faith",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Serenity Dream (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Sisterandbrother",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Rogue Rebellion",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Forest Gunner (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Chamas (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Karakula Dancer",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "Hardstyle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Mick's Spirit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "Haveagobeau",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/lingfield-park/30/8/",
+      "winner": {
+        "name": "Maximising (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/newbury/34/1/",
+      "winner": {
+        "name": "Sober Glory (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/newbury/34/2/",
+      "winner": {
+        "name": "Fire Warning (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/newbury/34/3/",
+      "winner": {
+        "name": "Matiwo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/newbury/34/4/",
+      "winner": {
+        "name": "Top Target (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/newbury/34/5/",
+      "winner": {
+        "name": "C'est Different (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/newbury/34/6/",
+      "winner": {
+        "name": "Panic Attack (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/newbury/34/7/",
+      "winner": {
+        "name": "General Briar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/fairyhouse/208/1/",
+      "winner": {
+        "name": "Proactif (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/fairyhouse/208/2/",
+      "winner": {
+        "name": "Bambino Fever (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/fairyhouse/208/3/",
+      "winner": {
+        "name": "From The Ashes (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/fairyhouse/208/4/",
+      "winner": {
+        "name": "Western Diego (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/fairyhouse/208/5/",
+      "winner": {
+        "name": "Port Joulain (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/fairyhouse/208/6/",
+      "winner": {
+        "name": "Nelson County (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/fairyhouse/208/7/",
+      "winner": {
+        "name": "The Wager (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/greyville/339/1/",
+      "winner": {
+        "name": "Chasing Gold (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:45",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/greyville/339/2/",
+      "winner": {
+        "name": "Imposing (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/greyville/339/3/",
+      "winner": {
+        "name": "Back At The George (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/greyville/339/4/",
+      "winner": {
+        "name": "Basie Raakvat (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/greyville/339/5/",
+      "winner": {
+        "name": "Poursomesugaronme (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/greyville/339/6/",
+      "winner": {
+        "name": "Umzingeli Wenyathi (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/14-january-2026/greyville/339/7/",
+      "winner": {
+        "name": "Dawn Surprise (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
