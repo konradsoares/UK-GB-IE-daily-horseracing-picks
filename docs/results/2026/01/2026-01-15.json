@@ -1,0 +1,581 @@
+{
+  "date": "2026-01-15",
+  "results": [
+    {
+      "course": "Chelmsford City",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/chelmsford-city/28/1/",
+      "winner": {
+        "name": "Gennadius",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/chelmsford-city/28/2/",
+      "winner": {
+        "name": "Lexington Jet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/chelmsford-city/28/3/",
+      "winner": {
+        "name": "My Boy Harry",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/chelmsford-city/28/4/",
+      "winner": {
+        "name": "Lazzar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/chelmsford-city/28/5/",
+      "winner": {
+        "name": "Relocal (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/chelmsford-city/28/6/",
+      "winner": {
+        "name": "Flicka's Girl",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/chelmsford-city/28/7/",
+      "winner": {
+        "name": "Hinchinbrooke",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "12:32",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/ludlow/32/1/",
+      "winner": {
+        "name": "Annie Express (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "13:07",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/ludlow/32/2/",
+      "winner": {
+        "name": "Catchintsavo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "13:42",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/ludlow/32/3/",
+      "winner": {
+        "name": "Mondoui'boy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:17",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/ludlow/32/4/",
+      "winner": {
+        "name": "Move With The Beat (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/ludlow/32/5/",
+      "winner": {
+        "name": "Railway Bell (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:27",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/ludlow/32/6/",
+      "winner": {
+        "name": "Java Point (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "16:02",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/ludlow/32/7/",
+      "winner": {
+        "name": "Stars Align (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "11:45",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Gaelic Rover (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Is This For Real (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Moon Phases (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Lewisham Grove (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Uptown Harry (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Cher Monsieur (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Always A Reason (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/newcastle/35/8/",
+      "winner": {
+        "name": "Ronnie Russet",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "12:07",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/wincanton/56/1/",
+      "winner": {
+        "name": "Major Fortune (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "12:42",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/wincanton/56/2/",
+      "winner": {
+        "name": "Gaelic Pride (Spa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "13:17",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/wincanton/56/3/",
+      "winner": {
+        "name": "Sinchi Roca (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "13:52",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/wincanton/56/4/",
+      "winner": {
+        "name": "Mr Zee (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:27",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/wincanton/56/5/",
+      "winner": {
+        "name": "Lucky Bere (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:02",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/wincanton/56/6/",
+      "winner": {
+        "name": "Champagne Chic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/wincanton/56/7/",
+      "winner": {
+        "name": "Rivers Corner",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/wincanton/56/8/",
+      "winner": {
+        "name": "Trojan Tale (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "11:53",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/fairyhouse/208/1/",
+      "winner": {
+        "name": "I Am Lorenzo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "12:23",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/fairyhouse/208/2/",
+      "winner": {
+        "name": "West Of Carrig (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "12:58",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/fairyhouse/208/3/",
+      "winner": {
+        "name": "Welluknow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/fairyhouse/208/4/",
+      "winner": {
+        "name": "Mighty Park (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:08",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/fairyhouse/208/5/",
+      "winner": {
+        "name": "Soldierstown (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:43",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/fairyhouse/208/6/",
+      "winner": {
+        "name": "Needs Must (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "15:18",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/fairyhouse/208/7/",
+      "winner": {
+        "name": "Kanog Bay (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "15:52",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/fairyhouse/208/8/",
+      "winner": {
+        "name": "Shanroe Act (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "09:40",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/1/",
+      "winner": {
+        "name": "Gift Of Royal (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:15",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/2/",
+      "winner": {
+        "name": "Quickfreeze (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/3/",
+      "winner": {
+        "name": "Bell Of Angelus (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:25",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/4/",
+      "winner": {
+        "name": "Cartagena (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/5/",
+      "winner": {
+        "name": "Titans Of War (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/6/",
+      "winner": {
+        "name": "Rollwiththepunches (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/7/",
+      "winner": {
+        "name": "Sutherland (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/8/",
+      "winner": {
+        "name": "I'm A Fireball (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/9/",
+      "winner": {
+        "name": "Northern Kitten (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/15-january-2026/vaal/342/10/",
+      "winner": {
+        "name": "Carnelo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
