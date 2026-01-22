@@ -1,0 +1,377 @@
+{
+  "date": "2026-01-21",
+  "results": [
+    {
+      "course": "Catterick Bridge",
+      "time": "12:47",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/catterick-bridge/9/1/",
+      "winner": {
+        "name": "Ladronne (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "13:17",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/catterick-bridge/9/2/",
+      "winner": {
+        "name": "Kosac D'oudairies (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/catterick-bridge/9/3/",
+      "winner": {
+        "name": "Marty Mcfly (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/catterick-bridge/9/4/",
+      "winner": {
+        "name": "Bathgate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/catterick-bridge/9/5/",
+      "winner": {
+        "name": "Defence Witness (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/catterick-bridge/9/6/",
+      "winner": {
+        "name": "Vampire Slayer (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/catterick-bridge/9/7/",
+      "winner": {
+        "name": "Nightflyer (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Only In Manila",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Breathe Easy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "City Cyclone",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "Knight Templar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "High On Hope",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Fight Your Corner (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Umbria (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/kempton-park/27/8/",
+      "winner": {
+        "name": "Cospicua",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Rising Force (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Allegrino (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Monks Mead",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Myna (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:38",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "Manhattan Chute (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:08",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Uncle Nader",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:38",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "Far Too Fizzy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:08",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/lingfield-park/30/8/",
+      "winner": {
+        "name": "Tiger Crusade (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/durbanville/460/1/",
+      "winner": {
+        "name": "Raffish Trend (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/durbanville/460/2/",
+      "winner": {
+        "name": "Prairie Dawn (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "11:45",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/durbanville/460/3/",
+      "winner": {
+        "name": "Amayah (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/durbanville/460/4/",
+      "winner": {
+        "name": "Waloyo Yamoni (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/durbanville/460/5/",
+      "winner": {
+        "name": "Midway (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/durbanville/460/6/",
+      "winner": {
+        "name": "Lovers Lane (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/durbanville/460/7/",
+      "winner": {
+        "name": "Gravity (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/21-january-2026/durbanville/460/8/",
+      "winner": {
+        "name": "Wyze Declaration (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
