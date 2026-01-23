@@ -1,0 +1,512 @@
+{
+  "date": "2026-01-22",
+  "results": [
+    {
+      "course": "Huntingdon",
+      "time": "12:28",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/huntingdon/25/1/",
+      "winner": {
+        "name": "Touquet (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "12:58",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/huntingdon/25/2/",
+      "winner": {
+        "name": "Double Measure (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/huntingdon/25/3/",
+      "winner": {
+        "name": "Call Me Arthur (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/huntingdon/25/4/",
+      "winner": {
+        "name": "Where's Cato (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/huntingdon/25/5/",
+      "winner": {
+        "name": "Albie Littlewood (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/huntingdon/25/6/",
+      "winner": {
+        "name": "Ace Of Spades (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "15:48",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/huntingdon/25/7/",
+      "winner": {
+        "name": "Emerald Quest (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Time Turner",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Elizabetty (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Contorno",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Dingle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Surgeon Commander (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Vantheman (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Aisling Oscar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/1/",
+      "winner": {
+        "name": "Sam's Hope",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/2/",
+      "winner": {
+        "name": "Cill Mocheallog (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/3/",
+      "winner": {
+        "name": "Rusheen Boy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/4/",
+      "winner": {
+        "name": "Brother Dave",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/5/",
+      "winner": {
+        "name": "Royal Jet",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/6/",
+      "winner": {
+        "name": "Prince Quattro (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/7/",
+      "winner": {
+        "name": "Alfred Spero",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/8/",
+      "winner": {
+        "name": "Mr Juggles",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/southwell/47/9/",
+      "winner": {
+        "name": "Albert Cee (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/wetherby/55/1/",
+      "winner": {
+        "name": "Klycot (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/wetherby/55/2/",
+      "winner": {
+        "name": "Starmount (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/wetherby/55/3/",
+      "winner": {
+        "name": "Geryville (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/wetherby/55/4/",
+      "winner": {
+        "name": "Eric Carmen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/wetherby/55/5/",
+      "winner": {
+        "name": "Celestial Fashion",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/wetherby/55/6/",
+      "winner": {
+        "name": "La Higuera (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/wetherby/55/7/",
+      "winner": {
+        "name": "Clondaw Royale (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/gowran-park/210/1/",
+      "winner": {
+        "name": "Champagne Jury (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/gowran-park/210/2/",
+      "winner": {
+        "name": "The Lovely Man (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/gowran-park/210/3/",
+      "winner": {
+        "name": "Home By The Lee (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/gowran-park/210/4/",
+      "winner": {
+        "name": "Marelly (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/gowran-park/210/5/",
+      "winner": {
+        "name": "C'est Ta Chance (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/gowran-park/210/6/",
+      "winner": {
+        "name": "Now Is The Hour (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/gowran-park/210/7/",
+      "winner": {
+        "name": "Our Trigger (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:15",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:25",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/22-january-2026/vaal/342/9/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
