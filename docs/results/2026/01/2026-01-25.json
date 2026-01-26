@@ -1,0 +1,323 @@
+{
+  "date": "2026-01-25",
+  "results": [
+    {
+      "course": "Fontwell Park",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/fontwell-park/19/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/fontwell-park/19/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/fontwell-park/19/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/fontwell-park/19/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/fontwell-park/19/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/fontwell-park/19/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/sedgefield/46/1/",
+      "winner": {
+        "name": "Largy Train",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/sedgefield/46/2/",
+      "winner": {
+        "name": "Rosie Baloo",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/sedgefield/46/3/",
+      "winner": {
+        "name": "Kazar Forez (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/sedgefield/46/4/",
+      "winner": {
+        "name": "Indian River (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/sedgefield/46/5/",
+      "winner": {
+        "name": "Slaney Opera (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/sedgefield/46/6/",
+      "winner": {
+        "name": "National Question (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/naas/219/1/",
+      "winner": {
+        "name": "Kai Lung (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/naas/219/2/",
+      "winner": {
+        "name": "Glen Kiln (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/naas/219/3/",
+      "winner": {
+        "name": "Shuttle Diplomacy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/naas/219/4/",
+      "winner": {
+        "name": "Matt Connor (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/naas/219/5/",
+      "winner": {
+        "name": "Love Sign D'aunou (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/naas/219/6/",
+      "winner": {
+        "name": "Argento Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/naas/219/7/",
+      "winner": {
+        "name": "Rusheen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "09:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/1/",
+      "winner": {
+        "name": "Master Magician (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/2/",
+      "winner": {
+        "name": "Winter In London (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/3/",
+      "winner": {
+        "name": "Dubai Dude (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/4/",
+      "winner": {
+        "name": "Reign On Impact (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/5/",
+      "winner": {
+        "name": "Curious Girl (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/6/",
+      "winner": {
+        "name": "African Dusk (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/7/",
+      "winner": {
+        "name": "William Robertson (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/8/",
+      "winner": {
+        "name": "Wild Justice (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/9/",
+      "winner": {
+        "name": "One Smart Cookie (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/25-january-2026/scottsville/398/10/",
+      "winner": {
+        "name": "Tee Dog (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
