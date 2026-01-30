@@ -1,0 +1,521 @@
+{
+  "date": "2026-01-29",
+  "results": [
+    {
+      "course": "Ayr",
+      "time": "13:13",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/ayr/2/1/",
+      "winner": {
+        "name": "Apples Jane (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "13:43",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/ayr/2/2/",
+      "winner": {
+        "name": "Diamond Geezer (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:13",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/ayr/2/3/",
+      "winner": {
+        "name": "Wendigo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:43",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/ayr/2/4/",
+      "winner": {
+        "name": "Stede Bonnet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:13",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/ayr/2/5/",
+      "winner": {
+        "name": "Shoeshine Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/ayr/2/6/",
+      "winner": {
+        "name": "Tommy Combats (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:13",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/ayr/2/7/",
+      "winner": {
+        "name": "The Skecher (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/chelmsford-city/28/1/",
+      "winner": {
+        "name": "Master Dandy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/chelmsford-city/28/2/",
+      "winner": {
+        "name": "Secret History (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/chelmsford-city/28/3/",
+      "winner": {
+        "name": "Up The Monk",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/chelmsford-city/28/4/",
+      "winner": {
+        "name": "Knebworth",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/chelmsford-city/28/5/",
+      "winner": {
+        "name": "My Boy Harry",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/chelmsford-city/28/6/",
+      "winner": {
+        "name": "Rogue Justice",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/chelmsford-city/28/7/",
+      "winner": {
+        "name": "Lexington Jet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Thecoffeepoddotco",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Space Invasion (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Poke The Bear (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Royal Jet",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "King's Hand",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Bucklow Hill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "Invincible Speed (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/wincanton/56/1/",
+      "winner": {
+        "name": "Coolanna (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:03",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/wincanton/56/2/",
+      "winner": {
+        "name": "Mutley Crew (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:33",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/wincanton/56/3/",
+      "winner": {
+        "name": "Pourquoi Pas Papa (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:03",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/wincanton/56/4/",
+      "winner": {
+        "name": "Local Derby (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:33",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/wincanton/56/5/",
+      "winner": {
+        "name": "Jupiter Allen (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "16:03",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/wincanton/56/6/",
+      "winner": {
+        "name": "Pyleigh Court",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "16:33",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/wincanton/56/7/",
+      "winner": {
+        "name": "Western Charm",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/thurles/225/1/",
+      "winner": {
+        "name": "Toor Khov (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/thurles/225/2/",
+      "winner": {
+        "name": "Cold Old Fire (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/thurles/225/3/",
+      "winner": {
+        "name": "Charme De Faust (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/thurles/225/4/",
+      "winner": {
+        "name": "El Cairos (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/thurles/225/5/",
+      "winner": {
+        "name": "Mi Lucky Cailin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/thurles/225/6/",
+      "winner": {
+        "name": "Blow Wind Blow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/thurles/225/7/",
+      "winner": {
+        "name": "Pebble Bleu (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/vaal/342/1/",
+      "winner": {
+        "name": "Varachino's Champ (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/vaal/342/2/",
+      "winner": {
+        "name": "Secretary Bird (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/vaal/342/3/",
+      "winner": {
+        "name": "Time Is Precious (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/vaal/342/4/",
+      "winner": {
+        "name": "Rock Music (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/vaal/342/5/",
+      "winner": {
+        "name": "Mover And Shaker (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/vaal/342/6/",
+      "winner": {
+        "name": "Jordan (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/vaal/342/7/",
+      "winner": {
+        "name": "Agoge (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/29-january-2026/vaal/342/8/",
+      "winner": {
+        "name": "Vibe Sa (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
