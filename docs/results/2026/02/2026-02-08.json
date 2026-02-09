@@ -1,0 +1,442 @@
+{
+  "date": "2026-02-08",
+  "results": [
+    {
+      "course": "Exeter",
+      "time": "13:41",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/exeter/13/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Exeter",
+      "time": "14:11",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/exeter/13/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Exeter",
+      "time": "14:41",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/exeter/13/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Exeter",
+      "time": "15:11",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/exeter/13/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Exeter",
+      "time": "15:41",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/exeter/13/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Exeter",
+      "time": "16:11",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/exeter/13/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Exeter",
+      "time": "16:41",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/exeter/13/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "13:37",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/chelmsford-city/28/1/",
+      "winner": {
+        "name": "Who's On First",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/chelmsford-city/28/2/",
+      "winner": {
+        "name": "Shafdar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/chelmsford-city/28/3/",
+      "winner": {
+        "name": "Sanditon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/chelmsford-city/28/4/",
+      "winner": {
+        "name": "Man Is King (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/chelmsford-city/28/5/",
+      "winner": {
+        "name": "Harlington (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/chelmsford-city/28/6/",
+      "winner": {
+        "name": "Forever Noah",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chelmsford City",
+      "time": "16:37",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/chelmsford-city/28/7/",
+      "winner": {
+        "name": "The Craftymaster",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/newcastle/35/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/newcastle/35/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/newcastle/35/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/newcastle/35/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/newcastle/35/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/newcastle/35/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/newcastle/35/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/navan/220/1/",
+      "winner": {
+        "name": "Coyote Spirit (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/navan/220/2/",
+      "winner": {
+        "name": "Zanoosh (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/navan/220/3/",
+      "winner": {
+        "name": "Staffordshire Knot (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/navan/220/4/",
+      "winner": {
+        "name": "Westandtogether (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/navan/220/5/",
+      "winner": {
+        "name": "Oscars Brother (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/navan/220/6/",
+      "winner": {
+        "name": "Rokathir (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/navan/220/7/",
+      "winner": {
+        "name": "Luidgi Du Luy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:03",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/pau/175/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/pau/175/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/pau/175/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/pau/175/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/pau/175/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "16:22",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/pau/175/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "09:46",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/pau/175/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Pau",
+      "time": "10:55",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/pau/175/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "09:35",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/1/",
+      "winner": {
+        "name": "Green Energy (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/2/",
+      "winner": {
+        "name": "Durban Diamond (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/3/",
+      "winner": {
+        "name": "Sovereign Gem (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/4/",
+      "winner": {
+        "name": "Past Is Prologue (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/5/",
+      "winner": {
+        "name": "Quincy Town (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/6/",
+      "winner": {
+        "name": "Mohave Prince (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/7/",
+      "winner": {
+        "name": "French Trip (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/8/",
+      "winner": {
+        "name": "King Pelles (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/9/",
+      "winner": {
+        "name": "Dawn Surprise (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/08-february-2026/scottsville/398/10/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
