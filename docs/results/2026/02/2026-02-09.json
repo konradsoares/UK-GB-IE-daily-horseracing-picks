@@ -1,0 +1,269 @@
+{
+  "date": "2026-02-09",
+  "results": [
+    {
+      "course": "Catterick Bridge",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/catterick-bridge/9/1/",
+      "winner": {
+        "name": "Hawthorn Street (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/catterick-bridge/9/2/",
+      "winner": {
+        "name": "Asa (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/catterick-bridge/9/3/",
+      "winner": {
+        "name": "Bathgate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/catterick-bridge/9/4/",
+      "winner": {
+        "name": "Imperial Bede (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/catterick-bridge/9/5/",
+      "winner": {
+        "name": "Vanilla Dancer",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/catterick-bridge/9/6/",
+      "winner": {
+        "name": "Comanche Magic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/plumpton/40/1/",
+      "winner": {
+        "name": "Star Of Affinity (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/plumpton/40/2/",
+      "winner": {
+        "name": "Ferret Jeeter",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/plumpton/40/3/",
+      "winner": {
+        "name": "Tennessee Tango (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/plumpton/40/4/",
+      "winner": {
+        "name": "Icare Grandchamp (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/plumpton/40/5/",
+      "winner": {
+        "name": "Dirty Den",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/plumpton/40/6/",
+      "winner": {
+        "name": "Felton Bellevue (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/plumpton/40/7/",
+      "winner": {
+        "name": "Yasmina",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "Bomb Squad (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Utmost Good Faith",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Alvin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "Alondra",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "Belle Amie (Swe)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Spaceage Love Song (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "Beauzon",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/8/",
+      "winner": {
+        "name": "Ramon Di Loria (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/09-february-2026/wolverhampton/58/9/",
+      "winner": {
+        "name": "Lion Ring (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
