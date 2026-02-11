@@ -1,0 +1,539 @@
+{
+  "date": "2026-02-10",
+  "results": [
+    {
+      "course": "Ayr",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ayr/2/1/",
+      "winner": {
+        "name": "The Coffey Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ayr/2/2/",
+      "winner": {
+        "name": "Ballymackie (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ayr/2/3/",
+      "winner": {
+        "name": "Apache Tribe (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ayr/2/4/",
+      "winner": {
+        "name": "Big Stage (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ayr/2/5/",
+      "winner": {
+        "name": "Better Be Definite",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ayr/2/6/",
+      "winner": {
+        "name": "Le Grand Vert (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ayr/2/7/",
+      "winner": {
+        "name": "Latosca Du Houx (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "12:48",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Elements Of Fire",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:18",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Profit Street (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:48",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Fidelius",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:18",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Rosemary's Rose (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:48",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "Angelica K",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:18",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Beauzon",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:48",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "Wyld Bill",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:18",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/lingfield-park/30/8/",
+      "winner": {
+        "name": "Seventy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Wicksey",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Sweet Princess",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/newcastle/35/3/",
+      "winner": {
+        "name": "The Tunguska Event (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Tasever",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/newcastle/35/5/",
+      "winner": {
+        "name": "The Gay Blade",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Spartan Fighter",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Dequinto (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ffos-las/50/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ffos-las/50/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ffos-las/50/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ffos-las/50/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ffos-las/50/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/ffos-las/50/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/limerick/215/1/",
+      "winner": {
+        "name": "Rocky's Howya (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/limerick/215/2/",
+      "winner": {
+        "name": "Survivors Sister (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/limerick/215/3/",
+      "winner": {
+        "name": "Saveforarainyday (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/limerick/215/4/",
+      "winner": {
+        "name": "Tip Of The Wings (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/limerick/215/5/",
+      "winner": {
+        "name": "Donnrua Dream (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/limerick/215/6/",
+      "winner": {
+        "name": "Dollar Nolimit (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/limerick/215/7/",
+      "winner": {
+        "name": "Of Land And Sea (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "09:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/1/",
+      "winner": {
+        "name": "Bakwena (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/2/",
+      "winner": {
+        "name": "El Zani (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/3/",
+      "winner": {
+        "name": "King Redoute (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/4/",
+      "winner": {
+        "name": "Chapbook (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/5/",
+      "winner": {
+        "name": "His Lordship (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/6/",
+      "winner": {
+        "name": "Calantha (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/7/",
+      "winner": {
+        "name": "Season's Greetings (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/8/",
+      "winner": {
+        "name": "Copper Plate (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/9/",
+      "winner": {
+        "name": "Storm Ahead (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/vaal/342/10/",
+      "winner": {
+        "name": "Pearl In Her Crown (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Machecoul",
+      "time": "10:07",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/machecoul/383/1/",
+      "winner": {
+        "name": "Corscia Bella (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Machecoul",
+      "time": "10:37",
+      "url": "https://betting.betfair.com/horse-racing/results/10-february-2026/machecoul/383/2/",
+      "winner": {
+        "name": "Mister Pats (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
