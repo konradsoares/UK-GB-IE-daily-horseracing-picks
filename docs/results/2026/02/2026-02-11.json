@@ -1,0 +1,503 @@
+{
+  "date": "2026-02-11",
+  "results": [
+    {
+      "course": "Hereford",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/hereford/23/1/",
+      "winner": {
+        "name": "The Procrastinator",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/hereford/23/2/",
+      "winner": {
+        "name": "Seaniecon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/hereford/23/3/",
+      "winner": {
+        "name": "Subtle Fortune",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/hereford/23/4/",
+      "winner": {
+        "name": "Lau And Shaz (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/hereford/23/5/",
+      "winner": {
+        "name": "Springtime Legend",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/hereford/23/6/",
+      "winner": {
+        "name": "Everyonesacritic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "16:33",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/hereford/23/7/",
+      "winner": {
+        "name": "Kel Du Large (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:28",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Further Measure (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Karakula Dancer",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Mohaaraj",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "Menzies (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "All Moonshine",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "El Bodon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Caramay",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/kempton-park/27/8/",
+      "winner": {
+        "name": "Twirler",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:44",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/southwell/47/1/",
+      "winner": {
+        "name": "Shalaa Asker",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:14",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/southwell/47/2/",
+      "winner": {
+        "name": "Skycutter (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:44",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/southwell/47/3/",
+      "winner": {
+        "name": "Dream Illusion",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:14",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/southwell/47/4/",
+      "winner": {
+        "name": "Naana's Crystal",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:44",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/southwell/47/5/",
+      "winner": {
+        "name": "Hint Of The Jungle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:14",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/southwell/47/6/",
+      "winner": {
+        "name": "Thankuappreciate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:44",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/southwell/47/7/",
+      "winner": {
+        "name": "Grey Horizon",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "13:51",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/wetherby/55/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "14:21",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/wetherby/55/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "14:51",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/wetherby/55/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "15:21",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/wetherby/55/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "15:51",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/wetherby/55/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wetherby",
+      "time": "16:21",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/wetherby/55/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "13:38",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/dundalk/207/1/",
+      "winner": {
+        "name": "Faustyna (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "14:08",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/dundalk/207/2/",
+      "winner": {
+        "name": "Masked Angel (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "14:38",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/dundalk/207/3/",
+      "winner": {
+        "name": "Inchiquin Maid (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "15:08",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/dundalk/207/4/",
+      "winner": {
+        "name": "Star Strewn (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "15:38",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/dundalk/207/5/",
+      "winner": {
+        "name": "Boston Benjamin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:08",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/dundalk/207/6/",
+      "winner": {
+        "name": "Ben Lawers",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "16:38",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/dundalk/207/7/",
+      "winner": {
+        "name": "Baila Conmigo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:12",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/dundalk/207/8/",
+      "winner": {
+        "name": "Take Heart (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/durbanville/460/1/",
+      "winner": {
+        "name": "Klein Karoo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/durbanville/460/2/",
+      "winner": {
+        "name": "Winter In Auckland (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/durbanville/460/3/",
+      "winner": {
+        "name": "Loui's Star (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/durbanville/460/4/",
+      "winner": {
+        "name": "Fort Liam (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/durbanville/460/5/",
+      "winner": {
+        "name": "Noble Hero (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/durbanville/460/6/",
+      "winner": {
+        "name": "Double Dash (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/durbanville/460/7/",
+      "winner": {
+        "name": "Tenpenny (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-february-2026/durbanville/460/8/",
+      "winner": {
+        "name": "Sooty (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
