@@ -1,0 +1,269 @@
+{
+  "date": "2026-02-17",
+  "results": [
+    {
+      "course": "Market Rasen",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/market-rasen/33/1/",
+      "winner": {
+        "name": "Senator (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/market-rasen/33/2/",
+      "winner": {
+        "name": "Khrisma (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/market-rasen/33/3/",
+      "winner": {
+        "name": "Scottish King (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "15:02",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/market-rasen/33/4/",
+      "winner": {
+        "name": "Pretending (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/market-rasen/33/5/",
+      "winner": {
+        "name": "Aire Spray (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "16:12",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/market-rasen/33/6/",
+      "winner": {
+        "name": "Eric Carmen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "16:47",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/market-rasen/33/7/",
+      "winner": {
+        "name": "On Jack (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/newbury/34/1/",
+      "winner": {
+        "name": "Personal Ambition (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/newbury/34/2/",
+      "winner": {
+        "name": "Lancelot Allen (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/newbury/34/3/",
+      "winner": {
+        "name": "Swindon Village (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/newbury/34/4/",
+      "winner": {
+        "name": "As The Fella Says (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/newbury/34/5/",
+      "winner": {
+        "name": "De Kingpin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/newbury/34/6/",
+      "winner": {
+        "name": "Star Of Honour (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:22",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "Knight Of Magic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:57",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Forglen",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Woodhay Whisper (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "Oscar Nominee",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "Second Collection",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Baker Blue",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "American State (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/8/",
+      "winner": {
+        "name": "Imola (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-february-2026/wolverhampton/58/9/",
+      "winner": {
+        "name": "Wave Rock (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
