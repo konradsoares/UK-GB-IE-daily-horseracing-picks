@@ -1,0 +1,437 @@
+{
+  "date": "2026-02-18",
+  "results": [
+    {
+      "course": "Kempton Park",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Warning Symbol (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Zoffandia (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Who's On First",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "Comic Hero (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "Silent Strike (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Supreme King (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Hamlet's Night (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/ludlow/32/1/",
+      "winner": {
+        "name": "Doctor On Call (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:33",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/ludlow/32/2/",
+      "winner": {
+        "name": "Misterdoc (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/ludlow/32/3/",
+      "winner": {
+        "name": "Holetown (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/ludlow/32/4/",
+      "winner": {
+        "name": "Bucksy Des Epeires (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/ludlow/32/5/",
+      "winner": {
+        "name": "Sir Hobnob",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/ludlow/32/6/",
+      "winner": {
+        "name": "Falco Des Pins (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/ludlow/32/7/",
+      "winner": {
+        "name": "Manigod (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/southwell/47/1/",
+      "winner": {
+        "name": "Bank On Frank",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/southwell/47/2/",
+      "winner": {
+        "name": "He Knows Better (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/southwell/47/3/",
+      "winner": {
+        "name": "Midnight Jukebox (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/southwell/47/4/",
+      "winner": {
+        "name": "Blue Run",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/southwell/47/5/",
+      "winner": {
+        "name": "In The Purple (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/southwell/47/6/",
+      "winner": {
+        "name": "Innisfree Lass (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/punchestown/222/1/",
+      "winner": {
+        "name": "Straight John (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/punchestown/222/2/",
+      "winner": {
+        "name": "Court Compliance (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/punchestown/222/3/",
+      "winner": {
+        "name": "Grainne A Chroi (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/punchestown/222/4/",
+      "winner": {
+        "name": "How's Hannah (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/punchestown/222/5/",
+      "winner": {
+        "name": "Well Del (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/punchestown/222/6/",
+      "winner": {
+        "name": "Rebel Cowgirl (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/punchestown/222/7/",
+      "winner": {
+        "name": "Keep Twisting (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/1/",
+      "winner": {
+        "name": "Lady Godiva (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/2/",
+      "winner": {
+        "name": "Steamy Windows (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/3/",
+      "winner": {
+        "name": "Red Cardinal (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/4/",
+      "winner": {
+        "name": "Zena Rose (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/5/",
+      "winner": {
+        "name": "Gorgeous Girl (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/6/",
+      "winner": {
+        "name": "Tara Star (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/7/",
+      "winner": {
+        "name": "City Of Love (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/8/",
+      "winner": {
+        "name": "Captain Ventura (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-february-2026/scottsville/398/9/",
+      "winner": {
+        "name": "Intrepid (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
