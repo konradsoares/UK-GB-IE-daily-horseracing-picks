@@ -1,0 +1,510 @@
+{
+  "date": "2026-02-19",
+  "results": [
+    {
+      "course": "Huntingdon",
+      "time": "13:06",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/huntingdon/25/1/",
+      "winner": {
+        "name": "Secret Des Dieux (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "13:41",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/huntingdon/25/2/",
+      "winner": {
+        "name": "Burano Murano",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "14:16",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/huntingdon/25/3/",
+      "winner": {
+        "name": "Owl Of Athens (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "14:51",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/huntingdon/25/4/",
+      "winner": {
+        "name": "Kom Tu Voudras (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "15:26",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/huntingdon/25/5/",
+      "winner": {
+        "name": "Postponed Legacy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "16:01",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/huntingdon/25/6/",
+      "winner": {
+        "name": "Natus Vincere (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "16:36",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/huntingdon/25/7/",
+      "winner": {
+        "name": "Sporting Ace (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:57",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Team Player",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Al Najashi",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Factual (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Showmedemoney (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Lord Capulet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/6/",
+      "winner": {
+        "name": "The Gay Blade",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Sedgemoor (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/8/",
+      "winner": {
+        "name": "Tickets",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/newcastle/35/9/",
+      "winner": {
+        "name": "Harb",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sandown-park/45/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sandown-park/45/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sandown-park/45/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sandown-park/45/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sandown-park/45/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sandown-park/45/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sandown-park/45/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "13:23",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sedgefield/46/1/",
+      "winner": {
+        "name": "Follow Your Luck (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "13:58",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sedgefield/46/2/",
+      "winner": {
+        "name": "Coup De Coeur (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:33",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sedgefield/46/3/",
+      "winner": {
+        "name": "Ballin Bay (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:08",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sedgefield/46/4/",
+      "winner": {
+        "name": "Goodoldbill",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sedgefield/46/5/",
+      "winner": {
+        "name": "Thank You Blue",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "16:17",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/sedgefield/46/6/",
+      "winner": {
+        "name": "Too Cool Forshrule (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "13:32",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/thurles/225/1/",
+      "winner": {
+        "name": "Dancing Jeremy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/thurles/225/2/",
+      "winner": {
+        "name": "Karia Des Blaises (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/thurles/225/3/",
+      "winner": {
+        "name": "Rideau Canal (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/thurles/225/4/",
+      "winner": {
+        "name": "Bon Viveur (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "15:52",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/thurles/225/5/",
+      "winner": {
+        "name": "Barnahash Mason (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "16:23",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/thurles/225/6/",
+      "winner": {
+        "name": "Campbell Black (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "16:53",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/thurles/225/7/",
+      "winner": {
+        "name": "Kiltybo (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:15",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/1/",
+      "winner": {
+        "name": "Bellerophon (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/2/",
+      "winner": {
+        "name": "Galaxy Queen (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:25",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/3/",
+      "winner": {
+        "name": "Status (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/4/",
+      "winner": {
+        "name": "Famous Lady (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/5/",
+      "winner": {
+        "name": "Fostinovo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/6/",
+      "winner": {
+        "name": "Bright And Brazen (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/7/",
+      "winner": {
+        "name": "Kissing Machine (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/8/",
+      "winner": {
+        "name": "Mount Etna (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/19-february-2026/turffontein/341/9/",
+      "winner": {
+        "name": "Casus Belli (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
