@@ -1,0 +1,398 @@
+{
+  "date": "2026-02-22",
+  "results": [
+    {
+      "course": "Fontwell Park",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/fontwell-park/19/1/",
+      "winner": {
+        "name": "Gaelic Pride (Spa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/fontwell-park/19/2/",
+      "winner": {
+        "name": "Potters Charm (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/fontwell-park/19/3/",
+      "winner": {
+        "name": "Bollin Thou",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/fontwell-park/19/4/",
+      "winner": {
+        "name": "Night Stalker",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/fontwell-park/19/5/",
+      "winner": {
+        "name": "Queenie St Clair (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/fontwell-park/19/6/",
+      "winner": {
+        "name": "Minella Premier (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/hereford/23/1/",
+      "winner": {
+        "name": "The Punter (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/hereford/23/2/",
+      "winner": {
+        "name": "Just A Glance",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/hereford/23/3/",
+      "winner": {
+        "name": "My Bobby Dazzler",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/hereford/23/4/",
+      "winner": {
+        "name": "Glancing Jack",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/hereford/23/5/",
+      "winner": {
+        "name": "On The Go",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/hereford/23/6/",
+      "winner": {
+        "name": "Passing Kate",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/hereford/23/7/",
+      "winner": {
+        "name": "Tythingman",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/naas/219/1/",
+      "winner": {
+        "name": "Star Of The Week (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/naas/219/2/",
+      "winner": {
+        "name": "Majolique (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/naas/219/3/",
+      "winner": {
+        "name": "Give Him A Chance (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/naas/219/4/",
+      "winner": {
+        "name": "Melbourne Shamrock (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/naas/219/5/",
+      "winner": {
+        "name": "Low Kick (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/naas/219/6/",
+      "winner": {
+        "name": "Blood Destiny (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/naas/219/7/",
+      "winner": {
+        "name": "Goraibhmaithagat (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cagnes-Sur-Mer",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/cagnessurmer/136/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "09:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/1/",
+      "winner": {
+        "name": "Shezaripper (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/2/",
+      "winner": {
+        "name": "Lady Jean (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/3/",
+      "winner": {
+        "name": "Fast Train (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/4/",
+      "winner": {
+        "name": "Starting Point (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/5/",
+      "winner": {
+        "name": "Greenchoice (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/6/",
+      "winner": {
+        "name": "District Master (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/7/",
+      "winner": {
+        "name": "Chasingtherainbow (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/8/",
+      "winner": {
+        "name": "Shesgotclass (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/9/",
+      "winner": {
+        "name": "Black Eagle (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/10/",
+      "winner": {
+        "name": "Seven No Trump (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/kenilworth/322/11/",
+      "winner": {
+        "name": "Spirit (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Machecoul",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/machecoul/383/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Machecoul",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-february-2026/machecoul/383/2/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
