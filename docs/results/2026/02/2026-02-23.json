@@ -1,0 +1,433 @@
+{
+  "date": "2026-02-23",
+  "results": [
+    {
+      "course": "Ayr",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/ayr/2/1/",
+      "winner": {
+        "name": "Blakey Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/ayr/2/2/",
+      "winner": {
+        "name": "Stride On (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/ayr/2/3/",
+      "winner": {
+        "name": "Dubai Days (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/ayr/2/4/",
+      "winner": {
+        "name": "Next Twist (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/ayr/2/5/",
+      "winner": {
+        "name": "Eloi Du Puy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/ayr/2/6/",
+      "winner": {
+        "name": "Jardin De Tunis (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/plumpton/40/1/",
+      "winner": {
+        "name": "Mondo Man",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/plumpton/40/2/",
+      "winner": {
+        "name": "Kool Kid",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/plumpton/40/3/",
+      "winner": {
+        "name": "Enjoy D'allen (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/plumpton/40/4/",
+      "winner": {
+        "name": "Sanitiser",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/plumpton/40/5/",
+      "winner": {
+        "name": "Junior Des Mottes (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/plumpton/40/6/",
+      "winner": {
+        "name": "Rap Soul (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/plumpton/40/7/",
+      "winner": {
+        "name": "Eliza Dolittle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "Bint Havana Gold",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Calling A Star",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Pendella (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "Ramon Di Loria (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "Fistral Beach (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Crown Relic (Aus)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "Hijo De La Luna (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/8/",
+      "winner": {
+        "name": "Gemini Man (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/wolverhampton/58/9/",
+      "winner": {
+        "name": "Berkshire Schmokin (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/auteuil/63/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/auteuil/63/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/auteuil/63/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/auteuil/63/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/auteuil/63/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/auteuil/63/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/auteuil/63/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/auteuil/63/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/1/",
+      "winner": {
+        "name": "Lou Lou (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/2/",
+      "winner": {
+        "name": "Blue Steel (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/3/",
+      "winner": {
+        "name": "Praise De La Rey (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/4/",
+      "winner": {
+        "name": "World Of Our Own (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/5/",
+      "winner": {
+        "name": "Peggy Sue Shake (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/6/",
+      "winner": {
+        "name": "Isivivane (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/7/",
+      "winner": {
+        "name": "Good Traveller (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/8/",
+      "winner": {
+        "name": "Tladi Mothwana (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/23-february-2026/greyville/339/9/",
+      "winner": {
+        "name": "Mystique Rouge (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
