@@ -1,0 +1,449 @@
+{
+  "date": "2026-02-25",
+  "results": [
+    {
+      "course": "Bangor-On-Dee",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/bangorondee/3/1/",
+      "winner": {
+        "name": "Halftheworldaway (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/bangorondee/3/2/",
+      "winner": {
+        "name": "Harry Lowes (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/bangorondee/3/3/",
+      "winner": {
+        "name": "Twistthenightaway (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/bangorondee/3/4/",
+      "winner": {
+        "name": "Titan Discovery",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/bangorondee/3/5/",
+      "winner": {
+        "name": "Planned Paradise (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/bangorondee/3/6/",
+      "winner": {
+        "name": "Just Aidan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/bangorondee/3/7/",
+      "winner": {
+        "name": "Bowenspark (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Hove Ranger (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Ablon (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Kingdom Come (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "I Am Me (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "Hidden Force",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Moment Of Light",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Combustion",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Beaune (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:42",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Rosieisme Darling",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:12",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Numero Vingt",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Desdemona",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "Kondratiev Wave (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:42",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Mount Mogan",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:12",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "First Encounter",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:42",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/lingfield-park/30/8/",
+      "winner": {
+        "name": "Watermelon Sugar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/wincanton/56/1/",
+      "winner": {
+        "name": "Aguellid (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/wincanton/56/2/",
+      "winner": {
+        "name": "Little Venice",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/wincanton/56/3/",
+      "winner": {
+        "name": "The Long Point (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/wincanton/56/4/",
+      "winner": {
+        "name": "Laughing John",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/wincanton/56/5/",
+      "winner": {
+        "name": "Universal Secret (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/wincanton/56/6/",
+      "winner": {
+        "name": "Thunder Rock (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/wincanton/56/7/",
+      "winner": {
+        "name": "Nathannah",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "10:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kenilworth/322/1/",
+      "winner": {
+        "name": "Rich Man's World (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kenilworth/322/2/",
+      "winner": {
+        "name": "Trois Sept Huit (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kenilworth/322/3/",
+      "winner": {
+        "name": "Tothemoonandback (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kenilworth/322/4/",
+      "winner": {
+        "name": "Alessia Asheville (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kenilworth/322/5/",
+      "winner": {
+        "name": "April Fools' Day (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kenilworth/322/6/",
+      "winner": {
+        "name": "In A Timely Manner (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kenilworth/322/7/",
+      "winner": {
+        "name": "Avignon (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-february-2026/kenilworth/322/8/",
+      "winner": {
+        "name": "Mighty Mary (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
