@@ -1,0 +1,444 @@
+{
+  "date": "2026-03-02",
+  "results": [
+    {
+      "course": "Kempton Park",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Charles Darnay",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Houdini Miss (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Early Release",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "Lady Dora Mae (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "Tadreeb (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:37",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Whitcombe Rockstar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Moyowasi",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/kempton-park/27/8/",
+      "winner": {
+        "name": "Rosemary's Rose (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/southwell/47/1/",
+      "winner": {
+        "name": "Sea Thrift (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/southwell/47/2/",
+      "winner": {
+        "name": "Smurfette",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/southwell/47/3/",
+      "winner": {
+        "name": "Jeffery's Cross (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/southwell/47/4/",
+      "winner": {
+        "name": "Edith Pelham",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/southwell/47/5/",
+      "winner": {
+        "name": "Nice One Eric",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/southwell/47/6/",
+      "winner": {
+        "name": "This Sway",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "Sneaky Blinder (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Pints In Peace (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Serious Look (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "Lion Ring (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "Classy Clarets (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Ruby Red Gove",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "Spendmore Lane",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/wolverhampton/58/8/",
+      "winner": {
+        "name": "Virtual Hug (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/leopardstown/214/1/",
+      "winner": {
+        "name": "Vitorio Piel (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/leopardstown/214/2/",
+      "winner": {
+        "name": "Playtime",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/leopardstown/214/3/",
+      "winner": {
+        "name": "El Fabiolo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/leopardstown/214/4/",
+      "winner": {
+        "name": "Dee's Lady",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/leopardstown/214/5/",
+      "winner": {
+        "name": "O'toole (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/leopardstown/214/6/",
+      "winner": {
+        "name": "Promontory (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/leopardstown/214/7/",
+      "winner": {
+        "name": "Adaboy Mushy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Compiegne",
+      "time": "10:51",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/compiegne/133/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Compiegne",
+      "time": "11:23",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/compiegne/133/2/",
+      "winner": {
+        "name": "Rare Et Precieux (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Compiegne",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/compiegne/133/3/",
+      "winner": {
+        "name": "Dienne (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Compiegne",
+      "time": "12:27",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/compiegne/133/4/",
+      "winner": {
+        "name": "Lagenikodesbeaux (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Compiegne",
+      "time": "13:12",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/compiegne/133/5/",
+      "winner": {
+        "name": "Kiroga (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Compiegne",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/compiegne/133/6/",
+      "winner": {
+        "name": "Tatoo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Compiegne",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/compiegne/133/7/",
+      "winner": {
+        "name": "Neva (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Compiegne",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/02-march-2026/compiegne/133/8/",
+      "winner": {
+        "name": "Metronomique (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
