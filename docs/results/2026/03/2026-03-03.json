@@ -1,0 +1,306 @@
+{
+  "date": "2026-03-03",
+  "results": [
+    {
+      "course": "Market Rasen",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/market-rasen/33/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/market-rasen/33/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/market-rasen/33/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/market-rasen/33/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/market-rasen/33/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/market-rasen/33/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/market-rasen/33/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Big Storm Brewing",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Hawkseye View",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Sanilam (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Whiskey On Ice (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Jamesieconn (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Lady Walk On Bye (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "Shrimp Shady",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Wyle Cop (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Beauzon",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "Espanita (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "The Dark Baron (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Hardstyle (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "Arlecchino's Rex",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/leopardstown/214/1/",
+      "winner": {
+        "name": "Generous Risk (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/leopardstown/214/2/",
+      "winner": {
+        "name": "Torpille Dagrostis (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/leopardstown/214/3/",
+      "winner": {
+        "name": "Missus Beeton (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/leopardstown/214/4/",
+      "winner": {
+        "name": "Daydream Nation (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/leopardstown/214/5/",
+      "winner": {
+        "name": "Raffles Dolce Vita (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/leopardstown/214/6/",
+      "winner": {
+        "name": "Joyau De Thaix (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/leopardstown/214/7/",
+      "winner": {
+        "name": "Harbour Highway (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Leopardstown",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/03-march-2026/leopardstown/214/8/",
+      "winner": {
+        "name": "Ealu (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
