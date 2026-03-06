@@ -1,0 +1,557 @@
+{
+  "date": "2026-03-05",
+  "results": [
+    {
+      "course": "Haydock Park",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/haydock-park/22/1/",
+      "winner": {
+        "name": "Ruby Island",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/haydock-park/22/2/",
+      "winner": {
+        "name": "Chemoulin (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/haydock-park/22/3/",
+      "winner": {
+        "name": "Ki Woo (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/haydock-park/22/4/",
+      "winner": {
+        "name": "Static (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/haydock-park/22/5/",
+      "winner": {
+        "name": "Heather Honey",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/haydock-park/22/6/",
+      "winner": {
+        "name": "Idaho Valley (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/haydock-park/22/7/",
+      "winner": {
+        "name": "Turbocharged (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "13:53",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Profit Street (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:23",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Folk Pageant",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:53",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Mick's Spirit",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Fidelius",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "Bergamo Gold (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:33",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Secret Road (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "17:08",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "Eutropia",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Boubyan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Tactical Blitz",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Billecart (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Nikovo",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Kingofthecarnival (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Dark Kestrel (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Woodrafff",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "13:37",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/wincanton/56/1/",
+      "winner": {
+        "name": "Crossgales King (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/wincanton/56/2/",
+      "winner": {
+        "name": "Indannya (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/wincanton/56/3/",
+      "winner": {
+        "name": "Haas Boy (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/wincanton/56/4/",
+      "winner": {
+        "name": "Thankyouandplease (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/wincanton/56/5/",
+      "winner": {
+        "name": "Stans The Man (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/wincanton/56/6/",
+      "winner": {
+        "name": "Royal Mer (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wincanton",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/wincanton/56/7/",
+      "winner": {
+        "name": "Nevada Samba",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "13:58",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/thurles/225/1/",
+      "winner": {
+        "name": "Karamoja (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "14:28",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/thurles/225/2/",
+      "winner": {
+        "name": "C'est Ta Chance (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "14:58",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/thurles/225/3/",
+      "winner": {
+        "name": "Live To Laugh (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/thurles/225/4/",
+      "winner": {
+        "name": "Arslan (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/thurles/225/5/",
+      "winner": {
+        "name": "Blizzard Of Oz (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "16:38",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/thurles/225/6/",
+      "winner": {
+        "name": "Lough Nigara (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thurles",
+      "time": "17:13",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/thurles/225/7/",
+      "winner": {
+        "name": "Bon Bon Fizz (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "14:34",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/saintcloud/86/1/",
+      "winner": {
+        "name": "Silius (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "09:40",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/1/",
+      "winner": {
+        "name": "Grande Hawaii (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:10",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/2/",
+      "winner": {
+        "name": "The Bronx Bull (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/3/",
+      "winner": {
+        "name": "Speedman (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/4/",
+      "winner": {
+        "name": "Top Floor (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/5/",
+      "winner": {
+        "name": "Southampton (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/6/",
+      "winner": {
+        "name": "Open Highway (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/7/",
+      "winner": {
+        "name": "Duchess Of Paloma (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/8/",
+      "winner": {
+        "name": "Councillor (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/9/",
+      "winner": {
+        "name": "Pivotal Role (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/05-march-2026/vaal/342/10/",
+      "winner": {
+        "name": "Lava Fire (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
