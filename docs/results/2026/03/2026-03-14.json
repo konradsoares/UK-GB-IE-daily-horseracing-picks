@@ -1,0 +1,615 @@
+{
+  "date": "2026-03-14",
+  "results": [
+    {
+      "course": "Fontwell Park",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/fontwell-park/19/1/",
+      "winner": {
+        "name": "Catch On Me (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/fontwell-park/19/2/",
+      "winner": {
+        "name": "Dragons And Demons",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/fontwell-park/19/3/",
+      "winner": {
+        "name": "Mon Champion (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/fontwell-park/19/4/",
+      "winner": {
+        "name": "Betgoodwin (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/fontwell-park/19/5/",
+      "winner": {
+        "name": "Jolie Baie (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/fontwell-park/19/6/",
+      "winner": {
+        "name": "Sanitiser",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fontwell Park",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/fontwell-park/19/7/",
+      "winner": {
+        "name": "The Perfect Poet",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Molten Sea",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "14:08",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Secret Des Dieux (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Intosomethinggood",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:18",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "Teddy Blue (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:53",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "Tiddesley Wood",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:28",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Doctor Ken (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:03",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Prince Rupert",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Irandando Has (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Forcetoreckonwith (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Fairly Fulling (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Young Jack (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Bucephalus (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Goodoldbill",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Midday Rendezvous (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/southwell/47/1/",
+      "winner": {
+        "name": "Yakhabar",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/southwell/47/2/",
+      "winner": {
+        "name": "Camera Shy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/southwell/47/3/",
+      "winner": {
+        "name": "Mount Ruapehu (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/southwell/47/4/",
+      "winner": {
+        "name": "Fifty Sent",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/southwell/47/5/",
+      "winner": {
+        "name": "Penny Time (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/southwell/47/6/",
+      "winner": {
+        "name": "Artisan Dancer (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/southwell/47/7/",
+      "winner": {
+        "name": "Sports Coach (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/uttoxeter/53/1/",
+      "winner": {
+        "name": "Wellington Arch",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/uttoxeter/53/2/",
+      "winner": {
+        "name": "Doughmore Bay (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/uttoxeter/53/3/",
+      "winner": {
+        "name": "Isaac Des Obeaux (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/uttoxeter/53/4/",
+      "winner": {
+        "name": "Kykorock (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/uttoxeter/53/5/",
+      "winner": {
+        "name": "Dig Deep (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/uttoxeter/53/6/",
+      "winner": {
+        "name": "Jasmin De Cotte (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Uttoxeter",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/uttoxeter/53/7/",
+      "winner": {
+        "name": "Sassipants",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:58",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/auteuil/63/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/auteuil/63/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/auteuil/63/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/auteuil/63/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/auteuil/63/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/auteuil/63/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/auteuil/63/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/auteuil/63/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/santa-anita/132/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Oaklawn Park",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/oaklawn-park/177/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "09:50",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/1/",
+      "winner": {
+        "name": "Good Day Sunshine (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:25",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/2/",
+      "winner": {
+        "name": "Love Not War (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/3/",
+      "winner": {
+        "name": "My Dear Friend (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/4/",
+      "winner": {
+        "name": "Slender Silhouette (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/5/",
+      "winner": {
+        "name": "Curious Girl (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/6/",
+      "winner": {
+        "name": "Diogenes (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/7/",
+      "winner": {
+        "name": "Daimyo (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/8/",
+      "winner": {
+        "name": "Choisaanada (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/9/",
+      "winner": {
+        "name": "Sunset Riot (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/14-march-2026/turffontein/341/10/",
+      "winner": {
+        "name": "Captain Selvie (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
