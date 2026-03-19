@@ -1,0 +1,379 @@
+{
+  "date": "2026-03-18",
+  "results": [
+    {
+      "course": "Hereford",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/hereford/23/1/",
+      "winner": {
+        "name": "Kingcormac (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/hereford/23/2/",
+      "winner": {
+        "name": "Don Rafael (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/hereford/23/3/",
+      "winner": {
+        "name": "Independent Lady (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/hereford/23/4/",
+      "winner": {
+        "name": "Silver Hill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/hereford/23/5/",
+      "winner": {
+        "name": "The Brickey Ranger (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/hereford/23/6/",
+      "winner": {
+        "name": "Vol Royale (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hereford",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/hereford/23/7/",
+      "winner": {
+        "name": "Edgewell (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/huntingdon/25/1/",
+      "winner": {
+        "name": "Another Day Out (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/huntingdon/25/2/",
+      "winner": {
+        "name": "Mahler Moon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/huntingdon/25/3/",
+      "winner": {
+        "name": "Kittys Glance",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/huntingdon/25/4/",
+      "winner": {
+        "name": "Wandering Ego (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/huntingdon/25/5/",
+      "winner": {
+        "name": "Snapius (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/huntingdon/25/6/",
+      "winner": {
+        "name": "Walk The Plank (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Huntingdon",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/huntingdon/25/7/",
+      "winner": {
+        "name": "Merry Wood (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Moonshine (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "New Monarch (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Lion Of Mali",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "Mount Athos",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "Final Night",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Em Four",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Seraphic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/kempton-park/27/8/",
+      "winner": {
+        "name": "Solanna",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Toulouse",
+      "time": "15:32",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/toulouse/155/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Toulouse",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/toulouse/155/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/durbanville/460/1/",
+      "winner": {
+        "name": "Winter Pirate (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/durbanville/460/2/",
+      "winner": {
+        "name": "Galactus (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/durbanville/460/3/",
+      "winner": {
+        "name": "Heavenly Prince (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/durbanville/460/4/",
+      "winner": {
+        "name": "True Horizon (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/durbanville/460/5/",
+      "winner": {
+        "name": "Lady Look Alike (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/durbanville/460/6/",
+      "winner": {
+        "name": "Music Of The Night (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/durbanville/460/7/",
+      "winner": {
+        "name": "Boogiefied (Aus)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/18-march-2026/durbanville/460/8/",
+      "winner": {
+        "name": "Spirit Of Levana (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
