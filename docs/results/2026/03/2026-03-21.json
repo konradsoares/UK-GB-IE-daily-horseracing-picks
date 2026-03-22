@@ -1,0 +1,800 @@
+{
+  "date": "2026-03-21",
+  "results": [
+    {
+      "course": "Bangor-On-Dee",
+      "time": "13:07",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/bangorondee/3/1/",
+      "winner": {
+        "name": "Tommy Pickles (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "13:37",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/bangorondee/3/2/",
+      "winner": {
+        "name": "French Emperor (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/bangorondee/3/3/",
+      "winner": {
+        "name": "Joyeux Machin (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/bangorondee/3/4/",
+      "winner": {
+        "name": "Thereyare (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/bangorondee/3/5/",
+      "winner": {
+        "name": "Static (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "15:55",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/bangorondee/3/6/",
+      "winner": {
+        "name": "Dj Pete (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bangor-On-Dee",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/bangorondee/3/7/",
+      "winner": {
+        "name": "Joeybottles (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newbury/34/1/",
+      "winner": {
+        "name": "Kocktail Bleu (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newbury/34/2/",
+      "winner": {
+        "name": "Storming George (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newbury/34/3/",
+      "winner": {
+        "name": "Prairie Wolf (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newbury/34/4/",
+      "winner": {
+        "name": "Charisma Cat",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newbury/34/5/",
+      "winner": {
+        "name": "Lady Hope",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newbury/34/6/",
+      "winner": {
+        "name": "Palacio (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newbury/34/7/",
+      "winner": {
+        "name": "Havaila (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newcastle/35/1/",
+      "winner": {
+        "name": "Alther Walden (Hun)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newcastle/35/2/",
+      "winner": {
+        "name": "Wareeth (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Recency Bias (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Smartanck (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Barry's Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Alfa Duplicate (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Southern Warrior (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/newcastle/35/8/",
+      "winner": {
+        "name": "Pit Boss",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:43",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/southwell/47/1/",
+      "winner": {
+        "name": "Mount Ruapehu (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/southwell/47/2/",
+      "winner": {
+        "name": "Mr Fustic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:53",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/southwell/47/3/",
+      "winner": {
+        "name": "Timber Twelve",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:28",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/southwell/47/4/",
+      "winner": {
+        "name": "Welbury",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:03",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/southwell/47/5/",
+      "winner": {
+        "name": "Tenzi (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:38",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/southwell/47/6/",
+      "winner": {
+        "name": "Fahrenheit Seven",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:13",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/southwell/47/7/",
+      "winner": {
+        "name": "Solar Pass",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:43",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/southwell/47/8/",
+      "winner": {
+        "name": "Sea Suite (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/kelso/26/1/",
+      "winner": {
+        "name": "World Of Fortunes (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/kelso/26/2/",
+      "winner": {
+        "name": "Speiriuil (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/kelso/26/3/",
+      "winner": {
+        "name": "Queenie St Clair (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/kelso/26/4/",
+      "winner": {
+        "name": "Diamond Dealer (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "15:13",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/kelso/26/5/",
+      "winner": {
+        "name": "Blakey Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "15:48",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/kelso/26/6/",
+      "winner": {
+        "name": "Eagles Reprieve (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kelso",
+      "time": "16:23",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/kelso/26/7/",
+      "winner": {
+        "name": "King Kubala (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/navan/220/1/",
+      "winner": {
+        "name": "Kilgame (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/navan/220/2/",
+      "winner": {
+        "name": "Catchabird (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:07",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/navan/220/3/",
+      "winner": {
+        "name": "Shabby Hill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:42",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/navan/220/4/",
+      "winner": {
+        "name": "Champagne Venture (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "16:17",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/navan/220/5/",
+      "winner": {
+        "name": "Showurappreciation (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "16:52",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/navan/220/6/",
+      "winner": {
+        "name": "Moudan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "17:22",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/navan/220/7/",
+      "winner": {
+        "name": "Glens Anthem (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fair Grounds",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/fair-grounds/320/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fair Grounds",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/fair-grounds/320/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fair Grounds",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/fair-grounds/320/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fair Grounds",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/fair-grounds/320/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "11:05",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/durbanville/460/1/",
+      "winner": {
+        "name": "From The Island (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/durbanville/460/2/",
+      "winner": {
+        "name": "Fortune One (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/durbanville/460/3/",
+      "winner": {
+        "name": "Trip To Camelot (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/durbanville/460/4/",
+      "winner": {
+        "name": "Lady Orbit (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/durbanville/460/5/",
+      "winner": {
+        "name": "King's Quest (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/durbanville/460/6/",
+      "winner": {
+        "name": "Winter Pearl (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/durbanville/460/7/",
+      "winner": {
+        "name": "What A Fortune (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Durbanville",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/durbanville/460/8/",
+      "winner": {
+        "name": "Miss Attitude (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/1/",
+      "winner": {
+        "name": "Zalatoris (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/2/",
+      "winner": {
+        "name": "Ocean Mistress (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:20",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/3/",
+      "winner": {
+        "name": "Turn It Up (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:55",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/4/",
+      "winner": {
+        "name": "Utsaah (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/5/",
+      "winner": {
+        "name": "Gimmethespotlight (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/6/",
+      "winner": {
+        "name": "Damova (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/7/",
+      "winner": {
+        "name": "Perfect Miracle (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/8/",
+      "winner": {
+        "name": "Streisand (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turffontein/341/9/",
+      "winner": {
+        "name": "Ziyasha (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Turfway Park",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turfway-park/305/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turfway Park",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/turfway-park/305/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Oaklawn Park",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/oaklawn-park/177/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "La Teste",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/la-teste/158/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Santa Anita",
+      "time": "00:00",
+      "url": "https://betting.betfair.com/horse-racing/results/21-march-2026/santa-anita/132/1/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
