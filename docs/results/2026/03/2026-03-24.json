@@ -1,0 +1,295 @@
+{
+  "date": "2026-03-24",
+  "results": [
+    {
+      "course": "Southwell",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/southwell/47/1/",
+      "winner": {
+        "name": "Copshill Lad (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/southwell/47/2/",
+      "winner": {
+        "name": "Shadowfax Of Rohan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/southwell/47/3/",
+      "winner": {
+        "name": "Scott's Legacy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/southwell/47/4/",
+      "winner": {
+        "name": "Raby Mere (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/southwell/47/5/",
+      "winner": {
+        "name": "Hillberry Hill (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/southwell/47/6/",
+      "winner": {
+        "name": "Codetalker",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/southwell/47/7/",
+      "winner": {
+        "name": "Dartmouth Rose",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/taunton/49/1/",
+      "winner": {
+        "name": "Falls Of Acharn",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/taunton/49/2/",
+      "winner": {
+        "name": "Lady Caro (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/taunton/49/3/",
+      "winner": {
+        "name": "Victory Shout (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/taunton/49/4/",
+      "winner": {
+        "name": "Ede'iffs Rock",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/taunton/49/5/",
+      "winner": {
+        "name": "Khafre (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/taunton/49/6/",
+      "winner": {
+        "name": "Bobbi's Beauty (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/taunton/49/7/",
+      "winner": {
+        "name": "Arms Park",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:23",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "Quick Turn (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Lexington Express (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Kento",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "Royal Standard (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "Flicka's Girl",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Dr Ali (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "Counsel",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/8/",
+      "winner": {
+        "name": "Merlier (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/wolverhampton/58/9/",
+      "winner": {
+        "name": "Farasi Lane (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/saintcloud/86/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/24-march-2026/saintcloud/86/2/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
