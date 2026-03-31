@@ -1,0 +1,437 @@
+{
+  "date": "2026-03-30",
+  "results": [
+    {
+      "course": "Kempton Park",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kempton-park/27/1/",
+      "winner": {
+        "name": "Sizzling Seixas (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kempton-park/27/2/",
+      "winner": {
+        "name": "Escape Plan",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kempton-park/27/3/",
+      "winner": {
+        "name": "Art Gallery (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kempton-park/27/4/",
+      "winner": {
+        "name": "Galaxy Star",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kempton-park/27/5/",
+      "winner": {
+        "name": "Me Tarzan (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kempton-park/27/6/",
+      "winner": {
+        "name": "Quick Quasar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kempton-park/27/7/",
+      "winner": {
+        "name": "Cospicua",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:27",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/ludlow/32/1/",
+      "winner": {
+        "name": "Jimbo Sport (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/ludlow/32/2/",
+      "winner": {
+        "name": "Annie Express (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:27",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/ludlow/32/3/",
+      "winner": {
+        "name": "Jackomy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:57",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/ludlow/32/4/",
+      "winner": {
+        "name": "Your Darling (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "16:27",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/ludlow/32/5/",
+      "winner": {
+        "name": "Jack Hyde (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "16:57",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/ludlow/32/6/",
+      "winner": {
+        "name": "Great Valley (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "Fircombe Hall",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Sovereign Spell (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Al Durry",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "Lux Aeterna",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "Layla Liz (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Bossy Parker (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "Captain Pickles (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:18",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/navan/220/1/",
+      "winner": {
+        "name": "Alnofoor",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:48",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/navan/220/2/",
+      "winner": {
+        "name": "Shaftesbury Avenue (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:18",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/navan/220/3/",
+      "winner": {
+        "name": "Mordor (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:48",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/navan/220/4/",
+      "winner": {
+        "name": "Sir Allen",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "16:18",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/navan/220/5/",
+      "winner": {
+        "name": "Sir Benji (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "16:48",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/navan/220/6/",
+      "winner": {
+        "name": "Satono Chevalier (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "17:18",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/navan/220/7/",
+      "winner": {
+        "name": "Servare (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/1/",
+      "winner": {
+        "name": "Volegov (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/2/",
+      "winner": {
+        "name": "Margate (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/3/",
+      "winner": {
+        "name": "Kalahari King (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/4/",
+      "winner": {
+        "name": "Rich Man's World (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/5/",
+      "winner": {
+        "name": "Somebody Somewhere (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/6/",
+      "winner": {
+        "name": "Blizzardboy (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/7/",
+      "winner": {
+        "name": "Flying Finley (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/8/",
+      "winner": {
+        "name": "Jou Lekker Ding (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Kenilworth",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/30-march-2026/kenilworth/322/9/",
+      "winner": {
+        "name": "Super Viking (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
