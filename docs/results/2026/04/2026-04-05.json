@@ -1,0 +1,693 @@
+{
+  "date": "2026-04-05",
+  "results": [
+    {
+      "course": "Bath",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/1/",
+      "winner": {
+        "name": "Solar Invincible (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/2/",
+      "winner": {
+        "name": "Wait Geordie",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/3/",
+      "winner": {
+        "name": "Azure Angel",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/4/",
+      "winner": {
+        "name": "Twilight Madness",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/5/",
+      "winner": null,
+      "hit": false,
+      "_error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/5/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "course": "Bath",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/6/",
+      "winner": {
+        "name": "Law Supreme (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/7/",
+      "winner": {
+        "name": "Volendam",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bath",
+      "time": "17:55",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/bath/4/8/",
+      "winner": {
+        "name": "Scenario",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "14:13",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/market-rasen/33/1/",
+      "winner": {
+        "name": "Emerald Breeze",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "14:48",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/market-rasen/33/2/",
+      "winner": {
+        "name": "De Deli Counter",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "15:23",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/market-rasen/33/3/",
+      "winner": {
+        "name": "Ballynaheer (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "15:58",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/market-rasen/33/4/",
+      "winner": {
+        "name": "Kally Des Bruyeres (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "16:33",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/market-rasen/33/5/",
+      "winner": {
+        "name": "Ruler Legend (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/market-rasen/33/6/",
+      "winner": {
+        "name": "Kildare D'irlande (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/plumpton/40/1/",
+      "winner": {
+        "name": "Eremenko",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/plumpton/40/2/",
+      "winner": {
+        "name": "Milan Milos (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/plumpton/40/3/",
+      "winner": {
+        "name": "Shalfa (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/plumpton/40/4/",
+      "winner": {
+        "name": "Away For The Night (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/plumpton/40/5/",
+      "winner": {
+        "name": "Indemnity (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/plumpton/40/6/",
+      "winner": {
+        "name": "Inca De Lafayette (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Plumpton",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/plumpton/40/7/",
+      "winner": {
+        "name": "Washington Singer",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/southwell/47/1/",
+      "winner": {
+        "name": "Neyva's Angel",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "14:31",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/southwell/47/2/",
+      "winner": {
+        "name": "Colori Forever",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:06",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/southwell/47/3/",
+      "winner": {
+        "name": "Back To Me (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "15:41",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/southwell/47/4/",
+      "winner": {
+        "name": "City Queen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/southwell/47/5/",
+      "winner": {
+        "name": "American State (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/southwell/47/6/",
+      "winner": {
+        "name": "Desert Belle",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/southwell/47/7/",
+      "winner": {
+        "name": "Jack Andrea",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/fairyhouse/208/1/",
+      "winner": {
+        "name": "Colcannon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/fairyhouse/208/2/",
+      "winner": {
+        "name": "Katie Daniels (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/fairyhouse/208/3/",
+      "winner": {
+        "name": "Koktail Brut (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/fairyhouse/208/4/",
+      "winner": {
+        "name": "He's On Fire (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/fairyhouse/208/5/",
+      "winner": {
+        "name": "Zanoosh (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/fairyhouse/208/6/",
+      "winner": {
+        "name": "Come Walk With Me (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/fairyhouse/208/7/",
+      "winner": {
+        "name": "Fleur In The Park (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/fairyhouse/208/8/",
+      "winner": {
+        "name": "Five Star Getaway (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/cork/218/1/",
+      "winner": {
+        "name": "Bartholomew",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/cork/218/2/",
+      "winner": {
+        "name": "Ndaawi",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/cork/218/3/",
+      "winner": {
+        "name": "Tountinna (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/cork/218/4/",
+      "winner": {
+        "name": "Sainte Lucie (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/cork/218/5/",
+      "winner": {
+        "name": "Onlymammycanloveme (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/cork/218/6/",
+      "winner": {
+        "name": "Nowwhatdoyouthink (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/cork/218/7/",
+      "winner": {
+        "name": "Funiculi Funicula (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Cork",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/cork/218/8/",
+      "winner": {
+        "name": "Barnahash Prince (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/longchamp/80/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/longchamp/80/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/longchamp/80/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Longchamp",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/longchamp/80/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Le Lion-D'angers",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/le-liondangers/112/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Le Lion-D'angers",
+      "time": "11:02",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/le-liondangers/112/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Le Lion-D'angers",
+      "time": "12:06",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/le-liondangers/112/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Le Lion-D'angers",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/le-liondangers/112/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:10",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/1/",
+      "winner": {
+        "name": "De Gulden (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:45",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/2/",
+      "winner": {
+        "name": "Tommy Greaney (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:20",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/3/",
+      "winner": {
+        "name": "Lilting Song (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/4/",
+      "winner": {
+        "name": "Taylor's Version (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/5/",
+      "winner": {
+        "name": "Royal Invitation (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/6/",
+      "winner": {
+        "name": "Field Marshal (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/7/",
+      "winner": {
+        "name": "Rahhabba (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/8/",
+      "winner": {
+        "name": "Arverni Princess (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/05-april-2026/scottsville/398/9/",
+      "winner": {
+        "name": "City Of Love (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
