@@ -1,0 +1,643 @@
+{
+  "date": "2026-04-10",
+  "results": [
+    {
+      "course": "Aintree",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/aintree/31/1/",
+      "winner": {
+        "name": "Wellington Arch",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/aintree/31/2/",
+      "winner": {
+        "name": "Gold Dancer (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/aintree/31/3/",
+      "winner": {
+        "name": "Storming George (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/aintree/31/4/",
+      "winner": {
+        "name": "Grey Dawning (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/aintree/31/5/",
+      "winner": {
+        "name": "Will The Wise (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/aintree/31/6/",
+      "winner": {
+        "name": "Zeus Power (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/aintree/31/7/",
+      "winner": {
+        "name": "Laafi (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "13:57",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/sedgefield/46/1/",
+      "winner": {
+        "name": "Maggies Boy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "14:32",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/sedgefield/46/2/",
+      "winner": {
+        "name": "Dartmouth Castle",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:03",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/sedgefield/46/3/",
+      "winner": {
+        "name": "Chemistry (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "15:38",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/sedgefield/46/4/",
+      "winner": {
+        "name": "Goodoldbill",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "16:13",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/sedgefield/46/5/",
+      "winner": {
+        "name": "Dillarchie",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Sedgefield",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/sedgefield/46/6/",
+      "winner": {
+        "name": "Scots Poet",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thirsk",
+      "time": "14:08",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/thirsk/51/1/",
+      "winner": {
+        "name": "Where Love Lives (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thirsk",
+      "time": "14:43",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/thirsk/51/2/",
+      "winner": {
+        "name": "Simon Pierre (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thirsk",
+      "time": "15:18",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/thirsk/51/3/",
+      "winner": {
+        "name": "Bearish (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thirsk",
+      "time": "15:53",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/thirsk/51/4/",
+      "winner": {
+        "name": "Harswell Ruby (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thirsk",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/thirsk/51/5/",
+      "winner": {
+        "name": "Myal",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thirsk",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/thirsk/51/6/",
+      "winner": {
+        "name": "In The Breeze (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thirsk",
+      "time": "17:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/thirsk/51/7/",
+      "winner": {
+        "name": "Mwafaq (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Thirsk",
+      "time": "18:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/thirsk/51/8/",
+      "winner": {
+        "name": "Juan Les Pins",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wolverhampton/58/1/",
+      "winner": {
+        "name": "Sirius A (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:23",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wolverhampton/58/2/",
+      "winner": {
+        "name": "Thames Waterman",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "17:58",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wolverhampton/58/3/",
+      "winner": {
+        "name": "Royal Poetry (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wolverhampton/58/4/",
+      "winner": {
+        "name": "Hunky Dory",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wolverhampton/58/5/",
+      "winner": {
+        "name": "Beaune (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wolverhampton/58/6/",
+      "winner": {
+        "name": "Amelia's Joy",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wolverhampton/58/7/",
+      "winner": {
+        "name": "Dublin Bay (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wolverhampton/58/8/",
+      "winner": {
+        "name": "Three Socks On",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:07",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/dundalk/207/1/",
+      "winner": {
+        "name": "New Yorker (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:42",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/dundalk/207/2/",
+      "winner": {
+        "name": "Jered Maddox",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/dundalk/207/3/",
+      "winner": {
+        "name": "Allsortz (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/dundalk/207/4/",
+      "winner": {
+        "name": "Royal County Glory (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/dundalk/207/5/",
+      "winner": {
+        "name": "Golddream (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:50",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/dundalk/207/6/",
+      "winner": {
+        "name": "Celtic Druid (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/dundalk/207/7/",
+      "winner": {
+        "name": "Keepsgettingbetter (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wexford/229/1/",
+      "winner": {
+        "name": "Ifallgoeswell (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wexford/229/2/",
+      "winner": {
+        "name": "Le Moulin Rouge (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wexford/229/3/",
+      "winner": {
+        "name": "Sean Mc (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "17:28",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wexford/229/4/",
+      "winner": {
+        "name": "Agameoftwohalves (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "18:03",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wexford/229/5/",
+      "winner": {
+        "name": "James The Brave (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "18:38",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wexford/229/6/",
+      "winner": {
+        "name": "Supreme Jet (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "19:08",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/wexford/229/7/",
+      "winner": {
+        "name": "Butty O Brien (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/keeneland/77/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/keeneland/77/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/1/",
+      "winner": {
+        "name": "Olaf The Stout (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/2/",
+      "winner": {
+        "name": "Malibu Ice (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/3/",
+      "winner": {
+        "name": "Lucky Chance (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/4/",
+      "winner": {
+        "name": "Anotherdanceforme (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/5/",
+      "winner": {
+        "name": "Hollandia Bakkerij (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/6/",
+      "winner": {
+        "name": "Silvan Mistress (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/7/",
+      "winner": {
+        "name": "Cruise Control (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/8/",
+      "winner": {
+        "name": "Rhythm (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/10-april-2026/fairview-south-africa/417/9/",
+      "winner": {
+        "name": "Cheerful Charlie B (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
