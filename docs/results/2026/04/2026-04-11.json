@@ -1,0 +1,662 @@
+{
+  "date": "2026-04-11",
+  "results": [
+    {
+      "course": "Chepstow",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/chepstow/11/1/",
+      "winner": {
+        "name": "Planters Punch",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/chepstow/11/2/",
+      "winner": {
+        "name": "Tenter Le Tout (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/chepstow/11/3/",
+      "winner": {
+        "name": "Pep Talking",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/chepstow/11/4/",
+      "winner": {
+        "name": "Cosmic Connection (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/chepstow/11/5/",
+      "winner": {
+        "name": "The Boola Boss (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "15:32",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/chepstow/11/6/",
+      "winner": {
+        "name": "Harmony Heights (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chepstow",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/chepstow/11/7/",
+      "winner": {
+        "name": "Inion Tiogair (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/aintree/31/1/",
+      "winner": {
+        "name": "Mirabad (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/aintree/31/2/",
+      "winner": {
+        "name": "Wade Out (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/aintree/31/3/",
+      "winner": {
+        "name": "Bossman Jack",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/aintree/31/4/",
+      "winner": {
+        "name": "Mr Hope Street (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/aintree/31/5/",
+      "winner": {
+        "name": "Home By The Lee (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/aintree/31/6/",
+      "winner": {
+        "name": "I Am Maximus (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Aintree",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/aintree/31/7/",
+      "winner": {
+        "name": "Forthfactor (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/newcastle/35/1/",
+      "winner": {
+        "name": "It's Maisy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/newcastle/35/2/",
+      "winner": {
+        "name": "The Clonmel Kid (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/newcastle/35/3/",
+      "winner": {
+        "name": "Camarrate (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/newcastle/35/4/",
+      "winner": {
+        "name": "Parisencore (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/newcastle/35/5/",
+      "winner": {
+        "name": "Filibustering",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:32",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/newcastle/35/6/",
+      "winner": {
+        "name": "Dunkerque (Den)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/newcastle/35/7/",
+      "winner": {
+        "name": "Attin (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/southwell/47/1/",
+      "winner": {
+        "name": "Galilean Quality (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/southwell/47/2/",
+      "winner": {
+        "name": "Victors Spirit (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/southwell/47/3/",
+      "winner": {
+        "name": "Al Azd (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/southwell/47/4/",
+      "winner": {
+        "name": "Proof",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/southwell/47/5/",
+      "winner": {
+        "name": "Shades Of May",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/southwell/47/6/",
+      "winner": {
+        "name": "Fort Augustus",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/southwell/47/7/",
+      "winner": {
+        "name": "Kirkdale (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Southwell",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/southwell/47/8/",
+      "winner": {
+        "name": "Piperstown (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "14:02",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/yarmouth/61/1/",
+      "winner": {
+        "name": "Queen Of Good News",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/yarmouth/61/2/",
+      "winner": {
+        "name": "Del Maro (Ger)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/yarmouth/61/3/",
+      "winner": {
+        "name": "Harriet Quimby (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "15:42",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/yarmouth/61/4/",
+      "winner": {
+        "name": "Salamanca City (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/yarmouth/61/5/",
+      "winner": {
+        "name": "Generic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "17:06",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/yarmouth/61/6/",
+      "winner": {
+        "name": "Organise",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/yarmouth/61/7/",
+      "winner": {
+        "name": "Almaty Star (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "18:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/yarmouth/61/8/",
+      "winner": {
+        "name": "Zoustellar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bellewstown",
+      "time": "16:17",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/bellewstown/202/1/",
+      "winner": {
+        "name": "New Radical (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bellewstown",
+      "time": "16:48",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/bellewstown/202/2/",
+      "winner": {
+        "name": "Dream Legend (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bellewstown",
+      "time": "17:23",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/bellewstown/202/3/",
+      "winner": {
+        "name": "Lahore Da King (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bellewstown",
+      "time": "17:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/bellewstown/202/4/",
+      "winner": {
+        "name": "Alnofoor",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bellewstown",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/bellewstown/202/5/",
+      "winner": {
+        "name": "Bay Of Supremacy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bellewstown",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/bellewstown/202/6/",
+      "winner": {
+        "name": "Putapoundinthejar (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Bellewstown",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/bellewstown/202/7/",
+      "winner": {
+        "name": "Tim Toe (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/keeneland/77/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Keeneland",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/keeneland/77/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Oaklawn Park",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/oaklawn-park/177/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/1/",
+      "winner": {
+        "name": "No Drama (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/2/",
+      "winner": {
+        "name": "Qhude Manikiniki (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/3/",
+      "winner": {
+        "name": "Gorgeous Girl (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/4/",
+      "winner": {
+        "name": "Tulip Fields (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/5/",
+      "winner": {
+        "name": "Questioning (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/6/",
+      "winner": {
+        "name": "Turn It Up (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/7/",
+      "winner": {
+        "name": "Roland Garros (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/8/",
+      "winner": {
+        "name": "Tam's Knight (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-april-2026/greyville/339/9/",
+      "winner": {
+        "name": "Phutulicious (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
