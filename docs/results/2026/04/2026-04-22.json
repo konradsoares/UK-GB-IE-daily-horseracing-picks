@@ -1,0 +1,523 @@
+{
+  "date": "2026-04-22",
+  "results": [
+    {
+      "course": "Catterick Bridge",
+      "time": "13:52",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/catterick-bridge/9/1/",
+      "winner": {
+        "name": "Lucius Aurelius",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/catterick-bridge/9/2/",
+      "winner": {
+        "name": "Naana's Shadow (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/catterick-bridge/9/3/",
+      "winner": {
+        "name": "Cranachan",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:22",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/catterick-bridge/9/4/",
+      "winner": {
+        "name": "Borjina",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "15:52",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/catterick-bridge/9/5/",
+      "winner": {
+        "name": "Evocative Spark (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/catterick-bridge/9/6/",
+      "winner": {
+        "name": "Aberama Gold",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Catterick Bridge",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/catterick-bridge/9/7/",
+      "winner": {
+        "name": "Free Pic (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/ludlow/32/1/",
+      "winner": {
+        "name": "Sonic Pioneer",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/ludlow/32/2/",
+      "winner": {
+        "name": "The Egyptian Ginge (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/ludlow/32/3/",
+      "winner": {
+        "name": "Zacony Rebel (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/ludlow/32/4/",
+      "winner": {
+        "name": "Jessie's Giant",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/ludlow/32/5/",
+      "winner": {
+        "name": "Milly Ocean (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ludlow",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/ludlow/32/6/",
+      "winner": {
+        "name": "Potters Party (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Perth",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/perth/39/1/",
+      "winner": {
+        "name": "Gee Force Flyer (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Perth",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/perth/39/2/",
+      "winner": {
+        "name": "Barlovento (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Perth",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/perth/39/3/",
+      "winner": {
+        "name": "No Drama This End (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Perth",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/perth/39/4/",
+      "winner": {
+        "name": "Apple Away (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Perth",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/perth/39/5/",
+      "winner": {
+        "name": "Heltenham (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Perth",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/perth/39/6/",
+      "winner": {
+        "name": "Atlantic City",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Perth",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/perth/39/7/",
+      "winner": {
+        "name": "Suspected (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Perth",
+      "time": "17:12",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/perth/39/8/",
+      "winner": {
+        "name": "Ebselysees",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "16:53",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/taunton/49/1/",
+      "winner": {
+        "name": "Crest Of Stars (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/taunton/49/2/",
+      "winner": {
+        "name": "Jena D'oudairies (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/taunton/49/3/",
+      "winner": {
+        "name": "Taritino (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/taunton/49/4/",
+      "winner": {
+        "name": "Little Lady Lucy (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/taunton/49/5/",
+      "winner": {
+        "name": "Noble Blue (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Taunton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/taunton/49/6/",
+      "winner": {
+        "name": "Modern Style",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:48",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/gowran-park/210/1/",
+      "winner": {
+        "name": "Perisher (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:18",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/gowran-park/210/2/",
+      "winner": {
+        "name": "Go Just Do It",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:48",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/gowran-park/210/3/",
+      "winner": {
+        "name": "Rion Rubette",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "18:18",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/gowran-park/210/4/",
+      "winner": {
+        "name": "City Of Memphis (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "18:48",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/gowran-park/210/5/",
+      "winner": {
+        "name": "Chirac (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "19:18",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/gowran-park/210/6/",
+      "winner": {
+        "name": "Kitty Bear (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "19:48",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/gowran-park/210/7/",
+      "winner": {
+        "name": "Prom Queen (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "La Teste",
+      "time": "15:32",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/la-teste/158/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "La Teste",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/la-teste/158/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:40",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/fairview-south-africa/417/1/",
+      "winner": {
+        "name": "Powerofpeace (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/fairview-south-africa/417/2/",
+      "winner": {
+        "name": "Perfect Impact (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/fairview-south-africa/417/3/",
+      "winner": {
+        "name": "Mystical Butterfly (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/fairview-south-africa/417/4/",
+      "winner": {
+        "name": "Firealley (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/fairview-south-africa/417/5/",
+      "winner": {
+        "name": "Preserve Forever (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/fairview-south-africa/417/6/",
+      "winner": {
+        "name": "Oncidium (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/fairview-south-africa/417/7/",
+      "winner": {
+        "name": "World Pharoah (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/22-april-2026/fairview-south-africa/417/8/",
+      "winner": {
+        "name": "Genovefa (Saf)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
