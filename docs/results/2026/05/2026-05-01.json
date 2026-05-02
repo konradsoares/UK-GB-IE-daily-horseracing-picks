@@ -1,0 +1,437 @@
+{
+  "date": "2026-05-01",
+  "results": [
+    {
+      "course": "Ascot",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/ascot/1/1/",
+      "winner": {
+        "name": "Adaay Of Scarlett (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/ascot/1/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/ascot/1/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/ascot/1/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/ascot/1/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/ascot/1/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/ascot/1/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/goodwood/20/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/goodwood/20/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/goodwood/20/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/goodwood/20/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/goodwood/20/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/goodwood/20/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "17:35",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/goodwood/20/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newcastle/35/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newcastle/35/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:53",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newcastle/35/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newcastle/35/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:02",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newcastle/35/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:33",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newcastle/35/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:10",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newcastle/35/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newmarket-rowley/36/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newmarket-rowley/36/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newmarket-rowley/36/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newmarket-rowley/36/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newmarket-rowley/36/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newmarket-rowley/36/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/newmarket-rowley/36/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/warwick/54/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/warwick/54/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/warwick/54/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/warwick/54/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "18:50",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/warwick/54/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "19:25",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/warwick/54/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/warwick/54/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/punchestown/222/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/punchestown/222/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/punchestown/222/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/punchestown/222/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/punchestown/222/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "18:40",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/punchestown/222/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "19:10",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/punchestown/222/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Punchestown",
+      "time": "19:40",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/punchestown/222/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Churchill Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/churchill-downs/67/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Churchill Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/churchill-downs/67/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Churchill Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/churchill-downs/67/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Churchill Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/churchill-downs/67/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Churchill Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/churchill-downs/67/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Churchill Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/churchill-downs/67/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Churchill Downs",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/churchill-downs/67/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/saintcloud/86/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/saintcloud/86/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Aqueduct",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/aqueduct/150/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/fairview-south-africa/417/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/fairview-south-africa/417/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/fairview-south-africa/417/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/fairview-south-africa/417/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/fairview-south-africa/417/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/fairview-south-africa/417/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/fairview-south-africa/417/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/01-may-2026/fairview-south-africa/417/8/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
