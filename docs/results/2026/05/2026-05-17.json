@@ -1,0 +1,353 @@
+{
+  "date": "2026-05-17",
+  "results": [
+    {
+      "course": "Hamilton Park",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/hamilton-park/21/1/",
+      "winner": {
+        "name": "Mind Those Steps",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/hamilton-park/21/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/hamilton-park/21/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/hamilton-park/21/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/hamilton-park/21/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/hamilton-park/21/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/hamilton-park/21/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "14:17",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/ripon/43/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "14:47",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/ripon/43/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/ripon/43/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/ripon/43/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/ripon/43/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/ripon/43/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/ripon/43/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "17:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/ripon/43/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Stratford-On-Avon",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/stratfordonavon/48/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Stratford-On-Avon",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/stratfordonavon/48/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Stratford-On-Avon",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/stratfordonavon/48/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Stratford-On-Avon",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/stratfordonavon/48/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Stratford-On-Avon",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/stratfordonavon/48/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Stratford-On-Avon",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/stratfordonavon/48/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Stratford-On-Avon",
+      "time": "17:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/stratfordonavon/48/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "13:56",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/naas/219/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:26",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/naas/219/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "14:56",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/naas/219/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:26",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/naas/219/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "15:56",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/naas/219/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "16:26",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/naas/219/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "16:56",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/naas/219/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Naas",
+      "time": "17:26",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/naas/219/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:22",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "12:58",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "13:33",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Auteuil",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/auteuil/63/9/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "10:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/9/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Scottsville",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/17-may-2026/scottsville/398/10/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
