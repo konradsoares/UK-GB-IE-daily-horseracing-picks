@@ -1,0 +1,367 @@
+{
+  "date": "2026-05-20",
+  "results": [
+    {
+      "course": "Ayr",
+      "time": "13:42",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ayr/2/1/",
+      "winner": {
+        "name": "Ruler's Pride (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:12",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ayr/2/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ayr/2/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ayr/2/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:42",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ayr/2/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:12",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ayr/2/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:42",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ayr/2/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ayr/2/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/kempton-park/27/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/kempton-park/27/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/kempton-park/27/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/kempton-park/27/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/kempton-park/27/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/kempton-park/27/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/kempton-park/27/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "21:00",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/kempton-park/27/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ffos-las/50/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ffos-las/50/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ffos-las/50/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ffos-las/50/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ffos-las/50/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "17:22",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/ffos-las/50/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/warwick/54/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/warwick/54/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/warwick/54/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/warwick/54/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/warwick/54/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Warwick",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/warwick/54/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "17:35",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/yarmouth/61/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "18:10",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/yarmouth/61/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "18:40",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/yarmouth/61/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "19:10",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/yarmouth/61/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "19:40",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/yarmouth/61/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Yarmouth",
+      "time": "20:10",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/yarmouth/61/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/gowran-park/210/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/gowran-park/210/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "18:20",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/gowran-park/210/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "18:50",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/gowran-park/210/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "19:20",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/gowran-park/210/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "19:50",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/gowran-park/210/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "20:20",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/gowran-park/210/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/greyville/339/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/greyville/339/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:50",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/greyville/339/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:25",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/greyville/339/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/greyville/339/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/greyville/339/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:10",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/greyville/339/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/greyville/339/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Nancy",
+      "time": "10:15",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/nancy/380/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Nancy",
+      "time": "10:51",
+      "url": "https://betting.betfair.com/horse-racing/results/20-may-2026/nancy/380/2/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
