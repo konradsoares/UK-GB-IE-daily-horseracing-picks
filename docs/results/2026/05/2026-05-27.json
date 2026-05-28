@@ -1,0 +1,374 @@
+{
+  "date": "2026-05-27",
+  "results": [
+    {
+      "course": "Beverley",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/beverley/5/1/",
+      "winner": {
+        "name": "Lairy Mary",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/beverley/5/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/beverley/5/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/beverley/5/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/beverley/5/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/beverley/5/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Beverley",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/beverley/5/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cartmel",
+      "time": "18:08",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/cartmel/8/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cartmel",
+      "time": "18:38",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/cartmel/8/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cartmel",
+      "time": "19:08",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/cartmel/8/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cartmel",
+      "time": "19:38",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/cartmel/8/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cartmel",
+      "time": "20:08",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/cartmel/8/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cartmel",
+      "time": "20:38",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/cartmel/8/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/hamilton-park/21/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "14:35",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/hamilton-park/21/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/hamilton-park/21/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/hamilton-park/21/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "16:05",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/hamilton-park/21/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/hamilton-park/21/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/hamilton-park/21/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/kempton-park/27/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/kempton-park/27/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/kempton-park/27/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/kempton-park/27/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/kempton-park/27/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/kempton-park/27/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/kempton-park/27/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Kempton Park",
+      "time": "21:00",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/kempton-park/27/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "14:53",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/newton-abbot/37/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "15:23",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/newton-abbot/37/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "15:53",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/newton-abbot/37/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "16:23",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/newton-abbot/37/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "16:56",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/newton-abbot/37/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/newton-abbot/37/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "16:42",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/wexford/229/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "17:12",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/wexford/229/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "17:47",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/wexford/229/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "18:19",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/wexford/229/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "18:49",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/wexford/229/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "19:19",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/wexford/229/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "19:49",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/wexford/229/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wexford",
+      "time": "20:19",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/wexford/229/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Toulouse",
+      "time": "18:11",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/toulouse/155/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Toulouse",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/toulouse/155/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/greyville/339/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/greyville/339/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/greyville/339/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/greyville/339/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/greyville/339/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/greyville/339/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/greyville/339/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/27-may-2026/greyville/339/8/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
