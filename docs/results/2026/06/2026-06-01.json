@@ -1,0 +1,374 @@
+{
+  "date": "2026-06-01",
+  "results": [
+    {
+      "course": "Lingfield Park",
+      "time": "14:07",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Volto Di Medusa (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/lingfield-park/30/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/lingfield-park/30/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "15:52",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/lingfield-park/30/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "16:27",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/lingfield-park/30/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/lingfield-park/30/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/newbury/34/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/newbury/34/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/newbury/34/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/newbury/34/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/newbury/34/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newbury",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/newbury/34/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/windsor/57/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/windsor/57/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/windsor/57/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/windsor/57/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/windsor/57/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/windsor/57/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/windsor/57/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "20:45",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/windsor/57/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/wolverhampton/58/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/wolverhampton/58/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/wolverhampton/58/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/wolverhampton/58/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/wolverhampton/58/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/wolverhampton/58/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Wolverhampton",
+      "time": "21:00",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/wolverhampton/58/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "13:29",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/gowran-park/210/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "13:59",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/gowran-park/210/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "14:34",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/gowran-park/210/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "15:09",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/gowran-park/210/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "15:44",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/gowran-park/210/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:19",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/gowran-park/210/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:54",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/gowran-park/210/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:29",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/gowran-park/210/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/listowel/217/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "14:22",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/listowel/217/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/listowel/217/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "15:32",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/listowel/217/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/listowel/217/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "16:42",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/listowel/217/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "17:17",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/listowel/217/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dieppe",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/dieppe/125/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dieppe",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/dieppe/125/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dieppe",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/dieppe/125/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dieppe",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/dieppe/125/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dieppe",
+      "time": "17:55",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/dieppe/125/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dieppe",
+      "time": "18:27",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/dieppe/125/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dieppe",
+      "time": "18:59",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/dieppe/125/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cholet",
+      "time": "10:42",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/cholet/311/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cholet",
+      "time": "11:17",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/cholet/311/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Cholet",
+      "time": "11:52",
+      "url": "https://betting.betfair.com/horse-racing/results/01-june-2026/cholet/311/3/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
