@@ -1,0 +1,486 @@
+{
+  "date": "2026-06-12",
+  "results": [
+    {
+      "course": "Chester",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/chester/12/1/",
+      "winner": {
+        "name": "Mission Command (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "14:02",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/chester/12/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/chester/12/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/chester/12/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "15:47",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/chester/12/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/chester/12/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/chester/12/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "17:28",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/chester/12/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "17:32",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/goodwood/20/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "18:04",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/goodwood/20/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "18:39",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/goodwood/20/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "19:14",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/goodwood/20/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "19:49",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/goodwood/20/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Goodwood",
+      "time": "20:24",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/goodwood/20/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "17:41",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/market-rasen/33/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "18:16",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/market-rasen/33/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "18:51",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/market-rasen/33/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "19:26",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/market-rasen/33/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "20:01",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/market-rasen/33/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Market Rasen",
+      "time": "20:36",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/market-rasen/33/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "17:13",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/newton-abbot/37/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "17:50",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/newton-abbot/37/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "18:25",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/newton-abbot/37/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/newton-abbot/37/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "19:35",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/newton-abbot/37/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "20:10",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/newton-abbot/37/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "20:45",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/newton-abbot/37/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "13:08",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/sandown-park/45/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "13:38",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/sandown-park/45/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "14:13",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/sandown-park/45/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "14:48",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/sandown-park/45/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "15:23",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/sandown-park/45/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "15:58",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/sandown-park/45/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/sandown-park/45/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Sandown Park",
+      "time": "17:08",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/sandown-park/45/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/york/62/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/york/62/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/york/62/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/york/62/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/york/62/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/york/62/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "17:18",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/york/62/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "16:27",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairyhouse/208/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "17:02",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairyhouse/208/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "17:37",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairyhouse/208/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "18:10",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairyhouse/208/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairyhouse/208/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "19:20",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairyhouse/208/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "19:55",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairyhouse/208/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairyhouse",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairyhouse/208/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/gowran-park/210/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/gowran-park/210/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:23",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/gowran-park/210/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:58",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/gowran-park/210/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "18:33",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/gowran-park/210/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "19:08",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/gowran-park/210/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "19:43",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/gowran-park/210/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Gowran Park",
+      "time": "20:18",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/gowran-park/210/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saint-Cloud",
+      "time": "13:53",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/saintcloud/86/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "10:50",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:25",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:35",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:10",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:45",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:20",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:55",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/12-june-2026/fairview-south-africa/417/9/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
