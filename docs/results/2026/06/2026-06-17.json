@@ -1,0 +1,311 @@
+{
+  "date": "2026-06-17",
+  "results": [
+    {
+      "course": "Ascot",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ascot/1/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ascot/1/2/",
+      "winner": {
+        "name": "Limestone (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ascot/1/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ascot/1/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ascot/1/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "17:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ascot/1/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "18:10",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ascot/1/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/hamilton-park/21/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/hamilton-park/21/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/hamilton-park/21/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "16:02",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/hamilton-park/21/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "16:42",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/hamilton-park/21/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/hamilton-park/21/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "17:52",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/hamilton-park/21/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "17:57",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ripon/43/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ripon/43/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ripon/43/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ripon/43/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ripon/43/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ripon",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ripon/43/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "17:42",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ffos-las/50/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ffos-las/50/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ffos-las/50/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ffos-las/50/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ffos-las/50/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ffos-las/50/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ffos Las",
+      "time": "20:45",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/ffos-las/50/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/worcester/59/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/worcester/59/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/worcester/59/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/worcester/59/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/worcester/59/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/worcester/59/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/worcester/59/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "17:47",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/worcester/59/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/greyville/339/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/greyville/339/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/greyville/339/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/greyville/339/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/greyville/339/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/greyville/339/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/greyville/339/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/17-june-2026/greyville/339/8/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
