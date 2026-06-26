@@ -1,0 +1,304 @@
+{
+  "date": "2026-06-25",
+  "results": [
+    {
+      "course": "Hamilton Park",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/hamilton-park/21/1/",
+      "winner": {
+        "name": "Alnayef (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/hamilton-park/21/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/hamilton-park/21/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/hamilton-park/21/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/hamilton-park/21/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/hamilton-park/21/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "21:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/hamilton-park/21/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/leicester/29/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/leicester/29/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/leicester/29/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/leicester/29/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/leicester/29/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Leicester",
+      "time": "20:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/leicester/29/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:02",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newcastle/35/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "14:37",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newcastle/35/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newcastle/35/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "15:47",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newcastle/35/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:22",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newcastle/35/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:57",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newcastle/35/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:32",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newcastle/35/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:07",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newcastle/35/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Nottingham",
+      "time": "10:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/nottingham/38/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Nottingham",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/nottingham/38/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Nottingham",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/nottingham/38/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Nottingham",
+      "time": "12:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/nottingham/38/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Nottingham",
+      "time": "12:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/nottingham/38/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Nottingham",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/nottingham/38/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "10:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newmarket-july/60/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newmarket-july/60/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "11:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newmarket-july/60/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "12:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newmarket-july/60/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newmarket-july/60/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/newmarket-july/60/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "11:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "12:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:20",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Vaal",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-june-2026/vaal/342/9/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
