@@ -1,0 +1,507 @@
+{
+  "date": "2026-07-11",
+  "results": [
+    {
+      "course": "Ascot",
+      "time": "13:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/ascot/1/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "14:27",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/ascot/1/2/",
+      "winner": {
+        "name": "Zeus Olympios",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "15:02",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/ascot/1/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "15:34",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/ascot/1/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "16:12",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/ascot/1/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/ascot/1/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Ascot",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/ascot/1/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/chester/12/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/chester/12/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/chester/12/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "15:18",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/chester/12/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "15:52",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/chester/12/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "16:24",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/chester/12/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "17:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/chester/12/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Chester",
+      "time": "17:32",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/chester/12/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/hamilton-park/21/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/hamilton-park/21/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "18:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/hamilton-park/21/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "19:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/hamilton-park/21/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "19:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/hamilton-park/21/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "20:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/hamilton-park/21/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Hamilton Park",
+      "time": "20:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/hamilton-park/21/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Salisbury",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/salisbury/44/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Salisbury",
+      "time": "17:36",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/salisbury/44/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Salisbury",
+      "time": "18:08",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/salisbury/44/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Salisbury",
+      "time": "18:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/salisbury/44/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Salisbury",
+      "time": "19:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/salisbury/44/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Salisbury",
+      "time": "19:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/salisbury/44/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/newmarket-july/60/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/newmarket-july/60/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "14:52",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/newmarket-july/60/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/newmarket-july/60/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/newmarket-july/60/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/newmarket-july/60/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/newmarket-july/60/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (July)",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/newmarket-july/60/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "14:02",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/york/62/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "14:39",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/york/62/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/york/62/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "15:45",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/york/62/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "16:20",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/york/62/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/york/62/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "York",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/york/62/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/limerick/215/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/limerick/215/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/limerick/215/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/limerick/215/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/limerick/215/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/limerick/215/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Limerick",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/limerick/215/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "13:48",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/navan/220/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:23",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/navan/220/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "14:57",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/navan/220/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/navan/220/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "16:07",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/navan/220/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/navan/220/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Navan",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/navan/220/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saratoga",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/saratoga/102/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Saratoga",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/saratoga/102/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "10:55",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "11:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "12:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "15:05",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Turffontein",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/turffontein/341/9/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Horseshoe Indianapolis",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/horseshoe-indianapolis/374/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Horseshoe Indianapolis",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/horseshoe-indianapolis/374/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Prairie Meadows",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/11-july-2026/prairie-meadows/399/1/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
