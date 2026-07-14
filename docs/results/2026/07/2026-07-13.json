@@ -1,0 +1,437 @@
+{
+  "date": "2026-07-13",
+  "results": [
+    {
+      "course": "Ayr",
+      "time": "14:00",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/ayr/2/1/",
+      "winner": {
+        "name": "Weleyff (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "14:30",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/ayr/2/2/",
+      "winner": {
+        "name": "Curious Rover (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/ayr/2/3/",
+      "winner": {
+        "name": "Azuinthejungle",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "15:30",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/ayr/2/4/",
+      "winner": {
+        "name": "Runninsonofagun (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/ayr/2/5/",
+      "winner": {
+        "name": "Imperial Guard (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/ayr/2/6/",
+      "winner": {
+        "name": "Pearl Eye",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Ayr",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/ayr/2/7/",
+      "winner": {
+        "name": "Glasses Up (Usa)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/lingfield-park/30/1/",
+      "winner": {
+        "name": "Greek Symphony",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/lingfield-park/30/2/",
+      "winner": {
+        "name": "Senor Cortez (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "18:10",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/lingfield-park/30/3/",
+      "winner": {
+        "name": "Ardad Steve (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "18:40",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/lingfield-park/30/4/",
+      "winner": {
+        "name": "Dannick",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "19:10",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/lingfield-park/30/5/",
+      "winner": {
+        "name": "Zooella (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "19:40",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/lingfield-park/30/6/",
+      "winner": {
+        "name": "Love You More",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "20:10",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/lingfield-park/30/7/",
+      "winner": {
+        "name": "Henfield",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Lingfield Park",
+      "time": "20:40",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/lingfield-park/30/8/",
+      "winner": {
+        "name": "Sapphire Dream (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "14:42",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/newton-abbot/37/1/",
+      "winner": {
+        "name": "Gore Point",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "15:12",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/newton-abbot/37/2/",
+      "winner": {
+        "name": "God Of Fire (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "15:42",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/newton-abbot/37/3/",
+      "winner": {
+        "name": "Raffles Nobu (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "16:12",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/newton-abbot/37/4/",
+      "winner": {
+        "name": "It's A Breeze (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "16:42",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/newton-abbot/37/5/",
+      "winner": {
+        "name": "Muskerry Rock (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Newton Abbot",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/newton-abbot/37/6/",
+      "winner": {
+        "name": "Bath Taverness",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "17:20",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/windsor/57/1/",
+      "winner": {
+        "name": "Undercover Affair (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "17:50",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/windsor/57/2/",
+      "winner": {
+        "name": "Levens Hall",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "18:20",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/windsor/57/3/",
+      "winner": {
+        "name": "Ferrystream (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "18:50",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/windsor/57/4/",
+      "winner": {
+        "name": "Real Bullet",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "19:20",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/windsor/57/5/",
+      "winner": {
+        "name": "Under The Twilight",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "19:50",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/windsor/57/6/",
+      "winner": {
+        "name": "Bold Impact (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "20:20",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/windsor/57/7/",
+      "winner": {
+        "name": "A Major Payne",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Windsor",
+      "time": "20:50",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/windsor/57/8/",
+      "winner": {
+        "name": "Impossible Mission",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Killarney",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/killarney/212/1/",
+      "winner": {
+        "name": "City Of Dubai (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Killarney",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/killarney/212/2/",
+      "winner": {
+        "name": "Straight Up (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Killarney",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/killarney/212/3/",
+      "winner": {
+        "name": "Johnny Soda (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Killarney",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/killarney/212/4/",
+      "winner": {
+        "name": "Molto Amichi (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Killarney",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/killarney/212/5/",
+      "winner": {
+        "name": "Vauntingly (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Killarney",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/killarney/212/6/",
+      "winner": {
+        "name": "Highwayman (Fr)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Killarney",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/13-july-2026/killarney/212/7/",
+      "winner": {
+        "name": "Chicago Moon (Ire)",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    }
+  ]
+}
