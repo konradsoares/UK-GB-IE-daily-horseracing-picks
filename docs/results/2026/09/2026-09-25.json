@@ -1,0 +1,437 @@
+{
+  "date": "2026-09-25",
+  "results": [
+    {
+      "course": "Haydock Park",
+      "time": "13:58",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/haydock-park/22/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "14:33",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/haydock-park/22/2/",
+      "winner": {
+        "name": "Girl Scout",
+        "sp": null,
+        "jockey": null,
+        "trainer": null
+      },
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "15:08",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/haydock-park/22/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "15:43",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/haydock-park/22/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "16:18",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/haydock-park/22/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/haydock-park/22/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Haydock Park",
+      "time": "17:23",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/haydock-park/22/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "16:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newcastle/35/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newcastle/35/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newcastle/35/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newcastle/35/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newcastle/35/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newcastle/35/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newcastle/35/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newcastle",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newcastle/35/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "13:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newmarket-rowley/36/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "13:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newmarket-rowley/36/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "14:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newmarket-rowley/36/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "15:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newmarket-rowley/36/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "15:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newmarket-rowley/36/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newmarket-rowley/36/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Newmarket (Rowley)",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/newmarket-rowley/36/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "12:55",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/worcester/59/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "13:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/worcester/59/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "14:05",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/worcester/59/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/worcester/59/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "15:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/worcester/59/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "15:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/worcester/59/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Worcester",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/worcester/59/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/dundalk/207/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/dundalk/207/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/dundalk/207/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/dundalk/207/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/dundalk/207/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/dundalk/207/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Dundalk",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/dundalk/207/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/listowel/217/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "14:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/listowel/217/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "14:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/listowel/217/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "15:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/listowel/217/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "16:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/listowel/217/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "16:30",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/listowel/217/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/listowel/217/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Listowel",
+      "time": "17:40",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/listowel/217/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Belmont Park",
+      "time": "01:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/belmont-park/93/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "15:37",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/greyville/339/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/greyville/339/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "16:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/greyville/339/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "17:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/greyville/339/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/greyville/339/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "18:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/greyville/339/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "19:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/greyville/339/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Greyville",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/greyville/339/8/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:15",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/fairview-south-africa/417/1/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "11:50",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/fairview-south-africa/417/2/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "12:25",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/fairview-south-africa/417/3/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:00",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/fairview-south-africa/417/4/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "13:35",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/fairview-south-africa/417/5/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/fairview-south-africa/417/6/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "14:45",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/fairview-south-africa/417/7/",
+      "winner": null,
+      "hit": false
+    },
+    {
+      "course": "Fairview (South Africa)",
+      "time": "15:20",
+      "url": "https://betting.betfair.com/horse-racing/results/25-september-2026/fairview-south-africa/417/8/",
+      "winner": null,
+      "hit": false
+    }
+  ]
+}
