@@ -1,372 +1,380 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "model": "sonar-pro",
-  "generated_at": "2026-10-18T05:35:52.366Z",
+  "generated_at": "2026-10-19T05:55:26.367Z",
   "races": [
     {
-      "course": "Kempton Park",
-      "time": "13:52",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/kempton-park/27/1/",
+      "course": "Bath",
+      "time": "13:47",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/bath/4/1/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Kempton Park",
-      "time": "14:22",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/kempton-park/27/2/",
+      "course": "Bath",
+      "time": "14:17",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/bath/4/2/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Kempton Park",
-      "time": "14:52",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/kempton-park/27/3/",
+      "course": "Bath",
+      "time": "14:47",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/bath/4/3/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Kempton Park",
-      "time": "15:22",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/kempton-park/27/4/",
+      "course": "Bath",
+      "time": "15:17",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/bath/4/4/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Kempton Park",
-      "time": "15:55",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/kempton-park/27/5/",
+      "course": "Bath",
+      "time": "15:47",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/bath/4/5/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Kempton Park",
-      "time": "16:30",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/kempton-park/27/6/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Kempton Park",
-      "time": "17:05",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/kempton-park/27/7/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Sedgefield",
-      "time": "13:50",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/sedgefield/46/1/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Sedgefield",
-      "time": "14:20",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/sedgefield/46/2/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Sedgefield",
-      "time": "14:50",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/sedgefield/46/3/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Sedgefield",
-      "time": "15:20",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/sedgefield/46/4/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Sedgefield",
-      "time": "15:50",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/sedgefield/46/5/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Sedgefield",
+      "course": "Bath",
       "time": "16:20",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/sedgefield/46/6/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/bath/4/6/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Sedgefield",
+      "course": "Bath",
       "time": "16:50",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/sedgefield/46/7/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/bath/4/7/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Leopardstown",
-      "time": "14:12",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/leopardstown/214/1/",
+      "course": "Bath",
+      "time": "17:22",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/bath/4/8/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Leopardstown",
-      "time": "14:42",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/leopardstown/214/2/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Leopardstown",
-      "time": "15:12",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/leopardstown/214/3/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Leopardstown",
-      "time": "15:42",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/leopardstown/214/4/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Leopardstown",
-      "time": "16:12",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/leopardstown/214/5/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Leopardstown",
-      "time": "16:42",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/leopardstown/214/6/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Leopardstown",
-      "time": "17:12",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/leopardstown/214/7/",
-      "shortlist": [],
-      "_status": "error_unknown",
-      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
-    },
-    {
-      "course": "Limerick",
+      "course": "Plumpton",
       "time": "14:00",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/limerick/215/1/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/plumpton/40/1/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Limerick",
+      "course": "Plumpton",
       "time": "14:30",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/limerick/215/2/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/plumpton/40/2/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Limerick",
+      "course": "Plumpton",
       "time": "15:00",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/limerick/215/3/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/plumpton/40/3/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Limerick",
+      "course": "Plumpton",
       "time": "15:30",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/limerick/215/4/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/plumpton/40/4/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Limerick",
+      "course": "Plumpton",
       "time": "16:00",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/limerick/215/5/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/plumpton/40/5/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Limerick",
+      "course": "Plumpton",
       "time": "16:30",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/limerick/215/6/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/plumpton/40/6/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Limerick",
+      "course": "Plumpton",
+      "time": "17:05",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/plumpton/40/7/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Pontefract",
+      "time": "13:53",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/pontefract/41/1/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Pontefract",
+      "time": "14:23",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/pontefract/41/2/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Pontefract",
+      "time": "14:53",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/pontefract/41/3/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Pontefract",
+      "time": "15:23",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/pontefract/41/4/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Pontefract",
+      "time": "15:53",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/pontefract/41/5/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Pontefract",
+      "time": "16:25",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/pontefract/41/6/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Pontefract",
+      "time": "16:55",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/pontefract/41/7/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Southwell",
       "time": "17:00",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/limerick/215/7/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/southwell/47/1/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Keeneland",
-      "time": "01:00",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/keeneland/77/1/",
+      "course": "Southwell",
+      "time": "17:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/southwell/47/2/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Longchamp",
-      "time": "12:58",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/longchamp/80/1/",
+      "course": "Southwell",
+      "time": "18:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/southwell/47/3/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Longchamp",
-      "time": "13:33",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/longchamp/80/2/",
+      "course": "Southwell",
+      "time": "18:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/southwell/47/4/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Longchamp",
-      "time": "14:15",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/longchamp/80/3/",
+      "course": "Southwell",
+      "time": "19:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/southwell/47/5/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Longchamp",
-      "time": "14:50",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/longchamp/80/4/",
+      "course": "Southwell",
+      "time": "19:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/southwell/47/6/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Longchamp",
-      "time": "15:25",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/longchamp/80/5/",
+      "course": "Southwell",
+      "time": "20:00",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/southwell/47/7/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Longchamp",
-      "time": "16:00",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/longchamp/80/6/",
+      "course": "Southwell",
+      "time": "20:30",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/southwell/47/8/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Longchamp",
-      "time": "16:35",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/longchamp/80/7/",
+      "course": "Wolverhampton",
+      "time": "16:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/1/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Longchamp",
-      "time": "17:10",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/longchamp/80/8/",
+      "course": "Wolverhampton",
+      "time": "16:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/2/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
-      "time": "11:00",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/1/",
+      "course": "Wolverhampton",
+      "time": "17:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/3/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
-      "time": "11:35",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/2/",
+      "course": "Wolverhampton",
+      "time": "17:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/4/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
-      "time": "12:10",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/3/",
+      "course": "Wolverhampton",
+      "time": "18:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/5/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
-      "time": "12:45",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/4/",
+      "course": "Wolverhampton",
+      "time": "18:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/6/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
-      "time": "13:20",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/5/",
+      "course": "Wolverhampton",
+      "time": "19:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/7/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
-      "time": "13:55",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/6/",
+      "course": "Wolverhampton",
+      "time": "19:45",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/8/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
-      "time": "14:35",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/7/",
+      "course": "Wolverhampton",
+      "time": "20:15",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/wolverhampton/58/9/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
+      "course": "Gowran Park",
+      "time": "13:40",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/gowran-park/210/1/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Gowran Park",
+      "time": "14:10",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/gowran-park/210/2/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Gowran Park",
+      "time": "14:40",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/gowran-park/210/3/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Gowran Park",
       "time": "15:10",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/8/",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/gowran-park/210/4/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
     },
     {
-      "course": "Fairview (South Africa)",
-      "time": "15:45",
-      "url": "https://betting.betfair.com/horse-racing/racecards/18-october-2026/fairview-south-africa/417/9/",
+      "course": "Gowran Park",
+      "time": "15:40",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/gowran-park/210/5/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:10",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/gowran-park/210/6/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Gowran Park",
+      "time": "16:40",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/gowran-park/210/7/",
+      "shortlist": [],
+      "_status": "error_unknown",
+      "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
+    },
+    {
+      "course": "Gowran Park",
+      "time": "17:10",
+      "url": "https://betting.betfair.com/horse-racing/racecards/19-october-2026/gowran-park/210/8/",
       "shortlist": [],
       "_status": "error_unknown",
       "_error": "Request failed with status code 401 | body: {\"error\":{\"message\":\"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.\",\"type\":\"insufficient_quota\",\"code\":401}} | status: 401"
